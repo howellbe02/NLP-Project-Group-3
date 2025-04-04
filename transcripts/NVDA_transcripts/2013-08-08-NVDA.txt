@@ -1,0 +1,681 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2014 NVIDIA Corporation Earnings Conference Call
+AUGUST 08, 2013 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Chris Evenden
+   NVIDIA Corporation - Sr. Director of IR
+ * Karen Burns
+   NVIDIA Corporation - Interim CFO
+ * Jen-Hsun Huang
+   NVIDIA Corporation - President and CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Patrick Wang
+   Evercore Partners - Analyst
+ * Betsy Van Hees
+   Wedbush Securities - Analyst
+ * Gabriel Ho
+   BMO Capital Markets - Analyst
+ * James Schneider
+   Goldman Sachs - Analyst
+ * Chris Caso
+   Susquehanna Financial Group / SIG - Analyst
+ * David Wong
+   Wells Fargo Securities, LLC - Analyst
+ * Craig Ellis
+   B. Riley & Company - Analyst
+ * Blayne Curtis
+   Barclays Capital - Analyst
+ * Christopher Rolland
+   FBR Capital Markets - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good evening. My name is Lisa and I will be your conference operator today. At this time I would like to welcome everyone to the NVIDIA first-quarter earnings call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks there will be a question-and-answer session.
+(Operator Instructions)
+Thank you. At this time I'd like to turn the conference over to Mr. Chris Evenden, Senior Director of Investor Relations. You may begin, sir.
+
+--------------------------------------------------------------------------------
+Chris Evenden,  NVIDIA Corporation - Sr. Director of IR    [2]
+--------------------------------------------------------------------------------
+
+          Things, Lisa. Good afternoon, everyone, and welcome to NVIDIA's conference call for the second quarter of fiscal 2014. With me on the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer, and Karen Burns, Interim Chief Financial Officer. After our prepared remarks, we will open up the call to a question-and-answer session. Please limit yourself to one initial question with one follow-up.
+Before we begin, I'd like to remind you that today's call is being webcast live on NVIDIA's Investor Relations website, and is also being recorded. A replay of the conference call will be available via telephone until August 15, 2013. And the webcast will be available for replay until our conference call to discuss our financial results for our third quarter of fiscal 2014. The content of today's call is NVIDIA's property and cannot be reproduced or transcribed without our prior written consent.
+During the course of this call, we may make forward-looking statements based on the current expectations. These forward-looking statements are subject to a number of significant risks and uncertainties, as our actual results may differ materially. For a discussion of factors that could affect our future financial results and businesses, please refer to the disclosure in today's earnings release, our Form 10-Q form for the fiscal period ended April 28, 2013, and the reports we may file from time to time on Form 8-K filed with the Securities and Exchange Commission. All our statements are made as of today, August 8, 2013, based on information available to us as of today. Except as required by law, we assume no obligation to update any such statements.
+Unless otherwise noted, all references to market research and market share numbers throughout the call come from Mercury Research or Jon Peddie Research. During this call we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures to GAAP in our financial release, which is posted on our website.
+With that, let's begin. Our focus on visual computing enabled us to ride out a rough PC market this quarter, and is setting us up for growth in new markets. Revenue came in at the middle of our outlook, driven by strength in GPU, offset by Tegra. PC gaming performed particularly well, enriching our product mix, growing our share of GPU revenue, and driving margins to another record high. The PC market is evolving as entry-level laptops face pressure from tablets. Yet sales in specialty PCs, like gaming systems and workstations, continue to grow. The disparity reflects how consumers use these different classes of PCs. Many consumers look to a PC as a general-purpose device they can use for browsing, e-mail, social media and video. But much of this can be better served by a tablet.
+In contrast, gamers are preparing their systems for a strong roster of games coming this fall, including blockbuster franchises such as, Call of Duty - Ghosts, Grand Theft Auto 5, and Assassins Creed 4. In a similar vein, for digital artists and designers, the workstation is the tool of their trade. They depend on increasing processing power to deliver results for their clients. And the use of specialty PCs could become even more widespread with the growth of new applications, like 3-D printing.
+Open platforms, such as PC and Android, are outgrowing the walled gardens of the traditional console market. They benefit from more innovation. Nearly 50% of the developers surveyed at GDC recently were working on PC games, compared to only 11% on next-gen consoles. PC game revenues are expected to reach around $20 billion annually by 2015. Whereas the total for both PlayStations will be less than $10 billion. And Xbox is only around 50% of that. In mobile, games generate 80% of the revenues on Google's marketplace. And two-thirds of the time spent on a tablet is spent playing games.
+It's this innovation and energy that we are leveraging with SHIELD. It started shipping July 31 and the critical reception has been excellent. VentureBeat described it as a game geeks' dream device. A writer at Forbes said it got him excited about gaming again. And CNET called it a high-quality device with stellar performance. Because SHIELD is an open platform, it can access anything available to an Android tablet. That means there were literally hundreds of thousands of games available for SHIELD the day it launched. It's a web browser, and a way to update Facebook. It excels as a Netflix movie player and as an Internet radio or Pandora music player, thanks to the effort we into the loudspeaker and acoustic design.
+SHIELDS is the best way to play games, android games, and a key element to our strategy to generate a virtual circle in open gaming. It links to GeForce on PCs so gamers can play PC games from their couch. One day it will be an excellent client for group gaming. We pad it with TegraZone, a curated collection of games, all tested on Tegra, and many of them optimized for Tegra. TegraZone has been installed over 7.5 million times already, and that number increases around 10% a quarter.
+The model we are building for games is familiar from music and movies. You can buy a song from Amazon and download it to your device, or stream it directly from a service like Spotify, or even buy it and host it in a cloud at Google. Similarly, a gamer can download games to SHIELD to play, play a game online, and soon stream it from GRID.
+Our content group helps develop to differentiate their games on our platforms, and this creates synergy across devices. Games optimized for SHIELD will also look great on Tegra 4 devices like the HP SlateBook x2 or the Toshiba Pro, both of which shipped this quarter. Games optimize to GeForce will be excellent candidates for group gaming. In this way, SHIELD, GeForce and GRID each benefit the other. And gamers benefit from a dynamic ecosystem.
+Q2 is a trough quarter for Tegra. And you will see more Tegra 4 devices launched through the balance of this year. Meanwhile, qualification on modems, both a standalone baseband i500 and the integrated application processor Tegra 4i is proceeding as expected. And we are making steady progress towards certification at a number of carriers.
+We previewed our next generation mobile processor, Project Logan, last night. Logan includes our first mobile Kepler GPU, delivering what the technical press described as unambiguous mobile GPU leadership. Licensing our GPU cores, as we announced this quarter, allows us to generate revenue from markets previously inaccessibility such as vertically integrated smartphone area. The mobile Kepler in 5 Logan has around 3 times the performance per watt of the iPad 4 GPU. Yet performs like a new desktop part. We showed it running Epic Games next generation game engine, Unreal Engine 4. And running Ira, the face demo that as recently as Investor Day in April was restricted to high-end gaming PCs.
+Forbes suggested that NVIDIA's Logan could be a mobile graphics disruptor. (inaudible) said that if you get a new phone in 2014 with [cratey] battery life and an amazing on-screen performance, the Kepler GPU will be the reason. Other press were similarly enthusiastic. Last year we made the decision to pull in Tegra 4i and Logan. This made us late to market with Tegra 4. However, with Project Logan we are early and well-positioned to capture key design wins.
+Moving onto our GPU server business, Tesla had an excellent quarter, very nearly its best ever. Notably, this quarter's revenue was driven by application-based deals. That is, customers using off-the-shelf applications are turning to Tesla GPUs to accelerate them. This validates our continued investment in software. For example, last week's acquisition of PGI, the leading developer of compilers for high-performance computing. Also, since this revenue passes through OEMs, it requires much less sales and support resources from us, and offers a more efficient route to scale for that business.
+In professional visualization, Quadro displayed a strong sequential and year-over-year growth. We launched the Quadro K6000 to complete the lineup of Kepler, top to bottom. Prospects look good for future growth. 80% of Quadro sales are driven by manufacturing. And recent PMI and auto manufacturing data have been very encouraging. GRID is showing increased traction in the ecosystem. We announced this quarter that GRID is now supported natively within XenDesktop 7. So Enterprise is considering Citrix virtualized infrastructures can easily also evaluate GPU acceleration. We have over 150 proof of concept trials underway. And a dozen Citrix fire partners working on active GRID opportunities.
+Our focus on gaming visualization and compute generated growth in a turbulent market. Leveraging our IP into new markets and applying GPUs to the cloud will accelerate that growth in the future.
+With that, I'd like to hand it over to Karen.
+
+--------------------------------------------------------------------------------
+Karen Burns,  NVIDIA Corporation - Interim CFO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris. Hello, everyone. I want to highlight some key points before we open up for Q&A. Overall results for the second quarter exceeded our original expectations, driven by strong demand in the high-end segments of our GPU business across desktop, workstation and server. Gross margins are now in the 56% range, with Q2 being a fourth consecutive record quarter. The performance of our GPU business and intense focus on cost delivered EPS at $0.16 on a GAAP basis and $0.23 on a non-GAAP basis. These were $0.04 above Street consensus estimates of $0.12 per GAAP and $0.19 for non-GAAP.
+Revenue for the quarter of $977 million was at the midpoint of our outlook. The GPU business was very strong, with a 9% increase quarter over quarter and up 8% over the prior year. Growth was fueled by the release of new Kepler-based GPUs for the high-end and desktop. And with Kepler-based GPUs now available top to bottom for workstation and server. Revenue for the Tegra processor business was down 49% sequentially and 71% year over year. We had expected a drop, as discussed last quarter, with the ramp down of Tegra 3 products and ahead of Tegra 4 shipments. Nonetheless, we are disappointed with the size of the decline. Due to current dynamics in the mobile space, we believe it will be challenging for Tegra revenue to remain flat year over year, as originally expected. That said, we anticipate Tegra revenue to be up significantly in Q3 from Q2 as we start to ship Tegra 4-based design and SHIELD, our NVIDIA-branded gaming and entertainment portable. And we expect further growth in Q4 as more Tegra 4 OEM products come to market.
+Our revenue guidance for Q3 reflects these new expectations. We expect revenue to be up approximately 7% from the prior quarter, with stable growth in the GPU business and significant growth in the Tegra processor. We again achieved record growth margins this quarter. The large increases you are seeing quarter over quarter and year over year reflect our strong market position in high-margin segments of our GPU business, particularly in desktop and workstation. For Q3, we expect gross margins to maintain at current levels.
+OpEx this quarter of $401 million was below our outlook, at $7 million below the midpoint. Some of this investment shifted to Q3. For Q3 we expect OpEx of approximately $460 million for GAAP and $418 million for non-GAAP. Our OpEx investments remain tightly aligned to our key growth strategies. For visual computing, we are extending the technical leadership of our GPUs, growing GPU for accelerated computing, and engaging the market with our GRID GPU servers for enterprise BDI. GRID servers are in production by Cisco, Dell, HP and IBM. For Tegra SoC, we are leveraging our core GPU investments to bring our visual computing leadership to industries that are being revolutionized by Android and ARM. We can make a contribution to many applications where a great GPU is desired.
+To date, we have established a proven market position for Tegra that we will build on. Largely with Tegra 2, we've generated $360 million in revenue in fiscal 2012 from smartphones and tablets alone. Largely with Tegra 3, we grew revenue 50% to $540 million from these devices in fiscal 2013. With Tegra 4, we are expanding our reach to other large markets where visual computing matters, such as auto navigation systems, TV set-top boxes, and new desktop form factors like all-in-one and smart monitors. With non-GAAP OpEx of $797 million in the first half of the year, and $418 million expected in Q3, we are tracking at the high end of our full-year expectations of approximately $1.6 billion. We aim to reduce this amount as we remain intensely focused on operating costs.
+Turning to the balance sheet, our overall position remains very strong. In the first half of the fiscal year we've generated $275 million in cash from operations and $122 million in free cash flow. Cash at the end of the quarter was $2.9 billion, a reduction of $778 million from Q1. This relates to our capital return allocation to shareholders of $793 million, consisting of $43 million in dividend payments and $750 million for share repurchases. In Q2, we executed an accelerated share repurchase agreement to repurchase 750 million of shares. To date, we have received 40 million shares under this agreement, reducing our outstanding common stock. And we expect to receive additional shares when the contract ends in Q3. In addition, year to date we have returned $190 million to shareholders, including $100 million in share repurchases and $90 million in quarterly dividend payments. With this capital allocation strategy, along with our quarterly dividend payments in the second half, we are on track to return capital to shareholders in excess of $1 billion.
+Thank you. Chris?
+
+--------------------------------------------------------------------------------
+Chris Evenden,  NVIDIA Corporation - Sr. Director of IR    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Karen. That concludes our prepared remarks. We will now take questions. Please limit yourself to one question and one follow-up. Lisa?
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+    (Operator Instructions)
+Christopher Rolland.
+
+--------------------------------------------------------------------------------
+Christopher Rolland,  FBR Capital Markets - Analyst    [2]
+--------------------------------------------------------------------------------
+
+    Hi, guys. How are you? Can you guys talk about initial sales, or at least shipments of SHIELD so far? Is it above, below or in line with your estimates? Thanks.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [3]
+--------------------------------------------------------------------------------
+
+    Hi, Chris. Thanks a lot. SHIELD is doing great. The early reviews are fantastic. You probably read some of the reviews online. People really love that it is a well-made device. It feels exquisite and the performance is fantastic. It's an open platform. And it does all the things that you wold expect an Android device to do, and more. People are really loving playing with the beta version of our PC streaming. And to be able to enjoy GeForce games that looks fantastic on a PC, on a small device like that, while you're sitting on the couch is pretty amazing. Sales have been great. Everything that we've shipped so far has sold out. But we are just starting to ramp production. We've shipped out to our partners only several thousand units. And so it still quite early to tell, but we are expecting to do quite well with SHIELD.
+
+--------------------------------------------------------------------------------
+Christopher Rolland,  FBR Capital Markets - Analyst    [4]
+--------------------------------------------------------------------------------
+
+    Okay, great. And also on the Tegra segment, maybe you can give us a little bit more detail there. How should we think about console royalties, pachinko, auto, versus your regular mobile breakdown. And I guess SHIELD is going to be in there, too, for next order. What might that look like this quarter as well as next? Thank you.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [5]
+--------------------------------------------------------------------------------
+
+    This was our Tegra trough quarter. We had talked about that before, the transition between Tegra 3 and Tegra 4. Because we pulled in two very important projects -- Tegra 4i with our integrated 4G modem and Logan, which incorporated our mobile Kepler GPU. As a result of that, Tegra 4 was a little later than our typical cycle. So we had a gap-out and we expected Q2 to be the trough. We expect next quarter to be up substantially. And as Karen mentioned earlier, however, there were some disappointments this year. Some projects that we worked on that we had spent a lot of effort on, didn't pan out as we expected. It is relatively well-known now, but nonetheless, it didn't meet our expectations. But overall, I would say that Tegra 4 is going to ramp up very nicely this coming quarter. There's tablets from ASUS, Toshiba and HP. There's SHIELD that's ramping up. And there are new devices that are going into production that are quite exciting.
+I think, relative to your other question of auto, we had said earlier that auto is about $100 million for the year or so, roughly. And last year was $50 million and we are expecting next year to be another 100% growth year. Auto, as you know, design cycles are quite long. And so the product life is also quite long. But it takes some time to ramp up.
+
+--------------------------------------------------------------------------------
+Christopher Rolland,  FBR Capital Markets - Analyst    [6]
+--------------------------------------------------------------------------------
+
+    Great. Thanks, guys.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [7]
+--------------------------------------------------------------------------------
+
+    And you had just one last thing, you had mentioned something about game console royalties. We are not accounting for much game console royalties.
+
+--------------------------------------------------------------------------------
+Christopher Rolland,  FBR Capital Markets - Analyst    [8]
+--------------------------------------------------------------------------------
+
+    Okay, great. Thank you, guys.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+    Ambrish Srivastava, BMO.
+
+--------------------------------------------------------------------------------
+Gabriel Ho,  BMO Capital Markets - Analyst    [10]
+--------------------------------------------------------------------------------
+
+    Hi, this is Gabriel Ho calling in for Ambrish. Thanks for taking my question. Actually, can you give us more details on the licensing initiative for the graphics technology? And also when should we expect that to translate into revenues? And, more importantly, help us understand the thinking behind that, what kind of customer pool where you are seeing the means to diversify yourself?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [11]
+--------------------------------------------------------------------------------
+
+    Sure. We are a specialist in visual computing. This is our core business. Over the years we've enhanced and extended our business model from just chips to now chips and systems such as GRID, to system components such as GTX cards and Quadro cards and Tegra cards, to now including GPU IP. So, we are an end-to-end provider of GPU technologies to all of the applications that relate to visual computing. And the way that we go to market has everything to do with how the customers would enjoy incorporating our technology into their products. In some customers, they would like to buy our chip and put it on their own motherboard. With some customers, they would like to buy our system components with our software, and we integrate it into their servers or workstations. Some customers would like to buy in retail, adding cards of GeForce. And some customers prefer to build their own chips, their own systems and take it to market themselves.
+So, in those vertically integrated opportunities, we have historically not had an opportunity to serve them with our technology. And now, with our mobile Kepler GPU that we revealed at [Zie-Graph], it took us some three years to mobilize the world's most advanced GPU. Now the world's most advanced GPU is in a mobile format. It's the world's first [kud-edge] GPGPU in the market available for mobile. And it takes a huge advance in energy efficiency. And now, with this Kepler GPU, we could license our technology in a GPU core format to customers who would like to incorporate it into their own products and address their own vertically-integrated market with it. So that's basically the idea.
+
+--------------------------------------------------------------------------------
+Christopher Rolland,  FBR Capital Markets - Analyst    [12]
+--------------------------------------------------------------------------------
+
+    Thanks. As a follow-up, I just wanted to get an idea as, two of the three major game consoles being launched in the second half of year, how should we think about the PC gaming business? Or, what is your view on that?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [13]
+--------------------------------------------------------------------------------
+
+    Game consoles are fantastic and I'm looking forward to buying one myself. But today, just like in movies and music, you game on every computing platform. And the fastest growing platforms in the world today are open platforms. PC is the fastest-growing and has now become the largest, some $20 billion worth of global software sales. Obviously China is very large. But the United States is large, as well, Russia and Korea, you name it. PC gaming has become very large. The business models are vibrant, where there's multi-player online games, AAA titles who are now free to play games. You could see that PC games is just really vibrant. The fastest-growing -- so that's the largest -- the fastest-growing, and now the second largest, is mobile. One of the reasons why we really feel that we can make a contribution in mobile is because video games is such a large part of the mobile experience. And, in fact, it's the largest download of the world's largest digital store, Google Play. Video games is what people spend the most time actually doing on a tablet. And video games and great computer graphics go hand in hand. This is an area where we can add a lot of value.
+So, these two platforms are the largest and now the fastest growing. I don't think there's anything that game consoles will do at this point that would disrupt that. People just have too many PCs, and there are too many people with tablets and mobile devices. And people like to game wherever they happen to be, not just while they are sitting in front of their TV, sitting in front of the family room.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+    Blayne Curtis with Barclays.
+
+--------------------------------------------------------------------------------
+Blayne Curtis,  Barclays Capital - Analyst    [15]
+--------------------------------------------------------------------------------
+
+    I wanted to follow up on the Tegra revenue. If you could just talk about the delta. You were looking at it flat, and now it's expected to be down 1. One, I was wondering if you just dial in, if you could give any sort of magnitude on how much you expect it to decline now. And then, you had some ramps that didn't pan out in the first half, but are you still looking at the same pipeline of stuff ramping in the second half for you? Thanks.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [16]
+--------------------------------------------------------------------------------
+
+    I missed part of that question. Blayne said it so fast.
+
+--------------------------------------------------------------------------------
+Gabriel Ho,  BMO Capital Markets - Analyst    [17]
+--------------------------------------------------------------------------------
+
+    If you could dial in any -- you expect it to decline. Do you have any range that you could provide as to how much it would decline?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [18]
+--------------------------------------------------------------------------------
+
+    Relative to last year?
+
+--------------------------------------------------------------------------------
+Karen Burns,  NVIDIA Corporation - Interim CFO    [19]
+--------------------------------------------------------------------------------
+
+    Yes.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [20]
+--------------------------------------------------------------------------------
+
+    Oh, relative to last year. The decline comes from -- coming into the year we had pretty high expectations on one particular platform. And there's no sense naming it. But it is a very important platform that also derived from it a lot of design wins. And because this particular platform just didn't do as well as we or, frankly, anybody in the industry had hoped, we don't expect as much returns on that investment as we originally hoped. Our guess is that it is going to be down $200 million or so. Maybe somewhere between $200 million to $300 million overall. And we don't expect it in the short term to come back. But all the other platforms that we are talking about obviously are not affected by this one particular design win and all of its associated design wins.
+
+--------------------------------------------------------------------------------
+Blayne Curtis,  Barclays Capital - Analyst    [21]
+--------------------------------------------------------------------------------
+
+    Okay, thanks for that. And then on the GPU side, you expected growth into Q3. Is that both desktops and notebooks? And if you can just talk about the Haswell refresh. Your notebooks were down a little bit in Q2, the June quarter -- or July quarter. If you could talk about, are you expecting to see notebooks have a bit of a rebound with Haswell? Thanks.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [22]
+--------------------------------------------------------------------------------
+
+    I think that our notebook was down very low single digits year over year. And it was down single digits from Q2 in the last quarter. So it is slightly down. The overall notebook PC marketplace, of course, is not as vibrant as people have hoped. But you know that we are not really in the mainstream PC market. We are really into the specialty PC market, whether it is gaming PCs, or workstation PCs, or high-performance computing PCs, or premium consumer PCs, or PCs that are used for video editing and digital content creation. That's primarily our target. The notebook part of it, of course, the consumer part of it, is not vibrant. And we are not expecting it to -- in our guidance we are not expecting big growth from it. Our growth from GPU is primarily attributed to gaming, to workstations, the Quadro workstation GPU, and the Tesla GPU.
+
+--------------------------------------------------------------------------------
+Blayne Curtis,  Barclays Capital - Analyst    [23]
+--------------------------------------------------------------------------------
+
+    And that's relative to October, with that comment?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [24]
+--------------------------------------------------------------------------------
+
+    I'm sorry, Blayne?
+
+--------------------------------------------------------------------------------
+Blayne Curtis,  Barclays Capital - Analyst    [25]
+--------------------------------------------------------------------------------
+
+    My question was, when you look into October, you talked about broad growth. Is both desktops and notebooks growing into October?
+
+--------------------------------------------------------------------------------
+Karen Burns,  NVIDIA Corporation - Interim CFO    [26]
+--------------------------------------------------------------------------------
+
+    Yes, that's the quarter for Q3. That's where the growth we are expecting. I think that's your question.
+
+--------------------------------------------------------------------------------
+Blayne Curtis,  Barclays Capital - Analyst    [27]
+--------------------------------------------------------------------------------
+
+    Sorry if I'm being difficult. I'm just trying to figure out. I think you are answering it but when you mentioned all the drivers roll into October, you left out notebooks. So I just wanted to clarify, do you also expect notebooks to see a bit of our rebound into October?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [28]
+--------------------------------------------------------------------------------
+
+    We're not expecting much growth from notebook.
+
+--------------------------------------------------------------------------------
+Blayne Curtis,  Barclays Capital - Analyst    [29]
+--------------------------------------------------------------------------------
+
+    Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+    Patrick Wang with Evercore.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [31]
+--------------------------------------------------------------------------------
+
+    (inaudible) for Patrick. Sticking on GPU, could you talk about the pricing around GPUs now? And how will share trend in the second half, in your view?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [32]
+--------------------------------------------------------------------------------
+
+    ASPs are up. But they've been on an upward trend for some time. And that's one of the reasons why, also, because they are shifting towards premium products or specialty products, like gaming and workstations and high-performance computing, what we call GeForce, Quadro and Tesla, because of that, because of the growth of those segments, it improves ASP. And it improves gross margins. We haven't seen share movement substantially for some time. And we are not expecting much later on this year.
+
+--------------------------------------------------------------------------------
+Patrick Wang,  Evercore Partners - Analyst    [33]
+--------------------------------------------------------------------------------
+
+    All right. Thanks for that. And then maybe can you discuss the buyback plan you're looking for in 3Q and 4Q?
+
+--------------------------------------------------------------------------------
+Karen Burns,  NVIDIA Corporation - Interim CFO    [34]
+--------------------------------------------------------------------------------
+
+    We haven't announced any new buyback plan. But we certainly have a commitment to capital return for the long term. The contract that we are under right now does not end until the end of Q3.
+
+--------------------------------------------------------------------------------
+Patrick Wang,  Evercore Partners - Analyst    [35]
+--------------------------------------------------------------------------------
+
+    Is there any dollar amount we should think about for each quarter?
+
+--------------------------------------------------------------------------------
+Karen Burns,  NVIDIA Corporation - Interim CFO    [36]
+--------------------------------------------------------------------------------
+
+    It was an accelerated share repurchase. So, we are just waiting for the contract to complete.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [37]
+--------------------------------------------------------------------------------
+
+    Karen, do you want to just tell him what the whole thing was for the year. Maybe he hasn't seen some of this stuff.
+
+--------------------------------------------------------------------------------
+Karen Burns,  NVIDIA Corporation - Interim CFO    [38]
+--------------------------------------------------------------------------------
+
+    The $750 million is what we are going to repurchase. And the bulk of it, the majority of it, 40 million shares, we have received. And we are expecting an incremental amount in Q3. So it's effectively a share repurchase in Q3, as well.
+
+--------------------------------------------------------------------------------
+Patrick Wang,  Evercore Partners - Analyst    [39]
+--------------------------------------------------------------------------------
+
+    Okay. Would that be complete in Q3, is my question.
+
+--------------------------------------------------------------------------------
+Karen Burns,  NVIDIA Corporation - Interim CFO    [40]
+--------------------------------------------------------------------------------
+
+    That transaction will be complete in Q3. Any further repurchases we will announce in Q3.
+
+--------------------------------------------------------------------------------
+Patrick Wang,  Evercore Partners - Analyst    [41]
+--------------------------------------------------------------------------------
+
+    Sounds good, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+    Kevin Cassidy with Stifel Nicolaus.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [43]
+--------------------------------------------------------------------------------
+
+    Dean calling in for Kevin. Thank you very much for taking my call. Can you provide some extra color on the acceptance and progress in the GRID hardware area? We are seeing a number of software announcements. I was wondering how the hardware may be coming along in terms of sale and potentials?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [44]
+--------------------------------------------------------------------------------
+
+    Thanks, Dean. GRID, just as a background for everybody, GRID is our data center GPU server initiative. GRID has several attributes. One, of course, could be used for high-performance computing. One could be used for big data analysis, whether it is image recognition or image processing or audio processing or video processing. You know that more and more people are uploading just an enormous amount of multimedia data onto the web. And the third initiative is virtualization, enterprise virtualization. One of the most challenging parts of enterprise virtualization is called VDI. So these are the major applications of GRID.
+All of our OEMs have now completed all of their server and data center certifications, and are now in production -- Cisco, Dell, and IBM. There are trials going around all over the world. We see, we have visibility into some of them and we track about 150 all over the world -- in Japan, in Europe, and United States, and China. And this quarter we have just started shipping early samples. So, we will see how it turns out. But this is our first true enterprise computing application, our first true enterprise computing product. And so we are quite excited about the prospects.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [45]
+--------------------------------------------------------------------------------
+
+    If you can comment on this, is there primarily interest in customers building their own hardware, or in using the NVIDIA design? Or how is the interest shaping up in this area?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [46]
+--------------------------------------------------------------------------------
+
+    There are three ways to access GRID. One is buy it from our OEMs. So that's Cisco and Dell and HP and IBM. And there's some over almost 30 different server platforms that are now available in the marketplace with NVIDIA GPUs in it. The second way is to build their own data centers, and they would buy GPUs directly from us. These are data centers that they are not announced yet, but they are just large data centers that want to build their own data centers. And the third way is for small and medium businesses, who would like to build -- whose customers are single-application customers, or don't have an IT department, or are not big enough to be served by large IT companies. In which case they will buy a fully integrated appliance from us. The last, which is the GRID VCA appliance, is not in volume production yet. It's sampling in North America. But the first two are in production.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [47]
+--------------------------------------------------------------------------------
+
+    That's helpful, thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+    Chris Caso with Susquehanna.
+
+--------------------------------------------------------------------------------
+Chris Caso,  Susquehanna Financial Group / SIG - Analyst    [49]
+--------------------------------------------------------------------------------
+
+    Just the first question about OpEx. You said that some OpEx was pushed forward into this quarter. But your comments also suggested that the OpEx, you're going to take some actions to reduce the OpEx going forward. Could you expand on that a bit?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [50]
+--------------------------------------------------------------------------------
+
+    Actually, all Karen said was that we are going to target the $1.6 billion that we've said before.
+
+--------------------------------------------------------------------------------
+Chris Caso,  Susquehanna Financial Group / SIG - Analyst    [51]
+--------------------------------------------------------------------------------
+
+    Okay. So, going forward, even as we look over the longer term, I know you're making a lot of investments in the business at this point. Just some general guidance about the level of OpEx spending we should expect going forward.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [52]
+--------------------------------------------------------------------------------
+
+    I don't think the plan is to reduce OpEx below the current levels. We are investing in three very important initiatives. One is GRID. GRID puts our GPUs in data centers, which powers cloud computing. I can't imagine a more important initiative. The second is Tegra, which is going after the Android and ARM computing revolution. Computing devices are cropping up everywhere. Of course we know that's it's disrupted smart phones. It is in the process of disrupting computing with tablets. But its disruption will propagate out to consumer electronics, to gaming, to TVs, to automobiles, to just about anything with a computing device. And wherever there's a computer there's an opportunity that some of them would require GPUs.
+And what Tegra is about, that initiative is about, is addressing those opportunities. And wherever we can address those opportunities, the effort of Tegra, the focus of Tegra spins off because of that intense focus on energy efficiency and targeting mobile devices and small computing devices. It spins off GPU cores that we can now use as core IP. So our investment is really around these three areas -- GRID, Tegra and our core IP initiatives. And I think these are three very large and very important growth initiatives that are very important to invest in.
+So, we're not expecting to reduce OpEx. What Karen is saying is that we are constantly focused on making sure that there are no waste in the Company. And we are the largest visual computing company in the world. And our investments are leveraged from visual computing and leveraged from our GPUs. But these are still large investments, as you know.
+
+--------------------------------------------------------------------------------
+Chris Caso,  Susquehanna Financial Group / SIG - Analyst    [53]
+--------------------------------------------------------------------------------
+
+    Okay, great. As a follow-up, I just want to make sure that I understood the comments earlier with regard to the Tegra expectations for the year. I think what you said was $200 million to $300 million in Tegra revenues overall. If you can just clarify that, and make sure I got it right.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [54]
+--------------------------------------------------------------------------------
+
+    It is actually backwards. I think last year we had done something along the lines of $750 million in Tegra. In overall Tegra -- from smartphones to tablets to automobile to embedded entertainment. Whether it Windows on ARM or -- excuse me, Win RT -- or Android. All of that was under Tegra. And last year was about $750 million. This year we are expecting it to be somewhere between $200 million to $300 million less than that. And even though the second half is going to be a big increase from the first half, we are not expecting the increase in the second half to make up for the full year last year. Was that clear, Chris?
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+
+    Betsy Van Hees with Wedbush Securities.
+
+--------------------------------------------------------------------------------
+Betsy Van Hees,  Wedbush Securities - Analyst    [56]
+--------------------------------------------------------------------------------
+
+    Thank you for taking my question. You guys have done a really great job of growing gross margin quarter over quarter. And then I believe you guided it for 56% this quarter. Are we going to continue to see, as we look forward, the continued strides in gross margin? Or are we plateauing out here? That's my first question. Thanks.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [57]
+--------------------------------------------------------------------------------
+
+    Hi, Betsy. There are several drivers for gross margins. One is Quadro, our professional visualization products, is quite rich in gross margins because it is mostly a software product. Our value proposition in Quadro is very heavily related to all of the middleware and tools, and all the algorithm technologies that we incorporate into software packages all over the world, that are processed by Quadro. Tesla is rich gross margins because, again, it is very much a computing platform product. It's not a chip product. And it is about the programming model, it's about the programming Language, it is about compilers and tools and libraries. And all about all the computational mathematicians that work with our super computing centers and research centers around the world to solve the world's most complex science problems.
+What also drives our gross margins is GRID. GRID, again, is a heavily software product. The GPU hypervisor, all of the compatibility that's integrated into all the hypervisors and to enterprise infrastructures around the world, the value proposition that it delivers. It's just very much a software product. And, of course, in the future, if we were successful with our core, GPU core IP strategy, that would be a big lift on gross margins. So we have products that are very software intensive, very IP intensive. And, therefore, very margin rich.
+But we also have OEM products where we have to compete against other chip providers, and our margins are much more compressed there. So it just depends on which one of these parts of our businesses grow faster. I'm not exactly sure whether I'd be happier if the gross margins were to be richer and richer, or whether our revenues were to outpace our gross margin growth. But we have the vehicles now, from IP to chips to very value-rich, software-rich system components and systems, to be able to drive our growth. And yet we can be singularly focused on visual computing. We can be singularly focused in being the world's best GPU provider. And serve these markets that are growing quickly.
+
+--------------------------------------------------------------------------------
+Betsy Van Hees,  Wedbush Securities - Analyst    [58]
+--------------------------------------------------------------------------------
+
+    Thanks. That was very helpful. As we look at the guidance and we look at the GPU business, and Tegra, and the licensing, is it fair to say that the GPU business is going to be in line with the midpoint of your guidance? And then you're going to have the significant growth in Tegra, but that's going to be offset because of some of the declines in the video game consoles. Is that how we should be looked at the quarter?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [59]
+--------------------------------------------------------------------------------
+
+    I think that's a good approximation. Our GPU product line basically is midpoint of margins. So, if you see Quadro growth faster than top line, if you see Tesla growth faster in top line, if you see GRID growth faster in top line, then I would expect our gross margins to increase. If you see Tegra growth faster than top line, then you would see our gross margins come under some pressure. And if they both grow at similar rates, then our gross margins would stay flat.
+
+--------------------------------------------------------------------------------
+Betsy Van Hees,  Wedbush Securities - Analyst    [60]
+--------------------------------------------------------------------------------
+
+    Okay, thanks. And I know I said that was my last question, but I do have one more. And that's, I know you don't give forward guidance, just the quarter, but as we look at the January quarter, what's typical seasonality in the January quarter? I know things have changed a lot in the dynamics of the PC market. But how do you think we should be looking at seasonality for the January quarter?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [61]
+--------------------------------------------------------------------------------
+
+    I think there are seasonality factors, but I think there are product cycle factors that are greater than the seasonality factor. Don't take this as a guidance for the January quarter, but we are just in the process of ramping Tegra 4 into all the devices that have been announced, and devices that have not yet been announced. We are ramping SHIELD. And the holiday season, of course, is a factor there. And SHIELD is a brand-new product for us. And we are ramping Logan. And so we were late to market with Tegra 4, and it was a bit of a scramble. But I think that decisions were really good. We wanted to bring forward our modem technology so that we can start to engage the market, and start the long process of certification.
+We also wanted to pull forward, very importantly, our mobile Kepler GPU. It was a three-year endeavor to take the world's most advanced GPU and mobilizing it. The results are just really quite spectacular. It is amazing to see the graphics that you see in a high-end PC, or even a super computer, for that matter, running in a little mobile processor. And the architecture and the efficiency is so exquisite that the energy efficiency is really a big discontinuity. We've already demonstrated some 3 times better energy efficiency. And, as you know, energy efficiency in a constrained energy environment, like a mobile device, the most energy efficient processor is also the most high performance processor. So, I'm super excited about Logan. And now we can get into the marketplace well ahead of the competition. Those factors, along with the work we are doing in GPUs, are likely to play a role. And so we will see how it turns out.
+
+--------------------------------------------------------------------------------
+Betsy Van Hees,  Wedbush Securities - Analyst    [62]
+--------------------------------------------------------------------------------
+
+    Thanks, Jen-Hsun. I really appreciate it. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+
+    James Schneider with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+James Schneider,  Goldman Sachs - Analyst    [64]
+--------------------------------------------------------------------------------
+
+    Good afternoon, thanks for taking my question. I wanted to ask about the qualification at the carriers for the LTE modem. You're still on track for AT&T qualification by the end of this year. I was wondering if you could maybe give us some help to understand whether you might expect that the Tegra 4i product, or the LTE modem, might ship on other carriers before AT&T?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [65]
+--------------------------------------------------------------------------------
+
+    First of all, our modem qualification comes in two different parts. And they are related but not the same. First is the data service, which is important for all of our tablet products. Data modem cert is well ahead of the voice, and we are in the process of doing that, as we speak. And then there's the voice that goes with Tegra 4i. That happens, the certification completes near the end of the year. We are not expecting -- the reason why we do AT&T is because it is the most rigorous. And if we get through AT&T, you're pretty much set on just about vastly the Western world's open markets. That's the reason why we focus on AT&T first.
+
+--------------------------------------------------------------------------------
+James Schneider,  Goldman Sachs - Analyst    [66]
+--------------------------------------------------------------------------------
+
+    Thanks, that's helpful. And then just as a quick follow-up, on the gross margins you saw in Q2, was more of the improvement due to the mix up of the Quadro and Tesla businesses? Or was more of that due to the increase in mix from the desktop GPU business?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [67]
+--------------------------------------------------------------------------------
+
+    All three. Chris mentioned that Tesla had an almost record quarter. Most of that was from not one singular super computing center installation. It was all from open markets and smaller installations, and clusters being purchased to run off-the-shelf applications. So there's now just a current of business that appears to have developed around the world. That's really healthy for gross margins. Whenever we do well in high-end gaming, or in gaming, it helps our gross margins. You know that GeForce has two parts. There's the GeForce for OEMs and there's GeForce GTX for gaming. Usually when I say gaming, I just mean GeForce GTX, which happens to be most of the upper half of our GPU business, the GeForce business.
+
+--------------------------------------------------------------------------------
+James Schneider,  Goldman Sachs - Analyst    [68]
+--------------------------------------------------------------------------------
+
+    That's helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+
+    Craig Ellis with B. Riley.
+
+--------------------------------------------------------------------------------
+Craig Ellis,  B. Riley & Company - Analyst    [70]
+--------------------------------------------------------------------------------
+
+    Thank you for taking the question. Jen-Hsun, just to clarify the question that Chris had asked. You had mentioned that you expect operating expense to stay at current levels. When you refer to current levels, were you referring to the levels that you will be at with fiscal third-quarter guidance? Or levels that you are at with the result that you had in fiscal 2Q?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [71]
+--------------------------------------------------------------------------------
+
+    This coming quarter, plus or minus.
+
+--------------------------------------------------------------------------------
+Craig Ellis,  B. Riley & Company - Analyst    [72]
+--------------------------------------------------------------------------------
+
+    Okay, so annualized. If that's where OpEx is, then you'd be on something closer to a $1.84 billion annual OpEx run rate, correct?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [73]
+--------------------------------------------------------------------------------
+
+    No, that's not correct. Go ahead, Karen.
+
+--------------------------------------------------------------------------------
+Karen Burns,  NVIDIA Corporation - Interim CFO    [74]
+--------------------------------------------------------------------------------
+
+    I mentioned we are at just under $800 million for the first half. And then if you add the $418 million guidance, and then on a path for Q4, if you do some trajectory, small, we are just above $1.6 billion. And in the classic range of plus or minus 2%.
+
+--------------------------------------------------------------------------------
+Craig Ellis,  B. Riley & Company - Analyst    [75]
+--------------------------------------------------------------------------------
+
+    Okay. Got it. And then switching gears to the product n, a lot of discussion on GRID and SHIELD as they get started to ramp for revenues. When you look out at the ramps that you have planned for those separate products, when do they start becoming material relative to total Company revenues? For example, when would either of them start to move into that 3% to 5% of Company sales range?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [76]
+--------------------------------------------------------------------------------
+
+    I would really love to see GRID be able to contribute at a level like Tesla next year. Tesla contributes materially. I think that SHIELD is just hard to say. We have high expectations from a personal level, but we didn't set high expectations from a financial level. We think it is just a really special and quite a distinguished product. The more people that are playing with it and touching it and holding it and enjoying it, the more they become really passionate around it. It is a little bit like a gaming PC is to a PC. This is a gaming Android device to an Android device. It's a specialized Android device, just as our GeForce PCs are really a specialized PC for gaming. And so I think the logic is relatively similar. We can deploy the Company's DNA expertise and graphics in gaming into SHIELD. And so people understand it when NVIDIA brings a gaming product to market. They've known and grown up with GeForce for many of our -- I even meet many engineers at NVIDIA who grew up on NVIDIA's GPUs. They know our gaming brands very well. And they know what we can do in this field. So, I think it could be a really interesting outcome. But we are modest with it right now, and we're just really grateful that everybody loves it so much.
+
+--------------------------------------------------------------------------------
+Craig Ellis,  B. Riley & Company - Analyst    [77]
+--------------------------------------------------------------------------------
+
+    So with the growth that you are seeing in the GRID initially --.
+
+--------------------------------------------------------------------------------
+Chris Evenden,  NVIDIA Corporation - Sr. Director of IR    [78]
+--------------------------------------------------------------------------------
+
+    Craig, could we follow up with you afterwards? We've only got a couple minutes left. And let's get one more question in, if possible.
+
+--------------------------------------------------------------------------------
+Craig Ellis,  B. Riley & Company - Analyst    [79]
+--------------------------------------------------------------------------------
+
+    Sure, Chris, thanks.
+
+--------------------------------------------------------------------------------
+Operator    [80]
+--------------------------------------------------------------------------------
+
+    David Wong with Wells Fargo.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [81]
+--------------------------------------------------------------------------------
+
+    Thanks very much. Your notebook GPU sequential trend for July and October, is this purely a reflection of the overall notebook market? Or have you had any significant socket losses that would result in the market numbers showing a falling notebook GPU share for NVIDIA?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [82]
+--------------------------------------------------------------------------------
+
+    Our sequential and annual notebook decline is slower, dramatically slower, than the overall notebook decline.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [83]
+--------------------------------------------------------------------------------
+
+    Okay, great. And do you expect Tegra 4 sales might ramp to a peak equal or greater than Tegra 3? Or should we expect to lower crest for Tegra 4?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President and CEO    [84]
+--------------------------------------------------------------------------------
+
+    That's a tough question because -- two factors. One factor is it is hard to say exactly where SHIELD is going to be. And we are just expecting it -- we're just trying to be modest at the moment. Two, the separation between Tegra 4 and Tegra 3 -- or Tegra 3 and Tegra 4 -- is well over a year. The separation between Tegra 4 and Tegra next is, as you know, relatively short because Logan is already sampling. The sacrifice that we made on Tegra 4 to bring in Logan was really a good decision. Because we wanted to introduce the mobile world to the most advanced GPU in the world and what NVIDIA's core DNA is all about. And it is at a time when the market is really craving a great GPU.
+The next generation Tegra or Logan has a lot more than a great GPU in it. And there are many other surprises that we have in store, that I'm just super excited about. But at the very minimum it contains the most advanced GPU in the world -- binary compatible, architecturally compatible, but at a power envelope that's 100 times lower. It's the most efficient GPU that's ever been built for mobile. Any energy or performance comparison against anything that's available or around the horizon is just off the charts. And so we are going to take Logan to market as fast as we can. So those two factors, SHIELD and Logan, makes your question a little hard to answer. I'd say the net of it is good business.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [85]
+--------------------------------------------------------------------------------
+
+    Great. Thanks very much.
+
+--------------------------------------------------------------------------------
+Chris Evenden,  NVIDIA Corporation - Sr. Director of IR    [86]
+--------------------------------------------------------------------------------
+
+    Thanks, everyone. We look forward to talking to you next time on our Q3 earnings call. Anyone we haven't caught up with now, we'll catch up with you immediately after the call. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+
+    This does conclude today's conference call. You may now disconnect.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

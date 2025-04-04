@@ -1,0 +1,902 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2009 Intel Corporation Earnings Conference Call
+JANUARY 14, 2010 / 10:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Stacy Smith
+   Intel Corporation - VP, CFO
+ * Paul Otellini
+   Intel Corporation - President, CEO
+ * Kevin Sellers
+   Intel Corporation - VP of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Gus Richard
+   Piper Jaffray - Analyst
+ * Hans Mosesmann
+   Raymond James - Analyst
+ * Manish Goyal
+   TIAA-CREF - Analyst
+ * Brendan Furlong
+   Miller Tabak - Analyst
+ * Sumit Dhanda
+   BAS-ML - Analyst
+ * Suji De Silva
+   Kaufman Brothers - Analyst
+ * Graham Tanaka
+   Capital Management - Analyst
+ * John Pitzer
+   Credit Suisse - Analyst
+ * Tim Luke
+   Barclays Capital - Analyst
+ * Adam Benjamin
+   Jefferies - Analyst
+ * Doug Freedman
+   Broadpoint AmTech - Analyst
+ * Jim Covello
+   Goldman Sachs - Analyst
+ * Uche Orji
+   UBS - Analyst
+ * Stacy Rasgon
+   Sanford Bernstein - Analyst
+ * Mark Lipacis
+   Morgan Stanley - Analyst
+ * Glen Yeung
+   Citi - Analyst
+ * Craig Berger
+   FBR Capital Markets - Analyst
+ * Ross Seymore
+   Deutsche Bank - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+           Good day, ladies and gentlemen.  Welcome to the Q4 2009 Intel Corporation earnings conference call.  I will be your coordinator for today.  All lines have been placed on mute to prevent any background noise.  After the speakers remarks, there will be a question-and-answer session.  (Operator Instructions).  As a reminder, this conference is being recorded for replay purposes.  I would now like to turn the presentation over to your host for today's call, Mr.  Kevin Sellers, Vice President of Investor Relations.  Please proceed, sir. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+           Thank you, and welcome, everyone, to Intel's fourth quarter 2009 earnings conference call.  I'm joined today as usual by our Chief Executive Officer Paul Otellini, and Chief Financial Officer Stacy Smith.  Our earnings release and updated financial statements were released today at approximately 1:15 Pacific daylight time and can be found on our investor website INTC.com.
+ This quarter we continued the practice that we started last quarter of posting additional management commentary from CFO Stacy Smith to our investor website.  This commentary was posted at approximately 1:30 PM Pacific Daylight Time and contains added detail about our quarterly performance that was previously reviewed and prepared remarks during our conference call.
+ As we begin our call, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it and as such does include risks and uncertainties.  Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially.  If during our call today there are any non-GAAP financial preferences made we will post the appropriate GAAP financial reconciliations to our investor website.  So with that, let me now hand it over to Paul for some comments followed by brief remarks from Stacy.  Paul? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [3]
+--------------------------------------------------------------------------------
+
+           Thanks, Kevin.  Our fourth quarter results cap a great year of execution and innovation for Intel.  We started the year in one of the deepest recessions in our history and emerged from it with better products and technology driving new demand for computing worldwide.  Our restructuring efforts have borne real fruit by improving the operational efficiency of the Company driving relatively good results in challenging times and exceptional results in a stronger market.  The demand picture in the quarter reflected broad based strength across all regions and all product categories with notebooks leading the way.  Our product mix was also a notable highlight.  Demand for our latest generation of processors both PC and server was particularly strong providing an ASP uplift in the quarter.  Inventory levels remain in good shape with OEM component inventories roughly flat quarter on quarter and below levels of a year ago.
+ Distributor inventories are down sequentially.  The combination of much stronger sell-through and lower year on year inventory levels gives us comfort that the supply chain continues to operate very efficiently.  Looking across our product segments, servers had a very strong quarter.  The value proposition of Nehalem is clearly evident and we are seeing a demand shift towards the high end of the performance stack, improving average selling prices.  Looking ahead, over the next three months, we are planning to refresh our entire server products with the new 32-nanometer Xeons in the single, dual, and multi processor segments.  It is noteworthy to point out that the Nehalem EX, our multi processor version, represents the biggest leap in performance in the history of the Xeon brand.  We remain in an excellent position to benefit from the buildout of cloud infrastructure as well as the reconfiguration of existing data centers for power performance efficiency improvements.
+ Our Atom processor business also continues to do very well, both in netbooks, as well as in winning new designs for our growth initiatives.  Atom design momentum is very strong with our new Pine Trail platform in over 80 netbook designs.  In the embedded space, we now have over 600 Atom based design wins and over 2500 design engagements across 230 customers, 93 of which are brand new customers to Intel.
+ At CES, we also demonstrated progress with handheld and consumer electronics platforms built around Atom cores that were very well received.  We demonstrated for the first time the LG, GW 990, a Smartphone built with our yet to be released Atom Moorestown platform which was awarded best smartphone of the show.  This demonstrates the power of our architecture in bringing an uncompromising computing experience to handheld devices.  Expect more meaningful news and announcements around these businesses during 2010.
+ Our notebook business was exceptional this quarter with demand very strong across the globe.  We have been carefully preparing for the shift to mobile and our product strategy is a reflection of that.  To further enhance our PC line up, at CES, we formerly launched 27 new processors produced with our leading edge 32-nanometer process technology, the biggest consumer launch of new processors since Centrino.  Our new core processors are the first ever mainstream PC processors to integrate the graphics engine on to the CPU.  This is Moore's law at work, driving increased performance and improved power and form factor characteristics to our new platforms.  Our new graphics engine is notable in that it offers full HD video, great mainstream gaming and enhanced 3D capability.  I'm happy to report that early demand for these products is excellent.
+ In closing, we had an outstanding quarter and enter 2010 in a very strong position.  We have delivered breakthroughs in our product offerings and our competitive positioning through the tick-tock development model.  Our recently launched 32-nanometer technology is the critical process capability that will not only bring computing to new levels but also allow us to broadly offer Atom system-on-chips into many new product categories.  We are pleased with our current momentum and look forward to an exciting year in 2010.
+ With that, let me turn the time over to Stacy for a few comments. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [4]
+--------------------------------------------------------------------------------
+
+           Thanks, Paul.  The fourth quarter was one of our most profitable quarters ever due to a combination of solid execution, the ramp of innovative new products and a healthy consumer market.  fourth quarter revenue of $10.6 billion was up 28% from a year ago, the largest year on year percent increase in more than a decade.  Our financial results reflect both significant improvements in our cost structure and higher microprocessor average selling prices.  The impact of these improvements can be seen in the gross margin percent of 65% which was up 7 points from the third quarter and was the highest gross margin percent in our history.
+ In the fourth quarter we achieved $2.5 billion in operating profit and $2.3 billion in net income.  The PC market has recovered nicely, with our microprocessor revenue excluding Atom growing 42% since the market bottomed in the first quarter.  In the same time period, Atom microprocessors and associated chip set have grown to $438 million in revenue in the fourth quarter and $1.4 billion for the year.  fourth quarter gross margin benefited from lower inventory write-offs, improving costs and our exceptional product line up as we ramped and sold the first products manufactured on our 32-nanometer process technology.  Total inventories increased $450 million due to these new 32-nanometer products.  For 2009, gross margin was 56% including a 20 point increase from Q1 to Q4.  For 2010, we are forecasting continued strong gross margin with the mid point of our annual forecast at 61%.  As a result of capital reuse and achieving efficiencies, we were able to ramp 32-nanometer process technology and still bring down our capital forecast from our expectation at the beginning of the year.
+ Our capital purchases for the year of $4.5 billion is down from our original forecast of around $5.2 billion and was less than the annual depreciation run rate.  Operating expenses remain in tight control.  This is most clearly seen in spending as a percent of revenue.  In the fourth quarter, spending for R&D and MD&A as a percent of revenue remained constant at 29% down from 35% in the first quarter and 32% in the second quarter.  The number of employees decreased by 1000 people in the fourth quarter as a result of planned factory actions announced early in 2009.  Revenue per employee for the year is $440,000, the third highest in our history.
+ The fourth quarter of 2009 demonstrates the strength of our execution and business model.  Excluding the impact of the $1.25 billion AND settlement agreement taken in the fourth quarter, operating profit was a quarterly record of $3.7 billion and as a percent of revenue was 35%.  Total cash investments comprised of cash, short-term investments, and debt security trading assets ended the quarter at $13.9 billion, $1 billion higher than the third quarter.  Cash flow from operations was more than $3 billion.
+ During the fourth quarter, we paid the AND settlement agreement, paid nearly $800 million in dividends and repurchased, purchased $1.1 billion in capital assets.  For the first quarter, we are forecasting a seasonal decrease in revenue taking the mid point of our forecast range to $9.7 billion, a 36% increase from the first quarter of 2009.  We are forecasting the mid point of the gross margin range to decrease 4 points from the fourth quarter to 61%.  In addition to the impact of the unit decline, the decrease is primarily due to the higher cost associated with the early ramp of 32-nanometer based products.
+ The fourth quarter was a strong finish to what turned out to be a good year.  The improvements we have made to our cost structure and efficiency levels have led to exceptional financial results in the fourth quarter and serve as a strong foundation upon which we can build in 2010 as we refresh our product line and ramp 32-nanometer process technology.  With that, let me turn it back to Kevin. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [5]
+--------------------------------------------------------------------------------
+
+           Okay, thanks, Stacy and Paul.  We will now be happy to take your questions.  As most of you know, Intel has a large number of analysts that cover our Company.  Like we did last quarter and in an effort to include as many of you as we can, we'll be limiting each caller to one question only.  If you need clarification on that question, do please ask, we want to make sure we answer your question adequately but please no follow-ups and no multi-part questions.  Go ahead and introduce the first questioner. 
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+     Your first question comes from the line of Ross Seymore with Deutsche Bank. 
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [2]
+--------------------------------------------------------------------------------
+
+     Congrats on the strong results.  Just a question on what your mix assumptions are for your first quarter and full year 2010 gross margin guidance? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [3]
+--------------------------------------------------------------------------------
+
+     Sure.  Let me start with what we saw in the fourth quarter.  I think that kind of serves as a baseline then to talk about Q1 and 2010.  What we saw in the fourth quarter was really a very rich mix.  We saw strength across-the-board on our new products and in particular what we saw was as we took the first production on 32-nanometer, we filled from the top and there was good market acceptance of those products and so the combination of that led to a rich mix in the fourth quarter.  I expect that that comes back down into a more normal mix range as we go across 2010 and in particular we'll be bringing out mainstream and value versions of the 32-nanometer products and that should say that the sales mix gets into a more normal range as we progress across the next several quarters. 
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [4]
+--------------------------------------------------------------------------------
+
+     And that will offset any of the enterprise improving year-over-year? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [5]
+--------------------------------------------------------------------------------
+
+     From an overall average selling price standpoint for 2010, we're predicting kind of a normal decline year on year.  Keep in mind you have lots of things that go up and down.  We'll have a rich mix at the beginning, we'll have enterprise coming in but at the end of the day, we do bring pricing down because we see unit growth potential in consumer segment of the market, and emerging markets there's good price elasticity so it's kind of consistent from what you've seen from us last several years.  The price comes down and we drive unit growth with that and that ends up driving incremental gross margin dollars.  Great, thank you. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [6]
+--------------------------------------------------------------------------------
+
+     Go ahead, next question? 
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Tim Luke with Barclays Capital. 
+
+--------------------------------------------------------------------------------
+Tim Luke,  Barclays Capital - Analyst    [8]
+--------------------------------------------------------------------------------
+
+     Thanks so much and congratulations on your strong execution in the quarter.  Stacy, I was just wondering if you could clarify how you perceive that you would like your inventory levels to trend as you move through the first quarter and through the year, if you could provide any incremental color on the mix of the inventory that seemed to move up somewhat in the calendar fourth quarter with your stronger revenue?  Thank you so much. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [9]
+--------------------------------------------------------------------------------
+
+     Sure.  Tim, in Q4, it pretty much unfolded as we expected and as I had articulated on the last call.  We saw an increase in inventory, it's entirely due to the new 32-nanometer products.  If you look at it on a unit basis it's pretty flat quarter on quarter, but we did have the costs associated with 32-nanometer, those early wafers tend to be pretty high cost products and as you have seen us do in prior transitions of new process technology, we pretty quickly build inventory on the new stuff.  You saw it in Q4.  I expect to build a little bit more inventory in Q1 as a ramp 32-nanometer products.  It won't be the same magnitude that we saw this quarter but it will be up some and then it starts looking a little more normal as it progresses through the year and relative to demand, but this is what we do is we ramp a new process technology, it's pretty normal, it's consistent with what I was expecting when I started the quarter. 
+
+--------------------------------------------------------------------------------
+Tim Luke,  Barclays Capital - Analyst    [10]
+--------------------------------------------------------------------------------
+
+     I think Paul you said your channel inventory was flat in the DISD, and you commented on the OEM inventory.  Could you reiterate that? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [11]
+--------------------------------------------------------------------------------
+
+     I think I said it was down sequentially, Tim.  Channel inventory is down sequentially of our product. 
+
+--------------------------------------------------------------------------------
+Tim Luke,  Barclays Capital - Analyst    [12]
+--------------------------------------------------------------------------------
+
+     Yes, and the OEMs? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [13]
+--------------------------------------------------------------------------------
+
+     You'll have to ask the OEMs, wait until their call. 
+
+--------------------------------------------------------------------------------
+Tim Luke,  Barclays Capital - Analyst    [14]
+--------------------------------------------------------------------------------
+
+     Thanks so much. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [15]
+--------------------------------------------------------------------------------
+
+     Our view of their component inventories in terms of the hub and the see through from the hubs that we have suggest that they're roughly flat quarter on quarter and well under a year ago. 
+
+--------------------------------------------------------------------------------
+Tim Luke,  Barclays Capital - Analyst    [16]
+--------------------------------------------------------------------------------
+
+     Excellent.  Thank you. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [17]
+--------------------------------------------------------------------------------
+
+     Tim, I think if you just kind of step back on this one when we look across the supply chain, as a very complex supply chain so looking at your authorized channel those inventories are down, we have visibility into OEM inventories and a lot of that is not held in our hubs and what we see in the down channel so retail in the shipping lanes and stuff, what we see is a healthy level of inventory that we see in demand that we see out over the next couple of quarters. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [18]
+--------------------------------------------------------------------------------
+
+     I'd add two more things on, Tim.  One is remember our largest two customers have their quarters ending in January, and secondly, Chinese New Year is a bit earlier this year. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [19]
+--------------------------------------------------------------------------------
+
+     Thanks, Tim.  Next question? 
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+     The next question comes from the line of Mark Lipacis. 
+
+--------------------------------------------------------------------------------
+Mark Lipacis,  Morgan Stanley - Analyst    [21]
+--------------------------------------------------------------------------------
+
+     Thanks for taking my question and thanks for all of the detail in the release and in the script.  You have three quarters in a row of double digit growth.  I just went back to the model and I had to go back to the late 80s to see that and I guess a lot of people are probably going to be wondering if there's -- what happens next.  You guys talked about the inventories and I guess my question is can you help us understand what percentage of your revenues do you have visibility and where you have visibility into inventories, can you see pretty much 100% of the inventories at every place that you sell into and does the release of your products in Q1, of the new product cycle in Q1 versus Q3, does that risk changing any kind of customer order patterns?  Thank you. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [22]
+--------------------------------------------------------------------------------
+
+     Yes, I got a little lost in the question there, so let me take a shot and if I miss something that you asked, we'll come back to it.  The part of your question of what's our visibility into the supply chain.  It's not perfect.  It's a broad complex market out there and it ranges from emerging markets with small white box players to big MNCs but I'd say it's pretty good.  We have I think a fairly sophisticated way to look across and see how much inventory is out there and relative to what we believe demand is, I think that it's an appropriate level of inventory. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [23]
+--------------------------------------------------------------------------------
+
+     Yes, let me put a little more color on that Mark.  Our distributor inventory we have 100% visibility into and that's about 25, 30% of our business in units, in dollars, and that's the number I gave that was down sequentially.  The OEM inventory, we have hub systems with our largest customers representing the vast majority of our OEM volume and so you're dealing with something well above 15%, I don't know the exact number but I suspect in the aggregate between OEM hubs and distribution that 75% of the numbers that we've got very good visibility into.  On the Q1 cycle we actually moved towards a Q1 refresh cycle some time ago.  It was better for our customers, they like to have the -- they don't want to have a disruption from holiday so it is either early Summer, late Q2, or it's in January, February and that works out best for them in terms of inventory management and gets new products out there for what is becoming the part of the cycle that's Chinese New Years. 
+
+--------------------------------------------------------------------------------
+Mark Lipacis,  Morgan Stanley - Analyst    [24]
+--------------------------------------------------------------------------------
+
+     Thank you very much. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [25]
+--------------------------------------------------------------------------------
+
+     Thanks Mark, Christina? 
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Uche Orji with UBS. 
+
+--------------------------------------------------------------------------------
+Uche Orji,  UBS - Analyst    [27]
+--------------------------------------------------------------------------------
+
+     Thank you very much.  Paul, just as a way to understand your 2010 output especially related to gross margins, given the way that 2009 played out what is your sense as to how 2010 should play out and especially if you can touch on spending since we saw a flush in Q4, should we anticipate some more spending from companies in the future?  Thank you. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [28]
+--------------------------------------------------------------------------------
+
+     I don't know how it's going to play out, Uche.  Our view in terms of what we built into the model, our model for 2010 is a normal seasonal year off of a very good Q4, so in general, when you extrapolate that out and do the math, that gets you to double digit growth year on year because of the high peak in Q4 and the trough that you had in the first half of 2009.  We're building into our number set a modest recovery of corporate purchases of PCs.  That is we aren't building in any kind of -- anything extraordinary out of that, just sort of normal return to deployment as the evaluation cycles for the new hardware and Windows 7 gets completed.  What we are benefiting from in the second half of the year and I think we'll continue to benefit from throughout this year is the extraordinary return on investment that is incurred by deploying new server technologies.  I mean, the last technology was sort of a 9 to 1 ROI kind of technology.  As we deploy the new Xeon products out it's 15 and 20 to 1 so we think that that is compelling, the power conservation associated with that is compelling and that's one of the things that gives us an optimism independent of PC refresh in the enterprise for 2010. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [29]
+--------------------------------------------------------------------------------
+
+     And Uche, I think the other part of your question was gross margin seasonality.  I'd say it's a typical year from that perspective.  We've put out the forecast for Q1 of 61% is the mid point of that forecast range.  Typically, we would see a Second Quarter from a unit standpoint is going to be seasonally down and that means typically the Second Quarter gross margin is going to be a bit below that 61% and then when we get into the second half of the year my expectation is it's a bit above that 61% and that's how we get to 61% on average for the year.  Thank you very much. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [30]
+--------------------------------------------------------------------------------
+
+     Thanks, Uche. 
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Doug Freedman with Broadpoint AmTech. 
+
+--------------------------------------------------------------------------------
+Doug Freedman,  Broadpoint AmTech - Analyst    [32]
+--------------------------------------------------------------------------------
+
+     Great.  Thanks for taking my question guys and congrats on a strong quarter.  If we look at your business model and all of the efforts being placed on sort of new growth streams of revenue, can you talk a little bit about the impact that you expect that to have on the longer term operating model and especially on the operating income line? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [33]
+--------------------------------------------------------------------------------
+
+     Yes.  I'm going to go through that in quite a bit more detail in the upcoming May investor meeting so I think I'll save the longer answer for that.  I'll just say our expectation is that based on our performance leadership and the software compatibility and the value proposition around IA, that we can grow those businesses with a very healthy product margin, not dilute the overall gross margin of the Company, we're on record of saying that and I think if you look at the two businesses that are at significant size today, they're both consistent with that belief, our embedded business, it's a $1 billion plus business, it's running at product margins that are a little bit ahead of what the rest of our core business runs and add in netbooks, we've grown that to be a $1.4 billion business for us in 2009, also at a product margin that's right in there with the rest of the core business, so that's our expectation and we'll talk more at the investor meeting. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [34]
+--------------------------------------------------------------------------------
+
+     Thanks, Doug.  Next question? 
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Adam Benjamin with Jefferies. 
+
+--------------------------------------------------------------------------------
+Adam Benjamin,  Jefferies - Analyst    [36]
+--------------------------------------------------------------------------------
+
+     Thanks, guys.  Just a question on price elasticity.  Obviously, in 2009, the end market pricing for PCs came down pretty dramatically, roughly 20, 30% in some instances.  I'm just curious as you plan for 2010 how you guys are thinking about that driving the elasticity of unit growth that we saw in 2009 and then how it could potentially impact pricing plus or minus?  Thanks. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [37]
+--------------------------------------------------------------------------------
+
+     Well, 2009 was a funny year Adam as we all went through and know.  The first half of the year the lights had gone off, right?  So what we saw over the course of the year was growth particularly in notebooks and some netbooks around consumer purchases.  It was not a robust year for corporate purchases and that alone, that mix shift alone to consumer and away from corporate was part of the reason you saw PC prices on average being lower, dropping faster than you would have ordinarily seen, point one.
+ Point two is there really wasn't a new refresh cycle in terms of hardware last year.  We had versions of our core product line that were out there but they were extensions of the existing technology so there was nothing really to drive sell up.  The new core products we've just introduced particularly the I-5 and the I-7 have great new technology in terms of the wireless display technology and turbo which gives you the performance boost when you need it and power savings when you don't and I think that the early excitement on those two product lines gives us some cause for optimism even in consumer space for an improved sell up cycle. 
+
+--------------------------------------------------------------------------------
+Adam Benjamin,  Jefferies - Analyst    [38]
+--------------------------------------------------------------------------------
+
+     So it's fair to say that as you guys are planning for 2010, you guys are thinking those two dynamics, one a mix shift back to the enterprise and one with new products can drive end market pricing back up and should help you guys drive your ASPs up as well? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [39]
+--------------------------------------------------------------------------------
+
+     No, I didn't quite get there and those were mature market comments.  On top of that I think there will be continued growth like there has been over the last three or four years in emerging markets where the emerging markets out pace the mature ones and clearly in emerging markets the average selling price of computers is lower than it is in New York City. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [40]
+--------------------------------------------------------------------------------
+
+     I think it's important to kind of separate the mix within the segments of the market from the overall mix of our sales.  We're refreshing products likely to have a nice benefit from that inside of each of the segments but the driver over the last four or five years, Adam, has been emerging markets growing faster than mature markets, consumer growing faster than the rest of the market, and there's good price elasticity there that benefits us to bring the price down and sell our technology into those segments. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [41]
+--------------------------------------------------------------------------------
+
+     All right, thanks, Adam, appreciate it.  Next question? 
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Manish Goyal with CREF Investments. 
+
+--------------------------------------------------------------------------------
+Manish Goyal,  TIAA-CREF - Analyst    [43]
+--------------------------------------------------------------------------------
+
+     Yes, hi, thank you.  My question is on operating expenses.  You guys showed good discipline in quarterly results in 2009 and when I look at your first quarter guidance of $3 billion for $9.7 billion of revenue, I'm a little bit surprised because it's roughly the same revenue number that you had in the first quarter of 2008, yet your operating expenses were $200 million lower so I just want to understand what changed and why you're not seeing better leverage. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [44]
+--------------------------------------------------------------------------------
+
+     Yes, hi, Manish, and congratulations getting on the call two cycles in a row, that's great.  Let me take a shot at that.  First off, let me go back to the committment that Paul and I made, have made historically.  We're still absolutely on the path that over time, we're bringing down spending as a percent of revenue, and I think we have had some good results in the last couple of quarters and our goal over time is that we're going to continue to do that.
+ When we look at 2010, you can kind of think of our spending in a couple of different buckets.  First off, we are making some investments in R&D projects this year.  We had five years in a row of year-over-year employment declines.  We'll actually grow employment a little bit in 2010 so you haven't seen that from us in a long time but we have some high return on investment projects where we're going to go make some incremental investments.  Secondly, there's a series of things that aren't really related to the employment level that are going to impact the spending level in 2010.  One is the categorization of how we categorize process engineering from year to year.  Remember last year it was cost of sales, this year it's R&D, so that shift happens in kind of a digital fashion and so that impacts the quarter to quarter walk that you're doing.  We're giving raises, we have revenue dependent spending this year that's going to be higher than last year so the combination of those two things is really what you're seeing on the spending line.  Neither of those changes the committment that we're getting great results through our focus on efficiency and we plan to continue to bring that down over time. 
+
+--------------------------------------------------------------------------------
+Manish Goyal,  TIAA-CREF - Analyst    [45]
+--------------------------------------------------------------------------------
+
+     So just if I may have a follow-up on that--? 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [46]
+--------------------------------------------------------------------------------
+
+     We'll have to cut you off because we've got just to do one question only, but was there something on that question you didn't understand? 
+
+--------------------------------------------------------------------------------
+Manish Goyal,  TIAA-CREF - Analyst    [47]
+--------------------------------------------------------------------------------
+
+     Yes, same question for full year, if I look at your first quarter guidance of $3 billion and full year guidance of 11.8, are you suggesting that even if you continue to higher, your operating expenses will remain roughly flat quarterly or is there any other way to think about this? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [48]
+--------------------------------------------------------------------------------
+
+     Yes, I'm not making a specific forecast for any quarter in the year and I'm not making a specific forecast for 2010.  We've articulated the goal as a longer term goal to bring down spending as a percent of revenue.  We made good progress on that and we're going o continue to drive it over a longer term horizon. 
+
+--------------------------------------------------------------------------------
+Manish Goyal,  TIAA-CREF - Analyst    [49]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [50]
+--------------------------------------------------------------------------------
+
+     Thanks, Manish? 
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Stacy Rasgon with Sanford Bernstein. 
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford Bernstein - Analyst    [52]
+--------------------------------------------------------------------------------
+
+     Hi guys.  Thanks for taking my question.  I think to follow-up on that OpEx question from Manesh, if I look at the OpEx this quarter, you have guidance down a little bit but still around $3 billion and you've got total OpEx for the year pretty close to 12 which would imply, it seems like it would imply flat OpEx on an average basis going forward and this is a case now where you potentially have like you said OpEx moving from cost of goods back into R&D, you're building out new businesses that you aren't in right now around the mobile space and what not.  I'm just wondering, is it actually if you walk a little bit more through some of your assumptions around the OpEx growth going forward in that number that makes up the guidance for 2010. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [53]
+--------------------------------------------------------------------------------
+
+     Just so I'm answering the right question, Stacy, is your question on why is it so flat over the course of the year? 
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford Bernstein - Analyst    [54]
+--------------------------------------------------------------------------------
+
+     Yes, I'm actually wondering why it's not even up a little bit more than it is, given you have these other drivers, unless with process development moving back into R&D and with new businesses that you're ramping relatively nascent amounts today I'm just wondering why the OpEx growth wouldn't be expected to be actually higher than kind of the flat level that seems to be implied off of the Q1 guidance? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [55]
+--------------------------------------------------------------------------------
+
+     Yes, the OpEx growth when you kind of think of it over the course of the year there's a couple of those elements that just gets spread quarter to quarter so the categorization of the research and development has happened digitally.  I failed to mention we're also picking up Wind River in 2010.  That was an acquisition we did in the back half of last year so that's kind of spread across every quarter.  We do the same with the profit and revenue dependent spending, so it's probably a little flatter than you would expect and the increase in R&D projects in the scheme of things doesn't move the numbers that much and we are as we have been, we're finding efficiencies in other places that offset some of that so when you kind of take all that together you end up with a number that's flattish quarter by quarter. 
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford Bernstein - Analyst    [56]
+--------------------------------------------------------------------------------
+
+     And you don't need to build anymore SG&A to start selling more into the mobile space for example, with the new Atom applications? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [57]
+--------------------------------------------------------------------------------
+
+     Nope.  Our finance group is so efficient we can sell a lot more than we are today. 
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford Bernstein - Analyst    [58]
+--------------------------------------------------------------------------------
+
+     Got it.  Thanks. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [59]
+--------------------------------------------------------------------------------
+
+     You're welcome. 
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Glen Yeung with Citigroup. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citi - Analyst    [61]
+--------------------------------------------------------------------------------
+
+     Can you guys quantify how much ASPs were up in Q1 and how much you expect them to be down, sorry, up in Q4 and what you should be down in Q1 and what's normal ASP decline for a year? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [62]
+--------------------------------------------------------------------------------
+
+     Sure.  I can do it at some level of precision because all of those hit the gross margin reconciliation, and so if we start with Q4 and you just kind of think about the gross margin in Q4, the increase we saw, the ASP accounted for about 2 points of that increase and then we think about over the course of 2010 I'm showing you my 2010 gross margin reconciliation versus 2009 that I think that the decline in ASP is worth about 2 to 3 points and I'd say that order of magnitude is pretty normal and Q1 would be a small step on the way I think in the gross margin you'll see that's worth about 0.5 point down in the first quarter. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citi - Analyst    [63]
+--------------------------------------------------------------------------------
+
+     Just to clarify though, if you say it was worth two points in a quarter of gross margin does that imply the average ASP was down 2%? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [64]
+--------------------------------------------------------------------------------
+
+     Well, it was up. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citi - Analyst    [65]
+--------------------------------------------------------------------------------
+
+     Sorry, up, but same magnitude is how I should read that? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [66]
+--------------------------------------------------------------------------------
+
+     We all struggle to say the word up because we don't see it as often because of the phenomenon we said.  I think you can work through the gross margin math on that.  You'll come up with something a little different than 2 to 3% but the gross margin was up. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citi - Analyst    [67]
+--------------------------------------------------------------------------------
+
+     Okay, all right that's helpful, thanks. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [68]
+--------------------------------------------------------------------------------
+
+     Thanks, Glen.  Next question? 
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of John Pitzer with Credit Suisse. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [70]
+--------------------------------------------------------------------------------
+
+     Good afternoon guys.  Congratulations.  I guess Paul and Stacy I just want to revisit the mix question for this year, with your guidance of 2010 we'll see normal ASP degradation, you kind of have some tail winds that should be helping you, consumer moves to corporate, you've got the server cycle, you could make the argument that you'll have a more robust CLV product line this year and you've got the introduction of Dales and so I'm kind of struggling with why this wouldn't be a better than average selling price year?  Is this sort of an implication that Atom reaccelerate to the percent of the mix or could you help me reconcile what I see as more tail wind than headwinds on ASPs, thanks. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [71]
+--------------------------------------------------------------------------------
+
+     Okay, I'll try and give you some color on that, John.  I'm not sure I can fill in all of the holes.  I mean we're all guessing.  No one knows for sure.  As I said earlier, we're not programming into our guidance or our estimates any kind of overnight recovery of the corporate market.  I think for a variety of reasons that will start coming back but it will come back based upon eval cycles, qualification cycles and IT shops and then as corporate budgets open up, they have to decide whether they want to first buy PCs or servers, so I think in terms of IT equipment and we really haven't seen enough so far except the server run-off in the second half to be confident on when and what the rate of corporate PC refresh would be, although we have built some into this.
+ Number two, in terms of Atom, we've now been at this for 18 months or a little bit more than that and up to this point in time, now with all of that data we have not seen any meaningful cannibalization of the notebook market by netbooks.  Netbooks look to be 90% of them are clearly additive and they're clearly going into market segments that were unaddressed prior to this.  In the first 18 months of the netbook, most people who bought them were buying them as incremental machines or travel companions, principally in mature markets or Tier 1 cities of emerging markets.  I think that in 2010, you'll start seeing that phenomenon move into emerging markets and as that does, there may be a slightly higher mix of Atom but it certainly wouldn't be cannibalistic to our notebook business so we're just playing all of these together in a stew and saying this is how we see the year coming out. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [72]
+--------------------------------------------------------------------------------
+
+     Thanks guys.  That's helpful. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [73]
+--------------------------------------------------------------------------------
+
+     Go ahead. 
+
+--------------------------------------------------------------------------------
+Operator    [74]
+--------------------------------------------------------------------------------
+
+     The next question comes from the line of Sumit Dhanda with Banc of America-Merrill Lynch. 
+
+--------------------------------------------------------------------------------
+Sumit Dhanda,  BAS-ML - Analyst    [75]
+--------------------------------------------------------------------------------
+
+     Yes, hi, Stacy, a question for you.  On the 32-nanometer products or the new architecture products that really high pressured your selling prices in the fourth quarter, I guess was that the primary driver for ASPs within the client group given that the volumes were likely not very large or did your older 45-nanometer generation products also help the ASPs, did you sell much of a higher mix within the 45-nanometer products? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [76]
+--------------------------------------------------------------------------------
+
+     Yes, it was within the client group, it was I'd say a mix of both but the 32-nanometer effect was pretty pronounced.  As Paul said in his prepared remarks, we brought out dozens of new products across the client on 32-nanometer.  The way we plan our manufacturing is we kind of started the manufacturing at the highest end first and worked our way down and we're still working our way down into the mainstream and value price points so that was a pretty pronounced impact in terms of the mix that we sold in Q4. 
+
+--------------------------------------------------------------------------------
+Sumit Dhanda,  BAS-ML - Analyst    [77]
+--------------------------------------------------------------------------------
+
+     Despite the fact that this wasn't a big volume component of what you sold within the client business? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [78]
+--------------------------------------------------------------------------------
+
+     It was a not insignificant component of what we saw.  We ramp these factories pretty fast.  You can see it in our inventory results and you can see it in our sales mix or I can see it in our sales mix, we don't show it to you. 
+
+--------------------------------------------------------------------------------
+Sumit Dhanda,  BAS-ML - Analyst    [79]
+--------------------------------------------------------------------------------
+
+     Okay, thank you. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [80]
+--------------------------------------------------------------------------------
+
+     Thanks, appreciate it.  Go ahead. 
+
+--------------------------------------------------------------------------------
+Operator    [81]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Jim Covello with Goldman Sachs. 
+
+--------------------------------------------------------------------------------
+Jim Covello,  Goldman Sachs - Analyst    [82]
+--------------------------------------------------------------------------------
+
+     Hi guys, good evening, thanks so much for letting me ask a question and congratulations on the good results.  Just one question.  Could you give us some estimate of what you're going to do with factory loadings in Q1 and Q2? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [83]
+--------------------------------------------------------------------------------
+
+     Probably not at the level of granularity that you're hoping for, but I'll give you a sense and then this is another one where in May, we're pretty specific and we'll show you kind of quarter by quarter utilizations as well as a forecast going into the future.  We're in the sweet spot of loading.  We're running nicely full.  We have the ability to respond to some upside, we always want to have some of that but we're full to the point that we're getting really good cost results.  I'd expect that to be the norm for this year. 
+
+--------------------------------------------------------------------------------
+Jim Covello,  Goldman Sachs - Analyst    [84]
+--------------------------------------------------------------------------------
+
+     Thank you so much. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [85]
+--------------------------------------------------------------------------------
+
+     You're welcome. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [86]
+--------------------------------------------------------------------------------
+
+     Thanks. 
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Graham Tanaka with Capital Management. 
+
+--------------------------------------------------------------------------------
+Graham Tanaka,  Capital Management - Analyst    [88]
+--------------------------------------------------------------------------------
+
+     Hi guys, congratulations on the ramp.  Just a little bit more on the 32-nanometer ramp pretty fast to get a feel for what proportion of the sales might be 32 and more importantly what that might be by the end of the year and it seems to me that is probably one of the more important reasons for both the sales ASPs going up in the margins is the 32 ramp being faster than expected higher utilization; is that true? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [89]
+--------------------------------------------------------------------------------
+
+     Well, I wouldn't say it's faster than expected.  We expected it to be pretty fast and beyond that I'll punt as well and we'll show you that data in May when we have the investor meeting. 
+
+--------------------------------------------------------------------------------
+Graham Tanaka,  Capital Management - Analyst    [90]
+--------------------------------------------------------------------------------
+
+     Great.  Thank you kindly. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [91]
+--------------------------------------------------------------------------------
+
+     Thanks, Graham, appreciate it.  Go ahead. 
+
+--------------------------------------------------------------------------------
+Operator    [92]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Craig Berger with FBR Capital Markets. 
+
+--------------------------------------------------------------------------------
+Craig Berger,  FBR Capital Markets - Analyst    [93]
+--------------------------------------------------------------------------------
+
+     Hi guys, nice job.  Thanks for taking my question.  Can you just explain why the first quarter gross margin guidance is 61 and then the year is also only 61, and any other color around that? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [94]
+--------------------------------------------------------------------------------
+
+     Sure.  I'll be happy to.  So I apologize in advance because I think to explain Q1 I have to explain Q4 and to explain the year I've kind of got to go through a walk, so if you'll bear with me, Craig, I'll do that.  Q4 came in several of the elements as we expected.  We did see good news associated with the qualification for sale of 32-nanometer products as well as sell-through of some of the previously reserved material there.  That was about 2.5 points of the increase we saw in Q4.  We got the good news that we were expecting in CPU volumes.  They were seasonally up in the quarter.  We got the good news we were expecting lower excess capacity, in fact our excess capacity charges have now gone to zero for the quarter which we haven't been there since the end of last year.
+ The places where it was unexpected was the bump we saw in CPU ASPs, that was a couple of good points of news I wasn't expecting when I first set the forecast and I was a little better in terms offer unit cost than I expected.  Not a lot but a little.
+ Then if you move into Q1, the drivers that take us from 64% down to 61%, first -- 65% sorry, it's even hard for me to say that as an all-time record, 65% down to 61%, the first is we're going to see higher CPU cost.  This is very consistent with what I showed you at the investor meeting last May, those first wafers coming off of 32-nanometer as we're loading the factories tend to be pretty expensive and that's what ended up in inventory, that's what ships out in Q1 and that's going to drive a little bit of a cost increase and then we come down as we go through the year so very consistent with what I showed you there and it's a seasonally down quarter from Q4 so we get a little bit of downward pressure as a result of lower CPU sales volumes and then I do expect in Q1 my mix is a little less rich than what I sold in Q4, that's about 0.5 a point so that's how you get to the 61%.  I'll pause there and see if that makes sense and then take you through the year so I don't get too far ahead of you. 
+
+--------------------------------------------------------------------------------
+Craig Berger,  FBR Capital Markets - Analyst    [95]
+--------------------------------------------------------------------------------
+
+     It does. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [96]
+--------------------------------------------------------------------------------
+
+     Okay, so and a previous question, I kind of gave what I expected to be the shape of the, we started at 61, Q2 tends to be seasonally down so I expect that to be down some from 61 and if you do the math, you'd say that we're forecasting a second half gross margin that's something above 61% in the low 60s, and I think the debate you and I will have at some point is why is that in the low 60s versus in the mid 60s and it really comes back to the conversation we've been having on ASP.  A lot of things go right to get us into that low 60s.  We've got unit costs coming down relatively benign period in terms of other cost of sales so we don't have significant start up costs or excess capacity charges or anything like that.  Paul articulated we're anticipating robust unit growth and that keeps the factories pretty full, but we are anticipating that pricing comes down some from where we are today and that brings us down a couple to a few points over the course of the year. 
+
+--------------------------------------------------------------------------------
+Craig Berger,  FBR Capital Markets - Analyst    [97]
+--------------------------------------------------------------------------------
+
+     And then just to follow-up, on the tax rate, is 30% the long term go forward that's higher than it used to be? 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [98]
+--------------------------------------------------------------------------------
+
+     Craig, fair question but we said no follow-ups.  Let me go to the next one and we'll write it down and we can talk afterwards if that's okay? 
+
+--------------------------------------------------------------------------------
+Craig Berger,  FBR Capital Markets - Analyst    [99]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [100]
+--------------------------------------------------------------------------------
+
+     Next question? 
+
+--------------------------------------------------------------------------------
+Operator    [101]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Suji De Silva with Kaufman Brothers. 
+
+--------------------------------------------------------------------------------
+Suji De Silva,  Kaufman Brothers - Analyst    [102]
+--------------------------------------------------------------------------------
+
+     Nice quarter guys.  Just to follow-up on the question on gross margin, what could make your 61% assumption for the year conservative.  What are some of your assumptions that might be able to upside there just to understand the level here? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [103]
+--------------------------------------------------------------------------------
+
+     Yes, great question.  First of all I think we have to put 61% in perspective.  61% is a great gross margin. 
+
+--------------------------------------------------------------------------------
+Suji De Silva,  Kaufman Brothers - Analyst    [104]
+--------------------------------------------------------------------------------
+
+     Understood. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - VP, CFO    [105]
+--------------------------------------------------------------------------------
+
+     A lot of things are going right for us so I don't want to jinx us by talking about what has to go from a great gross margin to a perfect gross margin if you will.  The forecast is assuming declining unit costs.  It's assuming that we're in kind of the benign cycle in terms of start up costs and other cost of sales.  It's assuming good volume growth, all that's baked in.  We're also, we see just continued great performance out of the factory network from a productivity and efficiency standpoint and that helps our costs.  If you wanted the scenario that would take us higher than that, it would be a flattening out of the ASP curve or a richer mix or more units than what we have baked in and likewise, I could come up with a list that takes me into the lower end of the range where we have a less rich mix or the unit growth isn't as robust as we thought and our factories aren't as full. 
+
+--------------------------------------------------------------------------------
+Suji De Silva,  Kaufman Brothers - Analyst    [106]
+--------------------------------------------------------------------------------
+
+     Great.  Thanks guys. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [107]
+--------------------------------------------------------------------------------
+
+     Thanks, Suji.  Go ahead. 
+
+--------------------------------------------------------------------------------
+Operator    [108]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Gus Richard with Piper Jaffray. 
+
+--------------------------------------------------------------------------------
+Gus Richard,  Piper Jaffray - Analyst    [109]
+--------------------------------------------------------------------------------
+
+     Hi, thank you for taking my question and congrats on a good quarter and a good year.  Just real quickly, I'm just curious if you talked a little bit about the carriers as a channel and as you're thinking about upside to the year, may that play a factor and sorry, a second part do you feel comfortable you're going to have enough capacity? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [110]
+--------------------------------------------------------------------------------
+
+     Okay, just writing my note.  The carrier as a channel has been around for a while in notebooks and it wasn't -- it's good but it's not explosive.  What we saw in net books in the Fourth Quarter last three or four months of the year was carriers became a very significant portion of the volume of netbooks, probably in the range of a quarter of them, 25%, and what we're seeing, what led me to my comments earlier about netbook growth in emerging markets was really based upon our view that the carrier model will be very efficient in those markets because it's a low entry price, subsidized model just like cell phones are and you get the PC and the bandwidth at the same time, so I think that's likely to be a good piece of the netbook business, a growing piece of the netbook business over the course of 2010.
+ In terms of upside we've built a pretty significant growth in that into the number set already so I don't know there would be much upside there.  Secondly in terms of capacity no I don't see any issues on the horizon.  We're planning for a very high end of a robust growth from a capacity standpoint in terms of the wafer starts that we need to put in place and even then, we have time to make some incremental decisions for the, say fourth quarter '10 kind of volumes over the course of this year, so we'll watch the first half of the year and then make the calls but right now, we believe we have enough buffer capacity coming on between particularly the 32-nanometer ramp and we have the older 45-nanometer line still intact to be able to handle virtually anything I could imagine being thrown at us. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [111]
+--------------------------------------------------------------------------------
+
+     Thanks, Gus.  We're going to take just two more questions if you would. 
+
+--------------------------------------------------------------------------------
+Operator    [112]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Brendan Furlong with Miller Tabak. 
+
+--------------------------------------------------------------------------------
+Brendan Furlong,  Miller Tabak - Analyst    [113]
+--------------------------------------------------------------------------------
+
+     Thank you very much for squeezing me in.  A question on the embedded/other Intel architecture if you could give some color on what their expectations are for 2010 and the, you mentioned 600 design wins, what's your expectation of time from design win to revenue with all of those new design wins?  Thanks a lot. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [114]
+--------------------------------------------------------------------------------
+
+     Why don't you handle the embedded other.  Let me speak to the design wins and Stacy will tell you what he thinks is in the embedded and other.  Typically, there's no such thing as an average design win in embedded but typically, it's sort of a year to 18 months from initial conversation to production and we are -- and along the way in that initial conversation you end up closing the design maybe a third of the way through that so and then these units tend to run for multiple years and in some cases 10 years, so we're not projecting, our embedded business has grown at double digit percent the last three years and it will continue to outgrow the Company in terms of revenue but I'm not going to give you a precise number. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [115]
+--------------------------------------------------------------------------------
+
+     And did that answer your question or do you have another question about the other architecture segment, I wasn't sure? 
+
+--------------------------------------------------------------------------------
+Brendan Furlong,  Miller Tabak - Analyst    [116]
+--------------------------------------------------------------------------------
+
+     No that pretty much answers my question, thanks a lot. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [117]
+--------------------------------------------------------------------------------
+
+     Sure, thanks, Brendan, we'll have this be our last question. 
+
+--------------------------------------------------------------------------------
+Operator    [118]
+--------------------------------------------------------------------------------
+
+     Your last question comes from the line of Hans Mosesmann with Raymond James. 
+
+--------------------------------------------------------------------------------
+Hans Mosesmann,  Raymond James - Analyst    [119]
+--------------------------------------------------------------------------------
+
+     Thanks.  A question about the transition of Westmere as it replaces (inaudible).  How quickly can we see the crossover there in terms of units and if you can also explain that with regard to the Pine Trail over the existing Atom?  Thanks. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President, CEO    [120]
+--------------------------------------------------------------------------------
+
+     Well, the thing on the first part of the question, Hans, Stacy already answered we are not in a position to share that number today and we'll show you in gruesome detail at the analyst meeting in a couple of months, but what we're doing with this cycle in general is using the technology to move 32-nanometer into the mainstream more quickly than we did with 45, and the rate of crossover between 32 and 45 will be more a function of second half demand in total than capacity planning to cut one off versus the other.  If demand is red hot, the transition will be slower even though we'll ramp 32 as fast as possible and if it's less red hot, it will be slower.  In terms of Pine Trail I think we'll move pretty quickly to transition to that. 
+
+--------------------------------------------------------------------------------
+Hans Mosesmann,  Raymond James - Analyst    [121]
+--------------------------------------------------------------------------------
+
+     Very well.  Thank you. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [122]
+--------------------------------------------------------------------------------
+
+     Thanks, Hans.  I want to thank everybody for joining the call today.  As a reminder, our quiet period for the first quarter will begin at the close of business on February 26, 2010.  Our first quarter earnings conference call is scheduled for Tuesday, April 13, 2010.  Thank you, all, and goodnight. 
+
+--------------------------------------------------------------------------------
+Operator    [123]
+--------------------------------------------------------------------------------
+
+     Thank you for your participation in today's conference.  This concludes the presentation.  You may now disconnect.  Have a great day. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

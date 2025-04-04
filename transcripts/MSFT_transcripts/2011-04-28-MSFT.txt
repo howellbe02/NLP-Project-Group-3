@@ -1,0 +1,554 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2011 Microsoft Corp Earnings Conference Call
+APRIL 28, 2011 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Peter Klein
+   Microsoft Corporation - CFO
+ * Bill Koefoed
+   Microsoft Corporation - General Manager, Investor Relations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Robert Breza
+   RBC Capital Markets - Analyst
+ * Kash Rangan
+   Merrill Lynch - Analyst
+ * Adam Holt
+   Morgan Stanley - Analyst
+ * Phil Winslow
+   Credit Suisse - Analyst
+ * Walter Pritchard
+   Citigroup - Analyst
+ * Gregg Moskowitz
+   Cowen & Co. - Analyst
+ * Brad Reback
+   Oppenheimer & Co. - Analyst
+ * Tim Klasell
+   Stifel Nicolaus - Analyst
+ * Sandeep Aggarwal
+   Caris & Co. - Analyst
+ * Brent Thill
+   UBS - Analyst
+ * Heather Bellini
+   ISI Group - Analyst
+ * Colin Gillis
+   BGC Partners - Analyst
+ * Ed Maguire
+   CLSA - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+           Thank you for standing by and welcome to the third-quarter 2011 Microsoft Corporation earnings conference call.
+ At this time, all participants are placed on listen-only until the question-and-answer session.  Today's conference is being recorded.
+ (Operator Instructions).  Now I'd like to turn the call over to Bill Koefoed, General Manager of Investor Relations.  Bill, please proceed. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+           Thank you, Bobby.  And thank you, everyone, for joining us this afternoon.
+ As usual, with me today are Peter Klein, Chief Financial Officer; Frank Brod, Chief Accounting Officer; and John Seethoff, Deputy General Counsel.
+ Today we filed our Form 10-Q.  In addition, we posted our earnings press release and financial summary slide deck to our investor relations website at microsoft.com/investor.
+ The slide deck is intended to follow the flow of our prepared remarks and provides the reconciliation of differences between GAAP and non-GAAP financial measures.  As a reminder, we will post today's prepared remarks to our website immediately following the call until the complete transcript is available.
+ Today's call is being webcast live and recorded.  If you ask a question, it will be included in our live transmission and the transcript and any future use of the recording.  You can replay the call and view the transcript at the Microsoft investor relations website until April 28, 2012.
+ During this call, we will be making forward-looking statements.  These statements are based on current expectations and assumptions that are subject to risks and uncertainties.
+ Actual results could materially differ because of factors discussed in today's earnings press release, in comments made during this conference call and in the risk factors section of our Form 10-K, Form 10-Q and other reports and filings with the Securities and Exchange Commission.  We do not undertake any duty to update any forward-looking statements.  Okay, and with that, I'll turn the call over to Peter. 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [3]
+--------------------------------------------------------------------------------
+
+           Thanks, Bill, good afternoon, everyone.  This quarter we again delivered solid financial results, reflecting strong business and consumer demand for our products and services.
+ Despite a mixed PC environment, the breadth and depth of our portfolio drove another quarter of double-digit revenue and earnings per share growth.  On the commercial side, we saw strong multiyear licensing commitments by enterprises and robust transactional sales particularly to small and medium businesses.  Let me give more color on this.
+ On the business desktop, customers continued to embrace our offering.  Not only is Office 2010 the fastest selling version of Office in our Company's history, but businesses are purchasing our entire productivity platform including SharePoint, Exchange, Dynamics and Lync.  And with the recently released public beta of Office 365, the next generation of our cloud productivity service, we are enabling new scenarios that weren't viable in the past especially for small and mid-sized businesses.
+ Office 365 eases deployment for our customers while lowering their upfront costs and provides significantly better returns on investment.  Enterprises are investing in our business infrastructure offerings with a growing preference for our premium product.
+ Windows Server, SQL Server, and our management tools are enabling our customers to transform their data centers to be more efficient.  Companies are reaping the benefits that Windows 7 brings including enhanced productivity, efficiency, security, and manageability.
+ Enterprise deployments of Windows 7 have more than doubled over the past six months.  While business PC shipments showed strength this quarter, consumer PCs declined.  Within both segments, emerging markets continued to be an area of strong growth.
+ As demonstrated by Bing's continued market share gains since its launch, we've made great strides in relevancy and design and continue to transform search beyond just queries to task completion and decision-making.  While we are pleased with the progress we've made with Bing, there is significant work ahead to improve the monetization of the combined Yahoo!  and Bing marketplace.
+ Advertisers are seeing strong ROI but revenue per search is below our expectations.  We have our best search technical leadership on this issue and we're partnering closely with Yahoo!  to improve monetization as quickly and efficiently as possible.
+ Turning to our Entertainment and Devices Division, in November we took the first step in creating a new mobile ecosystem by launching Windows Phone 7.  In this quarter, we took the next step by entering into a broad strategic alliance with Nokia.
+ Together Nokia and Microsoft will innovate with greater speed and provide enhanced opportunities for users and partners to share in the success of the new ecosystem.  Consumers are delighted with Kinect as well as our entire Xbox 360 platform for the revolutionary experience it brings to their living room.  Kinect continues to lead the way forward in gaming and is opening the door for new scenarios that take advantage of natural user interface.
+ So in summary, the breadth and depth of our product portfolio combined with prioritization of investments and our continued focus on operating expense management allowed us to deliver another quarter of strong financial results.  With that, I'm going to hand it back to Bill to provide more detail on this quarter's results and then I'll come back and provide some thoughts on our outlook for our fourth quarter and the next fiscal year. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [4]
+--------------------------------------------------------------------------------
+
+           Thanks, Peter.  Revenue for the quarter was $16.4 billion, 13% growth year over year and earnings per share was $0.61, up 36%.  Adjusting for tech guarantee programs, this was our fourth consecutive quarter of double-digit revenue growth and our sixth consecutive quarter of double-digit EPS growth.
+ Operating cash flow for the third quarter was a record $8.7 billion or growth of 17%.  Operating cash flow year to date has surpassed $21 billion, an increase of $2.6 billion.
+ Many of the demand trends in the third quarter were similar to the first half of the year.  Specifically Office 2010, Xbox and Xbox Live and Kinect continue to enjoy exceptional consumer momentum.
+ On the commercial side, enterprise demand for our products remains strong.  Businesses are deploying Microsoft platforms and applications including Windows, Windows Server, Office, Dynamics, and management tools.
+ The business demand is translating into healthy increases in transactional licensing and strong enterprise agreement renewals.  Our unearned revenue balance grew 6% to $13 billion, reflecting continued strength in our customers' multiyear commitments.  Our contracted not billed balance is now over $17 billion, growing approximately 20%.  Bookings for the Company were up 8%.
+ Now let me turn to the PC market.  There are three trends we are observing.
+ First, business PC growth was 9% this quarter.  The business PC refresh cycle continues and is still in the early stages.
+ Second, emerging markets continues to play a larger role in total PC shipment volume and now represent nearly half of all worldwide PC shipments.  Finally, the consumer PC market declined 8% as there are several dynamics at work including a 40% decline in netbooks, broader consumer macroeconomics, increased competition for consumer spending and the strength of Windows 7 consumer PCs in the prior year.
+ In total, we estimate the PC market declined 1 to 3% in the third quarter.  With that PC backdrop, I'll move on to the results for the Windows and Windows Live Division.
+ Last quarter we noted there would be a $100 million headwind to Windows comparables for the third quarter due to the prior year Windows 7 launch.  Adjusting for this dynamic, Windows revenue was in line with the PC market as we guided.
+ As usual, you'll find an OEM revenue bridge in our earnings slide deck.  To summarize, the PC industry dynamics of continuing strength from emerging markets offset the benefits of a higher business mix and improved attach.
+ Since the launch of Windows 7, customer satisfaction and market reception have been terrific and we have more opportunities ahead.  While Windows 7 has now sold over 350 million units since launch, an estimated 75% of the PC installed base is still running older operating systems.
+ The number of PCs running Windows 7 in the enterprise has more than doubled over the past six months and volume licensing has strengthened.  As I mentioned earlier, we expect the business PC refresh cycle to continue.
+ Looking ahead, we're excited about the partner innovation underway in the PC market with Windows 7.  There is innovation occurring in new ultra-portables, all-in-one and other form factors including slates and convertibles which are starting to hit the market now.
+ This quarter we also released Windows Intune, a cloud-based subscription service that will help businesses manage and secure Windows PCs.  Windows Intune provides significant new opportunities for Microsoft and our partners to further expand our reach, grow our revenue and delight customers.  With Windows Intune, we have an opportunity to bring even more customers to the cloud.
+ During the quarter, we launched the latest version of Internet Explorer.  Internet Explorer 9 utilizes the power and performance of the whole PC to provide users with a faster, more immersive Web experience.
+ With new features such as hardware accelerated graphics, support for HTML 5, and integrated Windows 7 navigation, websites act more like applications on IE 9.  And just a few weeks after releasing IE 9, we released the platform preview of IE 10 which will deliver innovation for the next generation of Web experiences powered by Windows.
+ Now I'll move to the Microsoft Business Division which excluding the prior year office tech guarantee deferral grew 13%.  We continue to see terrific response to the release from both consumers and businesses.
+ Adjusted for the prior-year deferral, consumer revenue grew 26% with increased office attach to PCs.  The business transactional portion grew 28%, also driven by improved attach rates, post-launch and higher business PC shipments.
+ The multiyear licensing portion of the business grew 5%.  Businesses are deploying Office 2010 along with Windows 7 on the corporate desktop.
+ Office 2010 deployment rate is five times faster than the deployment of Office 2007.  Importantly, businesses are also attaching the Office Server applications; SharePoint, Exchange and Lync which all grew double digits this quarter.
+ Lync grew 30% and we are seeing tremendous reception to the product.  As we've discussed previously, unified communications is a huge growth opportunity and Lync offers an immediate return on investments to CIOs.
+ Last Monday we released the public beta of Office 365 and we continue to see momentum in business online services.  The number of customers using our services has quadrupled since last year.
+ Over 50% of our customers are small businesses but we're also seeing large enterprises, governmental and educational institutions moving to the cloud.  This quarter, we announced large customer wins including Shell Oil, Tampa General Hospital, Advocate Health Care and Manpower among others.
+ Our Dynamics business grew 10% with both Dynamics ERP and Dynamics CRM increasing account penetration.  In the third quarter, we launched Dynamics CRM 2011 and we're seeing great traction with 40,000 businesses already in product trial, a significant pipeline to our current 27,000 customer base.
+ We also recently announced the next release of Dynamics ERP will be cloud enabled.  We are delivering world-class business applications on premise and in the cloud that are simple, agile and deliver more value than competitive offerings.
+ Now let's turn to Server and Tools which posted 11% revenue growth.  Server and Tools had strong performance across the entire product portfolio.
+ Transactional revenue grew faster than the underlying server hardware market which we estimate grew mid-single digits.  Multiyear license revenue grew 11% and enterprise services revenue grew 12%.
+ In the data center we continued to increase the penetration and monetization of Windows Server and System Center.  We saw strong enterprise agreement renewals of Windows Server this quarter and premium revenue was up double digits.  System Center, our management offering, grew double digits for the 10th consecutive quarter.
+ Hyper-V continues to win new business and establish new performance benchmarks on key workloads.  This quarter we showcased a large customer win with Target Corporation.
+ Target is running business critical workloads for all 1700 retail stores using Microsoft virtualization and management technologies.  In the database, SQL Server unit volumes and ASPs were up with a shift toward our premium editions.
+ SQL premium revenue has now grown double digits for four consecutive quarters as customers adopt higher-level capabilities such as business intelligence.  Our cloud computing platform, Windows Azure, continues to have strong momentum and developer interest.
+ This quarter we a announced strategic partnership with Toyota who will be using Windows Azure for its enterprise-grade scalable platform to provide advanced telematics services.  Next I'll move to the Online Services Division which grew 14%.
+ Online advertising revenue including both search and display grew 17%.  Bing's US market share continued to grow, ending the quarter at 13.9%, up 190 basis points from the second quarter and up almost 600 basis points since launch.
+ We feel great about the pace of our innovation and customer satisfaction with our differentiated approach to search.  However, the expected monetization of the combined Yahoo!  and Bing search marketplace in the US and Canada is taking longer than planned and revenue per share remains below our expectations.
+ We have delayed our international integration efforts to focus on improvements in the US and Canada.  Now let me move to the Entertainment and Devices Division where revenue grew an impressive 60%.
+ Xbox has been setting the pace in the gaming industry this fiscal year.  With Kinect recognized as the fastest selling consumer electronics product ever, we sold an additional 2.4 million sensors this post holiday quarter.  We also shipped 2.7 million Xbox 360 consoles, a new third-quarter record that surpasses the previous high by 1 million units.
+ Xbox Live also continues to increase its contribution to our customer experience and E&D's financial performance.  We again saw healthy increases in transactional revenue which continues to exceed subscription revenues.
+ Turning to Windows Phone.  Product reviews are good, customer satisfaction is high, well above 90%, and we have shown a clear strategy for enabling a vibrant ecosystem around Windows Phone.
+ This quarter we took the next step and entered into a broad strategic alliance with Nokia.  While we have enjoyed strong developer support to date with more than 13,000 applications, we've noted even greater developer interest subsequent to the Nokia alliance announcement.
+ Now let me cover the remainder of the income statement.  Cost of goods sold increased 41% this quarter due to three primary factors.
+ One, volume driven costs are up due to the success of Xbox 360 consoles and Kinect sensors.  Third-party content royalties are also up reflecting strong sales on Xbox Live.
+ Two, as I mentioned in the Server and Tools performance, our Enterprise Services business is growing rapidly.  Costs in this business are largely volume driven.  And three, Online Services costs are up from increased traffic acquisition costs and increased costs related to the Yahoo!  alliance.
+ Operating expenses were $6.8 billion, an increase of 4%.  Our effective tax rate for the quarter was below our guidance due primarily to the $461 million one-time benefit related to an agreement with the Internal Revenue Service to settle a portion of their audit of tax years 2004 to 2006.
+ In the third quarter we repurchased $827 million of stock and declared $1.3 billion of dividends.  Year to date we returned $13.9 billion of cash to shareholders through buybacks and dividends, 33% more than the previous year.
+ In summary, it was a very solid quarter with strong financial results.  And with that, I'll hand it back to Peter who's going to discuss our business outlook. 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [5]
+--------------------------------------------------------------------------------
+
+           Thanks, Bill.  For the remainder of the call, I'll discuss our expectations for the fourth quarter and some high-level themes as we begin to think about fiscal 2012.
+ From a macro perspective, we expect the next quarter will be similar to the third quarter.  Within the PC market, we expect growth in emerging markets to outpace developed markets and growth in business PCs to outpace consumer PCs.  As a result, we expect Windows Division revenue to grow roughly in line with the PC market for the fourth quarter.
+ Turning to the Microsoft Business Division, transactional revenue, approximately 40% of the division's total, will continue to exceed PC shipment growth rates but at a moderating rate as we approach the Office 2010 launch anniversary.  Revenue associated with multiyear licensing agreements representing approximately 60% of the division's total should grow mid to high single digits.
+ Turning to Server and Tools, approximately 30% of the division's revenue comes from transactional licensing, 50% from multiyear licensing and 20% from enterprise services.  Within this division, we expect transactional revenue to generally track with the hardware market and multiyear licensing revenue and enterprise services revenue to both grow low double digits.
+ Within OSD, we expect online advertising revenue to perform roughly in line with the overall online advertising market.  Moving on to the Entertainment and Devices Division, considering the enthusiastic response to the Xbox 360 platform, we now suspect this division's revenue to grow roughly 25% for the fourth quarter.
+ Switching to cost of goods sold, as was the case this quarter, the biggest factor impacting COGS going forward will be the growth of Entertainment and Devices, Enterprise Services and integration and traffic acquisition costs associated with our search business.
+ Turning to operating expenses, we are reconfirming our guidance of $26.9 billion to $27.3 billion for fiscal year 2011.  We expect our effective tax rate to be 22 to 23% for the fourth quarter and we continue to expect capital expenditures for the full fiscal year to be about $2.5 billion.  Unearned revenue will follow historical sequential growth patterns.
+ Now I'd like to spend a few minutes looking ahead to our next fiscal year.  From a macro perspective, we expect the business PC refresh cycle to continue through fiscal 2012.
+ The PC market dynamics I discussed for Q4, emerging markets outpacing developed markets and business outpacing consumer, should also continue through the next fiscal year.  While we expect ongoing healthy demand for Office 2010, we expect more difficult year-over-year comparables for the Microsoft Business Division.
+ For Server and Tools, we expect to continue to outpace the server market due to our premium offerings and product portfolio.  Within our search business, we expect to see revenue per search improvements over the course of the calendar year.
+ Lastly, we expect momentum within our Entertainment and Devices Division to continue.  Moving on to cost of goods sold as was the case in fiscal 2011, the most important factor to consider will be the shift of revenue mix across hardware, software, enterprise services and online services.
+ We expect fiscal year 2012 operating expenses to grow 3 to 5% from the midpoint of our fiscal 2011 guidance as we continue to prioritize our spending to manage our expenses.  Based on this growth range, we expect fiscal 2012 operating expenses to be $28.0 billion to $28.6 billion.  We expect capital expenditures to be about $2.5 billion for fiscal year 2012.
+ In summary, I'm pleased with our healthy financial results for the quarter.  As we look forward into the next fiscal year, our robust product portfolio and ongoing focus on cost management will enable us to continue to deliver shareholder value.  And with that, I'll turn the call over to Bill and we will take some questions. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [6]
+--------------------------------------------------------------------------------
+
+           Thanks, Peter.  We want to get questions from as many of you as possible, so please stick to just one question and avoid long or multi-part questions.  Bobby, please go ahead and repeat your instructions.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+     (Operator Instructions) Adam Holt, Morgan Stanley. 
+
+--------------------------------------------------------------------------------
+Adam Holt,  Morgan Stanley - Analyst    [2]
+--------------------------------------------------------------------------------
+
+     Terrific, thank you.  My question is on expenses.
+ In the quarter, the gross margin was a little bit lower than I had modeled.  I was wondering if you could go through the puts and takes of what hit gross margin this quarter.
+ And then looking into fiscal 12 in general, would you expect revenue to outpace your operating expense growth?  Thank you. 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [3]
+--------------------------------------------------------------------------------
+
+     On gross margins it's really the three things that Bill described.  Sort of the biggest thing is the fantastic growth in the Xbox business.  So that was the single biggest driver of COGS growth in the quarter.
+ Secondly, Enterprise Services which is volume driven, and they are having nice growth.  So that shows up in COGS.  And then finally in Online Services, some costs associated with the Yahoo!  alliance, as you know some of that revenue that we get from that alliance from the Yahoo!  properties gets tacked out in COGS and some other traffic acquisition costs.  Those were the three big drivers of the COGS growth, all volume driven. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [4]
+--------------------------------------------------------------------------------
+
+     With respect to the second part of your question, Adam, as you know we don't give specific revenue guidance.  We give you operating expense guidance and you can model it from there.  Operator, next question? 
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+     Walter Pritchard, Citigroup. 
+
+--------------------------------------------------------------------------------
+Walter Pritchard,  Citigroup - Analyst    [6]
+--------------------------------------------------------------------------------
+
+     Could you help us understand just on the COGS I guess following onto Adam's question here, as we look into next year with some of the integration costs around Yahoo!  and I guess I'm also wondering around kind of mix within EDD how much we should expect, sort of what we have seen over the course of this year be indicative of where gross margins are in the future or do we think we are on sort of a new kind of trajectory in those individual businesses? 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [7]
+--------------------------------------------------------------------------------
+
+     Well it depends what you model in for the volume, so these COGS are volume driven.  So depending on how you think about each of those individual businesses really is the driver of COGS.
+ We try to give that framework so it's easier to understand that.  Certainly on the Online Services business, our key focus that COGS are volume driven, most important thing there is to get that revenue per search up because that really has the biggest impact on the gross margin. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [8]
+--------------------------------------------------------------------------------
+
+     Operator, next question please. 
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+     Heather Bellini, ISI Group. 
+
+--------------------------------------------------------------------------------
+Heather Bellini,  ISI Group - Analyst    [10]
+--------------------------------------------------------------------------------
+
+     Hi, thank you very much, guys.  Peter, I was just wondering if you could talk a little bit about buybacks.
+ I know that Bill said the return of capital to shareholders was up one--third versus last year.  Just wondering if you could talk about the level of buybacks and kind of how we should think about your appetite for buybacks going forward. 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [11]
+--------------------------------------------------------------------------------
+
+     Yes, no, I think we have a pretty consistent track record over the last several years in terms of distributing cash back to shareholders in terms of dividends and buyback.  And so those numbers that Bill cited were sort of indicative of that.  We've had a pretty consistent track record on that and that has been our philosophy. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [12]
+--------------------------------------------------------------------------------
+
+     Operator, next question please. 
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+     Brent Thill, UBS. 
+
+--------------------------------------------------------------------------------
+Brent Thill,  UBS - Analyst    [14]
+--------------------------------------------------------------------------------
+
+     Peter, could you just reconcile on the PC market, Intel and AMD are saying one thing, you are saying it is worse.  And just trying to understand, is this because of piracy or lower ASPs?  What's accounting for that?  And what is your view in terms of the snapback for the PC market in the second half of the year? 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [15]
+--------------------------------------------------------------------------------
+
+     There's some unique things going on with Intel's results that you can sort of reconcile back to what we're saying that make a lot of sense.  First, if you sort of reconcile their revenue growth, certainly they have an ASP uplift which is actually the single biggest part of driving the growth.
+ There's a few other things in terms of an extra week in the quarter, they've also excluded netbooks from PC MPU numbers.  And I think there was some appropriate inventory buildup.
+ So if you look at our numbers, it ties pretty closely from a unit perspective to what they are seeing.  And obviously we are in line with big third-party analysts as well. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [16]
+--------------------------------------------------------------------------------
+
+     Operator, next question please. 
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+     Phil Winslow, Credit Suisse. 
+
+--------------------------------------------------------------------------------
+Phil Winslow,  Credit Suisse - Analyst    [18]
+--------------------------------------------------------------------------------
+
+     Just looking for a little bit more color on that Microsoft Business Division side.  Obviously we're coming on the -- sort of the tail end theoretically of the uplift of Office 2010.
+ Obviously you're talking about tougher comps.  But what is sort of the right long-term growth rate for that business over the next couple of years?
+ And then also just in terms of G&A, we saw a big step-up quarter to quarter this quarter.  Was there anything one-time in there like you guys had in the December and March quarters of fiscal 2010? 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [19]
+--------------------------------------------------------------------------------
+
+     So obviously we're not guiding to specific growth rates for MBD but I would highlight a few things.  Obviously we're incredibly excited about the customer reaction to Office 2010.
+ But even beyond that, you heard us talk about how customers are adopting the whole sort of suite of products not just the Office applications but SharePoint, Exchange, Dynamics, and Lync and that really provides long-term sustainable growth for the MBD business all up even in a year that's sort of not a launch your year.  So that's I think a way to think about what's going on in MBD.
+ In addition to that, we've got Office 365, so over the course of the next coming years.  We've had great growth, as we talked about, quadrupled the number of business online services customers we have.  With the introduction of Office 365, we sort of take that to the next level.  So as you think about the next year or two for the MBD business, those are some of the factors that I think really drive their growth. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [20]
+--------------------------------------------------------------------------------
+
+     Operator, next question please. 
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+     Colin Gillis, BGC Financial. 
+
+--------------------------------------------------------------------------------
+Colin Gillis,  BGC Partners - Analyst    [22]
+--------------------------------------------------------------------------------
+
+     Yes, can you just talk to the new leadership in Servers, what Satya brings to the group? 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [23]
+--------------------------------------------------------------------------------
+
+     Satya is just a wonderful business leader.  He comes from a background of both business applications and cloud services.
+ So he's really the ideal guy to take that business to the next level.  I've personally had an opportunity to work with Satya closely in the past and he's a great leader. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [24]
+--------------------------------------------------------------------------------
+
+     Operator, next question please. 
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+     Brad Reback, Oppenheimer. 
+
+--------------------------------------------------------------------------------
+Brad Reback,  Oppenheimer & Co. - Analyst    [26]
+--------------------------------------------------------------------------------
+
+     So, Peter, there's been a lot of confusion or a lot of talk around the Nokia partnership, what the economics are.  Could you maybe help straighten out the record on that?
+ And probably more importantly give us any sense if there's going to be an impact to 2012 COGS as it relates to this deal? 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [27]
+--------------------------------------------------------------------------------
+
+     I will talk about the Nokia -- the great thing about the Nokia deal is this is an incredibly perfect opportunity for both of us to build a really compelling vibrant third ecosystem if you think about the complementary set of assets that we all bring to it.  And in terms of the hardware design, the hardware manufacturing, the global relationships with operators, certainly with our platform has great developer momentum in the kinds of services of Xbox Live and Office.
+ Clearly this is a broad strategic alliance, a long-term strategic alliance and we're going to be working closely together and we are each making investments together along those lines.  And I think the important thing to think about is as we sort of build that out and its success, it's going to be a great thing for both companies and for customers and for other partners in the ecosystem. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [28]
+--------------------------------------------------------------------------------
+
+     Operator, next question please. 
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+     Robert Breza, RBC Capital Markets. 
+
+--------------------------------------------------------------------------------
+Robert Breza,  RBC Capital Markets - Analyst    [30]
+--------------------------------------------------------------------------------
+
+     Hi, thanks for taking my question.  Just quickly, can you talk about the delay that you're doing internationally and how long you think that will take before you can get it up and running?  Thank you. 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [31]
+--------------------------------------------------------------------------------
+
+     We're going to work on North America, the US and Canada, and once we feel like we've gotten that straightened out, we will move on to the other international markets. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [32]
+--------------------------------------------------------------------------------
+
+     Operator, next question please. 
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+     Greg Moskowitz, Cowen and Company. 
+
+--------------------------------------------------------------------------------
+Gregg Moskowitz,  Cowen & Co. - Analyst    [34]
+--------------------------------------------------------------------------------
+
+     Peter, you're tracking to lose a few more cents in the Online Division in fiscal 2011 versus fiscal 2010.  Obviously, RPS improvements going forward would help but you'll also be rolling out the integrated platform to additional markets.  So wondering if you could perhaps offer anything else about the EPS prospects for OSD next year relative to fiscal 2011. 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [35]
+--------------------------------------------------------------------------------
+
+     Yes, well certainly we're not going to give specific outlook more than what we have given, but you have hit on the key issue which is the revenue per search.  We've been clear on the opportunity and the strategy there is to continue to grow share and to increase our revenue per search.
+ So obviously we're laser focused right now on getting that revenue per search up and that has high leverage into sort of margins for the Company going forward. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [36]
+--------------------------------------------------------------------------------
+
+     Operator, next question please. 
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+     Sandeep Aggarwal, Caris & Co. 
+
+--------------------------------------------------------------------------------
+Sandeep Aggarwal,  Caris & Co. - Analyst    [38]
+--------------------------------------------------------------------------------
+
+     Peter, can you provide us any color in terms of how your new architecture effort for -- on tablet size progressing in terms of system-on-a-chip?  Thank you. 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [39]
+--------------------------------------------------------------------------------
+
+     No, I've get nothing else to talk about that other than what we have already said. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [40]
+--------------------------------------------------------------------------------
+
+     Operator, next question please. 
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+     Ed Maguire, CLSA. 
+
+--------------------------------------------------------------------------------
+Ed Maguire,  CLSA - Analyst    [42]
+--------------------------------------------------------------------------------
+
+     You discussed healthy activity in multi-year commitments.  Could you address how you and your customers are mixing business online services and looking at Office 365, how ultimately that may affect your model in terms of COGS? 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [43]
+--------------------------------------------------------------------------------
+
+     Yes, no, it's a great question.  Actually one of the interesting things about business online services and the pending Office 365 is it's enabling really great conversations and actually it's been a driver of the increase in multi-year licensing commitments because people have a lot of questions about the cloud and the transition to the cloud.  Having a clear story, having a partner that can help them transition and the pace that they want to has actually been a driver of the conversations we're having with enterprise.
+ In going forward, the economics of that are it's an increased revenue and total profit opportunity for us.  The subscription services do have a higher COG and so a lower gross margin in terms of percentage.  But over time, that is a growth in absolute margin dollars for us. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [44]
+--------------------------------------------------------------------------------
+
+     Operator, next question please. 
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+     Kash Rangan, Merrill Lynch. 
+
+--------------------------------------------------------------------------------
+Kash Rangan,  Merrill Lynch - Analyst    [46]
+--------------------------------------------------------------------------------
+
+     When I look at this quarter, you've already gotten past the four quarters of product cycle, helped revenue growth.  It looks like this quarter if I make adjustments for Office, you are still looking at high single digit, 8, 10% type growth rate against normal comparisons.
+ Any reasons to think that if IT spending and economy continued to stay the way they are, do you think that this growth rate should in fact decelerate as you go into fiscal 12?  Or if you can argue the other side, that it should stay at -- this growth rate is sustainable, both sides of the market argument?  Appreciate it, thanks. 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [47]
+--------------------------------------------------------------------------------
+
+     Without giving sort of specific guidance or growth rates, I will say we feel great about how enterprises are investing in IT and in particular, how they are very interested in our product suite.  I think we've got a very broad compelling set of products for the enterprise.
+ If you look at any number of CIO surveys, most of them say a high priority focus area for CIOs is our suite of products.  So directionally I would say we feel great about sort of the IT market and certainly our position in that in our product set. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [48]
+--------------------------------------------------------------------------------
+
+     Operator, we're going to take one final question. 
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+     Tim Klasell, Stifel Nicolaus. 
+
+--------------------------------------------------------------------------------
+Tim Klasell,  Stifel Nicolaus - Analyst    [50]
+--------------------------------------------------------------------------------
+
+     Maybe you can just give us your thoughts about the timing of a launch of the next-generation Xbox console and if a decision hasn't been made, do you guys internally have a time point of when you think you have to make that decision? 
+
+--------------------------------------------------------------------------------
+Peter Klein,  Microsoft Corporation - CFO    [51]
+--------------------------------------------------------------------------------
+
+     No, we're really not talking about that.  Right now we're incredibly excited about what's going on with the Xbox 360 console and certainly Kinect which is relatively new in market.  So we're very focused on that. 
+
+--------------------------------------------------------------------------------
+Bill Koefoed,  Microsoft Corporation - General Manager, Investor Relations    [52]
+--------------------------------------------------------------------------------
+
+     Okay, so that will wrap up the Q&A portion of today's earnings call.  A few weeks ago, we announced our plans for Microsoft 2011 financial analyst meeting which will be on the afternoon of September 14, 2011 in Anaheim, California.
+ FAM will be held in conjunction with our developer conference which will kick off on September 13 at the Anaheim Convention Center.  This year's FAM will feature presentations by key executives about the Company's strategic direction and will supplement the developer conference presentations which offer people the opportunity to learn directly about our product strategies and roadmap.
+ In the meantime, we look forward to seeing many of you at the numerous conferences in which we will be participating in this quarter.  For those of you unable to attend any of our events in person, you will always be able to follow our comments at microsoft.com/investor.  Please contact us if you need any additional details.  Thank you again and have a great day. 
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+     Thank you for everyone's participation.  You may now disconnect.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

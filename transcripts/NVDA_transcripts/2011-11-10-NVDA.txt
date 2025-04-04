@@ -1,0 +1,521 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2012 Nvidia Corp Earnings Conference Call
+NOVEMBER 10, 2011 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Rob Csongor
+   NVIDIA Corporation - IR
+ * Karen Burns
+   NVIDIA Corporation - Interim CFO
+ * Jen-Hsun Huang
+   NVIDIA Corporation - President, CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Alex Gauna
+   JMP Securities - Analyst
+ * James Schneider
+   Goldman Sachs - Analyst
+ * Patrick Wang
+   Evercore Partners - Analyst
+ * Ambrish Srivastava
+   BMO Capital Markets - Analyst
+ * Uche Orji
+   UBS - Analyst
+ * Craig Berger
+   FBR & Co. - Analyst
+ * Ross Seymore
+   Deutsche Bank - Analyst
+ * Romit Shah
+   Nomura Asset Management - Analyst
+ * Glen Yeung
+   Citigroup - Analyst
+ * Raj Seth
+   Cowen and Company - Analyst
+ * Vivek Arya
+   BofA Merrill Lynch - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+           Good afternoon.  My name is Kristin, and I'll be your conference operator today.  At this time, I would like to welcome everyone to the NVIDIA financial results conference call.  All lines have been placed on mute to prevent any background noise.  After the speakers' remarks, there will be a question-and-answer session.  (Operator Instructions).  At this time, I'd like to turn the call over to our host, Mr.  Rob Csongor.  Please go ahead. 
+
+--------------------------------------------------------------------------------
+Rob Csongor,  NVIDIA Corporation - IR    [2]
+--------------------------------------------------------------------------------
+
+           Thank you.  Good afternoon, and welcome to NVIDIA's conference call for the third quarter of fiscal 2012.  With me on the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer, and Karen Burns, Interim Chief Financial Officer.
+ After our prepared remarks, we'll open up the call to a question-and-answer session.  Please limit yourself to one initial question with one follow-up.  Before we begin, I'd like to remind you that today's call is being webcast live on NVIDIA's Investor Relations website and is also being recorded.  A replay of the conference call will be available via telephone until November 18, 2011 and the webcast will be available for replay until our conference call to discuss our financial results for our fourth quarter of fiscal 2012.  The content of today's conference call is NVIDIA's property, and cannot be reproduced or transcribed without our prior written consent.
+ During the course of this call, we may make forward-looking statements based on current expectations.  These forward-looking statements are subject to a number of significant risks and uncertainties, and our actual results may differ materially.  For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our Form 10-Q for the quarterly period ended July 31, 2011, and the reports we may file from time to time on Form 8-K, filed with the Securities and Exchange Commission.
+ All our statements are made as of today, November 10, 2011, based on information available to us as of today, and except as required by law, we assume no obligation to update any such statements.  Unless otherwise noted, all references to market research and market share numbers throughout the call come from Mercury Research or John Petty Research.  During this call, we will discuss non-GAAP financial measures.  You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our financial release, which is posted on our website.
+ We're pleased to report a strong third quarter.  Our results reflect solid growth in desktop and professional GPUs, as well as our mobile processors, while we executed on key growth drivers for next year.  Desktop consumer graphics revenue rose beyond usual seasonal increases due to strong global demand from PC gamers, driven by highly anticipated blockbuster PC games just starting to hit the shelves.  Electronic Arts' Battlefield 3, which launched on October 25, sold 5 million units in the first week, amid critical acclaim in the press, particularly for the highly-advanced PC version.
+ The latest installment of the highly-successful Call of Duty franchise from Activision, Call of Duty, Modern Warfare 3, launched on November 8.  Electronic Arts says pre-orders for Star Wars, The Old Republic, a PC-only online game, scheduled for release on December 20 are the highest they have ever seen.  We believe this surge of PC gaming demand will drive increased demand for NVIDIA's GeForce products, despite the soft consumer PC market.  We expect a multi-year PC gaming cycle as the PC becomes increasingly more powerful than five- to six-year-old gaming consoles.
+ We also kicked off the next generation of 3-D gaming with the NVIDIA 3-D Vision2 glasses with LightBoost technology.  The new glasses deliver a superior gaming experience, while NVIDIA's patented LightBoost technology delivers twice the brightness of our last-generation solution.
+ While sell-out attach rates remain stable, NVIDIA discrete graphics notebook revenues were lower in Q3, reflecting a market share drop of 4%.  We believe this is due primarily to some Intel loss of shares in CPUs, and our absence from Apple notebooks in this design cycle.  With attach rates stable, we believe we are well-positioned with design wins in both Sandy Bridge and Ivy Bridge notebooks to regain market share in upcoming quarters.
+ Sandy Bridge continues to drive growth for our discrete GPU business.  According to the latest data from both Mercury Research and John Petty Research, average discrete GPU attach rates remain constant overall at 36%, while integrated CPU continues to erode integrated graphics chipset market share.  According to Mercury Data, average discrete GPU attach rates have now remained flat, within a 2% variation quarter-to-quarter, for the last eight quarters.
+ According to recent press reviews from Forbes to Hardware Canucks, discrete GPUs remain the PC market's first choice for a PC upgrade.  While integrated CPU graphics continue to lag far behind the performance of discrete GPUs, for the demanding gamer and enthusiast markets.  While Sandy Bridge graphics are far below the minimum requirements for today's modern games and applications, the combination of a Sandy Bridge CPU with a GeForce discrete GPU continues to deliver the best price-performance solution for today's PCs.
+ Our professional GPU business had a record revenue quarter on strong professional graphics market demand, and continued adoption of the Fermi generation Quadros.  During the quarter, we also announced that Oak Ridge National Laboratories, which operates the world's premier open science computing facility for the US Department of Energy, will deploy a revolutionary new super computer, Titan, based on NVIDIA Tesla GPUs.
+ Its 18,000 Tesla GPUs will deliver roughly 85% of the peak compute performance of Titan.  With the potential to deliver over 20 petaflops of peak performance, Titan, a Cray XK6 super computer, would be more than two times faster and three times more energy efficient than today's fastest super computer, Japan's K Computer.
+ Our consumer products business, which includes Tegra processors, delivered solid growth in the quarter.  NVIDIA and its partners added three more Tegra-based super phones to the eight already available.  The LG Optimus EX, LG Optimus Q2, and Motorola Electrify.  We also added 13 new tablets for a total of 23 currently available, including the Asus Slider, Sony Tablet X, Sony Tablet P, Toshiba Thrive 7-inch, the Acer Iconia A-100, Sharp Galapagos E-Reader, Dell Streak 10, Lenovo ThinkPad, and Samsung's Galaxy Tab 8.9.
+ We are pleased to see exciting new Tegra 2 devices ramp into production, and we are particularly excited to have introduced two days ago the Tegra 3 processor and the first Tegra 3 tablet, the groundbreaking Asus EeePad Transformer Prime.  It will be on shelves in the US within a few weeks, in time for the holiday season.
+ Tegra 3 ushers in the next generation of mobile SmartPhones and tablets.  It is the world's first quad-core mobile processor, delivering PC-like performance to mobile devices while enabling ultra low power consumption.  The Tegra 3 processor provides up to three times the graphics performance of Tegra 2, and up to 61% lower power consumption.  This translates into an industry-leading 12 hours of battery life for HD video playback.
+ The Tegra 3 processor implements a new patent-pending technology, known as variable symmetric multiprocessing, or VSMP.  VSMP includes a fifth CPU companion specifically designed for work requiring little power.  The four main cores are designed for work requiring high performance, and generally consume less power than dual-core processors.  With Tegra 3, we begin the next phase of growth for our mobile business.
+ While we are adding more tablet customers with Tegra 3, we are particularly excited to have more and higher volume SmartPhone design wins with Tegra 3 than we did at Tegra 2's production launch.  We're pleased to officially be in production with Tegra 3, a fundamental growth driver for our mobile business next year.  With that, let me hand the call over to Karen. 
+
+--------------------------------------------------------------------------------
+Karen Burns,  NVIDIA Corporation - Interim CFO    [3]
+--------------------------------------------------------------------------------
+
+           Revenue for the third quarter was $1.07 billion, up 4.9% sequentially.  Non-GAAP gross margin of 52.5% was a record for the fifth consecutive quarter.  Gross margin exceeded our expectations for the quarter, primarily as a result of strong demand in the high-end segments of our desktop GPU products, and record sales in our Quadro professional graphics products.  Non-GAAP OpEx was $317.6 million, slightly below our estimates.  Combined, these results generated a non-GAAP net income of $217 million, or $0.35 per diluted share, up 12.1% over the prior quarter.
+ Revenue by business segment was as follows.  Our GPU business was up 1% compared with the prior quarter.  Desktop GPU revenue was up strongly by 23% in the quarter.  This gain was despite a $47.3 million decline in our chipset revenue, as we end-of-life these products and exit the chipset business.  Notebook GPU revenue decreased as compared with the prior quarter, for the reasons Rob has mentioned.
+ Our professional business had record revenue in the third quarter, up 9.5%, at $230.3 million.  This was largely driven by our record sales in our Quadro professional graphics products.  Our consumer business was up 14% over the prior quarter, primarily through growth in Tegra sales, together with seasonal strength in game console revenue.
+ Turning to the balance sheet, cash, cash equivalents and marketable securities at the end of the quarter were at $2.75 billion, up 11% or $273.9 million sequentially.  Cash flow from operating activities was $244.4 million.  Both accounts receivables and inventories were down at the end of the quarter, with DSO improving by six days, down to 32 days, and DSI by 10 days, down to 57.  Our strong balance sheet position at the end of the quarter reflects the overall strength in our businesses.  Strong demand and shipment linearity, strong collections and management of inventory.
+ Our outlook for the fourth quarter of fiscal 2012 is as follows.  Closing on a strong third quarter, we expect revenues to be relatively flat, plus or minus 2%.  We expect gross margins to be flat to up 0.5 percentage points from our record levels achieved in Q3, on both a GAAP and non-GAAP basis.  For operating expenses, we expect GAAP to be approximately $372 million, and non-GAAP approximately $330 million.
+ The increase is primarily related to planned hiring in our strategic investment areas, as well as engineering costs related to new products as we bring them into production.  We expect the tax rate to be between 14% and 16%, on a GAAP and non-GAAP basis, excluding any discrete tax events that may occur during the quarter.  That concludes our prepared remarks.  We will now take questions. 
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+     (Operator Instructions).  Ross Seymore, Deutsche Bank. 
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [2]
+--------------------------------------------------------------------------------
+
+     Looking forward, could you give any color by your main segments as to any area that's going to be better or worse than the flat plus or minus guidance you provided overall? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [3]
+--------------------------------------------------------------------------------
+
+     We're expecting GeForce desktop to be up, and we're expecting that to be up nicely, driven by the hit games that Rob talked about.  This is likely a multi-year cycle of growth for PC gaming.  This happens every major game console cycle towards the second half of its product life, because PC technology advances on a regular basis, instead of once every seven to 10 years, and so you could imagine how PC technology is dramatically better than a game console today, and you're starting to see that now with the new generation of games that are coming out, such as Battlefield 3.
+ We're expecting notebook to be flat to slightly down.  We're expecting Quadro to be up.  We already had a record quarter this quarter.  Quadro is benefiting from the Fermi adoption.  It's also benefiting from the fact that China and India and other developing countries are increasingly moving to a design economy rather than just a manufacturing or second-sourcing economy.  And so when China and India particularly move to design economies, the single most important tool of modern design is a workstation, and our market share in workstations is very good, so we're going to benefit from that for quite some time.
+ Tesla is expected to be flat and mobile is expected to be flat, and we'll see how the devices that have gone into production this quarter do in the marketplace.  I think we have something along the lines of about 17 or -- 16 or 17 new devices that went into production, many new tablets that Rob mentioned and new phones. 
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [4]
+--------------------------------------------------------------------------------
+
+     And then a combined question.  Channel inventory and then what's your view on any impact included or otherwise in your guidance on the Thailand floods? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [5]
+--------------------------------------------------------------------------------
+
+     Channel inventory is in good shape.  In fact, for most of our high-end products, the ones that the PC gamers buy, are particularly low at the moment.  It reflects the demand that we're seeing.  With respect to Thailand, the projection that we gave reflects how we view the marketplace as of now.  If you look at the dynamics of the shortage, for some of our markets it's really a non-factor.
+ For example, mobile, obviously, because we don't use hard disc drive in mobile and you could argue that the money that isn't spent in mobile is in PCs could be spent in mobile.  You could also see that in some of our other segments where workstations, Tesla and the high-end PCs, because the value in the margins are so good for our PC OEMs in the times of shortage, those particular platforms and segments are prioritized.  And so there's puts and gets and we'll see how it works out.  But there's many favorable dynamics as well as negative. 
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+     Raj Seth, Cowen and Company. 
+
+--------------------------------------------------------------------------------
+Raj Seth,  Cowen and Company - Analyst    [7]
+--------------------------------------------------------------------------------
+
+     Can you talk a minute about your long-term ambitions in the handset space vis-a-vis sort of market segments?  You obviously come in at the high end of the market with Tegra.  I'm curious as you look out 18 months, maybe even a little bit more, how do you think about the other tiers, the mid-tier of the market?  Is that something we should expect NVIDIA to target as you eventually start integrating Icera and Tegra and some of these things together? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [8]
+--------------------------------------------------------------------------------
+
+     Our first entry into the market is where performance and visual experience is very important and this is an area where we could add a lot of value.  Tegra 2 came into the segment that now people recognize to be quite an exciting segment and we called it the SuperPhone segment.  The SuperPhone segment is not insignificant, and as mobile devices become increasingly important to people's lives and they recognize in the second and the third SmartPhone that they bought how wonderful they are, they tend to buy up.
+ The characteristic is very consistent with that of people who buy cars to people who buy PCs.  The first PC they buy, because they were not exactly sure how they would use it, they tend to buy in the mainstream segment and over time they buy a better and better one because they realize how much of their lives is involved in it.  We see the same thing in the SuperPhone segment, that this is likely to be a good growth segment for us.
+ We have more design wins in Tegra 3 today than we had at Tegra 2.  We have more design wins, more devices, more OEMs.  We didn't win them all; there's some that we lost.  Motorola was one that I'm personally disappointed in not winning this cycle around, but net, we have more designs and more OEMs going at the moment, going into next year.
+ As a result, as related to the ultimate plan, our goal is to continue to drive the SuperPhone segment for information and features in the segment, but in addition to that with the Icera acquisition we're now able to integrate the application processor and (inaudible) into a single processor.  This is a very large focus of our Company at the moment.  Part of our increase in OpEx is related to our efforts in this area.  We think we can add product value in bringing this capability into the mainstream segment and hopefully we'll be able to see the early examples of that towards the end of next year. 
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+     James Schneider, Goldman Sachs. 
+
+--------------------------------------------------------------------------------
+James Schneider,  Goldman Sachs - Analyst    [10]
+--------------------------------------------------------------------------------
+
+     I was wondering if you could give us a little more color on the prior question.  We've seen Texas Instruments be quite aggressive in some of the lower-end tablets and some of the lower-end SmartPhones, I think you just alluded to that in your answer to the previous question.  Can you talk about your plans for Tegra 2 versus Tegra 3?  Do you intend to continue with Tegra 2 production at a lower price to capture that low end of the market with Tegra 3 attacking the high end or do you, or do you just want to attack the SuperPhone market with Tegra 3 only? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [11]
+--------------------------------------------------------------------------------
+
+     There were a couple of tablets this year, if I look at overall the year, obviously our tablet design wins are numerous and beyond count at the moment.  There are many segments of the marketplace that we serve now, all the way from very high design content tablets in 10-inch to now increasingly many 7-inch tablets that are coming into the marketplace.
+ There are a couple of design wins that I wish we had this year that we didn't have.  I already mentioned Motorola.  We were surprised by the Amazon Fire, but frankly, we're not going to be surprised again and so we're obviously very excited about Amazon, and we're going to do our best to be a partner of theirs someday and so I think those were the two main ones that I can really highlight.
+ With respect to Tegra 2 versus Tegra 3, Tegra 2 will continue to ship into the marketplace.  Three new phones were introduced just this week, or just this last quarter, and we're expecting to see those phones continue to ship.  Tegra 3 is going to come into the marketplace in tablets ranging from 7-inch all the way to 10-inch, and the reason why Tegra 3 is such a -- both very high performance, as well as super affordable, is because the battery life that is made possible by the technologies that are inside Tegra 3 that we talked about.
+ Rob talked about variable SMP, this fifth core, which is essentially like an electric hybrid engine for Tegra 3.  It consumes so little energy that the battery life could be much, much longer for Tegra 3 tablets.  As a result, when battery life is long and the power is -- and the processor is very energy efficient, you can save enormous amount of cost around the system.
+ There's a second great technology in Tegra 3.  It's called [die dim] and it's the ability to per pixel, per frame, per scene, to modulate the backlight so quickly that we over a long period of time reduce the amount of backlight intensity, backlight energy by nearly half.  We save as much power in the backlight without changing the visual fidelity at all to save essentially the entire power used by our chip, and so saving power, energy efficiency translates to reduced system bill of material.
+ And as a result of those things people are finding that they could take the Tegra 3 tablets both into very high segments because of its performance, as well as into very affordable devices like 7-inch and such.  And then of course, Tegra 3 is going to revolutionize the SmartPhone market again by bringing quad-core and a new level of capability this year and it's going to be pretty exciting year for us on SuperPhones. 
+
+--------------------------------------------------------------------------------
+James Schneider,  Goldman Sachs - Analyst    [12]
+--------------------------------------------------------------------------------
+
+     On the OpEx trajectory, you're guiding that partly on the strategic new programs and partly, I assume, just on 28-nanometer new products and the normal course of things on GPUs.  Can you talk about how much is coming from each of those areas, and whether we should expect OpEx to continue to go up at a similar rate in future quarters? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [13]
+--------------------------------------------------------------------------------
+
+     The vast majority of the increase is coming from the very significant increase in design wins that we have in several areas.  We have more notebook design wins for the Ivy Bridge cycle than we've ever had in notebooks.  And this is likely the most successful notebook cycle we've ever experienced, and so we've got a lot of engineers dedicated to getting those notebooks into production.
+ The reason for our success I believe is our Kepler generation of GPU was designed for intense energy efficiency, and with energy efficiency, we were able to translate that to simultaneously higher performance, as well as longer battery life.  And so that's the first part.
+ The second thing is, we have more SmartPhones in design as a result of Tegra 3.  We have more tablets in design as a result of Tegra 3 and on top of that, we have Windows 8 tablets and devices that we're building all over the world.  All of those design wins translate to quite a bit of customer engineering, customer-facing engineering to build these exquisite devices, and then there's a portion of it is that is related to 28-nanometer tape-out of new processors that will go into production shortly. 
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+     Romit Shah, Nomura. 
+
+--------------------------------------------------------------------------------
+Romit Shah,  Nomura Asset Management - Analyst    [15]
+--------------------------------------------------------------------------------
+
+     Good quarter, guys.  Was it a function of price or something else? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [16]
+--------------------------------------------------------------------------------
+
+     It's a couple of things, I think.  Partly, you have to ask Motorola.  I think that, one, our rhythm is once every year, and Tegra 2 came into production a year ago.  Tegra 3's in production now.  And for Motorola, they had their own internal rhythm and OMAP 4 was right in between Tegra 2 and Tegra 3 and they felt that OMAP 4 was a better processor than Tegra 2.  Obviously, I feel different, but Motorola made their choice.
+ Second thing is Tegra 3 is obviously more -- surely more value than OMAP 4 by a lot.  I think at this point it's very, very clear that Tegra 3 is in a completely different class than OMAP 4, so it was difficult for us to be price-competitive relative to OMAP 4, and I think those two things play a role.  We all have different perspectives on when new technology could be adopted in the marketplace and we felt that last year was the year of the dual core processor and dual core processors are dual core processors.  It's been done.
+ Tegra 3 is bringing a new level of capability with variable SMP, five processors on a chip, as well as energy efficiency that's never been seen before in the mobile world.  The combination of a much higher capability and performance, as well as much, much higher efficiency, and therefore battery life, we felt that we could bring a new capability to the mobile era, so that was our perspective.  I think it's becoming increasingly clear that by the early part of next year SuperPhones will have quad core and we'll see how it plays out from here.  We'll work super hard to get back into Motorola, and obviously, a very important partner.  They build amazing phones, and it would be a privilege and pleasure to be part of them again. 
+
+--------------------------------------------------------------------------------
+Romit Shah,  Nomura Asset Management - Analyst    [17]
+--------------------------------------------------------------------------------
+
+     It's our understanding that GI's OMAP sells for about $12 to $14, where I believe NVIDIA said that Tegra ranges from $15 to $25 depending on the platform so I guess given OMAP's success on the ICS platform, would you expect any downward pressure to ASPs for mobile? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [18]
+--------------------------------------------------------------------------------
+
+     I don't know which Tegra is $15.  If we're still talking about Tegra 3, there is no Tegra 3 that's $15.  It's higher than that.  But Tegra 3 and OMAP 4 aren't targeting the same generation of devices, and we're not targeting the same market.  Tegra 3 is designed for SuperPhones.  Tegra 3 is designed for next-generation tablets.
+ When you compare on a device-to-device level, processor-to-processor level, it's really hard to make that comparison.  When you compare it at a system level, Tegra 3 is about cost-equivalent, if sometimes cost advantaged relative to last generation devices including Tegra 2.  The reason for that is because Tegra 3 is so energy-efficient that it actually reduces your system BoM cost by a fair amount.  Variable SMP and die dim, our image processing technology, makes it possible for us to reduce some $10 worth of system reduction, relative to last generation, and still be higher performance and still be longer battery life.
+ Those things, when taken into consideration, is explaining why now that people understand what Tegra 3 can do, and they realize it's really the right platform to invest in going forward.  The advantage of investing in Tegra 3 now is even more important when you consider the processor we have beyond it which is the integration of Tegra and LTE modem.  All of the software effort that is invested into Tegra 3 translates directly into the mainstream products and entry-level products towards the end of next year. 
+
+--------------------------------------------------------------------------------
+Romit Shah,  Nomura Asset Management - Analyst    [19]
+--------------------------------------------------------------------------------
+
+     Could you give us an update on the CFO search? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [20]
+--------------------------------------------------------------------------------
+
+     We're actively doing the CFO search.  We're working on it very hard.  However, because we have such a great team on board and they're doing such a great job it gives me the luxury of looking for someone who is very seasoned, who understands the technology industry and someone who -- somebody completely world-class.  So it buys me that luxury, which very few companies have.  We have such a wonderful team in place that we can find the opportunity to go look for something -- somebody really truly great. 
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+     Alex Gauna, JMP Securities. 
+
+--------------------------------------------------------------------------------
+Alex Gauna,  JMP Securities - Analyst    [22]
+--------------------------------------------------------------------------------
+
+     Was wondering if you could give some color on the Tegra 3 SuperPhone wins that you're expecting.  It sounds like in Q1 we might start seeing these.  And you mentioned a higher-volume opportunity.  I was wondering if you could give some color on that, and if that's inclusive of anticipating Windows 8 in 2012? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [23]
+--------------------------------------------------------------------------------
+
+     I understand your first question.  I'm not sure I understand the second question.  What is the higher-volume opportunity? 
+
+--------------------------------------------------------------------------------
+Alex Gauna,  JMP Securities - Analyst    [24]
+--------------------------------------------------------------------------------
+
+     Where are you getting to your expectations for the higher volumes than what you did in SuperPhones with Tegra 2?  Is that simply because you're including the Windows 8 opportunity in that? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [25]
+--------------------------------------------------------------------------------
+
+     We are working very, very hard right now on all of these devices.  I'll answer it backwards.  The reason we expect Tegra 3 to be more successful than Tegra 2 is, one, we have much, much more experience in building these mobile devices than we did before.  And there's not a single mobile -- cell phone Company that I know who looks at us and say, do you know anything about building phones?  Everybody is well past that.  They think not only do we know how to build phones, we're fabulous at building phones with them.
+ I think that the velocity of engagement is much greater than it used to be.  Both on our side, as well as on their side.  We have more phones in development now than we did in Tegra 2.  We have more tablets in development.  We have more OEMs than we had in Tegra 2.  And not to mention on top of that, Windows 8.  But even in the absence of Windows 8 we have more -- far more OEMs and devices in development today than we did with Tegra 2. 
+
+--------------------------------------------------------------------------------
+Alex Gauna,  JMP Securities - Analyst    [26]
+--------------------------------------------------------------------------------
+
+     And did I understand you correctly, you expect to see those phones emerging in Q1?  And then also with regard to your comments earlier around OMAP, how do you get the industry taking advantage of all quad cores, the quad core architecture, especially when the mainstream is going to be due core?  And I get the power savings but beyond that, applications that take advantage of those capabilities. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [27]
+--------------------------------------------------------------------------------
+
+     We're working on these devices as hard as we can, but we're not the device makers.  My expectation is that Q1 is an appropriate time for many of these devices to come to market, but we'll get there as quickly as we can.  Quad core is already utilized by a lot of applications, and whether it's imaging applications, which as you know, is a very large reason why you would like to have snappiness and processing capability on a mobile device, whether it's computational photography or augmented reality, many of these type of new capabilities need to have a lot more processing.
+ The way that you load a website, it's multi-threaded.  When you play a game, most of these high-end games are ported from engines that are developed already for game consoles and PCs.  Both of those platforms are already heavily multi-threaded.  I think there's six processors inside the Xbox, six threads, and I think inside a PlayStation 3, there's countless threads, I think something like 8 or 16 threads.  So four threads is very usable by many of these, will be consumed by many of these applications. 
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+     Patrick Wang, Evercore Partners. 
+
+--------------------------------------------------------------------------------
+Patrick Wang,  Evercore Partners - Analyst    [29]
+--------------------------------------------------------------------------------
+
+     You did quite well last quarter in Quadro.  I was hoping you could talk a little bit more about that opportunity.  I guess in terms of the near term as well as where you're seeing growth in the emerging markets. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [30]
+--------------------------------------------------------------------------------
+
+     Well, the emerging markets are just going into the design economy.  When you think about China and India, I think that most people would say that these are economies that have been driven by outsourcing from the United States and manufacturing revenues from opportunities from the west.  But increasingly, as the economy develops, and their local consumption increases, the local economy will move, and will transition to design economies as well.
+ Whereas you need factories to outsource, and you need PCs to outsource our IT jobs, in order to move into the design economy, whether it's Tata or just recently, one of the most ambitious digital projects in the history of India, Raw One, was done with NVIDIA's technology.  And as you know, Bollywood is many times larger than Hollywood in terms of the number of movies and the number of fans that support that industry, and that industry's moving completely to digital, as we have done here in the United States and in the west.  Tata the car Company.
+ In China, the focus of their economy has moved toward much more indigenous IP design and indigenous industrial design and that requires workstations.  Over time, I would expect that the size of the Quadro business will reflect the size of the economy.  If China becomes as large as the United States in terms of the size of their economy, I would expect the Quadro opportunity in China would be as large as it is here in the United States.  And the same goes for India. 
+
+--------------------------------------------------------------------------------
+Patrick Wang,  Evercore Partners - Analyst    [31]
+--------------------------------------------------------------------------------
+
+     On Ivy Bridge you said that you expect to have much higher share on Ivy Bridge.  Was hoping you could talk a little bit about that.  And then also Project Denver, something that a lot of us are curious about.  Hoping you could give us an update there. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [32]
+--------------------------------------------------------------------------------
+
+     This cycle, our market share on the Intel platform was north of 50% overall.  But we recognize that -- and the reason for that success was a technology called Optimus that invisibly and auto-magically makes it is so the GPU can be in high performance state or in extremely low state without intervention from the user.  It just figures it out by itself.  As a result you have very high performance when you need it and you have extremely long battery life when you need it.
+ The thing that kept us from being even more successful is that our processor could have been more energy-efficient in itself.  so one of the things we dedicated ourselves to do with Kepler was focus an enormous amount of our energy on creating an architecture that was energy-efficient, and the result is just really fabulous and so our customers see that.  They understand the benefit of it, and in combination between Kepler and Optimus, we have a great solution, and we have a great solution and this is probably as competitive as we've ever been in the notebook segment.
+ Project Denver, our focus there is to supplement, add to ARM's capabilities by extending the ARM's architecture to segments in a marketplace that they are not themselves focused on, and there's some segments in the marketplace where single-threaded performance is still very important, and 64-bit is vital and so we dedicated ourselves to create a new architecture that extends the ARM instruction set, which is inherently very energy-efficient already and extend it to high performance segments that we need for our Company to grow our market.
+ And we're busily working on Denver.  It is on track.  Our expectation is that we'll talk about it more, hopefully towards the end of next year and until then, I'm excited as you are. 
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+     Vivek Arya, Bank of America. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [34]
+--------------------------------------------------------------------------------
+
+     A few days ago a major flat screen controller vendor indicated that it saw some excess channel inventory in Android tablets.  what checks do you have in place to gauge sell-through in your tablet and SmartPhone products to make sure that product is not piling up in inventory somewhere? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [35]
+--------------------------------------------------------------------------------
+
+     I guess our channel checks are no more magical than others.  I think Tegra 2 is the only device, it's a sole source device in the devices that we're in, so we have a relatively close relationship with our OEMs, and it is not second-sourced.  With respect to other components in a system, oftentimes they're second-sourced and they're cost reduced in the middle of the cycle and we put a lot of our energy working with our OEMs, improving the overall bill of material cost of the system, even throughout the entire product cycle.  I can't really speak for what other people see, but so far, what we see is relatively normal. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [36]
+--------------------------------------------------------------------------------
+
+     Can you give us a sense of what the unit or sales mix has been between SmartPhones and tablets this year and what do you think it's shaping up to be for next year?  My sense is a lot of people are still somewhat skeptical about the Android tablet opportunity, maybe even more so after the launch of Amazon Kindle Fire.  Any sense of how much of your growth prospects depend more on tablets rather than SmartPhones, I think are a useful indication for us. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [37]
+--------------------------------------------------------------------------------
+
+     I think the overall mix is higher units in phones but about equal mix, relatively equal mix in terms of overall revenues.  In terms of Android tablets, I think that the early response was premature.  It is the case that there are many things that we could have done better, but it is also the case that the OEMs, ourselves, Google, really rolled up our sleeves and addressed many of the challenges that kept it from being more successful right out of the gate.
+ You see now that these tablets are much more affordable.  They're available in multiple sizes, from 5-inch to 7-inch to 8-inch to 9-inch to 10-inch.  Some of them are foldable.  Some of them are transformable.  There's all kinds of different types of manifestations and realizations of the Android tablet.  My understanding is that the Android tablet has now grown from approximately 0% in the March timeframe to now about a third of the overall tablet market and we represent about two-thirds of that.  And my sense is that's going to continue to grow.
+ One of the things that I really love about Honeycomb 3.2, and even more so with Ice Cream Sandwich is that the applications that you have on your SmartPhone will work wonderfully on your tablet and vice versa and that the marketplace can now take advantage of the incredibly large installed base of Android phones to support applications that would benefit the tablet.
+ I think that strategy is ingenious and I think that the Android team has done a fabulous job implementing that strategy.  I think starting with Honeycomb 3.2 and surely all these various form factors and price points and device sizes and then Ice Cream Sandwich will surely accelerate that.  I'm very enthusiastic about the Android tablets.
+ Having said that, the Android phone, the market is just enormous and growing quickly.  I think in the United States it's already the highest market share.  I think the last month or last quarter, it reached something like 64% market share in the United States.  Pretty extraordinary growth, and in China, Android or the base of Android surely is growing very quickly as well.  I think the SmartPhone market is going to continue to be very vibrant on Android, and that will only fuel and that will only feed the Android tablet market as well over time, and I think we're seeing all of those dynamics now.  So I'm much more enthusiastic about the tablet today than I was when it first launched and I think that results would suggest that's right. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [38]
+--------------------------------------------------------------------------------
+
+     You have quite a bit of cash, almost 30% or more of your market cap.  You're also generating good levels of cash.  What will it take to start buying stock more actively at these levels? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [39]
+--------------------------------------------------------------------------------
+
+     It's something we consider all the time.  We just don't have anything to report today. 
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+     Uche Orji, UBS. 
+
+--------------------------------------------------------------------------------
+Uche Orji,  UBS - Analyst    [41]
+--------------------------------------------------------------------------------
+
+     Help me understand how the economics of Tegra 3 works.  You talked about taking out $10 of BoM, but obviously in a market where we're seeing more and more low cost tablets being launched at ASP above $15, I just want to understand what are you taking out when you're talking about $10 worth of BoM?  And to understand how, with $15 ASP or above, Tegra 3 can be economical within the lower-cost tablet market. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [42]
+--------------------------------------------------------------------------------
+
+     Well, without being too specific, because I don't think it really matters.  I think the key is that the higher your power, the more you have to spend electronically to support it.  And the lower your power, the more energy-efficient you are, the more you could reduce system cost.  Or use external devices that are much more affordable, but consumes a little bit more energy, because the core processor, which is where most of the energy is consumed, is so efficient.
+ When you're looking at a tablet, and then you think about an application processor that's about $20, it doesn't represent a very large percentage of the overall cost, and so the application processor is often not the issue.  The issue is everything else, and what we've done is we've taken a holistic system approach and we thought about the energy consumed by the backlight.
+ We thought about the energy consumed by the memory, and the rest of the system and we were able to dramatically reduce that through architecture, and that's implemented in Tegra 3.  So that's at the highest level, what we've done, and I think that our customers are really excited by the system cost reduction we were able to bring them. 
+
+--------------------------------------------------------------------------------
+Uche Orji,  UBS - Analyst    [43]
+--------------------------------------------------------------------------------
+
+     In terms of the handset design wins you're getting, Tegra 2 started off with quite a few handsets, and obviously, the revenue started out strong and flat lined for a while.  As we look at design wins for Tegra 3, I have two questions.  How much more confident are you that some of these design wins will suddenly translate to big revenue?  This is not something within your control.  I'm trying to gauge your level of confidence.
+ With more design wins, do you have to spend more OpEx to support it?  If your revenue doesn't come through, is there any flexibility to being able to make model a little bit less saddled with higher fixed costs while the design wins are not necessarily shipping as aggressively.  I don't know if you understand what I'm trying to say.  I'm just trying to understand, if I look at Tegra 2 into Tegra 3, how should I believe the revenue will come through? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [44]
+--------------------------------------------------------------------------------
+
+     I'm more confident in Tegra 3 at this point than I was in Tegra 2 at this point a year ago.  We have more design wins.  We're better at it.  We surely are much better at it today than we were a year ago.  We have a lot more engineers who are engaging with a lot more customers, working on a lot more devices that will enter into the marketplace earlier than we entered into this year.
+ By the time we started shipping, it was really dribbles and drabs in April, and I think we're going to go into this coming year with a pretty good running start.  If you're asking me about my confidence, I'm surely more confident now with the year of building mobile devices behind me and the level of expertise that we've been able to develop over the years.  And I think the reputation of our Company, the trust that our OEMs have in us, and the leadership position we have with our processor, Tegra 3, is pretty unambiguous.  I surely feel more confident today than I did on the Tegra 2 cycle.
+ With respect to investment, we're investing in both our notebook PC growth as well as our mobile devices growth, and we believe that we're addressing very large TAMs, and irrespective of whatever experience, albeit, I'm more confident right now in your scenario even in that scenario that you hypothesized about, I'm fully committed to this marketplace.
+ I believe that the future is visual.  I believe that the future is mobile, and we're going to invest into it.  We're looking at a $25 billion TAM in some four, five years, and we're going to go after it.  So I think irrespective of any unexpected hiccup in the short term, we're going to stay determined and focused on building a great Company. 
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+     Glen Yeung, Citi. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [46]
+--------------------------------------------------------------------------------
+
+     (inaudible) at the conference back in September you gave fiscal 2013 guidance.  (inaudible) Going on in Europe, issues impacting hard disc drives, can you discuss whether there are any changes to your view, the guidance. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [47]
+--------------------------------------------------------------------------------
+
+     I have no change in my guidance, or in my projection, nor do I believe the short-term information that we have warrants it.  It is really unfortunate what happened in Thailand and in some areas it would affect our business, in some areas it would benefit our business.  In some areas it would have no impact on our business and a big part of our business as you know is in after market retail purchase of graphics cards that people buy to enhance their PCs so that they can play the latest games.  That's a very large market because the game market is so large.  And I don't think that will be affected by the situation in Thailand.
+ I don't think our mobile industry, mobile business will be affected by it.  If anything, it will be affected by a positive way.  I think our workstation business, which is very large and drives a larger part of our profit dollars will not be affected, and if anything it will be affected in a positive way.  And so I think that there are many areas where it's unaffected, some of it will be affected and some of it is positively affected, and so I think at the moment I wouldn't change anything. 
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+     Craig Berger, FBR Capital Markets. 
+
+--------------------------------------------------------------------------------
+Craig Berger,  FBR & Co. - Analyst    [49]
+--------------------------------------------------------------------------------
+
+     Can you just give us a brief update on Icera, when you expect to get into a handset with that product, and share with us your view of integrated architecture versus discrete architecture and how Tegra fits into the future there? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [50]
+--------------------------------------------------------------------------------
+
+     Number one, I don't believe that it makes sense to integrate for tablets.  It doesn't make sense to integrate for clam shells and mostly doesn't make sense for SuperPhones.  However, for the mainstream and entry-level SmartPhones, I think it makes a lot of sense to integrate and our plan, we're actively working on an integrated product.
+ We're actively working on many non-integrated products as well, for all of the segments that I described.  For the integrated product, I hope that we'll have something to sample next year.  With respect to the first question, Icera phones, we have several Icera phones with Tegra processors actively in development and racing to market as we speak.
+ In the meantime, and I think going forward as well, for our standalone application processors, the Tegra processors, we're delighted to and we continue to work with the standalone modem companies because there are many accounts and many customers where they have deep partnerships and a lot of experience with and there are many where we have a lot of experience with and I think that partnering with them is helpful to our combined partners and our combined customers and the market is growing so rapidly that collaboration is surely better. 
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+     Ambrish Srivastava, BMO. 
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets - Analyst    [52]
+--------------------------------------------------------------------------------
+
+     Jen-Hsun, you're absolutely right, you should actually go see Raw One, it was a great movie.  Your marketing guys did a great job with the product placement, it was right front and center.  My question, a little bit longer-term.  You talked about it a little bit.  What does ARM V8 give you?  You talked about high-performance computing.  Are you also hoping to take that into low power servers?  How do the dynamics change because there's a lot of ARM licensees, but you are the lead licensee for ARM V8. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [53]
+--------------------------------------------------------------------------------
+
+     The Denver architecture is intended to extend the ARM instruction set into segments where ARM is not naturally likely to go themselves.  And it's designed to bring a new level of performance and efficiency to the ARM instruction set beyond where they currently are.  And it's not because ARM is not able to design these things, it's because our market focus is perfectly aligned with ARM in some areas like mobile and tablets and clamshells.
+ In some areas that are very important to us, they're rather non-markets for them today, and we, in partnering with them could bring value by bringing the ARM instruction set into segments of the marketplace that are very important to us.
+ There are also segments in the marketplace, you mentioned high-performance computing, that desperately would like to see an energy-efficient instruction set architecture, like massively parallel processing in super computing or in very energy-efficient high throughput servers.  These are opportunities that are very interesting to us as well.  As we get closer to the release of Denver, we'll reveal more and more of the strategies that are related to Denver, and I think you're going to be as blown away and as excited as I am. 
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+     At this time, do you have any closing remarks? 
+
+--------------------------------------------------------------------------------
+Rob Csongor,  NVIDIA Corporation - IR    [55]
+--------------------------------------------------------------------------------
+
+     No, thank you.  Thank you everyone.  We look forward to talking to you about our Q4 results and we'll see you next time. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [56]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+
+     Thank you.  This does conclude today's conference call.  You may now disconnect. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

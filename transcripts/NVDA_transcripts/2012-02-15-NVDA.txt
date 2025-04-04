@@ -1,0 +1,769 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2012 Nvidia Corp Earnings Conference Call
+FEBRUARY 15, 2012 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Rob Csongor
+   Nvidia Corp - VP, IR
+ * Karen Burns
+   Nvidia Corp - Interim CFO
+ * Jen-Hsun Huang
+   Nvidia Corp - Co-founder, President, CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Vijay Rakesh
+   Sterne, Agee & Leach - Analyst
+ * Deepon Nag
+   Macquarie Research Equities - Analyst
+ * Alex Gauna
+   JMP Securities - Analyst
+ * Brian Peterson
+   Raymond James - Analyst
+ * Glen Yeung
+   Citigroup - Analyst
+ * Craig Ellis
+   Caris & Company - Analyst
+ * Vivek Arya
+   BofA Merrill Lynch - Analyst
+ * Patrick Wang
+   Evercore - Analyst
+ * Kevin Cassidy
+   Stifel Nicolaus - Analyst
+ * James Schneider
+   Goldman Sachs - Analyst
+ * Rajvindra Gill
+   Needham & Company - Analyst
+ * Craig Berger
+   FBR & Co. - Analyst
+ * Simran Brah
+   Cowen and Company - Analyst
+ * JoAnne Feeney
+   Longbow Research - Analyst
+ * Chris Caso
+   Susquehanna Financial Group / SIG - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+           Good afternoon.  My name is Annetta, and I will be your conference operator today.  At this time, I would like to welcome everyone to the NVIDIA financial results conference call.  All lines have been placed on mute to prevent any background noise.  After the speakers' remarks, there will be a question and answer session.
+ (Operator Instructions).
+ Thank you.  I would now like to turn the call over to your host, Rob Csongor, Vice President of Investor Relations.  Sir, you may begin. 
+
+--------------------------------------------------------------------------------
+Rob Csongor,  Nvidia Corp - VP, IR    [2]
+--------------------------------------------------------------------------------
+
+           Thank you.  Good afternoon, and welcome to NVIDIA's conference call on annual and fourth quarter fiscal 2012 results.  With me on the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer, and Karen Burns, Interim Chief Financial Officer.  After our prepared remarks, we will open up the call to a question and answer session.  Please limit yourself to one initial question, with one follow-up.  Before we begin I'd like to remind you that today's call is being webcast live on NVIDIA's Investor Relations website and is also being recorded.  A replay of the conference call will be available via telephone until February 22, 2012, and the webcast will be available for replay until our conference call to discuss our financial results for our first quarter of fiscal 2013.  The content of today's conference call is NVIDIA's property, and cannot be reproduced or transcribed without our prior written consent.
+ During the course of this call, we may make forward-looking statements based on current expectations.  These forward-looking statements are subject to a number of significant risks and uncertainties, and our actual results may differ materially.  For discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release or Form 10-Q for the quarterly period ended October 30, 2011, and the reports we may file from time to time on Form 8-K filed with the Securities and Exchange Commission.  All our statements are made as of today, February 15, 2012, based on information available to us as of today, and except as required by law we assume no obligation to update any such statements.  Unless otherwise noted, all references to market research or market share numbers throughout the call come from Mercury Research or John Petty Research.
+ During this call, we will discuss non-GAAP financial measures.  You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our financial release, which is posted on our website.  Or in the case of our fiscal year 2013 outlook, the reconciliation is posted on our Investor Relations website.  With that, let's begin.
+ After five consecutive quarters of sequential revenue growth, fourth quarter revenue was negatively impacted by the global disk drive shortage, caused by the flooding in Thailand which affected the mainstream GPU segment more than anticipated.  Shipments by some PC OEMs were reduced, and higher disk drive prices constrained the ability of some PC OEM's to include a GPU in their systems.  Additionally, the Tegra 2 mobile business declined more rapidly than expected, ahead of devices based on the Tegra 3 processor ramping into production in the first quarter of calendar year 2012.  However, despite tough economic conditions and the exiting of our chipset business, NVIDIA recorded very good results for our full fiscal year 2012.
+ First, our overall GP -- our overall business grew 33%, excluding the chipset business we've been exiting.  Discreet GPU's, including GeForce, Quadro and Tesla grew sharply over the year.  GPU attach rates remain strong at 53% of consumer PCs, and 36% overall according to Mercury Research Data.  A resurgent Pc gaming market saw games like Battlefield 3 and Modern Warfare 3 record over $1 billion in sales in their first week on the shelves.  At the time of the launch of Battlefield 3, over 80% of gamers were below the recommended hardware specification to play the game, driving a significant increase in gamer GPU revenues over the year.  Our professional solutions business had a record revenue year, driven by large adoption of the Fermi generation of Quadro workstation products, as well as growth in emerging design economies such as India and China.  Our Tesla products were selected to power the world's fastest supercomputers, including Oak Ridge National Laboratory's upcoming Titan supercomputer.  In addition, we made major strides in speeding up GPU computing application support and code porting, through our OpenACC and Directives initiative.
+ And in one of our most important achievements for the year, we established a position in the mobile market.  Tegra products captured share in Tier 1 tablets and smartphones.  Over the course of the year, Tegra products shipped in 14 phones, 34 tablets, and in 18 of the top 20 carriers.  We designed and shipped three generations of Android devices.  With Tegra 2, we were the first to ship dual-core mobile processors.  And now with Tegra 3, we are the first to ship quad-core processors.  The Tegra mobile processor has grown into a multi hundred million dollar business.  Looking ahead, while we anticipate continued negative effects from the hard drive shortage, we believe gaming demand will continue to be robust, driven by a combination of our next-generation Kepler architecture and new hit games such as Mass Effect 3 and Diablo 3, both highly anticipated PC games coming in early calendar year 2012.
+ We believe attach rates will continue to be stable, and that we are well-positioned to grow notebook share with significant new notebook wins in the upcoming Ivy Bridge design cycle.  We are excited about a number of recent announcements we made in the professional space, which we believe will transform the workstation.  First, yesterday, we announced that NVIDIA has joined forces with HP, to introduce the world's first all-in-one workstation, the Quadro-based HP Z1 workstation.  The Z1 features a 27-inch display that snaps open, like the hood of a car, so users can easily swap out parts and make upgrades without any tools required.  This is the first, in an entirely new category of professional workstation, that we believe will tap market segments, where space is a premium and users are unwilling to compromise performance.
+ Second, we announced Maximus, a breakthrough for the workstation industry.  Maximus enables for the first time, a single workstation to simultaneously handle real-time visualization and compute-intensive simulation, functions which previously required separate steps or separate systems.  Design and creative professionals have longed for a machine that could perform these functions simultaneously.  Maximus includes a combination of Quadro and Tesla unifying software technology, and a rigorous certification process for professional applications.  We believe Maximus will redefine the workflow in several segments, and that workstations will increasingly ship with multiple GPUs.
+ Meanwhile, Tesla continued to make headlines in computational science.  In addition to a number of new supercomputer deployment announcements, we announced breakthroughs in research.  Two of the most important supercomputers in the world, were recently announced in Oak Ridge National Labs' Titan and the NCSA's Blue Waters, both Tesla-based.  China -- Chinese researchers announced they had achieved a major breakthrough in the race to battle influenza by using NVIDIA Tesla GPUs to create the first computer simulation of a whole H1N1 influenza virus at the atomic level.
+ With Tegra 3, We believe our mobile business is poised for renewed growth.  In addition to the release of the first quad-core tablet, the ASUS Transformer Prime, we announced tablet's based on Tegra 3 from a number of T OEMs, Lenovo, CTE, Fujitsu, and Acer.  We also announced together with ASUS, the first quad-core tablet priced at $249.00, the ASUS 7-inch meMO ME370T.
+ Next up, are Tegra 3 phones.  We're looking forward to announce some of the first ones at Mobile World Congress.  With innovating and exciting new tablets at the high end, quad-core tablets at the lower price points for consumers, the world's first quad-core smartphones coming soon, and Windows 8 devices later in the year, we remain confident that Tegra 3 will drive a new phase of growth for our mobile business.  With that, let me hand the call over to Karen. 
+
+--------------------------------------------------------------------------------
+Karen Burns,  Nvidia Corp - Interim CFO    [3]
+--------------------------------------------------------------------------------
+
+           Thanks, Rob.  For the fiscal year 2012, revenue was $4 billion, up 12.8% from the prior year.  GAAP net (inaudible) -- net income grew 129.5%, resulting in earnings of $0.94 per diluted share, an increase of 118.6% over the prior fiscal year, up $0.43.  Non-GAAP net income grew 54.2%, resulting in earnings of $1.19 per diluted share, an increase of 46.9% over the prior fiscal year of $0.81.  For the fourth quarter, revenue was $953.2 million, down 10.6% from the prior quarter.  As Rob discussed, the hard disk drive shortage had more impact on our mainstream GPU segment than originally anticipated, and our Tegra 2 products declined more rapidly than expected.  GAAP gross margin for the quarter was 51.4%, 0.8% lower than the prior quarter and our original expectations, due to an additional charge in the quarter to settle a patent dispute with Rambus
+ Non-GAAP gross margin which excluded this charge was 52.5%, consistent with the record gross margin we achieved in Q3.  These results contributed to a GAAP net income of $116 million for the quarter, or $0.19 per diluted share.  And non-GAAP net income was $158.1 million or $0.26 per diluted share.  Revenue results by business segment were as follows, our GPU business was down 3.6% quarter-on-quarter, due to the impact of the disk drive shortage on our mainstream GPU desktop and notebook businesses.  Our professional business was down 3.6% from the record level achieved in the third quarter.  Our consumer business was down 42.5% sequentially.  As mentioned previously, this primarily related to the sharp decline in our Tegra 2 products ahead of the ramp of Tegra 3, as well as the seasonal decline in our game console revenue.
+ For GAAP, our outlook for the first quarter is as follows, revenue at $900 million to $930 million, gross margin of 49.2% plus or minus 1%, OpEx at $383 million, and a tax rate at approximately 20%.  For non-GAAP, we expect the following differences from our GAAP outlook.  Gross margin of 49.5% plus or minus 1%, and OpEx at $340 million.  Depreciation and amortization are expected in the range of $52 million to $56 million, and capital expenditures in the range of $35 million to $45 million.  Diluted shares are expected to be 622.5 million.
+ As for the FY '13 outlook, our view of the market has changed, and the outlook we gave in Q3 should no longer be relied upon.  We are updating our FY '13 outlook as follows, we expect the overall PC market to experience continued headwinds from the disk drive shortage.  We expect our GPU business to gain share.  Our professional solutions business is expected to have another record year.  Maximus enables us to sell more than one GPU into our workstation, and new supercomputer centers around the world are anticipating the shipment of Kepler.  Tegra this year was $360 million, and we expect it to grow at least 50%.  We expect gross margins to exit FY '13 at around 52%.  We expect our OpEx investment in FY '13 to be approximately $1.56 billion on a GAAP basis, and $1.4 billion for non-GAAP.  That concludes our prepared remarks.  We will now take questions. 
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+     (Operator Instructions).
+ And your first question comes from the line of JoAnne Feeney. 
+
+--------------------------------------------------------------------------------
+JoAnne Feeney,  Longbow Research - Analyst    [2]
+--------------------------------------------------------------------------------
+
+     Hi, folks, can you hear me okay? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [3]
+--------------------------------------------------------------------------------
+
+     Yes, we can hear you. 
+
+--------------------------------------------------------------------------------
+JoAnne Feeney,  Longbow Research - Analyst    [4]
+--------------------------------------------------------------------------------
+
+     Terrific.  Thanks a lot for taking the call.  I was wondering if you could give us a little more clarity on the outlook.  In particular, which segments do you see driving the reduction quarter-over-quarter, and why are you expecting the decline in the gross margin?  Is it purely volume, or is it mix, or some of both? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [5]
+--------------------------------------------------------------------------------
+
+     The top line decline for Q1 is expected to be due to the hard disk drive shortage continuing, as well as a shortage of 28-nanometer wafers.  We're ramping our Kepler generation very hard, and we could use more wavers.  The gross margin decline is contributed almost entirely to the yields of 28-nanometer being lower than expected.  And that is, I guess, unsurprising at this point.  And because we have -- we use wafer-based pricing now, when the yield is lower, our cost is higher.  And so we've transitioned to a wafer-based pricing for some time.  And our expectation, of course, is that the yields will improve as they have in the previous generation nodes.  And as the yields improve, our output would increase.  And our costs will decline.  And that's why we expect to exit the year at 52% or about. 
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Vijay Rakesh with Sterne Agee.  Mr.  Rakesh, your line is open. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [7]
+--------------------------------------------------------------------------------
+
+     Okay, next question. 
+
+--------------------------------------------------------------------------------
+Rob Csongor,  Nvidia Corp - VP, IR    [8]
+--------------------------------------------------------------------------------
+
+     Let's go on to the next one. 
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+     Okay.  Next question comes from the line of Chris Caso with Susquehanna Financial. 
+
+--------------------------------------------------------------------------------
+Chris Caso,  Susquehanna Financial Group / SIG - Analyst    [10]
+--------------------------------------------------------------------------------
+
+     Hi, thank you.  And with regard to the Tegra business, and you gave some outlook for fiscal '13 in general, could you give us some indication as to how that looks as you go through the year?  When do the Tegra 3 wins come up?  And then perhaps talk about the impact of Windows and Arm, and you talked about that having some potential impact later this year.  If you could expand on that? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [11]
+--------------------------------------------------------------------------------
+
+     We are expecting to -- Tegra 3, as you know, Tegra 3 tablets are starting to ramp in the marketplace.  But this quarter, we are expecting to announce and ship Tegra 3 based superphones.  And rumors of them are starting to -- and excitement about them is starting to leak.  But at Mobile World Congress is when we expect to announce these devices.  And we'll expect to announce and ship them this quarter.  And so we're expecting Q1 to be a sharp uptick in Tegra sales and shipments.  Our expectation is Windows 8 is later in the year.  And Microsoft has given their estimates about Windows 8, and our expectation is that there will be meaningful contributions from Windows 8 later in the year, starting probably in Q3. 
+
+--------------------------------------------------------------------------------
+Chris Caso,  Susquehanna Financial Group / SIG - Analyst    [12]
+--------------------------------------------------------------------------------
+
+     All right.  And just as a follow-up with respect to kind of what you're seeing in the PC market, and specifically the impact of hard drives, you maybe could give a little more color on that?  Obviously, we've heard from some of your competitors on that.  And it sounded like that the hard drive availability is, is getting somewhat better, depending on who you talk to.  How do you see that playing out, kind of over the next two quarters or so as it impacts your business? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [13]
+--------------------------------------------------------------------------------
+
+     Well, almost everybody has guided down.  I think -- I think PC-centric semiconductor companies have guided down on to on average I think about 8% in Q1.  And so I think everybody is expecting hard drive headwind to continue through Q1, and potentially through Q2.  As far as what we see, Q4 started out, started out with less shortage than we -- than people had predicted.  And the reason for that was because there was a lot of channel inventory.  And people consumed the channel inventory.  As the channel inventory dried up, prices of disk drives in the channel started to spike.
+ And as you know, channel business is a large part of the discreet GPU business.  And China is particularly a large region for us, where a large amount of the PC's are built in channel and they're built what we call DIY, so design-it-yourself or build-it-yourself, where we'll design it for you.  And so, you spec the parts, and you go to an IT mall, and they build a PC right there for you.  And so those part of regions where -- in countries, regions, and countries where people build PCs like that, the spot price of disk drives have increased quite a bit.  And so, our sense is that that's going to continue through Q1, and potentially through Q2. 
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+     Okay.  Your next question comes from the line of Vijay Rakesh from Sterne Agee. 
+
+--------------------------------------------------------------------------------
+Vijay Rakesh,  Sterne, Agee & Leach - Analyst    [15]
+--------------------------------------------------------------------------------
+
+     Hi.  Sorry about that.  I was just wondering on the F '13 guide, what is your guide for Tegra.  And also, on Tegra 3, what are both the ASPs for Tegra 3 versus Tegra 2? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [16]
+--------------------------------------------------------------------------------
+
+     We did about $360 million this year in Tegra 2 sales.  We're expecting at least 50% growth year-over-year.  The vast majority of that will be based on Tegra 3.  ASPs of Tegra 3 is higher than Tegra 2, and our expectation is that it would stay that way through the year. 
+
+--------------------------------------------------------------------------------
+Vijay Rakesh,  Sterne, Agee & Leach - Analyst    [17]
+--------------------------------------------------------------------------------
+
+     Got it.  And on the gross margin line, I think you mentioned 49 here (inaudible) on five year, exiting at 52.  Where do you see the margin improvement coming?  When do you see it coming? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [18]
+--------------------------------------------------------------------------------
+
+     Our margin -- our margin drag is almost nearly entirely related to 28-nanometer.  And so the margin improvement will come entirely from 28-nanometer.  And TSMC is doing fabulously with 28.  And this year, with 28 relative to 40 is surely a huge improvement.  But during transition years, because we have so much of our business tied to the leading edge nodes, and because when we transition GPU's we transition so much of it at once -- and this year, particularly unique this year is that the number of notebook design wins that we have, and the number of 28-nanometer GPU design wins that we have is at -- at OEMs is much, much higher than our previous generation.  And so all of -- all of the transition of 28 is going to be very fast.  And so, we're just going to have to continue to work with TSMC and get the yields of 28-nanometer up as fast as possible.  And we surely expect that by the end of the year, we're going to be in a pretty good place.  We're in a pretty decent place now.  But we just need to get the yields up. 
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Kevin Cassidy with Stifel Nicolaus. 
+
+--------------------------------------------------------------------------------
+Kevin Cassidy,  Stifel Nicolaus - Analyst    [20]
+--------------------------------------------------------------------------------
+
+     Yes, thanks for taking my question.  And maybe along the lines of the 28-nanometer yield, have you categorized what the problem is?  And is there a fix in place?  And also, I just -- if you got all the product you needed, what kind of gross margins would you have come in? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [21]
+--------------------------------------------------------------------------------
+
+     There's no -- there's no particular problem.  This is the first major quarter of 28-nanometer shipments.  There have been some shipments, there have been some shipments in previous quarters, but very, very small.  And so for TSMC, this is probably the first large quarter of shipments, and we're going to continue to improve yields from here.  So there's nothing particularly wrong.  There's just early in the learning cycle of a new node, and so we'll improve it with every single, every single ounce.  And also this isn't a problem that we can solve.  Everybody is using the same 28-nanometer, and so this affects all of us, anybody who uses 28-nanometer.  So I think with everybody ramping production, there's going to be a lot more learning cycles, both from us and from other people.  But TSMC is in a good place now, and we just have to keep improving it. 
+
+--------------------------------------------------------------------------------
+Kevin Cassidy,  Stifel Nicolaus - Analyst    [22]
+--------------------------------------------------------------------------------
+
+     Great.  Thanks.  And just as a follow-up, on the professional services group, can you say what the trend toward mobile workstations is, and how does that affect your revenues for 2013. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [23]
+--------------------------------------------------------------------------------
+
+     The professional solutions group has -- includes notebook workstations.  And so whether it's HP workstations or mobile workstations or Dell mobile workstations or Fujitsu mobile workstations, Lenovo mobile workstations.  We're delighted when people go mobile because oftentimes they have a mobile workstation as well as a desktop workstation.  Quadro is a standard in all of those workstations, so we are delighted when people go mobile, because oftentimes they have a mobile workstation, as well as a desktop workstation.  And so this is a good trend. 
+
+--------------------------------------------------------------------------------
+Kevin Cassidy,  Stifel Nicolaus - Analyst    [24]
+--------------------------------------------------------------------------------
+
+     Great, thanks. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [25]
+--------------------------------------------------------------------------------
+
+     Yes, thanks a lot. 
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Craig Ellis with Caris & Company. 
+
+--------------------------------------------------------------------------------
+Craig Ellis,  Caris & Company - Analyst    [27]
+--------------------------------------------------------------------------------
+
+     Thanks for taking the questions.  There were a couple mentions of notebook share gain.  Can you give us a better understanding of how broadly those might exist across different OEMs?  And when would we expect to see those more mid-year, more toward the holiday selling season? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [28]
+--------------------------------------------------------------------------------
+
+     In the Ivy Bridge generation, also lined up with the 28-nanometer GPU generation, and this is -- this is really toe-to-toe, toe-to-toe competition between the best GPU's in the marketplace, and our Kepler generation which we hope to tell you more about soon, won design wins at virtually every PC OEM in the world.  And so this is probably the best GPU we've ever built, and the performance and power efficiency is surely the best that we've ever created.  And as a result, our notebook penetration and notebook design win this year is expected to be very, very high. 
+
+--------------------------------------------------------------------------------
+Craig Ellis,  Caris & Company - Analyst    [29]
+--------------------------------------------------------------------------------
+
+     Thanks, Jen-Hsun.  And so you're saying that we should expect to see those right away, as Ivy Bridge comes out.  As a followup on the mobile side of the business with Tegra, you mentioned the 50% growth for this year.  How would the notebooks or the -- the smartphones, superphone side of that business, compare to the tablet side of the business?  Are they both growing about equally, or one significantly more than the other? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [30]
+--------------------------------------------------------------------------------
+
+     My guess, and of course this is just an estimate, and just a guess at this point, but my guess is that we'll ship more in phones this year, as we did last year in terms of units.  And in terms of ASPs, it will probably be close. 
+
+--------------------------------------------------------------------------------
+Craig Ellis,  Caris & Company - Analyst    [31]
+--------------------------------------------------------------------------------
+
+     Okay.  And then lastly from me, and this one might be more for Karen.  When the target model was initially established, I think the gross margin was 52%.  It looks like it'll -- from the guidance that's been provided and where we start the year, it's going to come in, I think, closer to 50.5%.  So what's changed since September?  I doubt there's been much of a change, in terms of the plan for 28-nanometer.  But is it just volume, or what's the delta as we look at where the gross margin target was, and where it is now? 
+
+--------------------------------------------------------------------------------
+Karen Burns,  Nvidia Corp - Interim CFO    [32]
+--------------------------------------------------------------------------------
+
+     It's yields, yields on 28-nanometers that have come in worse than we've originally anticipated. 
+
+--------------------------------------------------------------------------------
+Craig Ellis,  Caris & Company - Analyst    [33]
+--------------------------------------------------------------------------------
+
+     And the yield improvement, do you think that is kind of steady through the year, or is that back-end loaded, more in the back half of the fiscal year? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [34]
+--------------------------------------------------------------------------------
+
+     It will be steady through the year.  And this yield improvement is a function of the number of cycles of learning.  And now the cycles of learnings as we've ramped up at TSMC, the cycle of learning has really gone up.  And so my expectation is that the yield improvement will steadily improve through the year. 
+
+--------------------------------------------------------------------------------
+Rob Csongor,  Nvidia Corp - VP, IR    [35]
+--------------------------------------------------------------------------------
+
+     I'm sorry, Craig, let's move on so we can take some other questions. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [36]
+--------------------------------------------------------------------------------
+
+     Thanks a lot, Craig. 
+
+--------------------------------------------------------------------------------
+Craig Ellis,  Caris & Company - Analyst    [37]
+--------------------------------------------------------------------------------
+
+     Thanks. 
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Hans Mosesmann with Raymond James. 
+
+--------------------------------------------------------------------------------
+Brian Peterson,  Raymond James - Analyst    [39]
+--------------------------------------------------------------------------------
+
+     Hi, this is Brian Peterson stepping in for Hans.  I wanted to follow up on this 28-nanometer issue.  Just to be clear, this is specific to 28-nanometers for GPU's for NVIDIA, or is this across the industry for TSMC? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [40]
+--------------------------------------------------------------------------------
+
+     This is -- I guess the rest of the industry will have to speak for themselves.  Well my guess is that this is across the industry.  This 28-nanometer is still early in it's maturing.  There aren't that many 28-nanometer products in the marketplace as of now, and the number of cycles of learning is not very significant, and the amount of volume is surely not very significant.  At this point, we're ramping very hard, all of our 28-nanometer products.  And the yield is much better than 40-nanometer when it first came up.  But it's not as good as we had expected, and in our previous projections.  And so we're going to have to work hard with TSMC and support them, encourage them and wish them well, and get the 28-nanometer yield up as fast as possible. 
+
+--------------------------------------------------------------------------------
+Brian Peterson,  Raymond James - Analyst    [41]
+--------------------------------------------------------------------------------
+
+     Thanks for that.  And just to follow up, you said that you expected attach rates to remain stable going forward.  How do they trend in the January quarter? 
+
+--------------------------------------------------------------------------------
+Karen Burns,  Nvidia Corp - Interim CFO    [42]
+--------------------------------------------------------------------------------
+
+     We gave that guidance at 20% for Q1, if that's what you're asking. 
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Shawn Webster with Macquarie. 
+
+--------------------------------------------------------------------------------
+Deepon Nag,  Macquarie Research Equities - Analyst    [44]
+--------------------------------------------------------------------------------
+
+     Hi, this is Deepon for Shawn.  Thanks for taking the question.  I had a question about pricing going into this quarter, and maybe into the next, if you could talk about desktops and notebook GPU in particular. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [45]
+--------------------------------------------------------------------------------
+
+     Pricing, pricing is expected to be stable and healthy this year.  The amount of 28-nanometer capacity in the world is not enough.  So I think we're expecting 28-nanometer to be constrained through the entire year.  New generations of smartphones, new generations of GPU's are going to drive the demand for 28-nanometer capacity or drive the demand for 28-nanometer devices.  And so I think you're going it find that this year is going to continue to be tight.  We could use more 28-nanometer wafers, and TSMC's management team is working very hard on supporting us with our demand.  And they're driving cycle times hard, and trying to improve yield.  And so all of that is going to improve throughout the year and very steadily throughout the year.  And if previous generations have been an indication, TSMC will improve their performance incredibly fast. 
+
+--------------------------------------------------------------------------------
+Deepon Nag,  Macquarie Research Equities - Analyst    [46]
+--------------------------------------------------------------------------------
+
+     Thanks for that.  Also if you could talk about channel inventories going into this quarter, do you think there's a lot of build-up, maybe at the low end because of the (inaudible) issue, and maybe about channel inventory and Tegra, as well? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [47]
+--------------------------------------------------------------------------------
+
+     Channel inventory is actually okay.  And there's no -- the channel is being very cautious in loading up, as you can imagine.  And whether it's because of currency volatility in Europe or because of a shortage of disk drives, nobody in the channel is being heroic with respect to loading up inventory.  So I think you're going to find that channel relatively lean across the board, and on the high end it's extremely short. 
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Jim Schneider with Goldman Sachs. 
+
+--------------------------------------------------------------------------------
+James Schneider,  Goldman Sachs - Analyst    [49]
+--------------------------------------------------------------------------------
+
+     Good afternoon, thanks for taking my question.  With respect to the attach rates, I think you talked about that being driven lower by the hard drive shortages, so the up price in hard drives being compensated by finding bill of materials shares someplace else.  Can you talk about as the hard drive shortage mitigates and those prices come back down, whether you expect the attach rate to go back up? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [50]
+--------------------------------------------------------------------------------
+
+     Well, the attach rate, the attach rate of GPUs is driven not by anything other than consumer demand.  And I think that there are fewer PCs sold in Q4 than there was, that we -- the industry had expected.  The attach rate of those PCs were sold were stable, and relatively consistent with our model.  And so your premise, your premise is -- I don't think it's correct, and attach rate seems to be stable, the number of PCs sold is reduced.  Some people think it's cannibalization of smartphone and tablets and other devices, but disk drive surely played a role in that, as well.  So when the disk drive supply resumes, my sense is that consumers' demand will return to what they were, GPU attach will remain stable. 
+
+--------------------------------------------------------------------------------
+James Schneider,  Goldman Sachs - Analyst    [51]
+--------------------------------------------------------------------------------
+
+     Understand, thank you.  And then as a followup, in terms of OpEx, I think the $1.562 billion implies a little uptick, as we move throughout the year.  Could you talk about where the incremental spending is being allocated toward? 
+
+--------------------------------------------------------------------------------
+Karen Burns,  Nvidia Corp - Interim CFO    [52]
+--------------------------------------------------------------------------------
+
+     Just one clarification.  That's on a GAAP basis, the $1.56 billion, it's $1.4 billion on a non-GAAP. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [53]
+--------------------------------------------------------------------------------
+
+     It's unchanged from our previous guidance, and what we've told you before.  The increase in investment, relative to last year on an absolute basis, has to do with the fact that we're investing a lot more in mobile devices.  This last year was a big year for us.  It was a big year because GPU's grew quite significantly, despite the shortage of disk drives, and softness in the market towards the end of the year.  But it was a particularly big year for us, because this was the first year that we really engaged a mobile market, and our mobile position really became established.  At this time this last year, no one -- no one thought that we would really be successful in the mobile market as we ended up being.
+ And so I think that today, we have now three generations of Android operating systems and devices behind us.  We have 10s and 10s of smartphones and 10s of tablets.  We have engagements with nearly every single Tier 1 OEM in the world on the mobile side, as well as on the computing side.  And so I think that, this was a pretty big year from that perspective.  And because of that traction and because of that -- the success we've seen, we think it's really makes sense for us to double down on mobile computing, and go after it in a big way.  And so we're going to have a lot more product this year than last.  And you're going to see that we're going to have tablet devices, as well as tablet processors, as well as integrated processors with modems.  So this is -- this is an aggressive investment surely, but it's a very big market opportunity as you know. 
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Alex Gauna with JMP Securities. 
+
+--------------------------------------------------------------------------------
+Alex Gauna,  JMP Securities - Analyst    [55]
+--------------------------------------------------------------------------------
+
+     Thanks you very much for taking my question.  I was wondering within the 50% growth you're expecting for Tegra, are you factoring in contribution from Windows 8?  Or -- and if so, how big a contribution might that be? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [56]
+--------------------------------------------------------------------------------
+
+     We are expecting at least 50% growth, and we are expecting windows 8 contribution, but not nearly the vast majority of it. 
+
+--------------------------------------------------------------------------------
+Alex Gauna,  JMP Securities - Analyst    [57]
+--------------------------------------------------------------------------------
+
+     And then I was wondering, if you're going to be seeing Tegra 3 ramping in your July quarter, is the early ramp going to be enough to perhaps help the gross margin line, given that it's not going to be, if I'm understanding correctly on the 28-nanometer node? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [58]
+--------------------------------------------------------------------------------
+
+     We are going to be ramping Tegra 3.  We're ramping Tegra 3 now.  So this quarter, Tegra 3 will make a large acquisition.  We're expecting Tegra to be up quarter-to-quarter about 50%, as well.  And so on Tegra 3 is ramping significantly, even into the April quarter.  And you're right that the gross margins for Tegra 3 is better than our 28-nanometer gross margins in the first quarter.  And hopefully 28-nanometer yields will improve, and by second or third-quarter time frame, and it won't make any difference. 
+
+--------------------------------------------------------------------------------
+Alex Gauna,  JMP Securities - Analyst    [59]
+--------------------------------------------------------------------------------
+
+     Okay, and last one if I could on the GPU business excluding the professional set, you gave a mix of expecting a down PC market because of the hard disk drive constraints, but market share gains.  Any ballparking on the net of that?  Do you expect on a revenue basis the year to be down, flat, up, can you say at this juncture? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [60]
+--------------------------------------------------------------------------------
+
+     Our expectation is that on the net, our discreet GPU business will be up.  And in Q3 timeframe, we were expecting, using industry analyst models of PC industry growth, of 4% to 5%.  I think the -- our estimates now are much lower than that.  And so, we assume something lower than that.  And so we'll see how it turns out in the final analysis, but we're assuming relatively no growth, in the overall PC market.  But because we're gaining share, because we continue to grow our professionals business, our discrete GPU business year-over-year will grow. 
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Patrick Wang with Evercore. 
+
+--------------------------------------------------------------------------------
+Patrick Wang,  Evercore - Analyst    [62]
+--------------------------------------------------------------------------------
+
+     Great.  Thanks for taking my question.  Jen-Hsun, can you talk a little bit about the competitive dynamics out there and what you see as you compete for Tegra 3 wins?  We're hearing about a lot of competition on pricing and guerrilla tactics out there.  Can you talk about what you've seen? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [63]
+--------------------------------------------------------------------------------
+
+     We haven't met too many guerillas yet, but elephants maybe.  (Laughter).  So let's see.  We compete primarily today with Qualcomm.  And the reason for that is because, there are three major opportunities in the smartphone marketplace this year, that are really exciting.  In the United States, of course, LTE is important.  Outside of the -- and they have a very -- they have the only real integrated solution today, and in fact, they have the only shipping solution today, and so they have a very good position on LTE in the United States.  Outside of the United States, where LTE adoption is much further behind, the next major upgrade is quad-core.  Today's dual-core phone needs to be upgraded.  And so the next major upgrade, the next major superphone, the next major big thing is quad-core.  So Tegra 3 is incredibly well-positioned there.
+ So outside the United States in Europe particularly, in China, you're going to see quad-core Tegra 3 phones coming out throughout the year.  The third growth opportunity is the RMB999 or what some people call the RMB1000 phone.  And this is an affordable, very affordable smartphone with dual-core capability.  And the way that they describe it, the way the marketplace internalizes it, is a phone that has the capability of an Iphone 4, but is extremely affordable.  That's a great opportunity for us, because Tegra 2 is a fabulous dual-core, and with a 3G modem you could achieve RMB1,000 in China in the near future.  So that's a pretty exciting opportunity for us, and we're just about to enter into that market opportunity.  And so those are kind of the market opportunities and the competitive dynamics.  It's really primarily, the two of us.  I think the highest level, the reason for that, has to do with the fact, that in order to be successful in the leading edge in the Tier 1 phones, you need to have a great application processor and a great application processor roadmap.  You need to have a world-class software stack, because the software card of the phones has become the most complicated part.  And the third, going forward, is the ability to integrate a modem.  And we were fortunate to have purchased Icera last year, and our integrated roadmap is going to be pretty exciting. 
+
+--------------------------------------------------------------------------------
+Patrick Wang,  Evercore - Analyst    [64]
+--------------------------------------------------------------------------------
+
+     Got you.  That's helpful.  So it sound like you feel like your quad-core features are compelling enough that pricing is -- you're able to maintain kind of strict pricing with your customers. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [65]
+--------------------------------------------------------------------------------
+
+     Yes.  We're able to get fair pricing on our Tegra 3. 
+
+--------------------------------------------------------------------------------
+Operator    [66]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Vivek Arya with Banc of America. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [67]
+--------------------------------------------------------------------------------
+
+     Thanks for taking my question.  Jen-Hsun, I wanted to address this competitive issue from a different angle, which is from a handset vendor side.  So increasingly Apple and Samsung are taking more share in the market versus HTC, Motorola, and others.  So Even though Tegra 3 could be a great product, how are you ensuring that you're engaging with the right set of customers?  And what real underlying drivers are going into this expectation of 50% growth for this year? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [68]
+--------------------------------------------------------------------------------
+
+     We're expecting to grow at least 50% this year.  And it comes from three different -- three different, maybe four different sources, if I can break it down.  One is Tegra 3 phones, one is Tegra 2 phones for the RMB1,000 market, which is the fastest growing in smartphones today.  The third is Android tablets, and as you know, we finally were able to put together a tablet that is both exciting, as well as -- tablet architecture that is both exciting with Tegra 3 and Ice Cream Sandwich, as well as affordable.  We have been able to reach the $249 price for retail.  The fourth is Windows 8 on ARM.
+ So these four growth drivers, frankly, this last year, what -- the only thing that really worked super well for us, even on Tegra 2, was smartphones, and that contributed to $360 million in revenues.  And so this year, we're expecting smart phones from Tegra 3, from Tegra 2, from Tegra 3 Ice Cream Sandwich tablets as well as Tegra 3 Window on Arm tablets.  So there's a lot more opportunities for us.  But you're right, that Samsung and Apple are very, very strong.  And so our strategy is actually very, very simple.  By teaming up with the best partners in the world, we would like to bring great technology to them, and partner with them to build exquisite devices and also to move faster.  We, as an industry have to move a lot faster, and bring competitive solutions to the marketplace more rapidly.  And so by partnering with HTC, and they're a fantastic company, not suggesting -- not suggesting we announced any products share, but surely a partner like HTC would be fabulous for NVIDIA to partner with. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [69]
+--------------------------------------------------------------------------------
+
+     Got it.  And If I could perhaps push back on some of those drivers.  So for instance, the RMB1,000 market, there we have seen the integration with base LAN and connectivity being an attractive feature.  So how do you address that?  And then on Android tablets, yes, some things are getting better, but outside of the Kindle Fire, we have not seen sales pick up as much, or perhaps that's just my perception of the market.  So if you could address those two issue also?  Thank you. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [70]
+--------------------------------------------------------------------------------
+
+     Well, the RMB1,000 market has a lot of segments underneath that.  And at RMB1,000, you really need to have a world-class phone.  And right now there just isn't a very good solution for a world-class, high-performance dual-core processor with integrated 3G modem.  And surely there's RMB500 phones, and they have low-end integrated solutions with 3G.  But nothing sufficiently good at the RMB1,000, to be able to claim that it's as good as an Iphone 4, but at a much more affordable price.  So that segment, where you need to have a world-class high-performance dual-core processor like Tegra 2, and a great software stack along with 3G modems are, as you know, affordable and abundant, and they've been around for many years, integrating those together, on a build material is not too difficult.  And so that's one.
+ With respect to the tablets, Amazon Fire is a really interesting product and a great e-Reader.  But our belief is that there's a marketplace for tablet that are much more general purpose.  I think the ASUS Transformer Prime is the first example of a tablet that can really demonstrate differentiation, and people love it.  And it's, frankly, my favorite computer now.  And it's a lot of other people's favorite computers.  It is a tablet sometimes, it's a full notebook PC sometimes, and the performance is really terrific.
+ So I think Ice Cream Sandwich addressed a lot of the challenges that the tablet industry had, Android had last year, with fragmentation.  But now with Ice Cream Sandwich, your phone is Ice Cream Sandwich, your tablet is Ice Cream Sandwich, all the applications that come off of the marketplace can work on both.  So I think the unification, it is the only operating system that allows that today, and so that's -- that I think is a great advance for the tablet market.  And then lastly, at $249, if we can bring a quad core, if we can bring Tegra 3 to $249.  And for those people who have seen it and have touched it, that tablet's going to sell like hotcakes we believe, because it's the right price point, it's completely general purpose, and it's state-of-the=art.  So we have reasons to believe that this tablet market is far from over, and that there's a lot of interesting opportunities and differentiation to be brought to this market yet. 
+
+--------------------------------------------------------------------------------
+Operator    [71]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Glen Yeung with Citi. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [72]
+--------------------------------------------------------------------------------
+
+     Just two questions.  The first one is maybe just some clarification from you, Jen-Hsun.  I think I'm hearing that GPU demand is being impacted by a combination of lower PC demand from hard drive shortages, hard drive ASP's squeezing out GPUs for bill of materials, and then a shortage of capacity from 28-nanometer.  Can you just give us a sense, maybe rank those in terms of what's most impactful to sales and versus least? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [73]
+--------------------------------------------------------------------------------
+
+     28-nanometer shortage.  I could use more 28-nanometer wafers today. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [74]
+--------------------------------------------------------------------------------
+
+     So that's the most impactful? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [75]
+--------------------------------------------------------------------------------
+
+     My estimate for the year for top line and gross margins would be 28-nanometer. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [76]
+--------------------------------------------------------------------------------
+
+     Okay.  But I'm -- 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [77]
+--------------------------------------------------------------------------------
+
+     That's where all of our -- that's where all of our new GPU's are going. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [78]
+--------------------------------------------------------------------------------
+
+     I'm asking, just specifically for first quarter, for the April quarter, though.  What you think the impact is greater, from that shortage, from ASPs and hard drives, or from shortages of PCs because of hard drives? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [79]
+--------------------------------------------------------------------------------
+
+     About the same.  I mean, it's -- I haven't thought of it that way, but it's about the same.  But from a gross margin perspective, obviously, much more from 28-nanometer. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [80]
+--------------------------------------------------------------------------------
+
+     Right.  Okay.  And the -- 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [81]
+--------------------------------------------------------------------------------
+
+     Those are problems that are going to get solved for the whole industry. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [82]
+--------------------------------------------------------------------------------
+
+     Right. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [83]
+--------------------------------------------------------------------------------
+
+     I think as the industry, as TSMC ramps more and more 28-nanometers, their capacity would increase, and yields would increase, and their cycle times will reduce.  And this is a world-class company, and Morris and the management team are all over it.  And they're doing everything in their power.  And if history is any indication and it tends to be, they're going to work their way into a fabulous node here any time.  And so we have just started ramping in the last several months.  And so the Q1, Q1 is kind of a bit of a transition quarter for us.  But I'm very confident, that we'll work through the 28-nanometer yield issues. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [84]
+--------------------------------------------------------------------------------
+
+     Okay.  And as a follow-up, I hear you when you say at least 50% growth in Tegra.  But your guidance there is nonetheless, substantially lower than what your original guidance was.  Can you just kind of walk through the delta here?  Is it that you're pushing forward your expectation, or do you think there's some lost business that you simply can't gain back? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [85]
+--------------------------------------------------------------------------------
+
+     There is one major delta from -- I'm glad you asked.  There's one major delta from last -- from our previous guidance.  About, I would say a couple quarters ago, I would have thought that on balance that Samsung was one of our largest customers, as they were last year.  But looking forward, my sense is, on balance Samsung will use their own application processors.  They will dabble outside probably, and they'll use outside application processors like ours, whenever their own can't serve their needs.  But on balance, they're going to try to use their own.  So that's the big delta that I've taken off of my guidance. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [86]
+--------------------------------------------------------------------------------
+
+     Okay.  Thanks. 
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Craig Berger with FBR Capital Market. 
+
+--------------------------------------------------------------------------------
+Craig Berger,  FBR & Co. - Analyst    [88]
+--------------------------------------------------------------------------------
+
+     Good evening.  Thanks for taking my questions.  Jen-Hsun, so with the hard drive impacting GPU shipments now, what do you think revenues would be in the first quarter, if there were no shortages?  And do you expect that to come back as good news, and met pent-up demand later this year? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [89]
+--------------------------------------------------------------------------------
+
+     Gosh, we just didn't really do that analysis.  But if you think along the lines of what we currently guided, versus a typical Q1 in some of that, call it, we're $100 million plus short.  And call some of that, resulted from 28-nanometer yield shortage, and some of that, resulting from disk drives shortage, and call it half and half.  So if you were just to take a swag at it, about $50 million. 
+
+--------------------------------------------------------------------------------
+Craig Berger,  FBR & Co. - Analyst    [90]
+--------------------------------------------------------------------------------
+
+     Okay.  And then just as a follow-up, can you update us on the CFO search, and also update us on Icera?  You talked about it briefly with the roadmap.  When might we expect an integrated product, and also do you expect to ship base bans in the phones in calendar '12?  Thank you. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [91]
+--------------------------------------------------------------------------------
+
+     Sure.  We are doing a CFO search.  We have many interested candidates.  I haven't decided on one yet.  And the reason for that is, because I think Karen and the financial team are doing a fabulous job.  And I have a very -- it allows me to be very choosy, and to set a very, very high bar.  And so, if you do know of someone, ask them to call me, but we have a lot of very interested candidates.
+ Icera.  Icera is going to prove to be one of the smartest and one of the best acquisitions in our history.  We are -- we will have shipping modems this year for sure.  And hopefully, hopefully sooner than later.  And then, our plan is to integrate our application processor, which as you know, is already one of the best in the world.  And a -- the Icera modem into an integrated product for the mainstream LTE market.  And so we're doing that as quickly as we can.  And that's one -- that's one of the reasons why we're investing heavily in OpEx, is so that we could build this class of products for a much larger marketplace, much larger market opportunity for us. 
+
+--------------------------------------------------------------------------------
+Operator    [92]
+--------------------------------------------------------------------------------
+
+     Your next question comes from the line of Rajvindra Gill from Needham & Company. 
+
+--------------------------------------------------------------------------------
+Rajvindra Gill,  Needham & Company - Analyst    [93]
+--------------------------------------------------------------------------------
+
+     Yes.  Sorry if I missed it.  Did you actually provide a revised annual guidance in tomorrow of a number, an actual number range? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [94]
+--------------------------------------------------------------------------------
+
+     We did provide -- we did provide new guidance.  We did not give you a specific number.  And the reason for that is, because it ultimately depends on your estimates of the PC market, and the disk drive, how long the disk drive shortage is going to last.  We're not better predictors at that than other analysts.  And we've taken it to a more conservative range ourselves.  But if you applied that, your estimates of that, to some of the comments that Karen made earlier, you can come up with some estimates.  Okay?  Thank you. 
+
+--------------------------------------------------------------------------------
+Rajvindra Gill,  Needham & Company - Analyst    [95]
+--------------------------------------------------------------------------------
+
+     I guess last question real quick.  In terms of the percentage of your GPU portfolio, that's on kind of 28-nanometer, any guess-timation there?  And then kind of what are the projections to going forward? 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [96]
+--------------------------------------------------------------------------------
+
+     It depends on the capacity that gets freed up.  We would like to put as much of it as possible to 28-nanometer.  But if we don't have enough capacity, as we currently do not have, and we would keep some of our GPU's at 40-nanometer.  So it just depends on capacity. 
+
+--------------------------------------------------------------------------------
+Rob Csongor,  Nvidia Corp - VP, IR    [97]
+--------------------------------------------------------------------------------
+
+     I think we have time for one more question. 
+
+--------------------------------------------------------------------------------
+Operator    [98]
+--------------------------------------------------------------------------------
+
+     Okay.  Your next -- your final question comes from the line of Raj Seth with Cowen and Company. 
+
+--------------------------------------------------------------------------------
+Simran Brah,  Cowen and Company - Analyst    [99]
+--------------------------------------------------------------------------------
+
+     Hi, this is Simran Brah calling in for Raj Seth.  I had a couple of quick ones.  Firstly, given that your Tegra business has some scale now, how are you thinking about margins in that business going forward?  And secondly, what are the key growth tunes for your professional workstation business in 2012, and is 10% to 15% still the right range to think about annual growth for that business?  Thank you. 
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  Nvidia Corp - Co-founder, President, CEO    [100]
+--------------------------------------------------------------------------------
+
+     Thank you, Simran.  Let's see.  The first question with respect to Tegra, we expect our gross margins to be in the range of the corporate average.  And our estimates are that, it would be around that area plus or minus.  Okay, nothing dramatically different.  Second is growth opportunities for PSG.  In the area of work stations, we introduced a concept called Maximus, a new -- not a concept, a platform technology called Maximus.  And it allows for the workstation to not only visualize, but it also allows it to compute.  So you could do simultaneous simulation of fluid dynamics, while seeing the fluid flow over a structure like a car or motorcycle or whatever, in real time.  And so Maximus has received been received fantastically.
+ And our hope is that more and more workstations will have not just one GPU inside for visualization, but two GPU's, one for visualization and one for simulation.  This year is also the year of Kepler.  It's been two and half years since Fermi, and supercomputers and super computing centers around the world are waiting anxiously for Kepler to launch, so that they can upgrade their supercomputers.  So that's a growth opportunity for us.  In the area of -- in the area of high-performance computing as well, we're hoping that the work that we've done to make Tesla much easier to program for, it's called OpenAcc.  It's a technique called Directives, making it super easy for software programmers to take advantage of GPU computing, and we've worked with the industry on that.  It's an open standard.  So we're excited about the developments of that, the response has been fabulous.  And hopefully that -- that making GPU computing easier to program, will also increase it's adoption.  So those are some of the growth initiatives that we have going.  And our expectation is that Quadro and Tesla in combination with PSG will deliver a record year again this year. 
+
+--------------------------------------------------------------------------------
+Simran Brah,  Cowen and Company - Analyst    [101]
+--------------------------------------------------------------------------------
+
+     Great.  Thank you. 
+
+--------------------------------------------------------------------------------
+Rob Csongor,  Nvidia Corp - VP, IR    [102]
+--------------------------------------------------------------------------------
+
+     Okay.  Thank you, Simran.  I think we're out of time for today.  Thank you, everyone.  We look forward to talking to you next time about our Q1 results. 
+
+--------------------------------------------------------------------------------
+Operator    [103]
+--------------------------------------------------------------------------------
+
+     This concludes today's teleconference.  You may now disconnect at this time. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

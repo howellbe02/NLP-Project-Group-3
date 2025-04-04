@@ -1,0 +1,638 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2016 Microsoft Corp Earnings Call
+OCTOBER 22, 2015 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Satya Nadella
+   Microsoft Corporation - CEO
+ * Chris Suh
+   Microsoft Corporation - General Manager of IR
+ * Amy Hood
+   Microsoft Corporation - CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Raimo Lenschow
+   Barclays Capital - Analyst
+ * Ross MacMillan
+   Jefferies LLC - Analyst
+ * Brent Thill
+   UBS - Analyst
+ * Walter Pritchard
+   Citigroup - Analyst
+ * Keith Weiss
+   Morgan Stanley - Analyst
+ * Mark Moerdler
+   Bernstein - Analyst
+ * Karl Keirstead
+   Deutsche Bank - Analyst
+ * Philip Winslow
+   Credit Suisse - Analyst
+ * Mark Murphy
+   JPMorgan - Analyst
+ * Heather Bellini
+   Goldman Sachs - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome to the first-quarter FY16 Microsoft Corporation earnings conference call.
+(Operator Instructions)
+As a reminder, this conference is being recorded. I would now like to turn the call over to Chris Suh, General Manager of Investor Relations. Chris, please proceed.
+
+--------------------------------------------------------------------------------
+Chris Suh,  Microsoft Corporation - General Manager of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good afternoon and thanks for joining us today. On the call with me are Satya Nadella, Chief Executive Officer; Amy Hood, Chief Financial Officer; Frank Brod, Chief Accounting Officer; and John Seethoff, Deputy General Counsel.
+On our website, www.microsoft.com/investor, you can find our earnings press release and financial summary slide deck, which is intended to supplement our prepared remarks during today's call and provide the reconciliation of differences between GAAP and non-GAAP financial measures. Our website also includes information related to our new financial reporting segments announced in September.
+This is also the first quarter that reflects the revenue recognition accounting for Windows 10. As a reminder, we report Windows revenue prior to any accounting adjustment in our More Personal Computing segment. The corresponding revenue deferral for Windows 10 sales is then reported in Corp and Other in our segment reporting.
+Earnings commentary today and going forward will focus on results prior to the net deferral impact, as we believe this is the best reflection of business health. Unless otherwise specified, we will refer to non-GAAP metrics on the call. The non-GAAP metrics exclude the impact of last year's integration and restructuring charges and the current Windows 10 net revenue deferral.
+The non-GAAP financial measures provided should not be considered as a substitute for or superior to the measures of financial performance prepared in accordance with GAAP. They are included as additional clarifying items to aid investors in further understanding the Company's first-quarter performance, in addition to the impact that these items and events had on the financial results.
+Additionally, any mention of operating expense refers to segment operating expenses as defined in the footnotes of our Form 10-Q, and includes research and development, sales and marketing, and general and administrative, but exclude the impact of last year's integration and restructuring charges. All growth comparisons we make on the call relate to the corresponding period of last year unless otherwise noted.
+We also provide growth rates in constant currency when available, as a framework for assessing how our underlying business has performed, excluding the effect of foreign currency rate fluctuations. At the segment level, we provide constant currency growth for both revenue and gross margin.
+However, due to the recent change in our segment reporting groupings, we aren't able to provide segment-level constant currency operating expense growth, and consequently cannot derive constant currency segment operating income either. We do provide constant currency operating expense and income growth at the Company-wide level.
+We will post our prepared remarks to our website immediately following the call until the complete transcript is available. Today's call is being webcast live and recorded. If you ask a question, it will be included in our live transmission and in the transcript and any future use of the recording. You can replay the call and view the transcript on the Microsoft Investor Relations website until October 21, 2016.
+During this call, we will be making forward-looking statements, which are predictions, projections, or other statements about future events. These statements are based on current expectations and assumptions that are subject to risks and uncertainties.
+Actual results could materially differ because of factors discussed in today's earnings press release, in the comments made during this conference call, and in the Risk Factors section of our Form 10-K, Form 10-Q, and other reports and filings with the Securities and Exchange Commission. We do not undertake any duty to update any forward-looking statement. And with that, I'll turn the call over to Satya.
+
+--------------------------------------------------------------------------------
+Satya Nadella,  Microsoft Corporation - CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Chris. Good afternoon, everyone. I'm looking forward to today's call. This quarter, we delivered $21.7 billion in revenue and grew profit. Also as part of our commitment to balanced capital returns, we meaningfully increased our quarterly dividend and continued our stock repurchase plan.
+More importantly, we are focused and making progress towards the goals for FY18 that we shared six months ago. Now more than 110 million active devices are running Windows 10. We are well on our way to reaching 1 billion Windows 10 active devices. People are moving from needing to choosing to loving Windows.
+Similarly, we are making great progress towards our goal of $20 billion in annualized commercial cloud revenue run rate, which now exceeds $8.2 billion. The results speak to our differentiated cloud strategy, expanded market opportunity, and the speed at which customers are adopting our service.
+As I reflect on the quarter, it is important to note that we are investing in significant addressable markets where we also have meaningful differentiation. Today, we'll walk through our financial results for the first quarter and discuss how we're delivering new innovation and growing users and usage across each of our three segments.
+Let's start off with Productivity and Business Process. Clearly, how people work has changed dramatically, but one thing remains true: everyone wants to get more out of every moment of their life. After all, time is our scarcest commodity. That's why we set out to reinvent productivity and business process.
+The recent release of Office is a big step forward. We designed Office 2016 and Office 365 to take the work out of working together. We want to help change the nature of work within organizations of all sizes by focusing on the mobility of the person's experience, enabling collaboration, and building a rich service that spans all aspects of how people work today.
+This approach is resonating with both our consumer and commercial customers. More and more consumers are using Office across device platforms, which is driving Office 365 growth. There are now more than 18 million consumer Office 365 subscribers. We surpassed 200 million downloads of Office Mobile.
+More than 1 billion to do lists have been created so far in Wunderlist and more than 0.5 billion people manage their documents and photos in OneDrive. We continue to see strong adoption in the commercial space, as well. From our largest customers, such as Kraft, GE, Louis Vuitton, to schools and small businesses around the globe.
+Of note, commercial Office 365 monthly active users grew to 60 million, with nearly 60% of our installed base using premium workloads. And we added 50,000 new small business customers in each of the last 19 consecutive months. As customers move to our cloud, it enables us to deliver even more value and push for new growth by entering new categories.
+Information protection is a great example where we have done this because of natural synergies with our existing services. In fact, nearly 20 million people already use our new premium information protection capabilities in Office 365. That's a tremendous validation of how the cloud accelerates the adoption of new workloads and grows our ability to monetize new value in the $10 billion information protection market.
+The new organizational analytics market is another area where we see growth opportunity. So we're investing with our acquisition of VoloMetrix, a powerful cloud-based tool for analyzing organizational productivity. The ability to visualize how people engage with others inside and outside an organization is something the cloud is uniquely suited to do.
+It is exciting to be on the forefront of creating a new technology category. This illustrates how our vision for productivity goes beyond helping individuals to empowering group of people and entire organizations to accomplish more together. Our addressable opportunity will expand further as we launch more advanced security, voice, and analytics workloads in our new premium Office 365 SKU next quarter.
+Let's talk about business processes. With Dynamics, we're making great progress in breaking down the boundaries between business process, collaboration, and productivity to truly empower organizations. The companies I talk with every day are under pressure to grow revenue while differentiating themselves on customer experience.
+It's one reason usage of CRM is growing. Dynamics CRM Online enterprise seats more than tripled year-over-year. Dynamics AX revenue also grew double-digits as the operational system for agile business processes. And we have a new release for Dynamics NAV for small businesses that is tightly integration with Azure, Office 365, and Dynamics CRM.
+Moving to the Intelligent Cloud, before I talk about the great progress we're making with our Intelligent Cloud platform, I want to pause and reflect on where we are as an industry. While many companies are developing commercial cloud offerings, there are really only two driving enterprise cloud platform innovation at massive scale: Amazon and Microsoft.
+We push each other and we each have a unique approach. Microsoft has bet on a strategy to build a hyper-scale public cloud, as well as reinvent servers as the edge of our cloud. This approach gives customers a true hybrid distributed computing platform that reflects their real world needs.
+Our unique hybrid approach, coupled with high-value services is clearly a structural advantage. It's great to see our customers like Walmart, Jet.com, and Alaska Airlines seize the benefits of the cloud to transform and push for growth. Azure revenue and compute usage more than doubled year-over-year, and we are continuing to channel our innovation into high-growth scenarios with new features and services.
+In the last quarter alone, we have made major updates, spanning Azure App Services for building enterprise web and mobile apps; Azure Data Lake for infinite data management and analysis; Advanced Threat Analytics, which help organizations identify breaches and threats using behavioral analysis. CIOs are increasingly adopting our Azure premium service for security and manageability.
+Enterprise Mobility Services has more than doubled to 20,000-plus customers. Our installed base has increased nearly 6 times year-over-year, making EMS the largest mobility and identity management solution in a new and growing market. Our acquisition of Adallom, an innovator in cloud security, will bring customers visibility and control over application access and company data stored across popular cloud applications, including Office 365, Salesforce, ServiceNow, and many more.
+To be a worldwide cloud player, global scale is a must. With that in mind, we launched new data centers in India, bringing our global total to over 20 regions, more than any other major cloud provider. We aren't just selling into these countries; we see the cloud as an accelerator of local economies by offering tools that empower emerging businesses, transform public sector services, and create value for new local partners.
+Our differentiated hybrid capabilities mean customers get to choose how they adopt the cloud and distribute their workloads. This in turn is driving the growth of our server business. Premium versions of Windows Server, SQL Server and System Center all grew double-digits.
+Lastly, we reached a big milestone with SQL Server, one that has been 20 years in the making. The database software market is still one of the largest, and now we are an unparalleled leader in Gartner's Operational DBMS Magic Quadrant.
+That speaks to our differentiated vision in the category and the value we deliver to customers and we're certainly not done innovating. This milestone with SQL, juxtaposed with our rapid growth in Azure and its position in the Cloud Magic Quadrant, shows the overall strength and progress we're making with our Intelligent Cloud Platform.
+Now let's shift to progress in our More Personal Computing segment, specifically, how the launch of Windows 10 is sparking new growth opportunities for the entire Windows ecosystem. As a platform Company, we think about bringing the needs of multiple constituencies together: developers, IT professionals, and users. We're seeing great response from all three.
+There now than more 110 million monthly active devices running Windows 10. The majority of the upgrades in the first 10 weeks were naturally from consumers, and are 3 times that of Windows 7 over the same time period after launch. We're also seeing a fast start to business adoption, with more than 8 million business PCs now running Windows 10.
+We are adding more enterprise features and we are making it easier for businesses to buy and support Windows devices. Our early success in attracting developers, apps, and store visits is also growing. Our stores have seen 1.25 billion visits and developer revenue per download has grown 4 times since the Windows 10 launch.
+Developers are responding to the opportunity, including Facebook, which will release universal apps for Facebook, Instagram, and Messenger. Windows 10 is also driving increased usage of other Microsoft services. Specifically, Bing share is up to 20.7% in the US, and advertising revenue grew 29% worldwide, helped by Windows 10 users asking Cortana more than 1 billion questions.
+Further, in gaming, we have also seen an increase in active users as we extend our gaming experiences from the console to Windows 10 PCs. Xbox Live continues to grow active usage, and every day nearly one-half of the Xbox One user base is engaged in the service.
+It will be a great holiday for all gamers. The beta release of Minecraft for Windows 10 is off to a strong start, with players having already placed over a 0.5 billion blocks. Next week, we are excited to launch one of the most anticipated new games this holiday, with Halo 5: Guardians.
+This new Halo includes an epic hunt for Master Chief, along with groundbreaking multi-player matches on Xbox Live. As a result, I confidently predict that time will become much more scarce for Xbox One owners starting on Tuesday.
+We see all of this Windows 10 usage as an early indicator of our ability to drive growth over the lifetime of a device. Two weeks ago, we took the next major step in our journey with announcement of new Windows 10 premium devices from us and from our OEM partners. It's an incredible line-up across a broad spectrum of categories, from the new Surface Pro 4, Surface Book, to Lumia 950, 950 XL, to Microsoft Band 2, and HoloLens Developer Edition.
+Every -- early reviews are generating excitement with customers, and we are delighted that our pre-order sales are reflecting the positive sentiment in the market. We're also seeing hundreds of new device designs from our partners, the widest range ever for this holiday. It's clear that by bringing together our applications, operating system, and hardware, we will invent new personal computers and new personal computing.
+Overall, I'm proud of our results this quarter and I'm optimistic about our growth prospects. We are poised to seize the opportunity of the largest technology shift of our generation with the enterprise cloud. We're increasing users and engagement in services that cross every aspect of a person's life, from Office at work to Xbox at home, while at the same time we are positioning Windows for growth.
+Our transformation is well underway. Quarter after quarter, we build new capability, we enter new markets, scale our new businesses and new business models, and we are being disciplined in our execution. I'll now hand off to Amy to talk about this quarter's results in greater detail and I'll look forward to rejoining you after to answer questions.
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Satya, and good afternoon, everyone. Before addressing this quarter's results, I want to briefly comment on the reporting segment change we announced during the quarter. We believe our new segments, in combination with supplemental metrics and the profit measure of operating income, provide transparency into our progress against our ambitions.
+As Chris mentioned, my commentary today on our results and outlook will reflect the new segments and excludes the net revenue deferral impact of Windows 10. Last quarter, we discussed the material impact the foreign exchange movements would have on our financial results through FY16.
+In Q1, the FX impact on total revenue was 5 points, with most of the impact in the Intelligent Cloud and Productivity and Business Processes segments, given their high annuity mix. This was in line with the expectation we shared in July.
+This quarter, revenue was $21.7 billion, down 7%, and 2% in constant currency, primarily due to the changes we've made in our phone business. Gross margin declined by 3%, but was up 3% in constant currency. We were thoughtful with operating expenses, realizing savings but investing, as well.
+As a result, operating income grew 1%, or 11% in constant currency. Earnings per share was $0.67, growing 3% and growing 15% in constant currency. We continued to see solid performance across most developed markets, while the challenging macro conditions in Brazil, China, Japan, and Russia persisted this quarter.
+Commercial results are now included in each of the reporting segments. Therefore, each quarter I will cover overall commercial results in my commentary. Our commercial business continues to be healthy, with momentum in cloud services and a higher annuity mix across all our segments.
+Commercial bookings were slightly better than we expected and grew 10% in constant currency. We executed well on expirations and commercial unearned revenue grew, came in as expected, growing 3% to $21 billion, up 10% in constant currency. Our contracted not billed balance was more than $23.5 billion, in line with seasonality for the quarter.
+As Satya remarked, our commercial cloud annualized revenue run rate surpassed $8.2 billion, growing nearly 70% year-on-year, and in line with our expectations. Consistent with the revenue pattern across our commercial business, we typically drive the largest volume of renewals in new agreements in June and consequently see a lower sequential growth rate Q1.
+Importantly, our commercial cloud gross margin percentage improved again sequentially from Q4, as we benefited from increasing scale and efficiencies. As I will talk about shortly, our leading indicators around usage, new cloud services, and customer demand remain healthy, and we are clearly on track toward our $20 billion goal in FY18.
+Now let's turn to the detailed results of each segment. Our Productivity and Business Processes segment, which is made up of commercial and consumer Office, including Office 365, as well as Dynamics, delivered $6.3 billion in revenue, declining 3%, and growing 4% in constant currency. In Office commercial, revenue grew 5% in constant currency and was slightly better than we expected.
+Increased channel sales capacity, a higher adoption of premium services, and continue to installed base growth all contributed to our performance. We saw broad-based Office 365 seat growth across both large enterprise and the SMB customer base. Office consumer revenue declined 4% in constant currency, better than the underlying consumer PC market and slightly better than we had expected.
+This quarter, recurring subscription revenue more than offset the impact of customers transitioning to Office 365. Our Dynamics business grew 12% in constant currency, slightly better than we expected. Growth was driven primarily by Dynamics CRM Online. We continue to make progress by investing in product innovation organically, as well as adding capabilities through acquisitions, like FieldOne and FantasySalesTeam.
+Segment gross margin declined 6% but grew 1% in constant currency. Gross margin percentages have been impacted by the mix shift toward our rapidly growing cloud services, including our consumer properties like OneDrive. As Chris mentioned, this year we can't provide constant currency impact at the segment level for operating expenses and therefore operating income. That said, FX in general as at the Company level had a favorable impact on operating expenses, which declined 6%.
+The Intelligent Cloud segment, which includes of our portfolio of server products, Azure cloud services, and enterprise services, delivered $5.9 billion in revenue, up 8%, and up 14% in constant currency, in line with our expectations. Our differentiated cloud platform offerings and rapid pace of innovation continue to be compelling to both new and existing customers.
+Segment gross margin grew 8%, or 15% in constant currency. We continue to invest in research and development resources to realize the large and growing addressable market opportunities and are accelerating our plans to add incremental sales capacity to support growing customer demand for cloud services. Segment operated income grew 14%.
+Now to our final segment, More Personal Computing, which includes Windows, devices, gaming, and search. Revenue was $9.4 billion, declining 17%, and 13% in constant currency, mainly due to the changes in our phone strategy. As Satya mentioned, since the launch of Windows 10 in late July, we have seen solid momentum in our ecosystem and with our customers.
+Importantly, we saw positive engagement and usage signals across services like search and gaming that provide post-sale monetization opportunities. Overall, our OEM business declined 6% this quarter, outperforming the PC market and better than we had anticipated, driven primarily by non-Pro OEM. As we discussed previously, this was a transition quarter, as the ecosystem moves to Windows 10, and we believe overall inventory in the channel is at normal levels as we head into holiday.
+OEM non-Pro revenue declined 4%, as we saw OEMs focused on premium devices, aligned to the Windows 10 launch. This drove a richer mix to market leading to improvement in the average revenue per license. OEM Pro revenue declined 7%, slightly ahead of the overall commercial PC market.
+Windows volume licensing grew 4% in constant currency, with annuity growth in mid-single-digits. Search revenue increased to more than $1 billion this quarter, and we passed an important milestone as our search business reached profitability. In our devices portfolio, revenue declined 49%, and 45% in constant currency, mainly due phone revenue, which decreased $1.5 billion.
+As expected, Surface revenue slowed with the market anticipation of a new Surface Pro device for the holidays. Surface continues to gain ground with businesses and schools, creating opportunities for our rapidly growing partner channel, which includes Accenture, Dell, and HP. Both the number and size of deals in our commercial segment for Surface have increased double-digits year-over-year.
+This quarter in gaming, revenue grew 6% in constant currency. We saw growth in Xbox Live transactional revenue and our first-party game portfolio, offset by declines in hardware revenue due to lower volumes of Xbox 360 consoles sold.
+Segment gross margin declined 10%, or 4% in constant currency. Gross margin percentages were flat year-over-year excluding the phone. Segment operating expenses declined 13%, due primarily to lower phone expense; as a result, segment operating income decreased 4%.
+Now back to our overall Company results. As usage of our cloud service grows, we will continue to invest capital into our data centers and servers globally. This quarter, we invested $1.5 billion to support that demand-driven growth. Other income was negative $280 million, due in part to foreign currency remeasurements and interest expense.
+Our non-GAAP effective tax rate was 21%, below our guided range. This was driven by the change in geographic mix of our earnings and lower non-deductible operating losses associated with phones. This quarter, we returned $6.9 billion to shareholders, up 51%. This includes our recently announced 16% increase in the quarterly dividend to $0.36.
+With that overview of the quarter, let's move to the outlook. I'll start with some overall comments and then moved to a discussion by segment. First, on FX, based on current rates and the forecasted geographic mix of revenue, we expect 4 points of negative impact on total revenue in Q2.
+By segment, we expect a 7-point drag in Productivity and Business Processes, 6 points in Intelligent Cloud, and 3 points in More Personal Computing. In H2, we expect the impact to lessen to around 3 points in total, weighted toward our segments with the highest percentage of annuity.
+Next to our commercial business, which we expect to remain healthy in Q2. Our annuity mix should trend up, with good execution on contract renewals and continued adoption of our commercial cloud services. Accordingly, we expect commercial unearned revenue to be within a range of $19.5 billion to $19.7 billion, benefiting from these positive trends. With the ongoing increase in cloud demand, we expect to accelerate our investment in data centers and capital equipment for the remainder of the fiscal year, expanding geographic coverage and capacity.
+Now let me share some additional thoughts on each segment. In Productivity and Business Processes, we expect revenue of $6.6 billion to $6.7 billion. Adjusted for 7 points of expected FX impact, the revenue growth reflects continued momentum of Office 365 and our Dynamics portfolio, and as Satya discussed, with our new E5 SKU in Q2, we're expanding our opportunity into security, analytics, and voice.
+For the Intelligent Cloud segment, we expect revenue of $6.2 billion to $6.3 billion, including a 6-point FX impact. Our hybrid approach continues to drive growth in our server licensing business and robust growth in our services. Gross margin in this segment will reflect the accelerating mix of cloud services.
+We expect More Personal Computing revenue to be $12 billion to $12.4 billion, including the 3 points of FX impact. Because of the mix of devices and software in this segment, let me provide a bit more context. First on Windows, overall in Q2, we expect our OEM business to look similar to Q1, with non-Pro outperforming the underlying PC market.
+As we move deeper through the fiscal year, the device mix should evolve, as our OEM partners produce more models at a wider range of price points. In search, we expect Bing's strong trajectory to continue, remaining profitable for the remainder of the year. We will continue to see the impact of the phone restructuring.
+Revenue declines and gross margin percentages in Q2 should look similar to Q1. And with the strong holiday Surface line-up, we expect revenue to grow in Q2. Gross margins will reflect the mix of device life cycles between Surface 3, Surface Pro 3, and a growing mix of Surface Book and Surface Pro 4.
+We expect COGS to be $9.7 billion to $9.9 billion, with variability driven by the device sales. We expect operating expenses between $8 billion and $8.1 billion in Q2. For the full year, we are lowering our guidance to $31.9 billion to $32.1 billion.
+We are and will continue to thoughtfully reinvest operating expense savings to accelerate growth in key areas, to expand our addressable market, and transformed how we work, to better deliver products and services to our customers. We expect other income and expenses to be negative $300 million in Q2, similar to Q1. This includes the net cost of hedging and interest expense, offset by dividend and interest income.
+We expect our Q2 and full-year tax rate to be between 19% and 21%. Similar to Q1, this reflects the changing geographic mix of revenue, as well as lower non-deductible operating losses associated with phones. In closing, [guarantee] one, we exceeded our own expectations across many of our businesses.
+More importantly, we saw healthy indicators of future growth. Through business model transitions and strategic shifts, our solid execution, paired with a focus on achieving our bold ambitions, has enabled us to take share in existing areas, while we enter new ones. And with that, I'll turn it back to Chris for Q&A.
+
+--------------------------------------------------------------------------------
+Chris Suh,  Microsoft Corporation - General Manager of IR    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Amy. We'll now move to Q&A. Operator, can you please repeat your instructions?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Keith Weiss, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Keith Weiss,  Morgan Stanley - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Very nice quarter, indeed. I wanted to ask about the Azure, in particular, and the public cloud [forms] that you saw this quarter. Again, seems like you're seeing an acceleration in that overall business. More broadly, it seems like industry-wide, both you guys and [eight of us] are seeing something of an inflection point going on in terms of more and more business accruing to those public cloud environments.
+So my question is just that. Would you agree with that statement that there's been an inflection going on in the business? And if so, what do you think is causing that and is there a changing in nature in how people are using that cloud? And then maybe for Amy, is there something we should bear in mind in terms of your traditional business, the on-premise business that may be impacted as that infection takes place that we should bear in mind as you go forward?
+
+--------------------------------------------------------------------------------
+Satya Nadella,  Microsoft Corporation - CEO    [3]
+--------------------------------------------------------------------------------
+
+          I'll start. Keith, thanks for the question. Overall, what we're seeing is the public cloud or cloud infrastructure makes it much more possible for businesses of all sizes and developers all sizes to get at infrastructure with much less friction than ever before. I grew up in our server business in the past. We were definitely the ones who democratized servers by bringing servers to small businesses.
+But when I think about what's happening, for example, in Office 365, where we're adding 50,000 small business customers who now get the most sophisticated server technology, but now have as a SaaS service, that's what's really happening world over with all application categories. And that's where the growth is.
+I don't know long-term whether there is a zero-sum equation, but in the -- right now, and in the intermediate time frame, we see, in our case growth, in both sides. And in our case the vision also we have for distributed cloud infrastructure is just that. It is distributed. So we don't think as our server as a legacy business. I think of it as the edge of our cloud.
+If you look at what we're doing with SQL, we will have the ability for any customer of SQL to stretch even a single table from between their on-premise to the cloud. Those are the kinds of things that we are excited about. But we clearly are seeing very rapid growth in adoption of our Azure cloud.
+But in our case, there are two unique aspects. One is this true distributed hybrid and second is we don't think of Azure in isolation. We think about it in the combination of Office 365, Dynamics, EMS, because really it's one cloud infrastructure, first of all, from a capital perspective that serves all of these, and there's a virtual cycle between all of these for our customers, as well.
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [4]
+--------------------------------------------------------------------------------
+
+          Keith, to your second question, the place you'll actually see it will be in the gross margin percentage. As Satya said, I do expect both to grow, both the on-premise and the cloud, but I expect the mix to increasingly shift toward the cloud given its robust growth rate, which will impact the gross margin percentage over time.
+
+--------------------------------------------------------------------------------
+Keith Weiss,  Morgan Stanley - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Excellent. That's very helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Mark Moerdler, Bernstein Research.
+
+--------------------------------------------------------------------------------
+Mark Moerdler,  Bernstein - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Congratulations on the quarter, everyone. Two questions. Let me relate it. Let me give you the first one. The commercial cloud annualized revenue run rate grew slightly from $8 billion to $8.2 billion or a little bit more than each of those, yet Office 365, Azure, Dynamics, CRM Online, all of them seem to be growing very fast. How should we think about the difference, should we figure that the run rate reaccelerates next quarter? And then I have a follow-up?
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [8]
+--------------------------------------------------------------------------------
+
+          The way to really think about that number, just because of some of the seasonality in our business, Mark, is to think about the year-over-year growth rate of 70%. For me, that is more symbolic of how you should think about the pace and that is a very fast number on an increasingly growing base.
+
+--------------------------------------------------------------------------------
+Mark Moerdler,  Bernstein - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          That makes perfect sense. Thank you. The second one is the cloud margins improved nicely. Given the data that's in here, it looks like they've all started to move up. Azure seems to move up. You had said in the [FAM], the gross margins for 2015 should be about 44%. How should we think about cloud gross margins for 2015? I know you don't know, obviously, the mix of all of our products, but how should we think about the improvement there?
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [10]
+--------------------------------------------------------------------------------
+
+          Thanks, Mark. Looking in the old segments, which I know you all have done, we saw year-over-year improvement in the overall Commercial Other segment that we disclosed this time, too, of about 10 points year-over-year. We saw sequential improvement from Q4 to Q1.
+We're still focused on continuing to have that sequential improvement, especially as some of the things Satya talked about, which is the addition of premium services, the pace of innovation especially on the premium end. If you think about our launch of E5, which is a premium SKU in Office 365, it continues to give us the opportunity to both get more efficient in the infrastructure, and to add higher-margin products especially in the SaaS end.
+
+--------------------------------------------------------------------------------
+Satya Nadella,  Microsoft Corporation - CEO    [11]
+--------------------------------------------------------------------------------
+
+          The one thing that, structurally, that we think a lot about and we're very disciplined about is our capital allows us to build all of the cloud services from Office 365 to EMS to Dynamics to Azure. That diversity of workloads, long-term, is what will lead to margin improvement and there will be changes in seasonality from quarter-to-quarter. But structurally, those two things, the diversity of what we're doing and how capital is utilized across all of it, is a big structural differentiator for us.
+
+--------------------------------------------------------------------------------
+Mark Moerdler,  Bernstein - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Beautiful. It's great to see that improvement happening. Thank you very much.
+
+--------------------------------------------------------------------------------
+Chris Suh,  Microsoft Corporation - General Manager of IR    [13]
+--------------------------------------------------------------------------------
+
+          Thank you, Mark.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          Philip Winslow, Credit Suisse.
+
+--------------------------------------------------------------------------------
+Philip Winslow,  Credit Suisse - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Congrats on a great quarter. Just a question for Satya, then a follow-up to Amy, Satya, you talked about good adoption of Office 365 on the commercial side, both in SMBs and large enterprise. Wondering if you just could break that down and where you're seeing the faster adoption? As you start to get into the enterprises especially that might have enterprise agreements with Microsoft, how is that sales motion going and what is the pitch there?
+And then to Amy, I thought this was a key point, something that we've been looking for. You noted that these subscription recurring business now has offset the cannibalization on the license. Is that something that we should think about going forward or was there something specific about this quarter that would push that out? Thanks.
+
+--------------------------------------------------------------------------------
+Satya Nadella,  Microsoft Corporation - CEO    [16]
+--------------------------------------------------------------------------------
+
+          First, as far as the Office 365 usage itself, I talked about some of the numbers, of 60 million monthly active users, the fact that our seats grew 66% year-over-year. The small business number I talked about, the 50,000 per month additional customers that we're adding to Office 365. These are all the growth numbers and the usage growth numbers.
+The mix even, that information protection, that's just another very important point, which is amongst the customers who are using Office 365, already 20 million are using some of these premium services, like information protection. Of course, we're going to further expand that with new SKUs and new categories that are going to become part of Office 365.
+So I see that stretching on both sides, which is to small business on one end and then these premiums SKUs on the other end. And we see nice attach as far as EAs to the cloud, as well and that's definitely a big driver of our growth.
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [17]
+--------------------------------------------------------------------------------
+
+          Let me take the second and I'll add something to what Satya said. One of the important things that's distinct about the small business market is that there tends to not be much of a lag in terms of buying and deployment. They want to be able to instantaneously use and get value very quickly and that's something we've actually seen and a real testament to our ability to add so many customers in every quarter.
+And what you've seen in the consumer side, which it was an important point, once we've built this installed base up to 18 million users on the consumer side, that recurring rate does, in fact, offset the deferral from new. And so it is an important inflection point for us this quarter.
+
+--------------------------------------------------------------------------------
+Philip Winslow,  Credit Suisse - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Great. (Multiple speakers.) Congrats.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Heather Bellini, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Heather Bellini,  Goldman Sachs - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          I just had two quick questions. I was wondering, Satya, if you could give us a sense for a high-level commentary about the split of IaaS versus PaaS and Azure? And maybe some color on the growth you see in each of those and how you see them evolving?
+Then the second question would be related to the launch of Windows 10. You gave the Bing example for the month of September and the solid pull-forward there -- or pull-along there. I'm just wondering if you could share with us any other areas where you're seeing a similar pull along with Windows 10 adoption. Thank you.
+
+--------------------------------------------------------------------------------
+Satya Nadella,  Microsoft Corporation - CEO    [21]
+--------------------------------------------------------------------------------
+
+          Sure, Heather. On the first one, on the mix between IaaS and PaaS and SaaS, we think that we are seeing quite frankly all of these are growing, but the most interesting thing for me as a pattern is growth in IaaS leads to growth in other PaaS or SaaS services. To put it very concretely, take something like Azure Active Directory. That's probably the best manifestation of the virtual cycle that we see in any of the cloud options that we have.
+Right? It could be someone coming from Office 365. It's can be someone coming from Azure, Dynamics, EMS. All of those tenants get into Azure Active Directory, which is our largest PaaS service because it has got even developer API, so that means more developers are using it, more IT professionals are using it as the control plane. So that's the network effect that we see when it comes to the PaaS services.
+And then in terms of infrastructure itself, as again I said, there's people who are tiering even applications, people who build hybrid applications where the storage could be even on premise in some cases, but the mid-tier and the web and the mobile back-ends are in the cloud. We see a lot of growth there.
+We see a lot of growth in our data, both in terms of infrastructure, but in the new services like our Data Lake services, which are PaaS services. Hadoop is another good example. We see lots of Hadoop usage inside of IaaS, but we also see HDInsight growth. So I would say there is real good mix of those two.
+And then on Windows 10, I'm very, very excited, obviously, about what's happening with Bing. Amy talked about, we have a $1 billion quarter with 29% growth and good share position growth in the United States. That's fantastic to see.
+But gaming is the other place where we talked about Xbox Live. Now that spans both console and PC. We see increased engagement. Because of that, we see, in fact, increased engagement with titles like Minecraft, so we have some high hopes for what we can achieve with engagement around Xbox Live across the console plus PC.
+
+--------------------------------------------------------------------------------
+Chris Suh,  Microsoft Corporation - General Manager of IR    [22]
+--------------------------------------------------------------------------------
+
+          Thank you, Heather.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Brent Thill, UBS.
+
+--------------------------------------------------------------------------------
+Brent Thill,  UBS - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Satya, Michael Dell mentioned, with you on stage, a week ago, that he's seen from his perspective stronger Windows 10 adoption among enterprise customers, faster than he had seen in the past. I'm curious if you're starting to see a halo impact where those that are looking to move up are saying we want to go with more of the complete infrastructure set? Are you seeing different sales motions among those enterprise customers as those customers are coming back to you?
+
+--------------------------------------------------------------------------------
+Satya Nadella,  Microsoft Corporation - CEO    [25]
+--------------------------------------------------------------------------------
+
+          Thanks, Brent. That is absolutely the case, that is we're seeing a much faster adoption cycle, obviously starting with the consumer side, but even the 8 million business PCs that are already running Windows 10. Before we have started in fact the push on enterprise, we expect the enterprise deployment to start in earnest the beginning of next calendar year or the second half of this fiscal year.
+But to your point, the fact that there is pull already is a very, very good indicator of -- and a good sign, and it's even better than what we saw with Windows 7. So to me, that's all positive news, but yet we are very, very focused on delivering new value to the enterprise customers.
+Because if you look at Windows 10, we've already talked a lot about all the consumer value, but just take security itself. Windows 10 represents a real breakthrough in terms of security on the endpoint, as well as in embedded, which we are very excited about in terms of driving the enterprise upgrade cycle.
+
+--------------------------------------------------------------------------------
+Brent Thill,  UBS - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Real quick, just for Amy on cash flow, is there anything that we should take into account this year versus what happened last year?
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [27]
+--------------------------------------------------------------------------------
+
+          I don't think anything unique that I would bring up, no.
+
+--------------------------------------------------------------------------------
+Brent Thill,  UBS - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Chris Suh,  Microsoft Corporation - General Manager of IR    [29]
+--------------------------------------------------------------------------------
+
+          Thanks, Brent.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Raimo Lenschow, Barclays.
+
+--------------------------------------------------------------------------------
+Raimo Lenschow,  Barclays Capital - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Besides Azure in the Intelligent Cloud, you obviously have very, very good momentum on the classic server [and tools] business. Can you talk a little bit about the volume versus price effect that you see playing out here and how is it now and how do you expect that to play out going forward?
+One of the things on Azure was usage, and you mentioned how that improved quite significantly. Satya, can you talk a little bit where you see that current usage standing and where do you think that can go? We obviously didn't get a number, just a growth rate, but where do we see usage, because that's obviously one of the things that one of your competitors keeps [poking] -- trying to knock on you?
+
+--------------------------------------------------------------------------------
+Satya Nadella,  Microsoft Corporation - CEO    [32]
+--------------------------------------------------------------------------------
+
+          The usage numbers is the one that, Raimo, that we talked about, which is doubling of compute, doubling of storage. We talked about the growth in EMS, which is a higher level service. We talked about the growth in Active Directory, so we have usage growth in Azure, which is very, very healthy.
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [33]
+--------------------------------------------------------------------------------
+
+          And on the server question you asked at the beginning, let me say that we did see around 9% constant currency growth of the core server product. A lot of that was premium driven. I have a distinction between a price question that you asked versus seeing the value of a premium SKU and so I do think it was premium driven as opposed to a price driven, in particular.
+
+--------------------------------------------------------------------------------
+Raimo Lenschow,  Barclays Capital - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Perfect. That's helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Chris Suh,  Microsoft Corporation - General Manager of IR    [35]
+--------------------------------------------------------------------------------
+
+          Thank you, Raimo.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          Karl Keirstead, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Karl Keirstead,  Deutsche Bank - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          I wouldn't mind going back to Windows 10. Three months ago on the June quarter call, the messaging was that Windows 10 would not likely lift Microsoft's performance results until the second half of FY16, yet it feels like, as early as this first quarter, it's creating a lift at least to the Windows OEM business. I just wanted to understand what's changed in the last three months such that it's having an earlier than expected positive impact on Microsoft? Thank you.
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [38]
+--------------------------------------------------------------------------------
+
+          Why don't I take that and Satya can add? In particular, what we saw this quarter was really as much about the mix of the devices that the OEMs are bringing to market, as it was in the absolute unit distinction. You saw that in the non-Pro revenue performance.
+And so for us, really the way to think about the early signs of the impact were the strong device mix, some higher priced units across a wide variety of OEMs as we build into holiday, did provide some slightly better than expected results, as you noted in the non-Pro business. But really some of the other upside that we saw in the quarter was from things that are the second derivative of that, which was our search results were better than we had thought because of some of these results about where the PCs were upgraded and the pace at which they were upgraded.
+And so I do think we are encouraged, as Satya said, but we are a quarter in, and what's exciting for us is really the opportunity we have going forward. We're excited about Q2 when the devices hit the shelves, we're excited to have so many first-party devices in Q2. Then the next stage after that, which is really the enterprise deployment, which as Satya mentioned we expect in the second half of the year, so it's early, but you're right, we did see some incremental improvement over what we expected.
+
+--------------------------------------------------------------------------------
+Karl Keirstead,  Deutsche Bank - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you, Amy.
+
+--------------------------------------------------------------------------------
+Chris Suh,  Microsoft Corporation - General Manager of IR    [40]
+--------------------------------------------------------------------------------
+
+          Thanks, Karl.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Walter Pritchard, Citi.
+
+--------------------------------------------------------------------------------
+Walter Pritchard,  Citigroup - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Amy, I'm wondering if you could talk about, on the computing side, the Personal Computing side, you talked about this quarter seeing growth ahead of the PC market. You alluded to a diversity of devices coming in the second half. How do you think about that variable in the model, say, beyond this launch period where you have a little bit of a differing mix going on in devices?
+When you get to more of a steady-state out in years two and three of the Windows 10 launch, do you think you can grow ahead of the PC market, or do you think -- I know for the last few years, you've grown below the PC market. Just wondering how we should think about that?
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [43]
+--------------------------------------------------------------------------------
+
+          Thanks, Walter. Let me talk a little bit about what I said in my outlook. This quarter, as I just talked about, non-Pro outperformance versus the market was really due to a higher revenue per license. I expect that actually to continue into Q2. I expect our overall Pro business to remain in line with business PCs.
+Once we worked through the end of XP bump, that really should be in line. And as we talked about, as we move through the year, I do expect things to more normalize overall in terms of RPL comparisons, but I do think that's probably the best way to think about the curve over the course of the year.
+
+--------------------------------------------------------------------------------
+Walter Pritchard,  Citigroup - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          And then on the commercial licensing part, specifically within productivity, I know you had an old breakout and a new breakout where we don't see commercial licensing necessarily within productivity, but would you expect that piece, the commercial licensing within productivity, given the transition going on, to be stable, or with that decline as you see the transition over to the cloud in productivity, specifically?
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [45]
+--------------------------------------------------------------------------------
+
+          Let me and if I missed the question or misunderstood it, you can help me again. You're asking about our core Office commercial business, the product side versus the service side.
+
+--------------------------------------------------------------------------------
+Walter Pritchard,  Citigroup - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Correct?
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [47]
+--------------------------------------------------------------------------------
+
+          Okay. Good. The trend we saw there, as I said, we're 5% up in a constant currency basis. That was 70% cloud, minus 8% on-prem. That's a trend that's not new for us. We've thought about making this transition as quickly as possible, but what we're seeing, which you heard us talk about was the transition to increasing premium mix, selling more workloads, doing all that while we're growing the installed base.
+So if you think back to how we've talked about the long-term -- the life-time value equation, it's those components that I really think about proving out over time and we had lots of encouraging signs about that. New users, Satya referenced, on the small business and mid-market side. Premium mix, we talked about how many premium services we're now selling.
+And then in terms of renewals, they're quite good, which we talked about, and so all of those, when you talk about should we expect the traditional business to be in decline, I don't think that's new. What's important is our ability to switch it to the services and add more over time, that I really focus on.
+
+--------------------------------------------------------------------------------
+Walter Pritchard,  Citigroup - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          Mark Murphy, JPMorgan.
+
+--------------------------------------------------------------------------------
+Mark Murphy,  JPMorgan - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Amy, I see the commercial bookings numbers in the KPI sheet, but I do not see the total bookings numbers. I'm wondering if you could comment on that, so that we can try to maintain a consistent analysis there, if it's relevant?
+Also, Satya, now that SQL Server has taken over this number one position in the Gartner Quadrant for the database market, could you help us understand how the road map evolves from here? As we did notice, Amazon made its debut also in the leaders' quadrant and we're trying to understand how the movement to cloud platforms like Azure could further alter the database landscape and how you could capitalize on that?
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [51]
+--------------------------------------------------------------------------------
+
+          Why don't you go first?
+
+--------------------------------------------------------------------------------
+Satya Nadella,  Microsoft Corporation - CEO    [52]
+--------------------------------------------------------------------------------
+
+          Yes, I'll go first. The data architecture that underlies what's happening in the enterprise underneath applications is going through a dramatic change. That said, the relational database itself remains still a very strong component, but not the only component anymore, both on premise and off premise. What we want to make sure, as a Company, is to cover all of that landscape with a very rich data platform.
+So if you look at what we're doing, the length and breadth of our ambition, as well as our delivery today, everything from what SQL itself is doing, we have now all in memory workloads for OLTP, BI, data warehousing, built in. We have the ability to now tier even the database with the cloud. This is all the things that are coming in SQL 2016 and we're excited about that.
+When it comes to the cloud itself, we have a PaaS service for SQL, which is very unique in terms of SQL Azure. We have now the Data Lake service for basically petabyte, exabyte scale data management. We have higher-level data services like Azure ML, which is about advanced analytics, a category we didn't even participate in the past, so we've entered that category. Revolution R fits into that.
+So we have a very rich story, and this is not even talking about some of the other end user BI capabilities, like Power BI. So we have a very rich vision and execution on what is an expanding data platform opportunity, and it's nice to see us innovate on the new services, while we also, in what is still the big market, which is the relational database market, claim a leadership position.
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [53]
+--------------------------------------------------------------------------------
+
+          And Mark, on the total bookings number, the reason we moved to commercial bookings is it's a far more comparable number to look at, period-to-period. Total bookings, because of the volatility, frankly, in consumer businesses in times like the holiday period, it can make it far more volatile than usually what many of you have been asking for, which is the continuity and health of the overall commercial business. If you want to get to total bookings, you just add back in all the consumer revenue is technically how you would do it, but I do think the more helpful KPI for us in terms of bookings is the commercial one.
+
+--------------------------------------------------------------------------------
+Mark Murphy,  JPMorgan - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Chris Suh,  Microsoft Corporation - General Manager of IR    [55]
+--------------------------------------------------------------------------------
+
+          Thanks, Mark.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+
+          Ross MacMillan, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Ross MacMillan,  Jefferies LLC - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          Thanks so much for squeezing me in and congrats on the quarter. Amy, I just had a couple. The first one, just your comment that the consumer Office business, you are seeing basically the subscription revenue now being larger than the offset, if you will, on the license side. Where do we stand with regard to that on the commercial side of the Office transition?
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [58]
+--------------------------------------------------------------------------------
+
+          The way to think about that, how I look at -- the way I would generally say it is you could look at each of the KPI as we get. So the Office commercial business grew 5%, it was negative 8%, there's some transition earning back off the balance sheet. The total cloud is 70%.
+When we start to get to this point, and the percentage we already have in the cloud, it is really an offset. And that's probably, frankly, been true a little bit longer than we've talked about technically in terms of what goes off and what comes on, given we've now got, as Satya said, 60 million users and more than that in terms of [SQL].
+That can technically, Ross, be interesting in certain quarters of the year where we have very heavy expirations. And so it just depends year-over-year -- that's why the commercial is slightly harder to do it on because there's some volatility in the ins-and-outs based on seasonality.
+
+--------------------------------------------------------------------------------
+Ross MacMillan,  Jefferies LLC - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          But just if I think about the incremental subscription revenues from the commercial side versus the license declines, it sounds like this year, this fiscal year, we're making that pivot like we have made on the consumer side. Would that be a fair statement?
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [60]
+--------------------------------------------------------------------------------
+
+          I want to make this simple, and unfortunately it's just slightly complicated. Because so much of our installed base was already on an annuity contract, it makes this transition mathematically hard. What you're asking is specifically for our transactional component, when the old transactional component has gone, but that's a component of the number not the total.
+So it's why it's technically difficult to answer the question you're specifically asking, Ross. But the way I would think about it is, we are moving such a substantive piece of our EA business, and with our annuity mix all up in commercial, up to 86%, we're feeling very good about our ability to transition people at LTV and grow the business overall at a very high level.
+
+--------------------------------------------------------------------------------
+Chris Suh,  Microsoft Corporation - General Manager of IR    [61]
+--------------------------------------------------------------------------------
+
+          Thank you, Ross.
+
+--------------------------------------------------------------------------------
+Ross MacMillan,  Jefferies LLC - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          Thank you very much.
+
+--------------------------------------------------------------------------------
+Chris Suh,  Microsoft Corporation - General Manager of IR    [63]
+--------------------------------------------------------------------------------
+
+          So that wraps up the Q&A portion of today's earnings call. We look forward to seeing many of you in the coming months at various investor conferences. For those unable to attend in person, these events with webcast and you can follow our comments at microsoft.com/investor. Please contact us if you need any additional details and thank you for joining today.
+
+--------------------------------------------------------------------------------
+Amy Hood,  Microsoft Corporation - CFO    [64]
+--------------------------------------------------------------------------------
+
+          Thanks, everyone.
+
+--------------------------------------------------------------------------------
+Satya Nadella,  Microsoft Corporation - CEO    [65]
+--------------------------------------------------------------------------------
+
+          Thank you, everyone.
+
+--------------------------------------------------------------------------------
+Operator    [66]
+--------------------------------------------------------------------------------
+
+          Thank you. This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

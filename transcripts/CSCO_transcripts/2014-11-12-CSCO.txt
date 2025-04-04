@@ -1,0 +1,620 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2015 Cisco Systems Inc Earnings Call
+NOVEMBER 12, 2014 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Gary Moore
+   Cisco Systems, Inc. - President and COO
+ * Frank Calderoni
+   Cisco Systems, Inc. - EVP and CFO
+ * Kelly Kramer
+   Cisco Systems, Inc. - Incoming CFO
+ * Melissa Selcher
+   Cisco Systems, Inc. - VP of Corporate Communication & IR
+ * John Chambers
+   Cisco Systems, Inc. - Chairman and CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mark Sue
+   RBC Capital Markets - Analyst
+ * Ben Reitzes
+   Barclays Capital - Analyst
+ * Simona Jankowski
+   Goldman Sachs - Analyst
+ * Ehud Gelblum
+   Citigroup - Analyst
+ * Ittai Kidron
+   Oppenheimer & Co. - Analyst
+ * James Faucette
+   Morgan Stanley - Analyst
+ * Amitabh Passi
+   UBS - Analyst
+ * Alex Henderson
+   Needham & Company - Analyst
+ * Brian Modoff
+   Deutsche Bank - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          EventID. Please stand by for realtime transcript. Welcome to Cisco Systems' first-quarter and FY15 financial results conference call.
+At the request of Cisco Systems, today's call is being recorded.
+If you have any objections you may disconnect. Now I would like to introduce Melissa Selcher, Vice President of Corporate Communication and Investor Relations. Ma'am, you may begin.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you.
+Good afternoon, everyone, and welcome to our 99th quarterly conference call. This is Melissa Selcher, and I'm joined by John Chambers, our Chairman and Chief Executive Officer; Frank Calderoni, Executive Vice President and Chief Financial Officer; Rob Lloyd, President of Development and Sales; Gary Moore, President and Chief Operating Officer; and Kelly Cramer, Senior Vice President of Finance.
+I would like to remind you that we have a corresponding webcast with slides including supplemental information that will be available on our website in the investor relations section following the call. Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements and other financial information can also be found on the Investor Relations website.
+As is customary in Q1, we have made certain reclassifications to prior period amounts to conform to the current period's presentation. The classified amounts have been posted on our website. Click on the financial reporting section of the website to access these documents. Throughout this conference call, we will be referring to both non-GAAP and GAAP financial results.
+The matters we will be discussing today include forward-looking statements, and as such, are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically the most recent report on Form 10-K and any applicable amendments which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.
+Unauthorized recording of this conference call is not permitted. All comparisons to this call will be on a year-over-year basis, unless stated otherwise. As we have in the past, we will discuss product results in terms of revenue, and geographic and customer segment results in terms of product orders, unless specifically stated otherwise.
+I'll now turn the call over to John for his commentary on the quarter.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you very much, Mel.
+I am pleased to report another solid quarter. Our strongest Q1 ever, in terms of revenues, non-GAAP operating income, and non-GAAP earnings per share.
+We grew revenues this quarter to $12.2 billion, up from 1% year-over-year, returning to growth, as we said we would. We generated $2.5 billion in operating cash flow, and returned close to $2 billion to our shareholders through share repurchase and dividends. With strong total non-GAAP gross margins of 63.3%, and non-GAAP operating margins of 29.2%, we delivered non-GAAP earnings per share of $0.54.
+When I think about the quarter, there are three key take-aways that you will see we will call out in our following discussions. First, I would say we're managing the business very well, in a very tough environment. Second, we are seeing results of our three-year transformational work. In this work, moving from selling boxes to selling solutions, and leading with innovation, speed, efficiency, as we disrupt the market. Third, we are leading the technology and business transitions in the market.
+Our strategy is playing out, as delivered innovative solutions based on intelligent networks, to enable the next generation of IT, and the Internet of Everything. We continue to focus on what made us successful many times in the past, leading through market transitions. I give us very high marks on our execution.
+For example, in the data center, where we are winning the SDN battle, with application-centric infrastructure this quarter, we now have over 900 Nexus 9000 customers, up from 580 last quarter, with strong continued momentum. And in its first full quarter of shipments, we more than doubled paying customer adoption of the APIC and our ACI controller, that enables automation and programmability of the network on a scale that's never been done before.
+The Nexus 9000 and ACI continued to see strong demand from customers who are seeing the significant advantage of ACI in their application deployment and management. As I said last quarter, we had two principal objectives, when we rolled out our transformational plan in 2011 from Gary. So how are we doing against these objectives?
+The first one is about driving innovation, speed, agility, and effectiveness in our business. As you are all aware, we are navigating the same macro environment as everyone else. At same time, we are also executing on several transitions within our portfolio. Despite this, our results are at or near record levels, and showing momentum on both the top and bottom line. I'm optimistic as things play out this year and beyond, Cisco's very well-positioned.
+The second objective, move our business from model that's selling boxes and standalone services, to selling architectures and solutions that drive business outcomes. As every company, every city, every country is becoming digitized, and we're seeing this on the results of our customer visits around the world, we are engaging with entirely new business models, leading with software and services, and delivering integrated solutions.
+Recently we described an enterprise license agreement for our software portfolio we had signed with General Motors, a model we're replicating across our enterprise accounts at this time. And last month, we discussed what success we've had together in Barcelona and Chicago, as they digitized their city and evolved into smart cities. We're tying together the breadth of our product portfolio to deliver solutions that drive growth and economic opportunity with security and scale. These large strategic deals are becoming the blueprint for how we will move forward.
+In the last few quarters, we've talked about three headwinds. Emerging markets, SP, and product transitions at the high end of our switching and routing. The good news is that in the third quarter, the third area, high-end switching and routing, has turned to a tailwind, based on momentum in our new product introductions, and we'll share that with you shortly.
+As we said last quarter, we are executing and progressing as I expected, and I am very comfortable with our growth trajectory. We are pleased that in spite of the headwinds, we are growing again, and are very nicely positioned once we get a positive turn in service provider, or emerging markets ideally in both.
+For Q2, we expect to see mid-single-digit revenue growth in the range of 4% to 7%, and non-GAAP earnings per share in the range of $0.50 to $0.52, which would be an increase of 6% to 11% in terms of the earnings-per-share, given the range that we covered. Our Q2 guidance reflects an added measure of conservatism, primarily related to reduced spend at several large US service providers.
+I will now provide a more detail on the business momentum in our geographies and customer segments within our portfolio. As a reminder, geographies are the primary way we run the business. In these areas I will speak in terms of product orders year-over-year, unless otherwise noted.
+We finished the quarter with product orders up 1%, and product booked-to-build below 1, in line with usual Q1s. EMEA was a highlight with growth of 6%. We saw very strong performance in the UK, up 20%, and strength in Germany, up 6%. Southern Europe grew approximately 20%.
+We saw some stabilization in the emerging countries within the EMEA arm, with growth of 2% in the emerging segment, Chris Dedicoat's business. Based on the role we play in the digitization of countries and companies, including our ability to bring innovation and job creation, we're more positive on the future business in Europe than perhaps some of our peers are.
+Our Americas business grew 2%. We saw growth in the US of 3%, and when you exclude US service provider, growth in the US was 12. US public sector had a very strong quarter with growth of 22%; US federal grew an amazing 34%, while state and local declined by 2%. US commercial grew 7%, US enterprise declined 1%.
+Last quarter, we shared that US enterprise grew at a very strong 16% growth year over year. As I mentioned at the time, that performance was higher than normal, and I expected it to balance out this quarter. Looking at the pipeline next quarter, we feel good that this business will again deliver double-digit growth. US service provider, however, declined at 18%.
+Within the Americas, Latin America grew 5%. Asia Pacific, Japan, and China declined 12%, led by China down 33%, while India grew 6%. The remaining emerging countries in Asia declined 15%. Overall, emerging countries within the three geographies declined this quarter by 6%.
+The BRICKs plus Mexico were down 12%, while the other emerging countries actually grew 1%. Our position in emerging markets remains strong, and we believe we are positioned well for the inevitable upturn. However, as we told you last quarter, that is not factored into our plans.
+Moving onto the view from the customer segments. In this quarter, global public sector grew 13%, global commercial grew 5%, global enterprise grew 2%, and service provider declined on a global basis by 10%. Emerging markets remain challenged, and we saw a dramatically reduced spend at several large US service providers.
+As you think about our service provider position, I would I think about the following, all of which are in our control: We recently reorganized to best align with what our service providers customers wanted from Cisco. That was true of engineering, sales, services, and how we go to market. Second, we had the same power to partner with customers as they transformed during their own challenging time period, in terms of their growth and their profitability. Third, our market share and share of spend is strong.
+And fourth, our traditional box competitors have never been weaker. At this point, I don't think many of them have the flexibility to reposition, and a way to remain relevant to these service providers. So we are nicely positioned for a rebound in SP, when it happens.
+I now will move on to a discussion of our momentum in terms of products and services. In it, I'll discuss our momentum in terms of year-over-year product and services in terms of revenue, but where appropriate, will share our older information where it adds important color. As we move on, I want to call out the convergence that we are driving across almost all of our portfolio.
+As a first example, one that you all are very familiar with, in the data center, we simply converged networking with compute and storage, and moved into what I believe is the number one data center position. Now, we are converting networking with applications, security and scale, and that's our ACI implementation.
+In routing, our MCS platform converges IP and optical networking with virtualization. We successfully converged wired and wireless into almost all of our products, and convergence will also be very key for us in collaboration, which we'll talk about later. In the industry, we are the only player with the assets to drive true convergence for our customers, and this is a driver of both revenue and margins across our portfolio.
+Now, let me move onto routing. Routing declined 4%, reflecting both the lower CapEx spend by major service providers, and challenges in emerging markets. We did see growth in several of our high-end routing platforms this quarter. For example, the ASR 9000 saw double-digit order growth, and our new products, the NCS 6000 and CRS-X continued to ramp well, with new customer wins. Given the tough environment, we believe we are gaining market share in these routing areas.
+Moving to switching, it was nice to see overall switching move back into positive territory, growing 3%. We returned to growth after three quarters of decline, driven by our strength in data center switching portfolio. In addition to the 60% increase in the Nexus 9000, and ACI customers, we saw double-digit order growth from the Nexus 3000, 7000, 9000 and ACI combined. We signed a record 600 new customers for the Nexus 3000 this quarter, including several major Web 2.0 providers.
+Looking at our performance relative to one of our merchant-based competitors making a lot of noise in this market, in Q3 FY14, from a comparison perspective, we saw orders of the Nexus 3000 and 9000, our comparable portfolio, surpassed their total revenue for the first time. In Q1, orders for the Nexus 3000 and 9000 were approximately 50% larger than their reported total revenues, growing in excess of 4 times faster than the reported growth rates. Yet again, in just one year, we have blown by where they had gotten to in the whole history of their Company.
+A year ago we were fighting an SDN perception battle, with competitors using PowerPoints instead of products. Today with ACI, we are bringing programmability and automation to networking on a scale well beyond what competitors define as SDN. Now, we are in the market with products and solutions, and don't see either traditional box competitors or the PowerPoint newcomers able to keep up.
+And for those of you who are concerned about SDN's effect on our switching margins, our switching gross margins have been incredibly consistent over the last five to six quarters, and as far forward as we're modeling, we see no change. In this quarter's example, our switching gross margins were above the mean level of this consistency.
+Data center and cloud, where we first converged networking, computer and storage, and today have continued to hold the number-one position in revenue share for X86 blades in the US according to IDC, data center grew 15% year over year. Five years ago, we invested in the market for converged infrastructures, and brought it to life with our ecosystem partners. Today, FlexPod with NetApp and Vblock with EMC are the leading converged infrastructure architectures, and there's two common elements: Cisco's UCS and Cisco's networking.
+Also in the quarter, we announced innovation across our UCS portfolio, broadening the product line to meet demands of large cloud environments, and also scaled down to environments with just a handful of servers. We continue to demonstrate that innovation is very much alive in markets, with standalone products considered largely commoditized.
+I'll also touch on InterCloud, where we announced this quarter 30 new InterCloud partners. Really nice job, Rob. Including Deutsche Telekom, British Telecom, NTT Data and Equinix. This brings our world's largest interoperable network of clouds to 250 data centers worldwide, across 50 countries, all of which are working with us through an ACI Plus InterCloud fabric, plus OpenStack Roadmap. This is truly unique to Cisco in being able to pull this all together.
+We are frequently asked what Cisco is doing differently in the crowded cloud market. Simply put, we see the same problem in cloud that we saw 20 years ago in networking, when numerous networks operated on the different technologies that didn't talk to one another. As we broke down the silos with ethernet, we made the Internet pervasive. We are running the same play in cloud, as only we can, unifying private, public, and hybrid clouds.
+Customers want to seamlessly move their workflows between clouds with a common level of policy and security. They need scale, speed and reliability, and they care about data sovereignty and openness. We will approach this market as a solutions play, meeting the network requirements of enterprise class applications, and providing the platform to deliver Cisco's growing portfolio of software as a service offers. This will drive our strategic role with customers, and over time, our recurring revenue.
+I said earlier that security was the number-one issue facing many of our customers. Security revenues grew this quarter 25%. In this quarter, we combined our security products even more closely with the Sourcefire products and delivered a highly anticipated Cisco ASA with FirePOWER services, which combines Cisco's ASA firewall with Sourcefire into one platform.
+Customer receptivity has been very positive. Our innovation in security is very strong. Security continues to be our customer's number-one business priority at the CIO level, but perhaps even more important at the CEO level, and we are doing very well in this market. Nearly every initiative we have at Cisco has security as a key component, and we are committed to becoming the number-one security company.
+Compared with even a year ago, we are getting good marks from our customers as, now more than ever, customers need strong and trusted company like Cisco to lead. They see Cisco alone in the ability to deliver an integrated security architecture and security services and solutions across their business. I am very pleased that our leadership transition is going very smoothly in this area, and we are moving aggressively to capture the opportunity ahead of us.
+Last quarter wireless grew only 1%. This quarter, wireless grew 11%, with strong momentum in our 802.11ac portfolio, which now represents over 50% of our access point revenue. Cisco Meraki continued on a tear, with another outstanding quarter, growing at 86%.
+In the area of collaboration, we are going to continue to transform our collaboration portfolio, and move to more enterprise license agreements and subscriptions. In Q1, our collaboration business was down 10% in the quarter. As our new video products ramped well, but at dramatically lower price points, we saw declines in telepresence and unified communications.
+WebEx continued to grow well, and remains one of the largest SAS businesses in the industry. As I mentioned before, collaboration should be the greatest productivity driver for our organization. In the next week, you will see some bold moves that will secure our leadership position in cloud-based simple, secure, and converged collaboration.
+I think we have great potential to grow this business over time. I really like our position and our pipeline, and I'm very optimistic about returning back to positive growth levels relatively quickly in the collaboration arena. Service provider video declined 12%, with set top box business down approximately 20%.
+Revenue per service provider video software and solutions grew by 13%. The bet we're making is on the video transition to the cloud, and we are seeing our video software business continued to grow, as we help our customers transition to cloud-based video solutions.
+Now, moving onto services, pulling everything together is our services strategy, and our services in this quarter grew 5% Services now represent over 23% of Cisco's revenue on a 12-month trailing basis. We've added around $2.3 billion in revenue over the last three years with strong margins.
+Today at $11.1 billion in trailing 12-month revenue, it is our second-largest business after switching. And that doesn't count the literally billions of dollars being delivered by our approximately 70,000 strong partner channels around the world, where partners deliver solutions on behalf of Cisco, not just boxes.
+In many ways, it's a bit unfair to refer to our services business by that name, since it draws a comparison to what investors typically see at other companies. While a large component is driven by maintenance and support, unlike our peers, at Cisco, nearly 90% of our issues we handle for our clients are solved with automation.
+We have many large customers around the world that depend on us, and depend on Cisco to run their networks. We have also rolled out a unique set of consulting, cloud, analytics, and security services. As the network continues to increase in importance, our services become increasingly more important to our customers.
+To summarize my commentary, we have undergone a successful reorganization across the Company, and are seeing the results. Our employee sentiment data shows that employees both understand the challenges we have made, and also are optimistic about our future and the changes we've made to deal with these challenges. Thanks to a lot of hard work, which will continue, I believe that we have positioned Cisco to lead the market transitions in front of us, to the benefit of our shareholders, our customers, our partners, and our employees.
+Frank, let me now turn it over to you.
+
+--------------------------------------------------------------------------------
+Frank Calderoni,  Cisco Systems, Inc. - EVP and CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, John.
+We exited Q1 with financial performance slightly above our guidance. From a top and bottom line perspective, total revenue was $12.2 billion, growing 1% on a year-on-year basis. Non-GAAP net income was $2.8 billion, and non-GAAP EPS was $0.54.
+Our GAAP net income was $1.8 billion, and GAAP earnings per share on a fully-diluted basis was $0.35. Product revenue was flat, and service revenue increased 5% on a year-on-year basis, with product booked to bill less than 1. Overall, non-GAAP operating margins was 29.2%.
+In Q1 our total non-GAAP gross margin was 63.3%, above our guidance of 61% to 62%. As we have said in the past, non-GAAP gross margin may vary quarter to quarter by a point in either direction of our guidance range. This quarter, we were above the range, non-GAAP product gross margins was 62.5%. As compared to Q4, product gross margin was positively impacted by productivity improvements and by product mix, partially offset by pricing.
+Non-GAAP service gross margin was 66%, consistent with historical levels. Our non-GAAP operating expenses were $4.2 billion, or 34.1% as a percentage of revenue, compared to 33.8% of Q4 of FY14. Non-GAAP operating expenses were flat quarter over quarter, and up 3% year over year, reflecting investments in key growth areas.
+Our GAAP net income and GAAP earnings per share for the first quarter for FY15 included a pretax charge of $188 million or $0.03 per share, related to a patent litigation matter described in our most recently filed 10-K, involving the Rockstar Consortium. A term sheet has been signed, and we are hopeful to achieve a resolution of the associated litigation in a manner that is constructive for the whole industry.
+Now, moving onto the non-GAAP tax provision rates. It was 22%, consistent with our expectations. We ended the quarter with our headcount at 72,247, a decrease of approximately 1,800 from Q4 of FY14.
+This reflects reductions from our restructuring activity partially offset by key sales, service and engineering investments, as well as acquisitions. As a reminder, as we outlined in our Q4 call, in Q1 we began taking restructuring actions focused on continuing to invest in growth, innovation and talent, while managing costs and driving efficiencies, which would impact our global workforce during FY15.
+We announced and completed two acquisitions during the quarter, Metacloud and Memoir Systems, to enhance our innovation and long-term growth opportunities in key growth areas such as the cloud and software defined networking. Both were executed consistent with our portfolio approach to acquisitions to drive long-term returns.
+Also, we along with the EMC and VCE announced during Q1 the next phase of VCE. Cisco will continue as a strategic partner, and will have an approximate 10% equity interest in VCE. We expect the transition to close in Q2 of FY15.
+Looking at our geographic segment results, in terms of total revenue on a year-over-year basis, our Americas segment was up 3%. EMEA was up 2%, and APJC was down 5%. Total gross margins of the Americas was 64.1%, EMEA was 63.8%, while Asia Pacific, Japan and China was 58.8%.
+From a balance sheet and cash flow perspective, total cash, cash equivalents and investments were $52.1 billion, including $3.8 billion which is available in the US at the end of the quarter. We generated operating cash flow of $2.5 billion during the quarter, and in Q1, we returned $2 billion to shareholders that included $1 billion through our share repurchases, and approximately $973 million through our quarterly dividend.
+Our balance sheet at the end of Q1 was strong, with DSO at 33 days and non-GAAP inventory turns at 11. Deferred revenue was $13.7 billion up 4% year-over-year, product deferred revenue grew 9%, driven largely by subscription-based offerings, while services deferred revenue grew 1%. Each quarter, we are consistently driving a greater software mix, and higher recurring revenue.
+Let me now provide a few comments on our outlook or guidance for the second quarter. Let me remind you again that our comments include forward-looking statements. You should review our recent SEC filings that identify important risk factors, and understand that actual results could materially differ from those contained in the forward-looking statements, and actual results could also be above or below this guidance.
+The guidance we are providing is on a non-GAAP basis, with a reconciliation to GAAP. As John mentioned, we expect total revenue to be in the range of 4% to 7% growth on a year-over-year basis. For the second quarter, we anticipate non-GAAP gross margin to be in the range of 61% to 62%. As we have said in the past, forecasting non-GAAP gross margin has always been very challenging due to various factors such as the volume, the product mix, cost savings, as well as pricing. And as I have said earlier, non-GAAP gross margins may vary quarter-to-quarter by a point in either direction of our guidance range.
+Our non-GAAP operating margin in Q2 is expected to be in the range of 27.5% to 28.5%. Our non-GAAP tax provision rate is expected to be approximately 22% in the second quarter. Our Q2 FY15 non-GAAP earnings per share is expected to range from $0.50 to $0.52 per share.
+We anticipate our GAAP earnings to be lower than our non-GAAP EPS by $0.10 to $0.13 per share in Q2 FY15. The range includes a pretax benefit of approximately $125 million from the reduced VCE equity investment to 10%, and also is offset by a pretax charge of approximately $100 million in Q2 FY15, as a result of the restructuring actions that we announced in the first quarter. During Q1, we recognized pretax charges to our GAAP financial statements of $318 million related to that announcement, and we are now expected total charge to not exceed $600 million during FY15.
+Please see the slides that accompany this webcast for more detail. Other than those identified and quantified items noted previously, there are no other significant differences between GAAP and non-GAAP guidance. This guidance assumes no additional acquisitions, asset impairments, restructuring, and tax or other events, which may or may not be significant.
+Our guidance does not assume a significant improvement in the emerging markets or the service provider segment in the near future, and although we believe we are executing well in a rapidly-transforming market, with these types of uncertainties in mind, we will continue to provide our guidance with all the appropriate caveats, one quarter at a time. We encourage our shareholders to have similar considerations.
+As a reminder, Cisco will not comment on its financial guidance during the quarter, unless it is done through an explicit public disclosure.
+John I'll now turn it back to you for some summary comments.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Frank, and well done.
+I'd like to talk now about the leadership transition at the CFO level, and I will then summarize the call.
+When you look at the quality of the financial leadership team, it's something that all of us take a great deal of pride in. As you know, Cisco has successfully transitioned through multiple leaders, often five to eight of them in every major functional group in the Company, over the years. And recently, Frank has been exploring the right time to step down as Cisco's CFO. Frank joined Cisco over 10 years ago, and has served as CFO for the last seven years.
+Among his many accomplishments, Frank led our very successful capital allocation strategy, including implementing Cisco's first dividend, managed effectively some of our most challenging macro and industry environments, and has been recognized time and time again for his strong leadership. While I know that Frank has other ambitions, I'm also very glad that Frank has agreed to stay on as an advisor to the financial leadership team, and for me, over not just hopefully next several months but over longer than that, Frank, if you'll have us.
+Effective January 1, Frank will be stepping down as CFO at which time Kelly Kramer will assume the role as Cisco's CFO. One of Frank's best and most defining leadership characteristics is his focus on building incredible leadership teams.
+Almost three years ago, Frank hired Kelly. It is a credit to the work of Frank that the leadership team and the Board have concurred in appointing Kelly to assume the role of CFO. Kelly brings a wealth of experience to this role both from her three years at Cisco, and 20 years at GE. Kelly, you look too young to have that many years. Unlike Frank, you haven't got any gray hairs, and unlike me, you aren't losing hair, but that's a separate topic.
+In your last role at GE you were in GE's Healthcare Systems Business Group and CFO of that group. She is known for her business judgment, no-nonsense approach, and strong strategic leadership style. At Cisco, Kelly has led both Cisco's Corporate Finance and Business Finance groups, managing among other things, all the Controllers of Cisco's business units, with a particular focus around pricing and margins.
+She has learned Cisco's business inside and out, and has proven herself to be a highly strategic, thoughtful and influential leader. Kelly is not afraid to challenge all of us to think differently, and it has been impressive to see her do this, while becoming a trusted partner to our entire leadership team. Kelly, I want to give you the same advice that I once got when I became CEO, and that I gave Frank seven years ago. Do a great job, have fun, and don't mess it up. We know you won't, and I look forward to working with you even more closely.
+Frank, this is really something, I'm very proud of, and your many accomplishments. Your integrity and ethics define you. And you have always kept our employees, customers, shareholders at the forefront of our long-term strategic business planning. You have been a great finance leader, but more importantly, you have been a great business leader.
+You have built a world-class financial organization that is driving Cisco's transformation, and ensuring we are positioned to execute on the opportunities ahead. I know the future will hold very exciting opportunities for you, and I look forward to our continued relationship.
+Thank you once again, Frank.
+
+--------------------------------------------------------------------------------
+Frank Calderoni,  Cisco Systems, Inc. - EVP and CFO    [6]
+--------------------------------------------------------------------------------
+
+          Thank you, John.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [7]
+--------------------------------------------------------------------------------
+
+          Kelly, congratulations. Frank, I'm just looking at you. You weathered this last seven years better than I have. I have lost a lot of hair. You got a little bit of gray into it.
+
+--------------------------------------------------------------------------------
+Frank Calderoni,  Cisco Systems, Inc. - EVP and CFO    [8]
+--------------------------------------------------------------------------------
+
+          We'll have to see how it continues, right?
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [9]
+--------------------------------------------------------------------------------
+
+          All right. Now to summarize our call today.
+I have talked a lot about the accelerating pace of change in the industry, recognizing that in many cases, Cisco and our technology are driving that change.
+I am now more convinced than ever that the pace of change is providing an advantage for Cisco for a number of reasons. First, the role of the network is at the center of every major technology and business transition, and that is becoming very clear to our customers, and to the industry as a whole. Most customers are no longer interested in piecing together disparate infrastructure from different vendors, or buying standalone technologies. They are digitizing their businesses, their cities and countries, and want Cisco to be a strategic partner, delivering solutions and business outcomes.
+They recognize that to move with the agility and security they need, their solutions have to be based on an integrated architectures, combined with intelligent networks. You are seeing this showing up in increased enterprise license agreements, enterprise services agreements, subscriptions, consulting contracts, and other advanced services, including cloud analytics and security.
+Second, we have proven our ability to move quickly and aggressively to transform Cisco into a leaner and more effective Company. Remarkably since FY11, we have added around $4.1 billion in revenue, with about $61 million in incremental non-GAAP OpEx. Said another way, for every $1 of revenue we've added over this transitional period, we've only added about $0.01 of non-GAAP OpEx.
+There is not a peer who can come anywhere near close to this by a factor of 10 to what that performance has represented for Cisco, and for our shareholders. And what's exciting is we are just getting started in our transformational evolution, at a time that our peers are just starting their transformational work that we started 3.5 years ago.
+We have also successfully redeployed this operating leverage in many ways: We've invested in innovation, we've built entirely new skill sets within Cisco, we've disrupted our largest businesses in order to move at the fast pace this market requires, and we built flexibility into our operating model as we managed through these transitions. Throughout we've driven record annual non-GAAP earnings per share for our shareholders.
+Third, we have and will continue to evolve the leadership team and the talent to drive us forward. As we focus on what our people can do with the support of Cisco, we are unleashing incredible innovation and energy.
+And fourth, the power of our brand. Our global channels and our strategic relationships with our customers is only strengthening. We continue to earn the trust of our customers, and that is translating into greater opportunity for Cisco.
+The day feels a lot like the mid-1990s, when companies were coming to Cisco to learn about the Internet. Today, they are asking Cisco to help make the transition, and transition them to digitize their companies, their cities, and even their countries, as they prepare to take advantage of the opportunities presented by the Internet of Everything.
+To repeat where we started, we believe we are managing very well in a very tough environment. We are seeing the results of a three-year-plus transformational program and work, moving from selling boxes to selling solutions, and leading with innovation, speed, efficiency, as we disrupt the market, and we are leading the technology and business transitions in the market.
+We have been very clear with you when we have seen challenges in our business, or in an environment, and we will continue to do so. We have also managed the business very well in light of those challenges. We have made hard decisions where we have needed to, and are seeing the resulting benefits.
+To sum it all up, I'm very optimistic about Cisco's future, and excited about the path that we are on. Now let's move to my favorite part of the session, which is the Q&A, and turn it over to you.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [10]
+--------------------------------------------------------------------------------
+
+          Great. Thanks. Operator, let's move to questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Simona Jankowski, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Simona Jankowski,  Goldman Sachs - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          I just wanted to ask you first about your product order growth. I think you said up 1% year-over-year. That comes on the back of relatively easy comps, relative to the year ago number. And on our math it implies that sequentially bookings declined something like the mid-teens which I think would be well below normal seasonality for this quarter.
+So just curious if you can give us a little more color on the puts and takes in there, if you can touch on FX? China seemed to decline at a little faster rate, and how much of that was some of the weakness in the US carrier space that you referenced?
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [3]
+--------------------------------------------------------------------------------
+
+          Okay. So Simona, I'm going to go as you would expect to the most positive. And unlike last quarter, where we had about five ups and five downs, this time most all the positives were in the right direction, with the exception of service provider and emerging markets.
+So start with our high-end switching and high-end routing puts and takes. The high-end switching grew at 10% as I alluded to earlier, and that shows how good a job we've done on the transition, in taking not just market share but I think, moving very rapidly to pull away from some of our key smaller competitors.
+The routing is probably gaining share. We have our best routing portfolio we have at the high-end in both Nick Adamo and Kelly Ahuja who head that up, along with Cedrik, would say we're very well-positioned in routing as well.
+Security, you saw 25% growth. Data center was at 15% growth, Simona, and that was probably a little bit lower than you might have expected. Q1 is, Kelly, I think we were talking about it, usually a slower quarter for us, in terms of our server technologies and spend. I would expect that come back up in Q2 more into the 20%s.
+UCS at 16%, and I'm saying the same type of number for that in terms of these are again orders that I'm referring to. I got revenue on the left, bookings on the right. So using UCS as an example, revenues are 16% and bookings are 18% in the quarter, and I'd expect them to come back up into comfortable growth well into the 20%s as well.
+Services, and Gary, it's been very nice to return to mid-single digits. We have hopefully what will be a bottom at 3%, and I feel pretty comfortable about our services revenues more in the mid-single digits.
+Wireless, which is one of the things you all rightly pointed out last quarter, said was a little bit challenging for us, which was fair, returned back to double-digit growth at 11% on revenues and mid-teens on bookings. I expect a solid quarter next quarter out of it as well.
+Collaboration was the one area that I talked about that we didn't go into as deeply. I like where we were on bookings, bookings were down just about 2% negative, the collaboration portfolio was 10% on revenues, and so that's the solid part. Better growth in Europe than people anticipated, better growth in southern Europe. Better solidarity in the US managed service providers.
+The two big issues, Simona, are around service provider and emerging markets. Emerging markets weren't down as much as they were last quarter at minus 9%, but they were down 6% and the BRICKs were down 12% with China being the heaviest in terms of the approach. The rest of the emerging markets were actually slightly positive I think, averaging out to the 6% number.
+Service provider is the big challenge, let me be very explicit, that's due to two to three US service providers who have dramatically slowed their order rates, and I mean dramatically slowed order rates with us. And that's an implication also, I think, of some of what you're seeing in terms of net neutrality, Title II discussions going on, where in my opinion it would be a very disappointing end result if we move back to regulation of the Internet like we did voice many decades ago. It would dramatically slow the ability of service providers to build out broadband at a time that our country is finally caught back up.
+So my key takeaways, Simona, are the service provider business driven by primarily two or three large US players, is the one area that has us most focused and we saw that in order rate in this last quarter, to the tune of a pretty substantial amount. In fact when you take out those three service providers you would have probably seen positive growth in our service provider business in total, which you are beginning to see now as far as strategy in the business is taking hold, and Emerging Markets are still a little bit, if you will, balancing, with some very good ones and some challenging ones. That's how I would answer your question on puts and takes.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [4]
+--------------------------------------------------------------------------------
+
+          Great, thanks, Simona.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [5]
+--------------------------------------------------------------------------------
+
+          And I know you're going to say, keep my answers shorter.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [6]
+--------------------------------------------------------------------------------
+
+          Next question, operator?
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Amitabh Passi, UBS.
+
+--------------------------------------------------------------------------------
+Amitabh Passi,  UBS - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Frank, first, sorry to see you go but wishing you all the best. And John, I just wanted to clarify on the guidance maybe picking off of the previous question.
+Your guidance implies about a 4% decline in revenues. Again, should we assume that most of that, in fact all of that pressure is from service provider and emerging markets? Are you seeing maybe potential, some slowing momentum in your switching side as well, or should we expect that to continue to remain robust? I just want clarify what's embedded in the guidance.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [9]
+--------------------------------------------------------------------------------
+
+          My three years of law school, if I said, it was entirely due to something, my team would fire me on. But it is almost primarily due to those two major factors on it.
+If you look at just repeating the US number without service provider was 12% growth, major strength, and that was in spite of our enterprise business having a slow Q1, in terms of Brian Marlier's team. Got a lot of confidence in Brian, we went through the forecast pretty carefully with them, Rob, I think they're going to be back in double-digit growth this quarter, and feels real good, the pipeline feels very, very solid on that.
+Even within our service provider business, if you look out several quarters, our pipeline's increasing rapidly. And I think you're going to see us increase our share of wallet, as well as our market share in many of our areas. The transformation that we've gone through over this last year with Nick Adamo, Cedrik and Kelly leading the group, you're beginning to see our relationship with these service providers, even when they're challenged, change a fair amount.
+So I would say it is emerging markets and again, it's not all of them anymore, it's a better standard deviation. But still we're not going to turn on that, and it's service providers, but it's a lot of just a couple service providers here in the US.
+So I like our pipeline. I think we're going to be challenged here for a couple quarters. I think we'll power through it, and I feel very good about the end result.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [10]
+--------------------------------------------------------------------------------
+
+          Great, thanks Amitabh. Next question, operator?
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Brian Modoff, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Brian Modoff,  Deutsche Bank - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Frank, congratulations on your retirement, and good luck dealing with us, Kelly.
+So a question on the gross margins. 63% guidance is decent, as well. How do you see your gross margins?
+I know some of the calls have been that you would see pressure there, doesn't look like you have. Looking at your mix and your forecast, how do you see your gross margins panning out over the next quarter?
+And real quick if I could slip in, you mentioned General Motors again. Can you talk about what that means in terms of your ability to sell into big US and European telcos, and software opportunities, in terms of offering that type of product pipeline to them to sell to their customers? And how it might be as a recurring revenue stream over time? Thanks.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [13]
+--------------------------------------------------------------------------------
+
+          Got you. Frank, why don't you take the first one? Gary, I'll have you take the second one.
+
+--------------------------------------------------------------------------------
+Frank Calderoni,  Cisco Systems, Inc. - EVP and CFO    [14]
+--------------------------------------------------------------------------------
+
+          Brian, I'm going to be broken record at least one more time on this one. But from a gross margin standpoint, as we look at the gross margin at 61% to 62%, give or take 1%, going back on the first quarter, yes they were higher over 62%, we tend to see high gross margin in the first quarter. We did see a benefit from a mix perspective.
+I think the stronger switching helped, as well as if you look at the mix from a UCS perspective, it tends to be lower, whereas in Q2 -- Q2 especially after the end of the calendar year, tends to be a stronger UCS quarter. So we'll see a bit more of an impact from a negative mix standpoint in that quarter. So when you take all the gives and takes, that's where we get to that 61% to 62% give or take, and we'll continue to keep managing that balance, as we look out over several quarters.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [15]
+--------------------------------------------------------------------------------
+
+          Gary?
+
+--------------------------------------------------------------------------------
+Gary Moore,  Cisco Systems, Inc. - President and COO    [16]
+--------------------------------------------------------------------------------
+
+          On the ELA that we did with General Motors, that John did mention again this quarter, that's a solid deal for them, and for us. It has a lot of interest from other companies, and we're actually working a number of them, and I think there's a lot of positive things about the structure of that deal, certainly for the customer, but certainly for Cisco.
+And with a customer like GM where they've gone all in on us and our strategy, it's very easy for them now to continue to grow and do innovative things that give them business outcomes that they weren't able to justify to the business before. And I think that's something that a visionary CIO will do with a Company and a CEO and a CFO that really look for IT to be a competitive advantage and not an expense. And I think the team at GM has done that, and we have a number of other customers that we're working with along those same lines.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [17]
+--------------------------------------------------------------------------------
+
+          What's exciting is these enterprise licenses. Think of it an enterprise software license, where literately you can fill in the hardware underneath the integration and you can move from security to collaboration. You compete against white label, you can bring in your consultancy services, your knowledge of the network, in ways that no one else can do.
+You're seeing us doing the same thing with services, enterprise services agreements. And that has even more impact, when you go across the whole large enterprise, and you do services tying all together their networks, their directions, get efficiencies from it, but then it really opens up your consultancy, your security, your collaboration offers.
+Then you combine that with our architecture plays, and you take it from cloud all the through mobility, take it all the way down to the edge. That's why we win.
+One thing, Kelly, you pointed out to me the other night, and you're educating Frank and I as well with good attention to detail. When you look behind at the numbers, Q2 is usually a quarter if you watch historically that has had lower gross margins than Q1, because we do a bigger mix of our products on servers during Q2 because of the year-end. So that's been fairly typical in terms of our pattern. Did I learn that one right?
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - Incoming CFO    [18]
+--------------------------------------------------------------------------------
+
+          That's right.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [19]
+--------------------------------------------------------------------------------
+
+          All right, thanks Brian. Operator, next question?
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Ehud Gelblum, Citigroup.
+
+--------------------------------------------------------------------------------
+Ehud Gelblum,  Citigroup - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Frank, likewise. Best of luck.
+Just an aside on that, if you can give us some sense of your thought process, as to A, what you plan on doing next, and what you were thinking as you went through this decision to retire, that would be some awesome, to just have some rationale. But I was looking more for some a little more deep dive into the enterprise business, where enterprise orders were down from being up last quarter, and putting that together with what's happening with VCE. And with the data center number 15%, that John said you thought was a little disappointing and I think it was about 30% last quarter.
+So putting that all together in one piece, can you give us a sense as to A, just a question A, how much UCS went through VCE and how much will that impact you as your piece of the VCE goes to 10% from 35%? B, were all of these issues related, the low enterprises growth, the low UCS and data center growth?
+And the exiting bringing down your equity stake in VCE, was that all the same issue? And what gives you confidence that all of these issues, enterprise, UCS, data center, et cetera, rebound next quarter and going forward? Thanks.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [22]
+--------------------------------------------------------------------------------
+
+          Got you. Let me take it Frank maybe you could handle that one question with him one-on-one in terms of that, and I'd like to sit in on that discussion. So let me address the enterprise question very directly.
+First, let's use our Global Enterprise Theater run by Woody Sessoms. We didn't talk about it on the call, it's our top 29 global enterprise accounts. It grew 15% last quarter, and it grew across all those architectures, and it is one of the very best with VCE, with FlexPod, in total architectures.
+And so if you watch and we're progressing, they're projecting they're going to grow very well again this quarter, the pipeline looks really good. So as you would expect, Ehud, testing to make sure the pipeline's good, where we're going, that would be an example, and those are our global enterprise.
+In the US enterprise, it was very simple. We finished up the quarter, they were in the running to become the top theater in the world and they won it. They pushed hard in the quarter, and it was financially to advantage, and tried to do a little bit out of the pipeline on that. They made organization changes set up for this next year, got going on even pushing harder on solutions, even harder on architectures. And you'll see them not get extremely high, 90%-plus probably shouldn't say that, you'll see them return into double digits.
+And we've been through Brian's pipeline. He is world class, knows how to do it. There's no effect of our agreement with what we're doing with VCE that slowed at all. In fact I think the VCE numbers, Gary, feel very good and I think both VCE and FlexPod are growing off of $1 billion-plus base at over 50% a year.
+
+--------------------------------------------------------------------------------
+Gary Moore,  Cisco Systems, Inc. - President and COO    [23]
+--------------------------------------------------------------------------------
+
+          Yes. VCE surpassed $2 billion annualized in their run rate. We have more than 2,000 people with 1,000 customers, 2000 Vblocks out there, and this did not slow them down at all.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [24]
+--------------------------------------------------------------------------------
+
+          And I guess I'd draw the parallel, government is nothing more than a public-sector of enterprise, and you saw 13% growth in government around the world. Digitization of countries has taken off, and I cannot tell you what it means when a Merkel, the leader in Germany says about Industry 4.0 she's going to digitize her country. And what we could do together with government and with Deutsche Telekom and the cities, and rebuild off of it in terms of direction.
+Same thing with commercial. Commercial was solid at 7%, it doesn't go quite up and down as much.
+Am I missing something? Come in closer? Frank was waving at me in a unique way and I was looking sure of the hand signal -- in terms of the direction.
+So that's an answer that I feel really good on enterprise. We are going to lead and break away from most every player in enterprise and that applies across our products, including with our application centric infrastructure enterprise, which is going great guns. Nice way.
+I don't miss transitions like this, and if I were concerned I would tell you. We always want to watch the numbers, though.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [25]
+--------------------------------------------------------------------------------
+
+          Great, thanks Ehud. Operator, next question?
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          Ben Reitzes, Barclays Capital.
+
+--------------------------------------------------------------------------------
+Ben Reitzes,  Barclays Capital - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          John, could you talk a little bit more there about service provider? When -- what do you need to see to have it turn?
+I thought that was interesting, that you talked about net neutrality, which is obviously a hot button issue right now. And obviously the spending, but I think we're all trying to figure out when it could possibly turn. It sounds like there's several factors, and your leadership on this issue, I think, would be very helpful to us. Thanks.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [28]
+--------------------------------------------------------------------------------
+
+          Several questions, and thank you for the nice comment.
+On our service provider business, first let's assume for now that it won't change in a couple quarters. We however, with our new structure, are beginning to build different relationships at every single major service provider, Rob, you've probably been to 30 of them the last two months.
+At the CEO level, the CTO level, CMO level, operations, et cetera, and our relationship is changing with them. And our ability to really bring a portfolio that addresses their top priorities, in terms of what they're doing on mobility, what they're doing on video, what they're doing with new services, in a market that their traditional transport is commoditizing, is pretty good.
+However, I don't want to ignore one issue. They are struggling big time in certain geographies with how to make money given the costs that are going flat to up, and their revenues that are coming back through. And so you're going to see certain service providers like AT&T said it very publicly, and obviously I'm very close to Randall and John and Ralph there.
+We know that their CapEx is going to be down by a fair amount this next year, regardless. However, it will be down dramatically more if we don't get our act together on this Title II issue.
+So there's a way to accomplish the goals of both sides. I thought Chairman Wheeler's original approach to this was right on, a right compromise in terms of direction, and I think it's very important that we spend a message. Because you are going to see these service providers slow, if not pause completely, on broadband buildout, because if they can't make money on broadband buildout, they aren't going to build it out. It's as simple as that.
+And we -- clearly that was the wildcard factor that Simona, you asked me asked me about indirectly. We started seeing service provider spending slow a lot last quarter among the three big guys that might be must most affected here, and so I think getting their act together there is key.
+We do plan to be very aggressive on this in trying to educate people on all sides about why this is not right for our country. I find it just last comment, very interesting, that Europe looks at the US, that we got our act together. We have the right amount of competition that allowed companies to make profits, and the right amount of government regulation that allowed them to build out broadband. So they look at us like we got our act together, and here we are thinking about changing it.
+So I think it's very important the whole industry's active here. I think it's going to have a negative impact for all of us that are connected to those large service providers in the US here in this last quarter and maybe for one or two more quarters, and that clearly was reflected in our approach. I hope I'm wrong, but it feels like that's going to be very tight.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [29]
+--------------------------------------------------------------------------------
+
+          Thanks, Ben. Operator, next question?
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Mark Sue, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Mark Sue,  RBC Capital Markets - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          At a high level, the patterns that we are seeing today is somewhat similar, you have some regions positive, some regions negative, and then we are seeing a subsequent reversion to the mean. Are there considerations to really think about, can Cisco do things very differently, make big changes, so that all efforts that Cisco's making can lead to a corresponding out-performance? In terms of economic value add and also equity out-performance for Cisco? In terms of looking at unlocking value, are there discussions going on, are we at a point where Cisco will consider new inputs to change and formulate a better outcome?
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [32]
+--------------------------------------------------------------------------------
+
+          Mark, a couple thoughts. You've asked a question that we can probably talk about half an hour, but let me hit it very high. We're winning in most all of our major market transition moves.
+We are winning on architectures, we're winning on convergence in the data center or storage, and network and processing capability. We're winning big winning big-time on application centric infrastructure and pulling away from a startup competitor, that being very bold, I would say we're not only pulling away from, I think while they have moves left on the table, I think it came it's game over, I think we've got them.
+There's no doubt about where we are leading with Internet of Everything. Our products are very uniquely tied together. That's why you've seen our gross margins be so strong.
+We've moved to selling solutions in software and cloud. We've redone and transformed our whole company to move resources and freeing up by keeping headcount flat into new areas. We've moved with InterCloud with tremendous efficiency. We realigned our organization.
+So we've transformed our Company at a time that others have not transformed at all and are just beginning to get started, Mark, with some of the things that you're outlining, which I think is going to get them into real trouble. So I love our position in the market.
+Our position with customers, Gary, you and I are out there all the time, it has never been stronger, and Mark, we're winning with great gross margins and where there's growth opportunities we're getting our share of it, plus a lot, gaining market share in many of these areas. So fair criticism perhaps, three years ago. Probably not a fair criticism today.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [33]
+--------------------------------------------------------------------------------
+
+          Great, thanks. Operator, next question?
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          James Faucette, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+James Faucette,  Morgan Stanley - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Wanted to go back to the question that was asked earlier on margins. Just wondering how we should think about the opportunity to improve profitability. It seems like we're on the backside of a multi-year revamping of the internal organizational structure, like you just hit on, John.
+I'm wondering if there's an opportunity to see some margin expansion as year-over-year growth persists? Or maybe to ask another way, what kind of top line growth do you think we would need to achieve in order to show some margin expansion and improved profitability as we get to the latter stages of the reorganization we've been under, that's been underway for the last three years?
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [36]
+--------------------------------------------------------------------------------
+
+          So repeating first a theme that I commented on, and then we're in agreement to where you're leading this. You look at the last three-plus years, to grow revenues by $4 billion, and to grow operating expenses by $61 million, our peers when we looked at them, they were at $0.30, $0.50, $0.70, $1.00 per $1 of revenue gained. We did it at 1%. I have to give us very high marks on that over the last three years.
+To the second part of your question, Gary's got the ball for me on that. It's about how do we drive productivity, and we're going to use one that we can measure, productivity per employee which is just the easiest one to do. I know it's not anywhere near as sophisticated as many of us would use different measurements that add up to that.
+But to how we drive productivity of our Company on that, and to your point, there are times, either within segments of our business, or times when there are market segments, where we will improve productivity dramatically and routing and switching would be an example, where even though we're breaking away with new products we're moving resources into other areas at the same time. Gary, your thoughts on that?
+
+--------------------------------------------------------------------------------
+Gary Moore,  Cisco Systems, Inc. - President and COO    [37]
+--------------------------------------------------------------------------------
+
+          There's several things that we've done. John spoke of the services revenue growth over the last three years, and the fact that we're doing that with automation and analytics. And delivering higher value at a lower cost, I think, plays into that, and there's a lot more that we can do there, as we continue to build out the things that we've been talking about, about cloud managed services, the security offerings, the consulting, those kinds of things from services, as well as the things that Rob and the engineering team are doing with Pankaj relative to the integrated portfolio.
+So from a margin point of view, we still have -- we may be on the backside of this, but as we've said, this is the game that, it doesn't have nine innings to it. We are going to continually turn the dials that we need to turn, and we have all of those levers available to us, to coincide with the growth. We're well-positioned.
+If things do uptake, and we have moved a lot to shared support, so we're at a really good position to expand margins quite honestly in my opinion, if the growth takes off, because of what we've built on the infrastructure. That is global and scalable.
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [38]
+--------------------------------------------------------------------------------
+
+          And you will see us probably, I think, given the market growth numbers, off fairly small numbers, be more conservative about adding to headcount once we've got the growth, as opposed to betting a little bit on the Company as you move forward, especially in this market.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [39]
+--------------------------------------------------------------------------------
+
+          Great, thanks James. Operator, next question?
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Alex Henderson, Needham.
+
+--------------------------------------------------------------------------------
+Alex Henderson,  Needham & Company - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          I was hoping you could give us a little bit more granularity on the service provider segment. The piece that is confounding the analysis to some extent is the set-top box business, continuing to fall off. And it's fallen off so many quarters in a row, it's lost track of how big it is. Can you talk about what the service provider business would be doing ex the set-top box on an apples-to-apples basis, because that piece has obviously got a different trajectory?
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [42]
+--------------------------------------------------------------------------------
+
+          I've got it and my team will verify on the numbers. The business answer just the way you worded it, global service providers were down 10%. If you had taken set-top box out of that, it would have been down 6% in terms of the approach.
+And it did very globally. Global service providers, Europe grew by 13% this last quarter in service providers, and relationships and companies like Deutsche Telekom, et cetera, going extremely well in terms of where we go from that side.
+And you're seeing us build very strong relationships in new emerging markets with players like Reliance, and Rob, you've got a list of 30 of our InterCloud type of partners in terms of the direction. And again, understand, I'm not wedded to set-top boxes. I am wed to winning the battle in the cloud, and so we clearly you set-top boxes purely as a stepping stone to get into the cloud and direction, and right now, we have a pretty good portfolio on how this ties together. But it's all about winning software in the cloud, and you'll see us evolve our Company that way, in terms of products that don't add much margin over time.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [43]
+--------------------------------------------------------------------------------
+
+          Thanks, Alex. Operator, next question?
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          Ittai Kidron, Oppenheimer.
+
+--------------------------------------------------------------------------------
+Ittai Kidron,  Oppenheimer & Co. - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Frank, best wishes to you, and thanks for the many years of very good service and good luck to Kelly.
+I wanted to go back to the point of gross margin, John, if possible. And I've heard all explanations around it, but I have to go back literally to three years to find a point in time where you had a product gross margin this high. And then, I looked at your guidance over the past few quarters and years and you've beaten gross margin 10 quarters out of the last 13 quarters, you never missed in the last 13 quarters.
+I'm wondering, have gotten to a point in time where you feel that you have a much better handle on the product cycles, you have a much better handle on the competitive front? What is the possibility that you actually do start raising that gross margin range outlook going forward? Is that something completely unreasonable to assume?
+
+--------------------------------------------------------------------------------
+John Chambers,  Cisco Systems, Inc. - Chairman and CEO    [46]
+--------------------------------------------------------------------------------
+
+          It's a good question. We debated that at the operating committee with Gary just a couple weeks ago.
+And so to answer your question on part, we are all over gross margins. Gary leads the project with Frank, and now Gary will lead it with Kelly.
+Every aspect of gross margins from product cycle improvement to designing products, to your point, let's not design a switch that comes in at 50% gross margins and we get it 70% over three years, That was very painful, and we did that across our line the last time. And with our new switching products, they came in at very high gross margins, and I said earlier, are actually improving as volume picks up in terms of direction.
+I think the major issue quarter in and quarter out is more mix at the present time. We are going to go into next quarter where you see UCSs will be up and hopefully up dramatically, and that's a seasonally strong period for us on UCS as well as otherwise. And I think there are certain transactions that we want to go after aggressively in emerging markets are not, which tend to swing it up and down.
+But are we focused on this? Yes. And are we focused in each category, even though the real play is for architectures about how to improve the category and gross margins? The answer would be yes.
+And then final, the real issue on gross margins, if you can provide a solution, it is at 3 to 5 times the value to a customer of providing products. And so when we tie together these architectures, Mark, it dramatically lowered our operating expenses to get the solutions to go to outcomes. That's what customers pay you huge premium for. That's where you make your money.
+By Mark, I meant Mark Sue, I was referring back to his comment earlier, why you don't change the structure. When everybody else has left this wide open for us and we're breaking away, the last thing you do would be change that now, that would result in exact opposite.
+So I think there are areas that we can improve on, and as we move more into cloud, as we move more into software, as we move more into collaboration, we're looking at the margins/ And you'll see us where we can't get good margins, we'll walk from the business, and we clearly are doing that with some service providers today. If we can't get a good margin deal, even though it's important to us, we will walk, and that's the advantage of having the discipline this leadership team has.
+Mel, that's probably a good way to summarize. If I were to look at it, I'd say in the comments we started off quarter review with, I'd end with. I think in a tough environment, we're managing very well.
+On the enterprise, commercial, and public-sector we're lighting up the world, and I think we're doing very well there. The areas we made big bets on that some people challenged us, whether it's architectures or convergence or application centric infrastructure or embracing SDN and bringing it to life with programmability and leading.
+Internet of Everything is finally taking off. You have an inflection point on that. We had the courage to change our organization and make transitions that other companies struggled with, and by the way, they're just now starting, we have been at it for 3.5 years. I love our position, and I think we're going to win.
+So I want to thank you all, for your confidence in Cisco, and thank you for the time. Mel, let me turn it back to you.
+
+--------------------------------------------------------------------------------
+Melissa Selcher,  Cisco Systems, Inc. - VP of Corporate Communication & IR    [47]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, John.
+Cisco's next quarterly call which will reflect our FY15 second-quarter results will be on Wednesday, February 11, 2015 at 1:30 PM Pacific, 4:30 PM Eastern. Again, I'd like to remind you that in light of Regulation FD, Cisco plans to retain its long-standing policy to not comment on its financial guidance during the quarter, unless it is done through an explicit public disclosure.
+Please call the investor relations department with any follow-up questions from this call. Thank you for your participation and continued support. This concludes our call.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          Thank you for participating on today's conference call. If you would like to listen to the call in its entirety, you may call 800-835-3804. For participants dialing from outside the US, please dial 402-280-1654.
+This concludes today's conference. You may disconnect at this time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

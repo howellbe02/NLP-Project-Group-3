@@ -1,0 +1,683 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2013 ASML Holdings NV Earnings Conference Call
+OCTOBER 16, 2013 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Craig DeYoung
+   ASML Holding N.V. - VP, IR Worldwide
+ * Peter Wennink
+   ASML Holding N.V. - President & CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mehdi Hosseini
+   Susquehanna Financial Group/SIG - Analyst
+ * Timothy Arcuri
+   Cowen and Company - Analyst
+ * Gareth Jenkins
+   UBS - Analyst
+ * Simon Schafer
+   Goldman Sachs - Analyst
+ * Didier Scemama
+   BofA Merrill Lynch - Analyst
+ * Sandeep Deshpande
+   JPMorgan Chase & Co. - Analyst
+ * Andrew Gardiner
+   Barclays Capital - Analyst
+ * John Pitzer
+   Credit Suisse - Analyst
+ * Mahesh Sanganeria
+   RBC Capital Markets - Analyst
+ * Francois Meunier
+   Morgan Stanley - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by. Welcome to the ASML 2013 third-quarter conference call on October 16, 2013. Throughout today's introduction, all participants will be in a listen-only mode. After ASML's instructions, there will be an opportunity to ask questions. (Operator Instructions).
+I would now like to turn the conference over to Mr. Craig DeYoung. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Craig DeYoung,  ASML Holding N.V. - VP, IR Worldwide    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Sala, and good afternoon and good morning, ladies and gentlemen. This is Craig DeYoung, Vice President of Investor Relations at ASML. Joining me today from the ASML headquarters here in Veldhoven, The Netherlands, is Mr. Peter Wennink, ASML's CEO.
+The subject of today's call, of course, is ASML's third-quarter 2013 results. This call will be broadcast live over the Internet at www.asml.com, and a replay will be available on our website for approximately 90 days.
+Now before we begin, I would like to caution listeners that comments made during this conference call by management will include forward-looking statements within the meaning of the federal securities laws. These forward-looking statements involve material risks and uncertainties. For a discussion of risk factors, I encourage you to review the Safe Harbor statement contained in today's press release and presentation found both on our website at www.asml.com and in ASML's annual report on Form 20-F and other documents as filed with the Securities and Exchange Commission.
+As always, the length of the call will be 60 minutes, and now I would like to turn the call over to to Peter Wennink for a brief introduction.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Craig, and welcome to everyone. I would like to take first a few minutes at the beginning of our call to provide an overview and some commentary on our third-quarter results, our business outlook and our product strategy going forward.
+The third-quarter results came in very much as guided and were largely driven by foundry sales at 60% with memory system sales following at 40% of total system sales. The quarter shipments were, again, highly skewed towards emerging systems at 88% of total system sales, driving the ASP of all systems sold in the third quarter to a record high of EUR28.2 million versus EUR24.1 million in the second quarter.
+Service and field option sales grew significantly to close to EUR360 million, now including three months of Cymer service sales, as well as higher performance-enhancing [fuel] option sales.
+Third-quarter bookings came in at EUR1.4 billion for 51 systems excluding EUV the unique with booked ASPs at around the EUR27.7 million, impacted again by a high percentage of immersion systems with relative strength in all sectors.
+Our system order backlog at the end of Q3 grew further to EUR1.8 billion with total systems growing to 59 systems, excluding the EUV.
+The backlog profile at quarter's end is nicely balanced between all major sectors driven by increased memory and IDM bookings.
+As a reminder, we are now guiding the combined ASML and Cymer businesses as one business. For Q4 we expect total sales to be at a record high of about EUR1.8 billion with a gross margin between 43% and 44%, including an impact for noncash purchase price accounting adjustments related to the Cymer acquisition without which our gross margin would have been about 1.6% higher. This short-term impact caused by the noncash purchase price accounting adjustments will cease after Q4.
+In the fourth quarter, we expect to recognize revenue for one of the three EUV systems that we expect to ship this year. The first series of such systems will not contribute to profit due to the low utilization of our EUV manufacturing infrastructure, early learning curve costs in our supply chain, and directly resulting from the Cymer acquisition, the cost of the liability to upgrade the first 11 EUV sources in the field, which cost is now assumed by ASML.
+Excluding the one NXE3300B, the Q4 gross margin would also be about 1.6% higher.
+Combined R&D for the quarter will be about EUR255 million and other income, which, again, consists of contributions from participants of the customer co-investment program of EUR17 million. Combined SG&A is, again, expected about EUR90 million, including EUR10 million of final restructuring charges not occurring after Q4.
+As to our business status, foundry customers are demonstrating sustained litho system requirements and continue with aggressive deliveries in Q4 for volume ramp of the 20- to 16- or 14-nanometer combined nodes.
+In addition, we have seen healthy order patterns from a broad base of DRAM makers, mostly for technology upgrades due to what appears to be strong demand for mobile DRAM.
+We are also now seeing the previously anticipated NAND orders for fab capacity additions that had been planned for some time. Deliveries will begin in this quarter and will continue into the first half of 2014. This quarter's order strength, along with expected continued strength in Q4, gives us good visibility into the first half of 2014. Based on these indications, we believe that sales levels in the first half of 2014 will be similar to those of the second half of 2013, both excluding EUV.
+We see growing demand for our holistic lithography YieldStar metrology solutions and expect that our combined holistic lithography product sales to grow towards 10% of sales. We have shipped just over 100 systems since the product introduction. These metrology systems generate data for our holistic lithography products that control overlay, CD and focus for the most advanced and complex process nodes of our customers.
+EUV system integration work continues to progress steadily with source and integrated systems stability now being the main medium-term focus in support of our current 2013 and 2014 shipment plans. We now expect shipments of three NXE3300B systems this year with the first systems in the process of shipment and installation at customer sites.
+In the fourth quarter, we expect to recognize revenue for one NXE3300B system. The delay of revenue recognition for two EUV systems to early 2014 was caused by the delayed delivery and qualification of some system components. Despite a lower-than-planned revenue recognition of the EUV systems, we are still able to meet our previously guided 2013 revenues of up to EUR5.2 billion due to the underlying strength of our non-EUV business as mentioned earlier.
+In last quarter's conference call, we discussed the Company's trajectory, which is based on the execution around the very significant R&D investment from our technology leadership. Execution of the strategy in pursuit of continued cost effective shrink for our customers supports the continuation of Moore's Law and involves four pillars.
+First, it is the continued significant performance improvements of our current XT and NXT architectures, which will enable the most cost-effective, leading edge imaging solutions addressing imaging complexity over the 20-, 16- to 14-nanometer nodes and related noted pass patterning strategies.
+Secondly, the buildup of our application products enabling and differentiating further our NXE products in support of sub-20 nanometer process control challenges, many of them related to aforementioned multi-pass patterning strategies.
+Third, the timely introduction of EUV, which is the next generation of litho technology necessary to enable continued [dice rings] in accordance with Moore's Law, thus producing large cost reduction power savings and further device performance improvements.
+And fourth, the capability to ensure cost effectively the next wafer size, 450 milliliter, when the industry requires it.
+We have begun delivering our new NXT1970 in support of our customer needs for multi-pass patterning at advanced logic nodes. This machine maintains world-leading performance of 250 wafers per hour with overlay achievements at less than 2 nanometer, along with a suite of application process control product packages being adopted in full at a leading foundry logic device manufacturer. By providing these capabilities, we will benefit from the current semiconductor process complexities for 20-nanometer logic and DRAM and from the added complexity of inserting FinFET transistors at this pitch.
+The complexity of vertical NAND also requires best available overlay and focus capability and will further more require a significant number of immersion systems as NAND chip volumes will grow.
+Regarding EUV, light sources for our production were the NXE3300B scanners are being integrated for automated and reliable productivity at customer development fabs. We remain on target to provide 70 wafers per hour performance next year upgradable to 125 wafers per hour in 2015.
+We are now also fully engaged in planning discussions on EUV insertion with logic customers who are seeking the most cost-effective and lowest risk lithography solutions for the next generation product processes. We have learned from very recent discussions with leading logic customers that they have succeeded to develop two lithography introduction strategies for the 10 nanometer node. They will either use a very intensive, immersion-centric approach or an EUV-centric approach for the 10-nanometer critical layers.
+This successful development of a double litho strategy approach will allow our logic customers to disclose designed rules to their customers in early 2014 for the next node and to begin this next node development on known, lower-risk immersion-based processes, while at the same time closely monitoring EUV performance improvements for potential layer-by-layer insertion when those improvements become available throughout the first half of 2014. This allows an extra 6 to 9 months for a final decision on the EUV introduction strategy through the second half of 2014, instead of the end of 2013 as originally planned.
+Since the benefits of EUV are clearly understood, and any future node will surely require a significant amount of EUV, customers are indicating that they are likely to introduce EUV as soon as possible in order to gain experience in the full industrialization of EUV into manufacturing.
+And as mentioned in the previous quarter, the most likely implementation scenarios for EUV appear to be Phase 1 in foundry logic; one or two layers of EUV for the 10-nanometer node could deliver tighter shrink, better yields and shorter cycle times. With this, we estimate first phase base amount for approximately 12 to 15 EUV units in 2015. In this scenario, a significant number of immersion tools will be additionally required for those critical layers not handled by EUV.
+Then, Phase 2, when the throughput levels of the current road map are achieved, then more EUV layers in foundry logic will deliver additional process control yield, cycle time, and cost savings. Additionally up to 3 layers in DRAM will be supported with these throughput levels, and we would then expect to ship our maximum EUV capacity of 25 to 30 units in 2015.
+Now based upon the EUV progress over the last few quarters, customers have intensified their cooperation with us allocating investments and resources focused on potential insertion of EUV in leading processes. We will continue to work closely with our customers to determine the most vital insertion points and timing such that a smooth transition to this necessary new technology is made.
+And with that, I'd like to conclude, and I would like to take your questions.
+
+--------------------------------------------------------------------------------
+Craig DeYoung,  ASML Holding N.V. - VP, IR Worldwide    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Peter. Ladies and gentlemen, the operator will instruct you momentarily on the protocol for the Q&A session. But beforehand, as I always do, I'd like to ask you to kindly limit your question to one with one short follow-up if necessary. And this will allow us to get as many callers in the time allotted as possible.
+So now, Sala, could we have your instructions and then the first question, please?
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+    (Operator Instructions) John Pitzer, Credit Suisse.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [2]
+--------------------------------------------------------------------------------
+
+    Peter, my first question is just around the holistic lithography. You talked about a target toward 10%. When do you think you can achieve that? I guess help me understand the gross margin implication as you can attach more holistic lithography to the shipment sales?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [3]
+--------------------------------------------------------------------------------
+
+    Okay. The 10% of sales we have a target to reach it by the end of next year. And as I mentioned earlier, you will find those sales back into the ASP increase of our NXE products and especially our leading edge products because they will be part of the configuration. And you will see it as part of the fuel option and system sales.
+As to the gross margin, there's a lot of software in there, and you can already see in our guidance what it means for our core business. When you look at the Q4 guidance, we guide between 43% and 44% gross margin. We have this accounting issue on the purchase price accounting, which is a non-cash adjustment, which will go away at the end of Q4, which is a 1.6% impact. And EUV also has a 1.6% impact.
+So when you carve out our core business, which is what the Company is today, then you have a 3.2% impact in Q4. If you add that back to the 43%, 44%, we are between 46% and 47% margin, which, as you know, is something we have never seen before. And that is for a part driven by the fact that those application products, which are increasingly required and to address the process complexity at the 20 nanometer node, that is what is driving the gross margin up.
+So there are, in short, significantly above the average corporate gross margins and help to stimulate the gross margin of our core business.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [4]
+--------------------------------------------------------------------------------
+
+    Very helpful. Peter, as my follow-on, can we just drill into the gross margin expectations on the EUV systems? How should we think about that for next year, and then more importantly, how do gross margin scale as you get more volume and get up the learning curve?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [5]
+--------------------------------------------------------------------------------
+
+    Your first question is on the gross margin for next year. Like we said in the introductory but also was mentioned in the press release and in the introductory statements, we have always assumed it is about a 20% gross margin on the systems that we are shipping as part of the first series.
+With the acquisition of Cymer, we also assumed the cost of the upgrade liability that Cymer had towards ASML. That is now part of the ASML cost structure, and it is only the upgrade liability for the first 11 systems, which basically the 3300 systems being upgraded to the 3350. And those costs are now helping the EUV gross margins for the first 11 systems. So the first 11 systems do not contribute to profit. Afterwards, we will be at the gross profit targets that were mentioned before.
+So low 20s, that is our target after the first 11 systems. And then we need about two years to get to gross margin targets that are in the vicinity of our corporate average, which is not a change from what we said before.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [6]
+--------------------------------------------------------------------------------
+
+    Perfect. Very helpful. Thank you, Peter.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+    Francois Meunier.
+
+--------------------------------------------------------------------------------
+Francois Meunier,  Morgan Stanley - Analyst    [8]
+--------------------------------------------------------------------------------
+
+    I've got a question about the EUV laser source, and I think some people were expecting 80 watts maybe now, maybe later in the next few months, I mean especially your customers to take a decision how many EUV layers they would use in the next several years. So what is going on with the laser development at 80 watts, and is there any reason to believe that the number of EUV total shipments in 2017 will be less than 5 units a month?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [9]
+--------------------------------------------------------------------------------
+
+    Okay. There are many questions in one question. So with respect to the EUV laser situation, there has been and there is a very singular focus on the wattage, which is basically where we are today is not the main focus that we have. We will get to 80 watts.
+The issue that we currently have and is also shown as you mentioned in introductory -- your statement -- is that we have a pushout of two systems basically driven by the delayed receipt of components and the qualification of those components, which are very important to create a stable EUV source.
+So stability is our key focus today. And when we reach that stability and get those qualified components in our own time, which actually led to about a month delay in this quarter or the last quarter, that means that we will have -- actually -- somebody just asked something -- that actually means that we will, in that particular case, ship our units starting at the end of this year with about 3 units, and we're focusing, like I said before, on making the tools stable, and stability is our key focus.
+Now our factory is in need of a stable and an upgradable source, and we're not going to ship anything to our customers that our customers will have difficulties running reliably in their development fabs. This is a decision we have taken together with customers, and you could argue that that is, indeed, less than what we expected 3 months ago, and it is frustrating to us also. And like I said, it more has to do with the modules and the components that we're getting to the supply chain than it has to do with any fundamental issues of reaching the 80 watts.
+We will reach the 80 watts. We will reach 70 waves per hour. We will reach 125 wafers per hour, but it is more the integration stage that we are currently in that is providing us these issues.
+Now, this is being closely coordinated with customers. In the meantime, customers because we have been so closely coordinating this, customers have developed what I call in the introduction statements a double litho introduction strategy for the 10-nanometer node ,which effectively means that there is an immersion-centric node which is a solution that is focused on multiple-patterning immersion, and there is an EUV-centric node, which is focused on the introduction of EUV at those critical layers.
+Now, the customers will start with this lower-risk immersion based, 10-nanometer node solution, but they will very closely monitor with us. Based on the stability of the machine, they will very closely watch what will happen in the first 6 months of 2014.
+Why is that important? Because it effectively means that customers can present the design rules to their customers which are due at the beginning of 2014 in an either/or solution. So they have actually created additional time for us and them to work together so that the ultimate EUV decision, as you pointed out, was expected to be at the end of this year is now the second half of 2014. So we have created space and time to make sure that we will have a stable EUV source that will produce 70 wafers per hour in the course of 2014.
+Now, this is the situation where we are today. So in summary, the wattage is not the issue. The issue is currently getting in the right level qualified components in the supply chain that will make the new architecture, the mobile peoples architecture for the EUV source work. This is what we're focusing on today, which is, by the way, planned in this period. So in that sense, we are doing what we actually plan to do.
+We do not focus that much on the 80 watts. We are focused on reaching the 70 watts by the middle of next year, and due to the fact that our customers have developed this dual-litho strategy whereby they can present the 10-nanometer design rules to their customers, has created time and space for the development of the EUV solution at 70 wafers per hour.
+And this is where we are today. I think it is a long answer, but it, in effect, tries to summarize where we are. I hope that is clear.
+
+--------------------------------------------------------------------------------
+Francois Meunier,  Morgan Stanley - Analyst    [10]
+--------------------------------------------------------------------------------
+
+    Yes, thank you very much, Peter.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [11]
+--------------------------------------------------------------------------------
+
+    Good. Now on 2017, like I said in the introductory statement, there are, in fact, two phases. The first phase is based on the better shrink capabilities and the better yield opportunities. There is a first phase node you could say that encompasses about 12 to 15 units in 2015 that only addresses one or two layers for the 10-nanometer logic node.
+Now the second phase is whereby when we reach the throughput road map that we have currently on the road map, which is 70 wafers per hour in 2014 and [125] in 2015, when we reach that -- and like we've said, we have created with our customers time, more space and time to get there by the middle of 2014 -- then more layers will be adopted on EUV, and also DRAM at 60 nanometer will come into play. That will mean that we meet our full 25 to 30 unit capacity in 2015.
+So when that happens, then 2016 and 2017 are as earlier guided, but like I said, this first phase needs to happen first. And when we execute on the throughput road map, there will be a second phase leading us to the 25, 30 units and the 50 to 60 units potential for 2016 and 2017.
+So the first half of 2014 developments and the coordination with our customers will drive that change and will drive their choices. So that will be particularly important over the next 6 to 9 months.
+Is that clear, Francois?
+
+--------------------------------------------------------------------------------
+Francois Meunier,  Morgan Stanley - Analyst    [12]
+--------------------------------------------------------------------------------
+
+    Yes, that was very clear. Thank you, Peter. Thanks for the insight.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+    Mehdi Hosseini, SIG.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group/SIG - Analyst    [14]
+--------------------------------------------------------------------------------
+
+    Thank you.
+
+--------------------------------------------------------------------------------
+Craig DeYoung,  ASML Holding N.V. - VP, IR Worldwide    [15]
+--------------------------------------------------------------------------------
+
+    Mehdi, Hello? Operator, are you there?
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+    I'm just trying to locate the speaker -- the person involved in the question. One moment. I'm just going to go on to the next question.
+Timothy Arcuri, Cowen and Company.
+
+--------------------------------------------------------------------------------
+Timothy Arcuri,  Cowen and Company - Analyst    [17]
+--------------------------------------------------------------------------------
+
+    Peter, I just wanted to ask a question on the answer that you just gave. So on 80 watts, we are pushing that out by maybe a month or so just due to the ability to get the components from the supply chain. But you had previously said that it would take you two years to upgrade to 250 watts, which was implying a 2016 for that. Now you sound more confident actually in being able to get there within one year, which would imply 2015 to get to 250 watts. So maybe a little bit pushout in the near-term, but a little more confidence longer term.
+I guess I'm wondering, a), is that the right lead, and b), what gives you the confidence in being able to pull in that longer-term target to get to 250 watts? Thanks.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [18]
+--------------------------------------------------------------------------------
+
+    Well, just to be clear, Tim, the 250 watts or 125 wafers per hour has always been on the roadmap for 2015. I don't think it is a pull-in. You are right with your comments on the 80 watts. It is basically our current focus on getting the right components and qualified components in which could lead to a 1- or 2-month delay. But it doesn't effectively has an impact on the throughput roadmap, which is 70 wafers per hour next year and 125 in 2015. And 125 wafers per hour is 250 watts. So I don't think there is a change or a pull-in. I might have misunderstood your question, Tim, so any comment?
+
+--------------------------------------------------------------------------------
+Timothy Arcuri,  Cowen and Company - Analyst    [19]
+--------------------------------------------------------------------------------
+
+    Okay. Great. Peter, just as a follow-up to that, you had been saying that in terms of your shipment plan, that although the rev rec is a bit pushed out from December into now March, you had been saying that your shipment plan would be to ship roughly 1 system per month next year. Can you update us on the shipment plan next year, just given this near-term pushout in rev rec?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [20]
+--------------------------------------------------------------------------------
+
+    Yes, I think the shipment plan for next year, the two systems that we ship, that we had to push to January of 2014, will basically be add-ons to what we ship next year. So next year we said about one per month.
+Now these were, these two shipments were planned to ship this year, so there will be add-ons to 2014. So yes, between 12 and 14 units.
+
+--------------------------------------------------------------------------------
+Timothy Arcuri,  Cowen and Company - Analyst    [21]
+--------------------------------------------------------------------------------
+
+    Wonderful. Thanks so much.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+    Mehdi Hosseini, SIG.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group/SIG - Analyst    [23]
+--------------------------------------------------------------------------------
+
+    Thank you. I think Tim stepped on my line.
+Peter, going back to your comments on logic 20-nanometer and below, how do you describe the breadth of orders and magnitude of incoming orders in the second half of 2013 to what you were expecting, let's say, 3 to 6 months ago? And I have a follow-up.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [24]
+--------------------------------------------------------------------------------
+
+    Just for clarification, Mehdi, you are referring specifically to the 20-nanometer logic area.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group/SIG - Analyst    [25]
+--------------------------------------------------------------------------------
+
+    Yes.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [26]
+--------------------------------------------------------------------------------
+
+    That is actually as we expected. When we looked six months ago, I think the order intake on the logic is developing as we planned, which is also driven by the very clear roadmap that customers have presented us -- very clear in terms of the wafer capacity that they needed to add by the end of the year, and they are executing on this. So there is no change.
+What has changed in terms of order intake for the second half of the year was memory, and clearly we anticipated the NAND capacity additions. But we are now also seeing requirements from DRAM customers. And I think that was different than what we saw six months ago. And I know it's a more extended answer than you asked for, but I think it best represents the order and the backlog situation.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group/SIG - Analyst    [27]
+--------------------------------------------------------------------------------
+
+    I appreciate it. And then switching gears on EUV, I hear from some of your key customers that mask inspection and repair is one of the key bottleneck outside of the separate light source. How do you see that particular area developing? And worse comes to worse, would you actually step up and try to expedite the development of the light source required for mask inspection?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [28]
+--------------------------------------------------------------------------------
+
+    Interesting questions and I will split them. The mask inspection and repairs, which is, in effect, the focus that customers are putting on this, is good news because it means that's -- and this is also how we feel it -- that they know that for an EUV infrastructure, you don't only need a lithography machine, you need more. It's not only a mask, it is also photoresist.
+So yes, we have been in discussions with customers or at least they have shared with us their ideas of what needs to be done.
+Now clearly we have seen increased activity in the equipment industry as it relates to mask inspections over the last, I would say, increased activity over the last six months, whereby we have also started discussions with partners in the industry and see where we can help.
+Now for volume production EUV, the mask inspection tool is not needed. You can do mask in especially basically using our litho scanner. It's very expensive. You basically check the mask on the wafer. That's what they will do in their preproduction, which basically means that mask inspection can be done. But ultimately when you go into volume production by 2017, you want to have a mask inspection tool by not using the very valuable time of your litho EUV scanner.
+And so for the time being, it's not a major issue, but it is something that needs to be resolved by 2017. And that is where contacts are now intensified with customers but also with other players in the industry, and I think it will be done.
+And your last question was on whether we could use AUV resource for --?
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group/SIG - Analyst    [29]
+--------------------------------------------------------------------------------
+
+    Which you actually tried to accelerate the development needed for the light source using mask inspection. But I see the light source for mask inspection being the major bottleneck in this area.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [30]
+--------------------------------------------------------------------------------
+
+    Yes, I mean -- we have not entered into any specific discussions on this subject. Clearly we have a lot of knowledge in this field. And I also think that in the discussions we will have over the next 12 to 24 months with partners in the industry and with our customers we will see how we can share and how the industry can benefit from our knowledge, and that will be a subject of discussions, you can rest assured. But that is something for the next 12 to 24 months.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group/SIG - Analyst    [31]
+--------------------------------------------------------------------------------
+
+    Thanks so much.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+    Gareth Jenkins, UBS.
+
+--------------------------------------------------------------------------------
+Gareth Jenkins,  UBS - Analyst    [33]
+--------------------------------------------------------------------------------
+
+    Just a quick one on NAND capacity, if I could. I just wondered whether that is being driven by 3D from a customer in China, a large Chinese fab, or are there more than that one customer? And I just have a quick follow-up on an earlier question on gross margins on EUV afterwards. Thank you.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [34]
+--------------------------------------------------------------------------------
+
+    Okay, thanks. Yes, I think the Q3 bookings with 42% was memory. The largest part of the 43% is the NAND, part of which is, indeed, a specific project they you referred to. But there also other areas where we ship, so it is not exclusive at that particular project that you refer to.
+So on -- what was your question on --?
+
+--------------------------------------------------------------------------------
+Gareth Jenkins,  UBS - Analyst    [35]
+--------------------------------------------------------------------------------
+
+    Just wondered what the liabilities are predicated on and whether there's any possibility that the 20% gross margin that you see going forward is on a EUV at risk at all as certain criteria on that laser. It looks like the liability is very high in terms of user amounts.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [36]
+--------------------------------------------------------------------------------
+
+    Yes, I think on the first 11 systems, when we upgrade from the 3300 to the 3350, we actually are now in a situation where we almost have to completely revamp the whole source. So you can say for the first 11 systems, we need two sources, which is, of course, not our plan going forward. When we move to the 3350, it will be the final EUV source, the final architecture. It is the MOPA PrePulse architecture.
+You might remember that we started the EUV source in what we call the normal mode, which is a different architecture, and now we need to upgrade to MOPA PrePulse. So from normal to MOPA PrePulse is not something which we are planning to do after system 11. So this is particularly high, but you could say, well, the first 11 systems unfortunately need two sources.
+
+--------------------------------------------------------------------------------
+Gareth Jenkins,  UBS - Analyst    [37]
+--------------------------------------------------------------------------------
+
+    Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+    Simon Schafer, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Simon Schafer,  Goldman Sachs - Analyst    [39]
+--------------------------------------------------------------------------------
+
+    Peter, I wanted to come back to the DUV discussion. I guess one of the implications of EUV being so difficult and also one of your customers deciding to go dual track, am I right in saying that that actually increases the layer intensity and the litho intensity for DUV in the next 18 months or so? And then I have a quick follow-up on the same topic.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [40]
+--------------------------------------------------------------------------------
+
+    The answer is yes. Yes, I will answer this a bit more broadly, but you are, indeed, correct. It means that if you go with this dual strategy, which actually the whole dual-litho strategy was developed to make sure that our customers can present a design rule package to their customers. And so they have an either/or strategy, which means that the either strategy, which is the DUV/EUV essentially immersion-centric strategy is a highly litho-intensive one because it has a few litho layers, which are highly critical ones.
+So yes, as a result of that strategy and being able to present a set of design goals that are either/or on 10 nanometer, yes, the consequence is that this will be more litho intensive.
+
+--------------------------------------------------------------------------------
+Simon Schafer,  Goldman Sachs - Analyst    [41]
+--------------------------------------------------------------------------------
+
+    Got it. And interesting that one of your customers describing that as a dual track down to the 10-nanometer node. But is dual-track even feasible for 7 nanometer, or are we going to be on a one-track mode for EUV only?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [42]
+--------------------------------------------------------------------------------
+
+    Yes, I think on the 7 nanometer I think there is consensus with everybody that that is an EUV node only. And that is why I think in any case the Phase 1 approach that I mentioned will happen because this is difficult technology. If you do full immersion no EUV on 10 nanometer, then the learning curve will be almost vertical, which for 7 nanometer is a major issue.
+So I believe that customers will go for a controlled EUV insertion in any case, despite the throughput, no matter what the throughput is. And if the throughput is what our roadmap says, then we clearly have an upside. So it is because of that reason that we need EUV at 7 nanometers. That is, I think, a driver for an EUV insertion at least a few nodes, a few layers at the 10-nanometer node.
+
+--------------------------------------------------------------------------------
+Simon Schafer,  Goldman Sachs - Analyst    [43]
+--------------------------------------------------------------------------------
+
+    Great. Thanks, Peter.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+    Sandeep Deshpande, JPMorgan.
+
+--------------------------------------------------------------------------------
+Sandeep Deshpande,  JPMorgan Chase & Co. - Analyst    [45]
+--------------------------------------------------------------------------------
+
+    Peter, firstly, I have a question on one of your responses earlier regarding giving your customers flexibility to decide how many layers of EUV they do by the end of 2014. Given that you are now delaying that decision for your customers today into 2014, will you have enough time if they tell you by the end of 2014 to ramp up if they were ready -- if you were already to go as such at the end of 2014, that you can do, say, 30, 40, systems or 30 systems in 2015 simply because they want to do additional layers? That is my first question. And then a second question I have on the service revenues.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [46]
+--------------------------------------------------------------------------------
+
+    Yes. I think with respect to one of your questions, we have not -- you could say it was not our decision to tell our customers, you have to delay your decision to the second half of 2014. It has been the transparent and open discussion that we have with them, whereby they said, we're going to develop this dual -- this double strategy. Which actually is good for them and it is good for us because they can present their customers with a solution, and we create time and space for the developments and the introduction of EUV.
+Now when we reach those throughput levels and your question is, will you have the output capacity to move to 25 to 30 units. Now from an industrial capacity, yes, we do. From a supply chain point of view, there are only very, very few components -- and you can think about the optics, for instance -- that has a lead time that is a bit longer.
+Now, lead times are coming down as we speak. So when that decision is taken up by the end of 2014, as you say, but in the second half, then we will be able when we know what our customer's decision is in the second half of 2014 to have an impact on our output in the second half of 2015.
+And so we will be able to accelerate in 2015 because we will have the industrial capacity, i.e., we will have the factory; we will have the people; and we will potentially have to preorder one or two very critical components like the POBs, which are the projection optics boxes, which, given the opportunity, we will probably do. But we have time to take that position.
+So yes, we will be able to respond, but customers will not wait until the end of 2014. It will be in the second -- somewhere I would think somewhere in the second half.
+
+--------------------------------------------------------------------------------
+Sandeep Deshpande,  JPMorgan Chase & Co. - Analyst    [47]
+--------------------------------------------------------------------------------
+
+    I actually saw your follow-up to this, Peter, because of the additional requirements of immersion for this dual track, are they going to order both sets of tools then? Because you don't need both sets of tools. If they were going to go, for instance, much more in terms of number of layers for EUV, then they will require less of immersion.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [48]
+--------------------------------------------------------------------------------
+
+    Correct.
+
+--------------------------------------------------------------------------------
+Sandeep Deshpande,  JPMorgan Chase & Co. - Analyst    [49]
+--------------------------------------------------------------------------------
+
+    So can you give -- this is going to make planning your production much more difficult, essentially.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [50]
+--------------------------------------------------------------------------------
+
+    Yes, but if you look at -- if the problem is, can we follow with the immersion demand, that is less of an issue because the cycle times have come down significantly. So we could react within 6 to 9 months. And currently don't forget, we are also for the fourth quarter and the first two quarters of next year at pretty high output capacity. So that will not be an issue. We can respond on immersion.
+So if by the second half of 2014 they decide to go for a more, let's say, aggressive EUV scenario, we can react. If they don't do it and they need more immersion, we can also react. We actually have that capacity, and we create that internal capacity for driving the cycle time in the factory down, which we are doing as we speak.
+So we have enough capacity for both scenarios.
+
+--------------------------------------------------------------------------------
+Sandeep Deshpande,  JPMorgan Chase & Co. - Analyst    [51]
+--------------------------------------------------------------------------------
+
+    Understood. And my follow-up question to you, Peter, would be on the services business. I mean you had EUR250 million of services in Q1 before the acquisition of Cymer.
+Now you are reporting EUR358 million. Part of that is, of course, Cymer in the services revenue. How much have you grown organically? Because this is where the holistic lithography, et cetera comes in. How much have you grown organically this year?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [52]
+--------------------------------------------------------------------------------
+
+    Well, you can look at the historical Cymer numbers. So is is not a surprise that those numbers, those Cymer service numbers are close to EUR100 million. It is about EUR80 million to EUR90 million. And so the rest means that we do EUR360 million in Q3 if you take EUR80 million to EUR90 million off, which means we are at a peak in terms of our field options and service sales. And a big part of that has to do with the field options related to system announcements in the applications group.
+So yes, it is growing.
+
+--------------------------------------------------------------------------------
+Sandeep Deshpande,  JPMorgan Chase & Co. - Analyst    [53]
+--------------------------------------------------------------------------------
+
+    Excellent. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+    Andrew Gardiner, Barclays.
+
+--------------------------------------------------------------------------------
+Andrew Gardiner,  Barclays Capital - Analyst    [55]
+--------------------------------------------------------------------------------
+
+    I just had another question on EUV, I'm afraid, not to belabor the point too much. But just in terms of trying to draw the distinction between the delays that you have in delivering the 3300B tools this year and into early next year and the customer's decision around the actual production tools delivery in 2015 and 2016, clearly the two are somewhat linked, but there must be a distinction now. I'm just wondering if the reason the customers are now asking to delay the decision to the second half of next year is that because they've got less confidence in what you're able to do than perhaps you guys do? And clearly you are sounding very confident today. Or is it they just want to be able to get some of these R&D tools and play with them a bit more and understand the recipe a bit better and then have confidence in themselves that they are going to be able to deploy that at a certain number of layers?
+Just a bit more detail around how the customers are considering, it would be helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [56]
+--------------------------------------------------------------------------------
+
+    Yes. I want to -- I'd like to correct one of your statements. If you say -- we did not request the customers to delay the decisions for the second half of 2014. This has been the result -- the customers have created this space for them also. Whereby they said, their problem was they need to present a set of design rules to their customers early 2014. Now if they only have one strategy, they need to take that position on litho in early 2014.
+They created for themselves space and time because they also don't want to lose the opportunity of EUV. And I think EUV just presents them with very clear advantages and much tighter shrink, in yield, in the electrical capabilities of the device. So they need EUV.
+What they have actually done is they have said, why don't we create a strategy whereby it is either a litho-centric -- sorry, an immersion-centric strategy or a EUV-centric strategy on the critical layers, thereby solving the problem for our customers early 2014 because it doesn't matter, either or. And we then create space and time to work with ASML and to work on the improvements with EUV, with respect to throughput, with respect to stability. So that when it is there, we can use EUV, which is our preferred way of going forward.
+So it is not indirectly because of where we are, which we pushed it, but it's their decision to create this double strategy. And as a result of it, we create time and space to work with them, and this imminent decision is now basically pushed back 6 to 9 months. So this is how customers look at it today.
+So the good news is that we have some more time. That is one. The other part of the good news is that they chose, again, how critically important EUV is for them, and they do not want to lose the opportunity. This is why they go through, let's be very honest, costly double development work to create a double-litho insertion strategy. This is what we meant when we say we have intensified the cooperation with our customers on this issue because we need to help them either through immersion DPV or through EUV. But clearly it's clear from what they are doing and what their focus is -- their focus is on EUV, and they like to create a situation where the likelihood of that happening is, of course, higher. That is what we are doing today.
+So I don't know whether that answers your question --
+
+--------------------------------------------------------------------------------
+Andrew Gardiner,  Barclays Capital - Analyst    [57]
+--------------------------------------------------------------------------------
+
+    Yes, it does. That is definitely clear. Thank you. And just related to that, is there -- can you just remind us of where your planning is for R&D next year both from a gross and a net perspective? Are there any changes as a result of how the development has tracked? You were talking about EUR1 billion last time we were on the call.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [58]
+--------------------------------------------------------------------------------
+
+    Yes, that is still the case. We have the EUR1 billion. What we will see is next year we have a slightly higher contribution from the [CCIB] partners. So that will show in our income, and as it relates to Intel, it will show in the gross margin. But gross, it will be about this EUR1 billion.
+
+--------------------------------------------------------------------------------
+Andrew Gardiner,  Barclays Capital - Analyst    [59]
+--------------------------------------------------------------------------------
+
+    Thanks very much.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+    Mahesh Sanganeria, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Mahesh Sanganeria,  RBC Capital Markets - Analyst    [61]
+--------------------------------------------------------------------------------
+
+    Thank you. Just changing the tone a little bit, your backlog is evenly split between foundry and IDM and memory, and I would think that your revenue profile will be similar to your backlog for Q4. Since you have visibility in the first half of next year, can you give us some indication of how that distribution will look like in the first half of 2014 in IDM, foundry, and memory? Thank you.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [62]
+--------------------------------------------------------------------------------
+
+    Yes, I think I need to do that qualitatively, although on the fourth quarter, your assumption is that the fourth-quarter division already split in the revenue will be similar to the backlog is not entirely the case. We will have -- like I said, logic is 33%, but the logic shipments for the 20-nanometer node will still be pretty strong in the fourth quarter. So it is not going to be exactly as the backlog splits.
+But the trends for the first half is that we believe that 20 nanometer will stay as strong as we've seen in the second half of 2013. Whereby the NAND shipments, which are basically capacity additions, will shift because of some of the new projects that have been announced and then will take tools starting Q4. So that will take an increasingly bigger part of our revenue.
+And on top of that, we are seeing the first DRAM orders coming in. And I do expect that in the first half of 2014, we will have also some additional shipments to DRAM customers.
+So looking at the total memory portion, I think the memory portion will grow as compared to what we have seen in Q3 and Q4 of this year. Whereby the total sales for the first half of 2014 as compared to the second half of 2013 will be about equal. But in the first half of next year, higher emphasis on the memory shipments.
+
+--------------------------------------------------------------------------------
+Mahesh Sanganeria,  RBC Capital Markets - Analyst    [63]
+--------------------------------------------------------------------------------
+
+    Okay. Thank you. That is very helpful. And one question on the EUV. You are shifting focus slightly from necessarily not going after the higher power, but more on the stability of the source and making production ability. What metrics should we be following to see the progress, how we are doing on stability of the overall tool in the source?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [64]
+--------------------------------------------------------------------------------
+
+    Yes, I think first I'd like to correct you, if I may. It is not that we're not going after the higher power because we are. We are on track to do the 125 watts, which is 70 wafers per hour and the 250 watts. That has not changed.
+The only issue is that short term we are more focused on the stability of the machine given the fact that we have the delays as experienced, and it is just frustrating for us as it is for you, and that we need to recoup over the next couple of months. And we will.
+So it is not that we're not going after the high power. It is just simply that the focus today is on the integration and the stability of that source.
+Now the metrics that you should be looking for, like I started off, we have had the singular focus on the wattage, which we created, to be honest, and I think there is much more than just wattage. Because there is the feature size; there is the cleanliness; there is the combination qual control; there is the metrology qual control; there is the closed loop. There's a lot of issues that are surrounding the EUV source, which all make different integrated source. Which also translates back to customers, which is not only wafers per hour, but it is imaging feature size. It is imaging quality. It is overlay requirements. It is all these things that all add to the EUV solution.
+Now I can make a grid where all these things I just mentioned are in, and it would make it highly complex for you. The message that I am giving you is, effectively, we have been teaching you wattage like this was the only thing, which it isn't. So don't use wattage as a metric going forward. We will do wafers per hour in the end. That is what customers want. This is what drives the economics of EUV, and this is what we should focus on. And we have made it probably overly complex by focusing on the wattage, which is not the only thing. And I hope that if I can give you some help, then I would say the only metric that really counts is the wafers per hour with the stability tool that gives at least an availability of a certain percentage for our customers to introduce into the preproduction of their next nodes. And I would start with wafers per hour, and we will inform you about wafers per hour when we reach those levels. And that is basically the roadmap. So let's keep the roadmap as the metric.
+
+--------------------------------------------------------------------------------
+Mahesh Sanganeria,  RBC Capital Markets - Analyst    [65]
+--------------------------------------------------------------------------------
+
+    Okay. Thank you very much. That's very helpful.
+
+--------------------------------------------------------------------------------
+Operator    [66]
+--------------------------------------------------------------------------------
+
+    Didier Scemama.
+
+--------------------------------------------------------------------------------
+Didier Scemama,  BofA Merrill Lynch - Analyst    [67]
+--------------------------------------------------------------------------------
+
+    Peter, I'd just like to discuss with you the worst-case scenario. So we saw a doubling of litho intensity from 28 to 20 for logic. If we were to be stuck with one or two EUV layers at 10 nanometers, what would be the increase in litho intensity associated with immersion? Would that be a doubling again versus 20?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [68]
+--------------------------------------------------------------------------------
+
+    I would not call that the worst-case scenario. From an economics point of view, that is the best-case scenario because it effectively means that we have a very high intensive immersion usage with a lot of application.
+Now, it could be a worst-case scenario for, let's say, the cost, but customers have looked at this and said, we can do this, very immersion-centric, highly application-loaded solution for 10 nanometer or we can do the EUV centric. Both will present a solution to their customers so that they can start with the design rules that our logic customers are giving them, which will create the value in the end devices that the customers of our customers think that they can give.
+So I think it all means that shrink will happen, but the cost structures might be different for our customers. But still the value of the shrink is not in any doubt.
+Now, what that means is that the worst case, what you call the worst-case scenario, which is only one or two layers, means that we need a lot of extra litho tools. Those will be loaded with application solutions.
+Will there be another doubling of litho? Not very likely another doubling, but a significant increase, and significantly is definitely more than 20% is very likely. And that is you could say that is the flip side of a best economic case for ASML and a not-so-good economic case for our customers is that they need more litho, and they need more lithography costs and patterning costs. But it will provide the shrink value for the devices that's our customers or the customers of our customers are currently planning.
+
+--------------------------------------------------------------------------------
+Didier Scemama,  BofA Merrill Lynch - Analyst    [69]
+--------------------------------------------------------------------------------
+
+    That is brilliant, great color, but I did follow up on that. So number one, can you give us a sense of what your customers are saying in terms of the penalty costs for the customers of your customers, or how much does wafer costs go up in the case of quadruple patterning for the majority of the layers and maybe one or two layers addressed by EUV, number one?
+And number two, how many or how much of the installed capacity already at 28 and going forward at 20 will, therefore, be of immersion machines will be used again if you want for the 10-nanometer node? So effectively what I am saying is, how much incremental tools are needed if that scenario were to materialize?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [70]
+--------------------------------------------------------------------------------
+
+    Yes, I think the issue on -- we use -- the cost per wafer is very different customer per customer. So we almost have to go on a customer-by-customer basis the answer your question, which I'm not going to do.
+But there will be a -- I wouldn't call it a penalty, but there will be an increased cost to provide that extra shrink value. There will be. And it will determine -- it will be different from customer to customer because some customers have a different architecture; others have different yields; they have different utilizations. So it is difficult to answer that question and give you a generic answer.
+On the reuse, you have to realize that when you go into multiple past immersion, patterning strategies, that not every machine that you can use that you currently use at 28 nanometer can be used at 20 nanometer.
+We introduced the 1970, which is the 1970 is a new machine with a, let's say, new mechanics that will enable 250 wafers per hour throughput and 20-nanometer overlay. This is what you need with those very advanced critical immersion strategies.
+Now the current 1960 and 1950 cannot do that. I mean I would like to refer to a slide which is in the back of this quarterly result, which actually shows that. It is quite a significant difference in performance.
+Now, there are performance upgrade packages that we can sell, but those are very expensive if you think about EUR10 million each, which actually means that those fine mechanics will be replaced, which is almost open-heart surgery in the field. Now that also will happen at certain places. But you have to realize then if you do open-heart surgery, that that, too, is out of production for quite a significant time, which not all customers would like.
+So it is a complex question. Some customers will do it. They will upgrade, 1950, 1960 to 1970 performance, but that means quite significant upgrade costs and margin for us and quite a lot of downtime in their factories.
+So when you look at this, I think it will all happen. Not every critical layer needs 1970 performance. So there will be some layers that way you can probably do this. But for those layers that do need 1970, I think the best option is to buy a new machine. Also, because back in the foundry space, the capacity of the existing node always stays basically available for device architectures that are not leading edge.
+So if you have a 28-nanometer device like we have a 45-nanometer capacity out there, we haven't seen in our foundry-installed base many system changes from 45 to 28. So 45 nanometers stays needed at that capacity level. It's always on top.
+So there is a lot of reuse in cannibalization. It can happen, but there are quite some hurdles for customers to do that.
+
+--------------------------------------------------------------------------------
+Didier Scemama,  BofA Merrill Lynch - Analyst    [71]
+--------------------------------------------------------------------------------
+
+    And did you -- that is great. And then presumably from a financial point of view for ASML, if that scenario were to materialize, you may end actually having maybe slightly higher revenues and certainly higher gross margins given that you make more money on immersion machines than on the EUV machines, is that fair?
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [72]
+--------------------------------------------------------------------------------
+
+    Yes. It will provide a buffer for the undoubtedly lower EUV margins that we had initially, and it will take some time to get to corporate average. I mean it is a clear buffer, and that is what it can provide. And that is correct.
+
+--------------------------------------------------------------------------------
+Didier Scemama,  BofA Merrill Lynch - Analyst    [73]
+--------------------------------------------------------------------------------
+
+    Thanks very much.
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [74]
+--------------------------------------------------------------------------------
+
+    Okay.
+
+--------------------------------------------------------------------------------
+Craig DeYoung,  ASML Holding N.V. - VP, IR Worldwide    [75]
+--------------------------------------------------------------------------------
+
+    All right. Thank you, everybody. I'm afraid we've run out of time. So if you were unable to get through on the call, the IR team is available to answer some questions and help you the rest of this afternoon and certainly tomorrow.
+And now on behalf of Peter and the rest of the Board and management, I'd like to thank you for joining the call today. And, Sala, if you could formally conclude the call, we would appreciate it. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [76]
+--------------------------------------------------------------------------------
+
+    Ladies and gentlemen, this concludes the ASML 2013 third-quarter results conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

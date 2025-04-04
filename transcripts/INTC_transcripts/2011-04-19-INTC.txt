@@ -1,0 +1,943 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2011 Intel Corporation Earnings Conference Call
+APRIL 19, 2011 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Stacy Smith
+   Intel Corporation - SVP and CFO
+ * Kevin Sellers
+   Intel Corporation - VP of IR
+ * Paul Otellini
+   Intel Corporation - President and CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Uche Orji
+   UBS - Analyst
+ * Ambrish Srivastava
+   BMO Capital Markets - Analyst
+ * Tim Luke
+   Barclays Capital - Analyst
+ * Shawn Webster
+   Macquarie Research - Analyst
+ * John Pitzer
+   Credit Suisse - Analyst
+ * Sumit Dhanda
+   Citadel Securities - Analyst
+ * Chris Danely
+   JPMorgan - Analyst
+ * Vivek Arya
+   BofA Merrill Lynch - Analyst
+ * Hans Mosesmann
+   Raymond James & Associates - Analyst
+ * David Wong
+   Wells Fargo Securities - Analyst
+ * Srini Pajjuri
+   CLSA Securities - Analyst
+ * Craig Ellis
+   Caris & Company - Analyst
+ * Jim Covello
+   Goldman Sachs - Analyst
+ * Glen Yeung
+   Citigroup - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+           Good day, ladies and gentlemen.  Welcome to the Q1 2011 Intel Corporation's earnings conference call.  My name is Chastity and I will be your coordinator for today.  All lines have been placed on mute to prevent any background noise.  After the speakers' remarks, there will be a question-and-answer session.  (Operator Instructions).  As a reminder, this conference is being recorded for replay purposes.
+ I would now like to turn the presentation over to your host for today's call, Mr.  Kevin Sellers, VP of Investor Relations.  Please proceed, sir. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+           Thank you, Chastity, and welcome, everyone, to Intel's first-quarter 2011 earnings conference call.  By now you should have received a copy of our earnings release and the CFO commentary that goes along with that.  If you've not received both documents, they're currently available on our investor website, intc.com.
+ I'm joined today by Paul Otellini, our President and CEO, and Stacy Smith, our Chief Financial Officer.  We'll follow our normal practice by hearing brief prepared remarks from both Paul and Stacy, after which we'll be happy to take questions.
+ By way of announcement, Intel will be hosting our annual investor day at our headquarters here in Santa Clara on Tuesday, May 17, 2011, and we look forward to seeing many of you there.
+ Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it, and as such, does include risks and uncertainties.  Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially.  Also, if during this call we use any non-GAAP financial measures or references, we'll be posting the appropriate GAAP financial reconciliation to our website, intc.com.
+ So with that, let me now hand it over to Paul. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [3]
+--------------------------------------------------------------------------------
+
+           Thanks, Kevin.  I am very pleased to report another record revenue quarter for the Company.  As anticipated, consumer demand in the US and Western Europe was soft, but consumer sales in emerging markets and demand for both enterprise servers and clients were better than expected.
+ The combination of a feature-led product segmentation strategy and a simplified branding structure has been very effective in improving the purchasing process for buyers, and leading us to achieve our best product mix in many years.  Additionally, the rapid recovery from Cougar Point chipset issues earlier in the quarter enabled a much faster ramp of Sandy Bridge products than we anticipated in January.
+ With regards to the tragic events in Japan, I want to first comment that all of our employees and their families are safe, for which we are very grateful.  We did sustain some damage to our sales and marketing offices in Japan, but nothing major that would hinder our ability to service our customers.  Our team on the ground is actively participating in relief efforts, and we are deploying our technology to help connect families that have been dislocated by the earthquake and tsunami.
+ As for our business, I want to note that we did not see any unusual changes or fluctuations to our backlog after the earthquake, nor do we anticipate any major disruptions to our supply lines moving forward.
+ Aggregate inventory levels of the PC supply chain remain healthy and well within normal operating ranges as we enter Q2.  In Q1, our customers replenished approximately half of the inventory that was depleted in Q4, primarily with new Sandy Bridge-based products.  Compared to the first quarter of last year, which was a very good quarter for us, we achieved double-digit growth across every major product segment and across every region in the world.
+ Revenue for the data center business was up 32% from a year ago, with operating profit improving nearly 50%.  Our other businesses also showed solid growth.  The embedded business was up 33%; NAND flash was up 17%; and I'm pleased to note that one of our new business areas, the digital home group, grew 129% from last year and is now shipping at a rate of over 10,000 units per day into set-top boxes and smart TVs.  Our PC Client business remains strong and grew 17% from last year.
+ What we are witnessing is an explosion of computing devices that connect to the Internet, and Intel is a big part of this trend.  We not only participate through selling our products into these device categories, but we also profit from the wide array of products that we sell in the buildout of the data center capacity required to serve all of these devices.
+ Turning to the Data Center Group specifically, the first quarter was another very strong quarter.  DCG recorded Q1 revenue of $2.5 billion, putting us on a trajectory to reach $10 billion in revenue for this year across our server, storage, and networking products.
+ The cloud buildout continues to be a major driver of growth for the Company, with demand from China showing notable strength this quarter.  Within the Data Center Group, the storage business increased 45% sequentially and was up 65% from a year ago.  During the quarter, we launched Sandy Bridge Xeon platforms for the single socket market, and early demand for this product has been very strong.  Looking ahead, we are very bullish about our data center business and expect it to be a major growth driver for years to come.
+ This past quarter we also launched Sandy Bridge for client PCs.  As I've stated before, I believe that this is the very best product Intel has ever delivered to our customers.  Early demand for Sandy Bridge has been outstanding.  In fact, the ramp of Sandy Bridge in the channel is the fastest ramp we've ever seen and sell-through has been robust.  The reviews of Sandy Bridge have been outstanding and we expect the ramp to continue on a very sharp growth trajectory.
+ We also launched Oak Trail just last week, which is a platform designed specifically for tablets.  We are seeing very good design momentum with Oak Trail across multiple operating systems.  Over the course of this year, Intel will have tablet platforms that run Windows, Android, and MeGo.  We remain committed to success in the smartphone segment, and we're actively working with a large number of handset manufacturers and carriers around the world on Medfield-based designs.
+ Overall, we begin 2011 with great momentum.  We've added McAfee and the wireless division of Infineon to our portfolio, and have ambitious plans for both acquisitions going forward.  We are investing in developing new products for phones and tablets, and are turning our advantages in Moore's Law and computer technology into breakthrough products for these segments.
+ All of our major product segments are growing and these new segments are expected to add to that growth momentum.  We remain on track to begin production on our 22-nanometer silicon process technology by the end of this year.  This revolutionary technology will further distance Intel from the competition across all segments of computing.
+ Let me make two final comments about demand and CapEx.  Like many of you, I noted that some of the third-party research firms issued reduced forecasts for PCs in 2011.  I want to be clear that our views differ from some of theirs.  The PC business has evolved into a global industry that is approaching 400 million units this year.  While some channels like PCs sold through consumer retail outlets in mature markets have deep visibility, other channels, especially in emerging markets, are not well reflected in the forecasts of third-party firms until shipments from Intel and its competitors have been reconciled.
+ Over the last five years, we have put considerable effort into improving our visibility with systems like just-in-time inventory hubs for our major customers, as well as real-time metrics to monitor sales through all of our worldwide channels.  As a result, we were able to call the inflection in our business in Q1 of 2009 as well as predicting 2010 growth to within 1 point of accuracy.
+ Our projections for PC segment growth in 2011 remain in the low double-digit range, based on early sell-through strength we are seeing as we begin 2011, and the great reception to Sandy Bridge in both consumer and enterprise segments.  And while it's too early to call 2012, with an improving global economy, we see no reason for growth to be materially different from what we see in 2011.
+ Secondly, we are increasing our forecast for CapEx spending this year.  This reflects the widening of our process technology lead and the incremental opportunity that advantage will provide our business.  The increased CapEx is focused on both 22 and 14-nanometer capabilities.  As we tailor our product plans to meet the needs of emerging notebook, tablet, and phone usages, we see a need for more platform features to be integrated into the microprocessor, taking advantage of our leading-edge silicon capability for power management, performance, and smaller, lighter devices.  These are high ROI investments and will be the foundation for significant growth opportunities ahead.
+ With that, let me turn the call over to Stacy. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [4]
+--------------------------------------------------------------------------------
+
+           Thanks, Paul.  The first quarter of 2011 had several significant milestones.  It was a record quarter in terms of revenue and earnings per share.  We closed both the McAfee and Infineon wireless division acquisitions.  Our customers launched their Sandy Bridge platforms, our fastest ramping product in the Company's history.
+ In addition, the Company identified, fixed and recovered from the Cougar Point chipset design issue, completely mitigating the $300 million revenue impact that was originally forecasted.  The factory network executed flawlessly, lowering throughput times and significantly increasing first-quarter output of Cougar Point replacement parts, fully recovering to customer demand by the end of the quarter.
+ As a result of the acquisitions of McAfee and the Infineon wireless division, we will be providing non-GAAP financial information in addition to GAAP for 2011 to provide additional visibility into the operational results of the Company.  Excluding the impacts of deferred revenue write-down and associated costs, amortization of acquisition-related intangibles and other acquisition-related accounting impacts, we achieved first-quarter revenue of $12.9 billion; gross margin of 62%; and earnings per share of $0.59.
+ The rest of my comments will use GAAP financials unless otherwise called out.
+ The first quarter ended up significantly better than our expectations.  From a market standpoint, strength in emerging markets and enterprise offset the weakness that we expected and saw in the mature market consumer segment.  We continue to benefit from the strength of our product line-up across servers and clients.  The introduction of Sandy Bridge extended our leadership and resulted in an increase in average selling prices.
+ The third quarter of last year was the first time where our revenue exceeded $11 billion.  Revenue for the first quarter of 2011 was $12.8 billion, up $1.4 billion from the fourth quarter and up 25% year on year.  The acquisitions of McAfee and the Infineon Wireless division contributed approximately $500 million of the $2.5 billion increase from a year ago.
+ Gross margin of $7.9 billion in the first quarter was a record and the gross margin percentage was 61%.  While gross margin benefited from higher average selling prices when compared to the fourth quarter, 22-nanometer startup costs, higher unit costs, and the impact of the acquisitions brought gross margin down 3 points from the fourth quarter.  The Cougar Point impact to gross margin was approximately 3 points, consistent with the impact to the fourth quarter.
+ R&D and MG&A as a percent of revenue dropped to 28.7%.  Our plan for 2011 is to sustain the progress we've made in our productivity and our efficiency, while making some critical R&D investments in the core business, in adjacencies such as tablets and phones, in software capability, and in process technology.
+ Operating profit of $4.2 billion in the first quarter was up 21% year on year.  Net income of $3.2 billion and earnings per share of $0.56 were up 29% and 30%, respectively, when compared to a year ago.
+ Our philosophy of both investing in our business and returning cash to our shareholders was evident in the first quarter, as we completed the acquisitions of McAfee and the Infineon wireless division; increased our capital spending; completed a $4 billion buyback; and increased our dividend per share by 15%.  The cash generation of our business remains strong, with cash flow from operations of $4 billion in the first quarter.
+ As we look forward to the second quarter of 2011, we are forecasting the midpoint of the revenue range at $12.8 billion, flat to the first quarter and in line with historical seasonality.  We are forecasting the midpoint of the gross margin range to be flat to the first quarter at 61%.  The first quarter was a great start to 2011 and puts us on track to exceed our financial goals for the year.  Seasonal growth from the first quarter puts us on the path towards another year of double-digit unit growth, and revenue growth in excess of 20% after the 24% growth we saw last year.
+ We are making some critical investments in our business, both in terms of research and development and in taking advantage of our process technology leadership.  The cash generation of our business remains strong, and the first quarter results put us on track to another year of double-digit earnings growth.
+ With that, let me turn it back over to Kevin. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [5]
+--------------------------------------------------------------------------------
+
+           Okay, thanks both Stacy and Paul.  We'll now move to Q&A, and, as is our usual practice, we'd like to ask each participant to ask one question and then you may have a follow-up if you have one.  So, Chastity, please go ahead and introduce our first questioner.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+     (Operator Instructions).  Glen Yeung, Citi. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [2]
+--------------------------------------------------------------------------------
+
+     Thanks.  Congratulations on a great quarter.
+ First question is, maybe just helping us understand the emerging markets for Intel -- how big it is.  And maybe Paul, some of the characteristics of that market that are different and are sustaining the growth and we're not seeing elsewhere. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [3]
+--------------------------------------------------------------------------------
+
+     Yes, actually, let me take a shot and just give you -- I think we've talked about this before, Glen -- this is Stacy.
+ The emerging markets now are well over 50% of our total business level.  And I think the dynamic that's going on there is really one of economics.  The desirability of technology is high, and the affordability of technology is now coming into the range where, when we look across markets like China, Latin America, Eastern Europe, you've got a couple of billion consumers that now the price point of the PC is within one to two months of income and it's really driving our growth.  And penetration rates are still pretty low.  So we think this is something that has legs and will drive our growth into the future. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [4]
+--------------------------------------------------------------------------------
+
+     And in terms of characteristics, Glen, I'd just point out that my comment on the channel strength for Sandy Bridge is principally emerging markets.  Most -- something like a third of all the PCs sold in emerging markets are not branded machines, they're white boxes built by the channel through our distribution network worldwide.
+ We saw strength on Sandy Bridge and even strength in the desktop business, which we haven't seen for some time, based upon that product in those markets.  And of course, those markets are still surging in terms of purchasing notebooks.  It's not a low-end mix, I'd also add.  It's a pretty average mix of products on a worldwide basis. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [5]
+--------------------------------------------------------------------------------
+
+     Thanks.  As a follow-up, I wanted to ask something about 22 nanometer.  Paul, you used the word, revolutionary, and I've heard people at Intel used that before with respect to 22.  So I wonder if you could shed some light into what that exactly means.
+ And then as part of the response, with $10.2 billion in CapEx, which is ostensibly almost all geared towards 22-nanometer, is it really Intel putting their mouth where their -- putting their money where their revolutionary mouth is?  Or is it really the money is because you're trying to manage the absolute amount of capacity that you have? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [6]
+--------------------------------------------------------------------------------
+
+     This is Stacy.  I'll start with the second part of that and then turn it back over to Paul.
+ The CapEx number for us is really driven by a couple of things.  It's driven by the unit growth in the mix that we're seeing and it protects our ability to meet demand at 22 and 14-nanometer.  You didn't say 14-nanometer, but that's an important part of this story.
+ And it enables our strategy to integrate more features and functionality onto that leading edge process technology, which, as Paul said in his prepared remarks, it gives us performance, cost and power efficiency advantages.
+ Let me give you an example.  Probably the biggest single chunk that's happening inside of this increase in CapEx is the fact that we made the decision that for the development fab for 14-nanometer, we're going to make that fab bigger.  That gives us the ability to actually, in the early stage of the ramp, move more products to 14-nanometer, take advantage of that process technology leadership, ramp it faster.  So we're going to spend some construction dollars today to have that capability in place at 14-nanometer.
+ But over the 14-nanometer life, it should save us money by going faster on that first factory.  So, those are the kinds of things that we're doing to both protect the ability to respond to demand and also make sure that we have the transistors available on the leading edge to give us the competitive advantage in the marketplace. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [7]
+--------------------------------------------------------------------------------
+
+     He wanted you to talk (multiple speakers)? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [8]
+--------------------------------------------------------------------------------
+
+     Oh, on the revolutionary comment?  You're right, you picked that up, Glen.  I actually thought I was the first one at Intel to use that.  So, I thought I'd embargo (multiple speakers) -- 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [9]
+--------------------------------------------------------------------------------
+
+     (multiple speakers) I've written in a few times already, so. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [10]
+--------------------------------------------------------------------------------
+
+     (multiple speakers) Yes, well, it's not inaccurate, but I'm afraid it's only meant to be a teaser today.  We'll be disclosing that technology in early May before the analyst meeting.  We're having a separate press event around that.  And I think when you hear that announcement you'll understand why this phrase is appropriate. 
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citigroup - Analyst    [11]
+--------------------------------------------------------------------------------
+
+     Look forward to it, thanks. 
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+     Tim Luke, Barclays Capital. 
+
+--------------------------------------------------------------------------------
+Tim Luke,  Barclays Capital - Analyst    [13]
+--------------------------------------------------------------------------------
+
+     Thanks so much and congratulations on a very strong quarter.  I was wondering, Stacy, if you might have been able to just give us some sense of how you're thinking about the shape of the year for the acquisitions, in terms of, I think you said -- you outlined that you expect McAfee and IFX to double sequentially, but how would we think about seasonality there?  And I was wondering, on a broader level, how we should think about any of the seasonal trends for the second half of the year, given all the different puts and takes on data center and emerging market growth. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [14]
+--------------------------------------------------------------------------------
+
+     Sure, I would be happy to do that.  And by the way, I understand this is your last call, so I think as a thank you for your years of following us, we'll let you ask a multi-part question this time.  (laughter) You know you're dying to do that. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [15]
+--------------------------------------------------------------------------------
+
+     We were a little disappointed.  We thought you'd give us a seven-parter, Tim. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [16]
+--------------------------------------------------------------------------------
+
+     Yes.  (multiple speakers) Yes, so you can think of another part to this, if you want.
+ In terms of McAfee and Infineon, we closed Infineon at the end of January.  We closed McAfee at the end of February.  The combination of those two acquisitions added $0.5 billion of revenue to Q1.  And based on having a full quarter in Q2, they should add another $0.5 billion in Q2.
+ In terms -- so now you're -- now let me help you a little bit with the Q2 math, because you've got a couple of offsets.  You've got this incremental $0.5 billion from McAfee and Infineon.  It's offset by the fact that we don't have the 14th week.  Those are roughly in line with each other.  And so when you net those out, what you say is Q2 is kind of flat on an ongoing business basis to Q1, which is in line with the seasonal patterns we've seen over the last five years.
+ Going into the second half of the year, I'm not going to get as discreet as providing a forecast for each quarter, but we're not seeing anything that would cause it to be a different year, you know.  We see through all kinds of economic climates.  The second half of the year tends to be 2 to 3 points higher than the first half in terms of revenue.  That's consistent with our expectations as we work through the year. 
+
+--------------------------------------------------------------------------------
+Tim Luke,  Barclays Capital - Analyst    [17]
+--------------------------------------------------------------------------------
+
+     Maybe just as a follow-up then, given the focus of investors on the tablets and smartphone side, Paul, you've obviously been making some changes in your team associated with smartphones.  There's a lot of product ramp in tablets.  What do we see as the key milestones, for example, with respect to Computex, et cetera, for these two areas? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [18]
+--------------------------------------------------------------------------------
+
+     Well, you'll see quite a bit of tablet demonstrations at Computex.  If you notice what we did at IDF in Beijing last week, there were a lot of tablet-centric announcements there around MeGo and Windows and Android.
+ And so we're heads-down on a number of designs on tablets, on all three of those operating systems.  We received the Android code, honeycomb version of Android, source code from Google, and we're actively doing the port on that.  And expect to be able to ramp those machines over the course of this year for a number of customers.
+ In terms of phones, obviously, we lost Nokia, which took a lot of wind out of the sails for phones this year.  We've redirected those resources on to a number of other major accounts, focusing on carriers who want their own devices and also on handset manufacturers.  They're all based on Medfield, which is, I think, still the first 32-nanometer phone apps processor in the industry.  And quite frankly, the limit, in terms of them getting to market, is going to be the interoperability testing of the networks at this point in time.  So I think I would be very disappointed if you didn't see Intel-based phones for sale 12 months from now. 
+
+--------------------------------------------------------------------------------
+Tim Luke,  Barclays Capital - Analyst    [19]
+--------------------------------------------------------------------------------
+
+     Thank you very much. 
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+     Ambrish Srivastava, BMO. 
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets - Analyst    [21]
+--------------------------------------------------------------------------------
+
+     That would be Ambrish, that's pretty close.  Paul, a question on the emerging markets.  And each time I put out the over/under shipment, I hear back from your on-the-ball IR team about how that number is not being counted by the IDCs and the Gartners of the world.  But for the total PC market, what is the percent that these third-party companies are missing? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [22]
+--------------------------------------------------------------------------------
+
+     What is the percent they're missing? 
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets - Analyst    [23]
+--------------------------------------------------------------------------------
+
+     Of the total PC market.  Because the PC data for first quarter (multiple speakers) -- 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [24]
+--------------------------------------------------------------------------------
+
+     (multiple speakers) They're are all over the map.  You know, right now Gartner is at 11% for the year and IDC, I think, is at 6% or 7%.  And I gave you our number, which was the low double digits.  So there are some that we agree with and some that don't.  And I think, as normally happens, when we release our results and when our competition releases theirs, and they integrate all the data, they revise the forecasts. 
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets - Analyst    [25]
+--------------------------------------------------------------------------------
+
+     Okay.  That's fair.  And then I had a follow-up, please. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [26]
+--------------------------------------------------------------------------------
+
+     Go ahead. 
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets - Analyst    [27]
+--------------------------------------------------------------------------------
+
+     The follow-up would be, on Medfield, Paul, what are some of the key metrics that are working, that are getting the engagements with the key customers?  Is it a combination of Medfield being on MeGo as an open source OS where people can differentiate?  Or is it just the fact that you have been able to bring down Medfield's performance down to the competitive ARM architecture? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [28]
+--------------------------------------------------------------------------------
+
+     It's both.  It's both.  Early customer activity is on Android and on MeGo, and we've got ports on both those operating systems.  The product is very good in terms of performance, particularly in the area for media -- so high def video, replay, that kind of thing on phones.  And the power is right smack dab in the envelope you want it to be. 
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets - Analyst    [29]
+--------------------------------------------------------------------------------
+
+     Okay.  Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+     Uche Orji, UBS. 
+
+--------------------------------------------------------------------------------
+Uche Orji,  UBS - Analyst    [31]
+--------------------------------------------------------------------------------
+
+     Thank you very much.  Paul, first of all, congratulations on very strong numbers, but let me just dig in a little bit on the Data Center Group.
+ You called out storage as up 45% sequentially.  Can you talk about what's going on within your subsegments of DCG, like the IT data centers, enterprise, network and service?  If you can just tell us what's going on there.  And we've seen this group grow significantly faster than what we think servers are growing, in terms of units.  Can you talk about the trends of multi-processor service as what may be driving or ASPs?  Just so that we can get comfort as to what the longer-term growth will be? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [32]
+--------------------------------------------------------------------------------
+
+     Sure.  Well, first of all, we recognize this group has had pretty phenomenal growth across all of its various product groups.  So what we've decided to do for the analyst meeting is do a deep dive for all of you guys.  And we'll do a full, if you will, keynote session on that, breaking out all the detail on how we see the server market -- the market for Xeon-class devices today and tomorrow.
+ But if you look at traditional servers, you're right, we're outgrowing the traditional enterprise server market by a factor of two or three.  And as we look forward by 2014, for example, we think half of the market for Xeon is high-performance computing and cloud.  That's a dramatic change from 80% of the market being enterprise servers just a couple of years ago.
+ So when you look at the rate of growth of HPC, of clouds, of the nominal growth in servers, and then the conversion of other parts of the data center -- that is networking equipment and storage from proprietary design principally now to fundamentally Intel-based designs -- you see an aggregate growth rate that is really representative of, I think, all the growth in the Internet -- all these devices connect to these servers or these network machines one way or another.  And this is where we're benefiting quite well.
+ So on one side you've watched the growth of tablets and smartphones.  This is where the rubber hits the road for those devices, is in data centers around the world. 
+
+--------------------------------------------------------------------------------
+Uche Orji,  UBS - Analyst    [33]
+--------------------------------------------------------------------------------
+
+     Good for that.  Thanks for that.  Let me just ask you on the Moore's Law transition you're making now from 22 to 14.  I don't know if I should read that as being slightly more aggressive than what we think has been a typical ratio as you go from 32 to 22 or from 45 to 32.  Is there anything that -- I know Glen asked this earlier, we talked about this being revolutionary, 22 -- but what is driving the speed now, in terms of moving to 14?
+ And in terms of what you're able to do at 14 vis-a-vis, say, 22 or 32, can you give us any idea as to what comes in here?  I mean, people have talked about having mixed signal capabilities and all that.  Is there anything else you can tell us -- A, as to what's driving this speed?  And then also what we should expect? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [34]
+--------------------------------------------------------------------------------
+
+     Yes.  This is Stacy.  So I'm going to punt on the capability part of that question for another few weeks.  You'll see that when we do our disclosures around 22-nanometer and really start to talk about some of the secret sauce that's going to come out in that technology because that will carry forward into 14.
+ In terms of the speed, we're still on a two-year cadence.  So that hasn't changed.  That is our Moore's Law cadence and we're driving that faster than anybody else in the industry.  So, even at that two-year cadence, we're extending our leadership over others.
+ What we're realizing, though, is that competitive advantage is becoming more and more important to us.  And we're getting -- we've always gotten paid for it in terms of cost.  We're now also getting paid for it in terms of differentiating our product line and getting paid in pricing.  And so at an economic level, you can see it in our results over the last six or seven quarters.  As we've extended our leadership, our products have extended over the rest of the industry; we've segmented our product line; and we're getting paid in a new way for that process technology leadership.
+ As we get out to 22-nanometer, as we get out to 14-nanometer, what you're going to see is, we're going to bring capabilities to the process technology more quickly than we have historically.  So we'll intercept 22-nanometer with our smartphone roadmap, with our netbook roadmap.  Earlier in the technology, we'll ramp our core business more quickly so we get into these kind of square-wave transitions, and then get paid for that performance and cost by having the leadership over the rest of the industry. 
+
+--------------------------------------------------------------------------------
+Uche Orji,  UBS - Analyst    [35]
+--------------------------------------------------------------------------------
+
+     Great.  And just one last question.  Paul, you mentioned digital home, where you're seeking (multiple speakers) -- 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [36]
+--------------------------------------------------------------------------------
+
+     (multiple speakers) Let's hold it to one follow-up.  We've got a lot of people in the queue.  Thanks, Uche.  I do apologize. 
+
+--------------------------------------------------------------------------------
+Uche Orji,  UBS - Analyst    [37]
+--------------------------------------------------------------------------------
+
+     (multiple speakers) Thank you very much.  Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+     Chris Danely, JPMorgan. 
+
+--------------------------------------------------------------------------------
+Chris Danely,  JPMorgan - Analyst    [39]
+--------------------------------------------------------------------------------
+
+     Thanks for letting me ask a couple of questions, guys.  First, can you just talk about where utilization rates are now and where you expect them to go in the second half of the year?  How much capacity you're adding and could we run into some actual shortages coming up here? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [40]
+--------------------------------------------------------------------------------
+
+     Could we run into some shortages -- we're running, I'd call it, in the healthy range of utilization.  So as we've said before, not too hot, not too cold.  Certainly on the chipset side of the business, as we had to respond to the Cougar Point issue, we ramped very quickly there.  But I'd say in general, we're healthy.
+ Not anticipating shortages, and I think we have the ability to respond.  If demand ends up being hotter we can put the capacity in place.  And frankly, if we end up in a situation where demand ends up being less, I think you saw in 2009, we now have the tools to respond very quickly to that kind of an environment.  So I think we can respond to both sides of that equation as we get into the second half and into 2012. 
+
+--------------------------------------------------------------------------------
+Chris Danely,  JPMorgan - Analyst    [41]
+--------------------------------------------------------------------------------
+
+     Great.  And as my follow-up, you guys did a good job of explaining the differences between your PC forecast and the third-party.  It seems as though perhaps some of your OEM customers have a little bit more of a temperate forecast on PCs versus you.  Maybe you could take a shot at explaining that.  Is that maybe on the storage side, or what would be the differences there, in your opinion? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [42]
+--------------------------------------------------------------------------------
+
+     Well, PC on the storage side -- I'm not sure I understood the question, Chris. 
+
+--------------------------------------------------------------------------------
+Chris Danely,  JPMorgan - Analyst    [43]
+--------------------------------------------------------------------------------
+
+     On (multiple speakers) -- 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [44]
+--------------------------------------------------------------------------------
+
+     (multiple speakers) I don't think we want to get into characterizing various -- specific customers, Chris.  Some of them have their own issues.  But let me just say that I think that those who are more enterprise-centric than those who are focused on consumer markets, particularly in Western Europe and the US, are seeing numbers that are closer to ours than closer to what yours were. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [45]
+--------------------------------------------------------------------------------
+
+     Right. 
+
+--------------------------------------------------------------------------------
+Chris Danely,  JPMorgan - Analyst    [46]
+--------------------------------------------------------------------------------
+
+     Okay.  Thanks. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [47]
+--------------------------------------------------------------------------------
+
+     Remember, the elephant looks very different depending on which part you're looking at.  If it's an emerging market part, it looks pretty good.  If it's a mature market Europe, it looks tough. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [48]
+--------------------------------------------------------------------------------
+
+     Thanks.  Go ahead, Chastity.  Next question. 
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+     David Wong, Wells Fargo. 
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities - Analyst    [50]
+--------------------------------------------------------------------------------
+
+     Thank you very much.  Could you give us an idea of what percent of microprocessor sales Sandy Bridge made up of in the March quarter and what this percent might be in the June quarter? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [51]
+--------------------------------------------------------------------------------
+
+     I don't think we want to get into that level of granularity, David.  I can tell you that the unit shipments in Sandy Bridge will more than double from Q1 to Q2.  And it is our fastest ramp ever for new [fast] processor family.  And you'll see it move from the high end throughout -- sprinkling down through all our product families over the course of the year.  It's very, very rapid ramp. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [52]
+--------------------------------------------------------------------------------
+
+     And just to give you one other tidbit to give you a flavor -- more than 50% of my CPU inventory now is Sandy Bridge.  So you can -- that kind of gives you a sense of how fast we're replacing the older generation products with Sandy Bridge.  And gives you a good indication of what things will look like over the next couple of quarters. 
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities - Analyst    [53]
+--------------------------------------------------------------------------------
+
+     Okay.  Great.  And for my follow-up, Stacy, in your online comments, CFO comments, you have, for your gross margin puts and takes, a hit of 1 percentage point from higher platform unit costs, another 0.5% from lower ASPs for the second quarter.  Does Sandy Bridge have a higher platform cost and a lower ASP?  Or is there something else happening here on top of the ramp of Sandy Bridge? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [54]
+--------------------------------------------------------------------------------
+
+     No, it's something else.  So as you do the walk from Q1 to Q2 -- I'll just take you through the full walk.  So, obviously, we get 3 points of benefit because we don't repeat the Cougar Point impact that's in Q1.  We see about a point and a half then that offsets that, because it will be the peak quarter in terms of our startup costs; if you think about the trends we've shown you over the years, Q2 is where -- Q2 of an odd number year is where those startup costs will peak and then they come down.
+ There's about a point, as you pointed out, in unit costs.  There's really two things driving that.  One is that we're seeing a little bit of an increase in some of our component costs.  So think of substrates made in Japan where supply lines got a little bit tight.  So, we're seeing a little bit of a pricing impact on those kinds of things.  And then we're also, again, as a result of what happened with Cougar Point, we pulled in the ramp of our China factory pretty significantly.  And so what you see is more chipsets coming out of a new factory that's ramping, and that's driving my weighted average cost up a little bit in Q2.
+ And then the ASP piece is -- and I realize I have a little bit of a credibility issue on forecasting ASP right now, given it was up again in Q1.  But we had a very rich mix in Q1, as Paul pointed out; the way Sandy Bridge ramped was at the higher parts of the pricings stack first.  Over the course of Q2, we'll see Sandy Bridge flavors across a much more representative series of price points.  And I'd expect the Q2 mix to come down a bit and be more in line with what we would normally expect. 
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities - Analyst    [55]
+--------------------------------------------------------------------------------
+
+     Great, thanks (multiple speakers) -- 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [56]
+--------------------------------------------------------------------------------
+
+     (multiple speakers) And it's not huge; it's half a point of gross margin, right?  But it does come down a little bit. 
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities - Analyst    [57]
+--------------------------------------------------------------------------------
+
+     Great, thanks. 
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+
+     Srini Pajjuri, CLSA Securities. 
+
+--------------------------------------------------------------------------------
+Srini Pajjuri,  CLSA Securities - Analyst    [59]
+--------------------------------------------------------------------------------
+
+     Thank you.  Paul, on the corporate side, obviously, demand has been very strong.  Just wondering what's driving that?  Is it just the Windows 7 upgrade cycle?  And if so, where do you think we are in that upgrade cycle? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [60]
+--------------------------------------------------------------------------------
+
+     I assume you mean corporate PC side -- because we're seeing -- obviously, on the corporate side, we're seeing good growth in the data center.
+ Yes, on the -- we saw -- I think I said that sort of mid-last year we started seeing the enterprise market start to recover from the recession timeframe.  And the most recent data we have is it's something like 75% of enterprise PCs are still running Win XP.  So if you think about a three to four-year refresh cycle, we're probably not even halfway through that cycle yet.  And I think that the adoption of Win 7 seems to be pretty strong.  And the combination of the Win 7 SKUs with Sandy Bridge, as we look forward into Q2 and Q3, look really good from our customers' perspective. 
+
+--------------------------------------------------------------------------------
+Srini Pajjuri,  CLSA Securities - Analyst    [61]
+--------------------------------------------------------------------------------
+
+     Thank you.  And maybe for Stacy, on the stock buybacks, looks like you were pretty aggressive in Q1.  And given the strong cash flow and also you ruled out larger acquisitions pretty much, is this something we should expect going forward at these kind of buyback rates?  Thank you. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [62]
+--------------------------------------------------------------------------------
+
+     Well, we've articulated the priorities in terms of how we -- our cash priority as first investing in our business; second, the dividend; third, using the buyback to return cash to shareholders and bring back the -- bring down the cash levels.
+ I think you see that we've been very aggressive in terms of all of those in Q1.  You do have to keep in mind we have brought down the cash balances quite a bit.  But you can temper that by pointing to the fact that in the first quarter, we announced that the Board authorized an incremental $10 billion of buyback.  And we're kind of just at the beginning of that authorization. 
+
+--------------------------------------------------------------------------------
+Srini Pajjuri,  CLSA Securities - Analyst    [63]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+
+     Jim Covello, Goldman Sachs. 
+
+--------------------------------------------------------------------------------
+Jim Covello,  Goldman Sachs - Analyst    [65]
+--------------------------------------------------------------------------------
+
+     Thanks so much for taking the question.  Sorry to come back to this, but if I think about this third-party data situation that we're talking about, even if I assume a 5% ASP increase for the quarter, you guys would have out-shipped PC clients by 20% relative to the third-party data.  So the idea that the third-party data is kind of off by 20%.  And if that's the case, we haven't seen that kind of discrepancy up until now between your data and the third-party data.  So what's making that data more wrong this quarter than previous quarters? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [66]
+--------------------------------------------------------------------------------
+
+     Well, I think what that analysis misses, Jim, is how much inventory levels came down in the fourth quarter.  If you remember in the fourth quarter, we were significantly worse than seasonal.  And what we saw in the fourth quarter was a significant bleeding off of inventory, some of which we believe was in anticipation of us bringing out Sandy Bridge.  And so component inventories came down.  You saw a little bit of a refill of those component inventories in the first quarter.  So, the amount that it came down, probably half of that went back in, which would be us being above seasonal.
+ When we go off and do our looks across the channel, we see inventory levels being healthy.  And I think it really points to the robustness of the supply chain -- you know, the people who make motherboards for notebooks brought their builds down.  We saw some older generation inventory bleed up.  It looks like they're starting to ramp up now as they get into the back-to-school season. 
+
+--------------------------------------------------------------------------------
+Jim Covello,  Goldman Sachs - Analyst    [67]
+--------------------------------------------------------------------------------
+
+     I guess if I could just ask my follow-up on that then.  That's a little different than the idea that just the third-party data is wrong.  I mean, is it that the third-party data is just really off and that's why the third-party data is so different from your shipments?  Or is it that the supply chain drew down a whole bunch of stuff and it kind of rebuilt it during the quarter, which is pretty reasonable? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [68]
+--------------------------------------------------------------------------------
+
+     Well, let me back up, Jim.  The comments that I made relative to third-party data in ours were on an annual basis, looking at year-over-year, trying to set the granularity for the year.  And I didn't comment on the specific comments that were written up recently on Q1 -- it was X percent down from Q4 or X percent down year-on-year.  Because that looks at consumption, and what Stacy was talking about is our billings.  And there is a bit of a difference there, at least in the ramp-up for Sandy Bridge.
+ So I really -- it's apples and oranges.  And I think that our experience is that on an annual basis, the numbers are closer -- our numbers are closer than theirs together -- closer together, and that they correct over the course of the year to be aligned.  You saw that happen last year, as we were predicting 17%, 18% all year long.  The numbers were all much lower than that and then they came back in line as we got to the fourth quarter. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [69]
+--------------------------------------------------------------------------------
+
+     Jim, I left out one piece -- as you think about Q1.  So what Paul said is exactly right.  When I talk about Q1, we're talking about the supply line impact.  You also can't lose sight of the fact that for us, Q1 was a 14-week quarter.  That's a piece of our shipment numbers relative to what you may be seeing from other data sources. 
+
+--------------------------------------------------------------------------------
+Jim Covello,  Goldman Sachs - Analyst    [70]
+--------------------------------------------------------------------------------
+
+     Okay.  Great.  Thanks so much. 
+
+--------------------------------------------------------------------------------
+Operator    [71]
+--------------------------------------------------------------------------------
+
+     Hans Mosesmann, Raymond James. 
+
+--------------------------------------------------------------------------------
+Hans Mosesmann,  Raymond James & Associates - Analyst    [72]
+--------------------------------------------------------------------------------
+
+     A question on the foundry strategy.  There's a lot of flux going on in the foundry world, and I think TI and some other OEMs are going away from the Korean giant.  What part of the incremental CapEx is part of a strategy that you may have there that you've been not talking up?  And will you talk about that over the next several quarters?  Thanks. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [73]
+--------------------------------------------------------------------------------
+
+     It's not a driver of our CapEx.  We're interested in talking to some very specialized companies in terms of doing foundry things.  We're not building a broad-based foundry business and it's not driving our CapEx number. 
+
+--------------------------------------------------------------------------------
+Hans Mosesmann,  Raymond James & Associates - Analyst    [74]
+--------------------------------------------------------------------------------
+
+     Okay.  Then if I could follow-up -- in terms of your next generation process nodes, over the next couple, do you expect your performance specs, your transistor performance, to continue to lead or expand the leadership it has had over the past several nodes?  Thanks. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [75]
+--------------------------------------------------------------------------------
+
+     Yes.  We don't see any abatement in that trend of transistor performance.  And that news you'll hear in detail in a couple of weeks. 
+
+--------------------------------------------------------------------------------
+Hans Mosesmann,  Raymond James & Associates - Analyst    [76]
+--------------------------------------------------------------------------------
+
+     Fantastic.  Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [77]
+--------------------------------------------------------------------------------
+
+     Vivek Arya, Bank of America. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [78]
+--------------------------------------------------------------------------------
+
+     Thanks for taking my question.  The question on the server and the data center business, obviously very strong this quarter.  Can you give us a sense of the mix between MP and DP servers?  How has the transition progress towards (inaudible)?  And just in general, what's your assessment of the competition? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [79]
+--------------------------------------------------------------------------------
+
+     Well, after we launched the new MP server chips, the mix came up a little bit, but we're seeing pretty robust growth in DP as well.  A lot of the Internet data center growth is DP machines in some of those configurations.  On the other hand, some of our largest IDC customers are using the biggest, beefiest parts we have.
+ So it really is different.  I haven't seen this shift dramatically in the last couple of years.  There's just a nice consistent mix of DP versus MP.  The capability of all of the devices is really what is stunning.  The amount of compute power that we're delivering per core now is really what is delivering a lot of the value at a very power-efficient envelope.  So it's -- the ROI on upgrading from old to new servers is really what is compelling, both for enterprise and data center -- enterprise and Internet data center. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [80]
+--------------------------------------------------------------------------------
+
+     Hey, Vivek, this is Kevin.  I would add, because we made this public, too, what we have seen across UP, DP, and MP has been a mix shift within those categories, so to Paul's point.  That has been one of the drivers of the revenue growth, just because the ROI is so good, we're finding that data center -- the data center group -- or sorry, the data center providers, what they're doing is they're buying up in that stack for the ROI.  So that's been a big driver. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [81]
+--------------------------------------------------------------------------------
+
+     I think a good example there (multiple speakers) -- 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [82]
+--------------------------------------------------------------------------------
+
+     (multiple speakers) To the higher [bits] -- 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [83]
+--------------------------------------------------------------------------------
+
+     Yes, to the higher [bits].  And a good example of that was this quarter we brought out UP versions of Sandy Bridge and that caused a pop-up in that segment of our business, so. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [84]
+--------------------------------------------------------------------------------
+
+     Got it.  And as a follow-up, I think it's obvious that one investor question has been, when we will start to see Intel make more tangible progress on the mobile side?  And the question there is that -- so, first, when will we start to see that progress?  What kind of metric should we track?
+ And conceptually, what do you think will be x86, the architecture's differentiation versus the established ARM ecosystem?  There's a lot of very strong players like QUALCOMM, TI, NVIDIA, and others.  Thank you. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [85]
+--------------------------------------------------------------------------------
+
+     Well, I'm not going to give you more granularity on mobile than I gave already in the earlier answer, so sorry to disappoint you there.  Watch those things as they come out.  Our customers will announce the design wins when they are through their interoperability testing or entering it when it becomes visible.  And I don't want to add more to that.
+ In terms of x86 versus ARM, it is not just about the core as much as we would like it to be, and I guess as much as the ARM guys would like it to be.  It's about the core, the overall capability of the system-on-chip.  The things you put around it, the graphics, the comm subsystems, the media processing subsystems, and the overall power envelope relative to the performance that you can deliver of the SoC.
+ So the Intel advantage that we see going forward is the combination of a very robust computer architecture that can scale; the ability to bring on very high performance graphics and media processing; and now a wide array of comm's architectures that we can bring in; and taking advantage of the world's best silicon.  When you add those together, I think it gives us a very strong value proposition in this market.
+ I'd also point out that all of the major operating systems in phones and smartphones are written at a high level such that they're cross-platform and portable.  And so it is easier for people to move from ARM to Intel or ARM to ARM than it has been in the past in the Windows world. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [86]
+--------------------------------------------------------------------------------
+
+     Okay.  Great.  Thanks and good luck. 
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+
+     John Pitzer, Credit Suisse. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [88]
+--------------------------------------------------------------------------------
+
+     Congratulations.  Paul, going back to your opening comments about weakness in consumer client for US and Europe, what do you attribute that to?  Do you think this is tablet cannibalization?  Poor macroeconomic?  Win 7 difficult compares?  And I guess, more importantly, do you think Sandy Bridge has enough brand recognition to drive a recovery in that market?  Or how do we think about that through the balance of the year? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [89]
+--------------------------------------------------------------------------------
+
+     I think a little bit of everything plus -- you mentioned Win 7 saturation for consumers, the tablet things and macroeconomics.  I think it's a little bit of each of those, John.  But I'd add one more, which I think is a big one.  Remember in 2009 and the first half of '10, during the depths of the recession, the consumer notebook market worldwide, particularly in the US and Western Europe, was very strong.  And it was strong contrary to GDP at the time.  Remember, GDP was going south and consumer sales were going north.
+ And I think what happened is that people bought a lot of machines in that time frame and we're still just early in the cycle.  So those machines are 1.5 years old or less.  And so seeing a consumer refresh right now probably isn't, on average, what you're going to see in mature markets.  Because this is not like emerging markets, where people are buying their first machine.  This is a mature environment where people are buying a new machine when they decide that they need to upgrade or whatever.  Now clearly, some tablet cannibalization is impacting that, but I think the bigger one is the macroeconomics and the prior cycle. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [90]
+--------------------------------------------------------------------------------
+
+     And then, Paul, as my follow-up, talking about the enterprise client market, that's been a relatively strong market.  If you had to characterize what inning you thought we were in for the enterprise upgrade, what would you say?  And I guess at what point do we have to start worrying about that refresh being done? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [91]
+--------------------------------------------------------------------------------
+
+     Top of the fourth, three on, no outs.  (laughter) 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [92]
+--------------------------------------------------------------------------------
+
+     A baseball fan.  I couldn't have done that that fast. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [93]
+--------------------------------------------------------------------------------
+
+     Perfect.  Thank you. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [94]
+--------------------------------------------------------------------------------
+
+     You know, I think we're less than halfway through. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [95]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [96]
+--------------------------------------------------------------------------------
+
+     Shawn Webster, Macquarie. 
+
+--------------------------------------------------------------------------------
+Shawn Webster,  Macquarie Research - Analyst    [97]
+--------------------------------------------------------------------------------
+
+     In terms of the client business, I was wondering if you could give us a flavor of what your units did sequentially, parsing out between desktop and notebook growth sequentially and what your outlook is for Q2? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [98]
+--------------------------------------------------------------------------------
+
+     Certainly not at the level of granularity you're asking the question, but I can give you a sense.
+ From the standpoint of client shipments, you'd say slightly above seasonal, once you net out the 14th week.  And again, it comes back to my answer to Jim Covello's question, which is what we saw was an inventory burn in Q4 and a partial refilling in Q1, and that led to units being slightly above seasonal.
+ Going into Q2, yes, you kind of net out the impact of a full quarter of acquisitions with the lack of the 14th week, and you'd say Q2 looks pretty seasonal. 
+
+--------------------------------------------------------------------------------
+Shawn Webster,  Macquarie Research - Analyst    [99]
+--------------------------------------------------------------------------------
+
+     Okay.  Thank you.  And then, given the CapEx growth that you're seeing, I was wondering if you could give us a sense of what you expect your total wafer production globally to do -- to grow in calendar '11, calendar '12?  Is it consistent with your PC outlook?  Or is it something that's different from that? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [100]
+--------------------------------------------------------------------------------
+
+     Wafers -- over time -- on in-generation will grow a little bit faster than the TAM because of the phenomenon of what I said of we're moving more capabilities to end.  And so -- and then I think your follow-up question, that should be, so what happens if we get that wrong?  If we're wrong on the demand, how do we respond to the market?
+ And I'd point back to what -- the capability we have to very quickly roll forward capacity from one generation to the next.  And I think you saw that from us in 2009 when the bottom fell out of the market -- we were able to bring our CapEx number way down, offset over half of the 32-nanometer investment by repurposing equipment we'd already purchased for 45-nanometer.  So if we over-estimate, we can respond within a couple of quarters and get gross margins back up into the healthy range pretty quickly.
+ The flipside is, if we underestimate, it takes us two years to recover.  And that's a devastating financial impact on us.  So we look at this as being a pretty -- it's a high ROI investment for us and we have the tools to modulate it if it comes to that. 
+
+--------------------------------------------------------------------------------
+Shawn Webster,  Macquarie Research - Analyst    [101]
+--------------------------------------------------------------------------------
+
+     Okay.  Thank you. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [102]
+--------------------------------------------------------------------------------
+
+     Thanks, Shawn.  Hey, Chastity, we're going to take two more questions, if we could. 
+
+--------------------------------------------------------------------------------
+Operator    [103]
+--------------------------------------------------------------------------------
+
+     Certainly.  Our next question comes from the line of Craig Ellis with Caris & Company. 
+
+--------------------------------------------------------------------------------
+Craig Ellis,  Caris & Company - Analyst    [104]
+--------------------------------------------------------------------------------
+
+     Thanks, guys.  Nice job on the quarter.  Paul, are you expecting any change in the developed country PC outlook in the low double-digit PC growth view that you have for this year and next? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [105]
+--------------------------------------------------------------------------------
+
+     In the developed -- in the mature markets? 
+
+--------------------------------------------------------------------------------
+Craig Ellis,  Caris & Company - Analyst    [106]
+--------------------------------------------------------------------------------
+
+     Yes. 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [107]
+--------------------------------------------------------------------------------
+
+     I don't think it has to happen.  I mean, our number -- our forecast that we're building the year around assumes that we have a seasonal year from the point we're at in Q1.  So, it doesn't assume that there's a big change at this point in time.  Could we handle one on the upside?  Absolutely.  But we don't need to -- we aren't building that into our numbers. 
+
+--------------------------------------------------------------------------------
+Craig Ellis,  Caris & Company - Analyst    [108]
+--------------------------------------------------------------------------------
+
+     Okay.  That's helpful.  And then the follow-up -- in the past, you sometimes quantified the number of tablet design wins that the Company has.  Can you be specific in that regard?  And related to that, is there a particular OS flavor, whether it's MeGo, Android, or Windows where you think you'll be particularly successful, at least with your initial wave of launches? 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [109]
+--------------------------------------------------------------------------------
+
+     I don't have an update, simply because I didn't hear the final number from IDF, and we'll do another number count at Computex.  And actually we'll do another number count in May 17 for the analyst meeting.  Sorry? 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [110]
+--------------------------------------------------------------------------------
+
+     We said (multiple speakers) -- 
+
+--------------------------------------------------------------------------------
+Paul Otellini,  Intel Corporation - President and CEO    [111]
+--------------------------------------------------------------------------------
+
+     (multiple speakers) 35 or so.  Okay.  So it's in that range.  It hasn't changed.  My sense is the bulk of the units -- the SKUs this year will be Android. 
+
+--------------------------------------------------------------------------------
+Craig Ellis,  Caris & Company - Analyst    [112]
+--------------------------------------------------------------------------------
+
+     Great.  Good luck with it.  Thanks, guys. 
+
+--------------------------------------------------------------------------------
+Operator    [113]
+--------------------------------------------------------------------------------
+
+     Thank you.  Our final question comes from the line of Sumit Dhanda, Citadel Securities. 
+
+--------------------------------------------------------------------------------
+Sumit Dhanda,  Citadel Securities - Analyst    [114]
+--------------------------------------------------------------------------------
+
+     First question, Stacy, your comment on the unit cost in Q2 going up because of substrates and the pull-in in the ramp of the China factory.  Is that transient relative to the charge you put up at your Analyst Day, where you were expecting a bump down initially in Q2 and then a bigger bump down in Q3?  How does the chart change? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [115]
+--------------------------------------------------------------------------------
+
+     Is it that -- Q2 is clearly elevated from what I put up at the Analyst Day.  And then you'll see a pretty rapid decline back towards trend over Q3 and Q4.  And you can kind of see that -- I mean, if you look at the -- just gross margin trend, we're [61 and 61] -- this is on a GAAP basis.  The annual number is 63, and so that would suggest that the second half is back up towards the mid-60s -- you know, 65%.  And you've got a couple of tailwinds there.  One is the abatement of startup costs.  We start on the trend where they start falling off starting in Q3.  And our costs get a little bit better as we go into the second half of this year, consistent with what I showed at the investor meeting. 
+
+--------------------------------------------------------------------------------
+Sumit Dhanda,  Citadel Securities - Analyst    [116]
+--------------------------------------------------------------------------------
+
+     Okay.  And my follow-up question was on startup costs.  So it was a point and a half impact in Q1 and then a similar impact in Q2.  I guess my question is, is the impact a little similar in Q2 because it was lower in Q1?  Because, again, I think the profile was up in Q1 and Q2 per your initial expectations, but I thought the increase in Q2 was going to be more modest relative to Q1, if my facts on the Analyst Day chart are correct. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [117]
+--------------------------------------------------------------------------------
+
+     Yes.  So I'm trying to triangulate in my head.  It hasn't changed for the year.  When I started the year, I was expecting it to be about 3 points.  It's still about 3 points on the year.  So, yes, I think what you're seeing is it was a little less in Q1, a little more in Q2, and then starts coming down -- you can see it's down a point and a half by the time we get to Q2. 
+
+--------------------------------------------------------------------------------
+Sumit Dhanda,  Citadel Securities - Analyst    [118]
+--------------------------------------------------------------------------------
+
+     Okay, thank you very much. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - SVP and CFO    [119]
+--------------------------------------------------------------------------------
+
+     I'm sorry, I said -- I just want -- yes.  A little higher in Q1 and -- yes.  So what you said was correct.  (laughter) 
+
+--------------------------------------------------------------------------------
+Sumit Dhanda,  Citadel Securities - Analyst    [120]
+--------------------------------------------------------------------------------
+
+     Okay.  Thanks, Stacy. 
+
+--------------------------------------------------------------------------------
+Kevin Sellers,  Intel Corporation - VP of IR    [121]
+--------------------------------------------------------------------------------
+
+     Thanks, Sumit, and thank everyone for joining our call.  As a reminder, our quiet period for the second quarter of 2011 will begin at the close of business on Friday, June 3, and our second-quarter earnings conference call is scheduled for Wednesday, July 20, 2011.  Thank you all and good night. 
+
+--------------------------------------------------------------------------------
+Operator    [122]
+--------------------------------------------------------------------------------
+
+     Thank you for your participation in today's conference.  This concludes the program.  You may now disconnect.  Have a great day.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

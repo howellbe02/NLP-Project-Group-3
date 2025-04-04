@@ -1,0 +1,649 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2013 Intel Corporation Earnings Conference Call
+JULY 17, 2013 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Stacy Smith
+   Intel Corporation - CFO
+ * Mark Henninger
+   Intel Corporation - Director of IR
+ * Brian Krzanich
+   Intel Corporation - CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Vivek Arya
+   BofA Merrill Lynch - Analyst
+ * Tristan Gerra
+   Robert W. Baird & Company, Inc. - Analyst
+ * Stacy Rasgon
+   Sanford C. Bernstein & Company, Inc. - Analyst
+ * David Wong
+   Wells Fargo Securities, LLC - Analyst
+ * Ross Seymore
+   Deutsche Bank - Analyst
+ * Jim Covello
+   Goldman Sachs - Analyst
+ * Glen Yeung
+   Citi - Analyst
+ * John Pitzer
+   Credit Suisse - Analyst
+ * Christopher Danely
+   JPMorgan Chase & Co. - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, ladies and gentlemen, and welcome to the second-quarter 2013 Intel Corporation earnings conference call. My name is Jamie and I'll be your Coordinator for today. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will be given at that time.
+(Operator Instructions)
+As a reminder, this conference is being recorded for replay purposes. I would now like to turn the presentation over to your host for today's call, Mr. Mark Henninger, Director of Investor Relations. Please proceed, sir.
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - Director of IR    [2]
+--------------------------------------------------------------------------------
+
+          Great, thank you, Jamie, and welcome, everyone, to Intel's second-quarter 2013 earnings conference call. By now you should have received a copy of our earnings release and the CFO commentary that goes along with that. If you did not receive both documents, they're available currently at our investor website, intc.com. I'm joined today by Brian Krzanich, our CEO; and Stacy Smith, our Chief Financial Officer. In a moment we'll hear brief remarks from both of them followed by Q&A.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it, and as such, does include risks and uncertainties. Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially. Also, if during this call we use any non-GAAP financial measures or references, we'll post the appropriate GAAP financial reconciliations to our website intc.com.
+Lastly, I'd like to highlight a change we'll be making to our earnings release process starting with the third quarter earnings announcement on October 15, 2013. To ensure the timely and controlled release of information, we plan to make our results available on our IR website, intc.com about a minute after the market close and no longer distribute quarterly financial results through a newswire service. With that, let me hand the call back over to Brian.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Mark. It's great to have a chance to speak to you all on my first earnings call as CEO. The last two months have been exciting for me. I've spent the majority of my time meeting with customers, employees and my Executive team. I've heard a wide variety of views about our industry and Intel, how we're positioned, where we're strong and where we can improve. I've had the opportunity to share my vision and strategy for our Company and lay out my expectations as we move into the new era with an updated set of priorities. Those conversations leave me more enthusiastic and more confident than ever about our opportunity as a Company. Intel has unmatched assets in process technology and architecture, a powerful brand and talented employees that are producing some remarkable results.
+Let me give you a few highlights from the second quarter. There were several significant milestones in mobility. First, we unveiled details about our next-generation Atom architecture codenamed Silvermont. The Silvermont architecture will deliver up to a 5x reduction in power at the same level of performance or up to a 3x improvement in performance over our prior generation of architecture. Silvermont is unique in its ability to span the market's appetite for computing from ultra-mobile devices to the data center. And it supports both Windows and Android. The Silvermont platform will underpin our products for tablets, 2-in-1s and desktops as well as our phones and micro server products for the data center. The products will be Bay Trail, Merrifield and Avoton respectively.
+Then at Computex, we launched the Haswell family of processors which delivered the biggest improvement in battery life in Intel's history. Making no-compromises, high-performance 2-in-1 devices that make all day battery life a reality. Haswell, along with Bay Trail, will pilot more than 50 different 2-in-1 devices in the pipeline including the very first fanless Core designs. During the same week at Computex, we also announced the landmark tablet design in the Samsung GALAXY Tab 3. The GALAXY Tab 3 will use an Atom SoC and our LTE solution, signaling important progress in the tablet space.
+The data center strategy is continuing to pay dividends. Our cloud storage -- cloud and storage business each grew their revenue more than 40% year over year. Networking grew more than 20% and the high-performance computing business won 98% of all new systems entering the top 500 list. In fact, the number one system on the top 500 was all Intel for the first time since 1997 using a combination of Intel VM CPU's and Xeon Phi accelerators.
+And finally, our investments and expertise in process technology continue to be the foundation of our industry leadership. With 22-nanometer defect density and throughput times at record low levels and 14-nanometer on track into production by the end of the year. Together these accomplishments highlight to me what's possible when we focus our resources on the right objectives and we hold ourselves accountable for results.
+At the same time, I understand that we've not always lived up to the standard that we've set for ourselves. Intel was slow to respond to the ultra-mobile PC trends. The importance of that can be seen in the current market dynamic. The traditional PC market segment is down from our expectations at the beginning of the year while ultra-mobile devices like tablets are up. Even more important there will always be another next big thing. It's our job to continue to scan for emerging trends, unlocking, participating in and shaping these nascent markets.
+Doing that will require some changes at Intel, which we have begun. Just a few weeks ago, I announced a significant reorganization. The changes we made flatten the organization, improve decision making and will contribute to a culture of even greater accountability. These elements are critical in the fast-paced ultra-mobile environment.
+In addition to the organizational changes, we have made several strategy and priority changes that will allow us to focus and win in that environment. These changes will drive a greater emphasis on our Atom-based products, bringing the full weight of our process and architectural leadership to the Atom family. We will move Atom even faster to our leading edge silicon technology, and focus on the SoC integration of key components like graphics, communication and other devices. This does not mean we will lessen the value or leadership of our Core product family. But rather, make Atom an equal player in technology leadership for the ultra-mobile space. Both product lines will be driving Intel's future.
+Some of the changes we're making are subtle and some are more transformational. In general, you're likely to see us making moves and adjustments in the market before you hear us talking about them. But will of course have a substantive update for you at the investor meeting in November. What I can say now is that all of the changes are focused on value creation. Our Company has a strong record of cash flow generation and returning that cash to our owners. I recognize that we are the stewards of our owners' capital and that tradition will continue.
+I'm excited about what lies ahead. Intel is a Company with extraordinary assets at its disposal, and I'm looking forward to making the most of those assets in an environment where the pace of innovation and market transformation is faster than it's ever been. With that, let me turn it over to Stacy.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Brian. I'd like to take a few minutes to walk through our second-quarter financials and our expectations as we head into the back half of the year. Then, we can get right into Q&A. The second-quarter results came in as expected. Second-quarter revenue came in at $12.8 billion, up 2% from the first quarter. The Core business came in as expected, but we saw some softness in our baseband business. At a segment level, the PC group grew 1% sequentially, and the Data Center Group grew 6%. As expected, inventory levels across the worldwide PC supply chain grew slightly as customers began building Haswell-based PCs, but inventory levels are still being managed well below historical averages based on uncertainty heading into the back half of the year. For the third quarter of 2013, we are forecasting the midpoint of the revenue range at $13.5 billion, up 5% from the second quarter, which is at the lower end of the historical range as a result of our expectation that our customers will continue to operate with lean inventory levels exiting the third quarter.
+Moving to gross margin. Second-quarter gross margin of 58% was in line with our guidance and up two points from the first quarter as results from the qualification for sale of additional Haswell products and higher volume. As expected, the reduction in excess capacity charges in the second quarter was offset by an increase in 14-nanometer startup costs. For the third quarter, we expect gross margin to increase three points to 61% as we qualify our Bay Trail product line for sale, increase our volume and start to see factory startup costs come down.
+For the second quarter, spending was in line with expectations at $4.7 billion. For the third quarter, we're forecasting an increase to total spending of $100 million. The reclassification of spending on process engineers from cost of sales to R&D increases our spending but we expect this will be mostly offset by spending reductions across the Company. These spending reductions allow us to reduce our spending forecast for the year to $18.7 billion.
+Operating income for the second quarter was $2.7 billion with earnings per share of $0.39. Taking a look at the balance sheet, total cash investments ended the quarter at $17.4 billion, up slightly from the first quarter. In the second quarter, we generated approximately $5 billion in cash from operations, paid approximately $1 billion in dividends, purchased almost $3 billion in capital assets and repurchased over $500 million in stock.
+While our first half financials played out as expected, the overall PC market segment for 2013 is expected to be weaker than we forecast at the beginning of the year. Our expectation is now that revenue will be approximately flat the last year. As a result, our gross margin forecast for the year is now 59% versus the prior forecast of 60%. Additionally, we have reduced our forecast for capital spending by $1 billion to $11 billion. We have an unprecedented lineup of products coming to market in the second half of this year across all the segments of our business. Haswell delivers a historical increase in battery life across a diverse lineup of ultra-mobile form factors like 2-in-1 convertibles, tablets and other touch-enabled devices.
+In the second half we will launch Bay Trail which will further extend our product line across screen sizes and price points in both tablets and PCs. In our phone business, we are on track to ship multi-mode data and voice LTE baseband solutions as well as our next-generation applications processor codenamed Merrifield by the end of the year. In the Data Center, we have new micro server and Xeon class products coming to market in the second half. This leadership product portfolio is built on an extending manufacturing lead which gives us the world's highest performing, lowest cost and lowest power transistors. Building on this leadership further, we are on track to start production on our 14-nanometer process technology in the back half of this year. With that, let me turn it back over to Mark.
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - Director of IR    [5]
+--------------------------------------------------------------------------------
+
+          All right, thank you, Brian and Stacy. Moving on to the Q&A, as is our normal practice, we'll ask each participant to ask one question and a follow up if you have one. Also, we are experiencing some network interference, so I'll ask all the participants to speak slowly and clearly, and if we're not able to hear you, we will ask you to repeat the question. Jamie, if you could go ahead and introduce our first questioner?
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+    (Operator Instructions)
+Glen Yeung, Citigroup.
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citi - Analyst    [2]
+--------------------------------------------------------------------------------
+
+    The first one is on the second half of the year on your outlook there. If I look at your guidance for the year and your guidance for Q3, the implication is 7% sequential growth in revenues for the fourth quarter and I wonder, that's obviously high relative to historical norms, kind of like numbers we saw back in the early part of the last decade and I wonder, what gives you the confidence there? Is there something about the mix, obviously new product, is there also something about the mix maybe between Data Center and Client?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [3]
+--------------------------------------------------------------------------------
+
+    Yes, hi, Glen this is Stacy. I would characterize -- I guess I'd say this, it's a little early to get that specific about Q4. At this point I'd expect seasonal, which is a little less than what you said, but still gets us into that flat year-on-year revenue growth. And I think that the tale for us will really be written in the back half of Q3 when we start to see how our customers are putting in place inventory in anticipation of that fourth-quarter selling season. And right now our view on that is fairly cautious. We expect that they'll continue to run lean inventory levels. But the reality is we won't know that until we get into late August, early September, that's when you'd normally start to see them putting in the supply line, that also aligns with other things in the industry, and so we think that's when we're likely to really get a sense of Q3 and the momentum into Q4.
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citi - Analyst    [4]
+--------------------------------------------------------------------------------
+
+    All right, thanks, man. Okay and the next question is for Brian. First of all Brian, congratulations on your new role. The question is now that you're in that role for a couple of months and as you say you've talked to customers. Today Intel has very good products in mobile and tomorrow will have arguably the best products in mobile even though they do today. I wonder in your discussions with customers if you think that that's enough? If the customer base is now open to accepting an x86 based processor in what has traditionally been an [R] market, or does it matter?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [5]
+--------------------------------------------------------------------------------
+
+    Okay, as Mark said it was a little hard to hear you on our side we're having some network issues but let me try and answer your question. The question is, can x86 go into these ultra-mobile markets and how do the customers view that. And my answer would be they are more than willing to accept it. And the fact that x86 works on both Android and Windows is a real advantage to our OEM base. They look at that and say that they can have one architectural design, one set of products and use both operating systems. So it's a unique feature that we are able to provide.
+It's a more been a focus by Intel of actually going in and designing for those markets and moving our products in there. You really see that with Haswell and Bay Trail. Haswell on the Core side and Bay Trail on the Atom side, really being designed for those ultra-mobile products. We talked about Haswell producing the first fanless Core products out there in the market in any kind of real volume. And then Bay Trail really being designed for the much lower price points that you see these tablets and even down to the entry-level tablets. And so the fact that it's x86 is an advantage actually because we've been able to produce both Android and Windows on our product now.
+
+--------------------------------------------------------------------------------
+Glen Yeung,  Citi - Analyst    [6]
+--------------------------------------------------------------------------------
+
+    Great, thanks so much.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+    Vivek Arya, Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [8]
+--------------------------------------------------------------------------------
+
+    Brian, first of all, how should we think about ASP trends in the PC segment? I think you outlined 3% sequential declines in Q2 and you're guiding to another 50 point gross margin hit from lower ASPs in Q3. Why are you not seeing more of an uplift from the rollout of Haswell?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [9]
+--------------------------------------------------------------------------------
+
+    This is Stacy, I'll take that one because it was in the CFO commentary that I put out. You should think of it as mix shift for us and share win at the low end of the market. I think if you look at our first half results you'll see we came in pretty much in line with what we thought but during a time where the TAM was somewhat weaker than we thought. I think the offset there, the plug is that we gained some share at the low end and so we have a bit more mix at the lower end and then do to share, win in that particular segment of the market.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [10]
+--------------------------------------------------------------------------------
+
+    Thanks, Stacy. And as a follow up, why are we not seeing more benefits from the decrease in 14-nanometer startup costs? Like when I look at the uplift we should expect this time, they're not as much as uplift we have seen in prior cycles when the startup costs have decreased and I think your guidance implies a sequential gross margin decline in Q4. If you could just walk us through the puts and takes, I would appreciate that.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [11]
+--------------------------------------------------------------------------------
+
+    Yes, and I'm sorry, we are having networking problems so let me just make sure I got your question. You're asking, simplifying what are we seeing in terms of the startup cost trend relative to prior and what are the puts and takes for Q4, is that what your question is?
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [12]
+--------------------------------------------------------------------------------
+
+    Yes relative to gross margin, that's right.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [13]
+--------------------------------------------------------------------------------
+
+    Relative to gross margin, sure. So the startup cost trend it's directionally the same as what we've seen in other generations. It will be the same shape, generally the same impact on gross margin. So you see the peak in startup costs in the second quarter, it will come down some in Q3, and then we'll get a bigger benefit in Q1 and then -- or Q4 and then it will come down a bit more in the first half of next year. So it's a comparable trend.
+In the fourth quarter, the puts and takes -- so let me just do a gross margin progression across the year. We were at 56% in Q1, we hit our forecast in Q2 of 58%, we're expecting a few points of increase in the third quarter to 61%. And then as I think about Q4, I think we have a couple of tailwinds so I would expect volume to be up some. We should get some good news associated with startup costs. And then the offset in Q4 is going to be we should be well into the build of Broadwell, so doing the build on the prequalification material. So my sense is we'll have an increase in inventory write-offs in the fourth quarter and that offset some of those good news.
+Net/net of all that, I expect gross margin in the fourth quarter to be at or maybe a little bit higher than where we are in Q3 and try that forecast in another 90 days. And just so that we don't get lost in code names, that product is our lead product on 14-nanometer so that aligns with being in manufacturing in the back half of the year on 14-nanometer.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [14]
+--------------------------------------------------------------------------------
+
+    Great, thank you.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [15]
+--------------------------------------------------------------------------------
+
+    You're welcome.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [16]
+--------------------------------------------------------------------------------
+
+    Thanks, Vivek. And if I can remind the participants to please speak slowly, we apologize for the network issues we're having.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+    Christopher Danely, JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Danely,  JPMorgan Chase & Co. - Analyst    [18]
+--------------------------------------------------------------------------------
+
+    Brian, you said in the press release and the spiel up front that you're taking in a wide variety of views from customers and people at the Company and stuff like that. Could you just give us your opinion on what has surprised you and maybe how your view has changed and what you think has been important out there?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [19]
+--------------------------------------------------------------------------------
+
+    Sure. So I don't know if anything really surprised me. I think the things that were positive for me is that our customers, especially, they want Intel to get into this expanding ultra-mobile market. They are looking for Intel to be stronger and have a better and more capable product lineup in there. And they're excited about the products that we have coming, the Haswell and Bay Trail. So I'd say the key message that they've been giving us is, we really want you there, we see the products coming, we want even more and we want a faster lineup following those. And so that -- you heard in my speech today and in the earnings release that we're really putting much, much stronger effort on Atom and driving our SoC integration and pulling it forward to the leading edge. So I'd say that was the major point or major comments I got back from our customer base.
+
+--------------------------------------------------------------------------------
+Christopher Danely,  JPMorgan Chase & Co. - Analyst    [20]
+--------------------------------------------------------------------------------
+
+    Thanks, and then as my follow up, so you guys are guiding for some decent growth here in the second half of this year. If we go back to last year you were essentially flat in the second half so can you just give us your sense of why -- what's driving the confidence that things are going to be better for you guys in the second half of this year versus the second half of last year?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [21]
+--------------------------------------------------------------------------------
+
+    Yes, I'd say it's a couple things and I'd also say what we're guiding for Q3 is some seasonal growth. So it's off of an okay Q2 but not a gang buster Q2, so I don't think it's a wildly optimistic forecast. In terms of the tailwinds that I see, first and foremost is the product cycle. Haswell is a great product for Ultrabooks and 2-in-1s, and as Brian said with Bay Trail coming to the marketplace we're going to be hitting price points in the touch-enabled segment of the PC market that we've never touched before and we'll be able to do that and profitably. And we'll start to gain share in tablets. We've got our first big tablet wins out in the marketplace, and with Bay Trail we think again we enable other designs to come to market at price points that are going to be I think nice year end consumer price points.
+The second tailwind that I'd say is we expect generally an improving macroeconomic climate as we go into the back half. I think that's in line with most economists in the first half the US was a little bit stronger than we have thought starting the year, China was a little bit weaker, but generally I'd expect an improving macroeconomic environment in the back half.
+
+--------------------------------------------------------------------------------
+Christopher Danely,  JPMorgan Chase & Co. - Analyst    [22]
+--------------------------------------------------------------------------------
+
+    Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+    John Pitzer, Credit Suisse.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [24]
+--------------------------------------------------------------------------------
+
+    Brian, although early, the initial read we're getting on Bay Trail with your partners is pretty positive and I think that's driving a concern in the investment community with whether or not Bay Trail is going to be so good that it starts to cannibalize Haswell. And so I guess I'd like to get your thoughts on how you can segment the market properly, to what extent do you think you're a slave to market forces and to what extent do you think you can bring applications that are MIPS intensive into the ecosystem and secure the Core business even as you try to get more aggressive in Bay Trail and Atom?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [25]
+--------------------------------------------------------------------------------
+
+    Sure. So first, let me tell you, our view right now on Bay Trail is that we don't believe it'll be cannibalistic in that nature. We believe what it really does is allows us to get into these markets that we're not in in a big way today and that, as Stacy said are these sub $400, sub $300 in some case clamshells and touch-enabled convertibles and 2-in-1 devices. And tablets $199 and below, some you're going to see even lower, below $150 and much below that as we go through the holiday season. So Bay Trail really first and foremost we believe gives solid performance, solid battery life relative to the competition in price points and markets that we're simply not in in a big way today. So we look at it mostly as an expansive.
+The other thing that I think is point is, Haswell, as we said is the largest battery life improvement in Intel's history along with great performance. And it's providing products that have Core level performance that will be fanless for the first time. So we still believe that there's a strong drive for performance in segments of this market that look for high def video performance, gaming, all of the things that if you actually look at a lot of the tablet usage even, people are doing more and more and definitely in these 2-in-1 and convertible devices, people look for that kind of application. So we believe that Haswell allowing us to go down into those better price points and lower powers will give us the performance option to keep people up into those regions.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [26]
+--------------------------------------------------------------------------------
+
+    If I can just add a couple of data points on that in terms of what we've seen over the last few years. First off, to reinforce what Brian said, there still is a big gap in terms of performance and features between the best of Bay Trail and the Core i3/i5/i7 segment of our product line. And if you look at the last three years even in a time where the markets been relatively weak, the Core i5/i7 volumes have been very healthy and if anything we've seen a larger mix overall to Core over that time period. So it says there still is this healthy segmentation in the marketplace. Where Bay Trail will play, it will start to expand us into markets where we don't play today and because of the cost structure, we think we can do it with more dollars per unit then we would be able to do if we were going after that segment say with Celeron or even with some of the low end of the Pentium road map. So it's a powerful product from that perspective, John.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [27]
+--------------------------------------------------------------------------------
+
+    (Multiple speakers) the market will go where the market goes and better to have a product like Bay Trail that we can play no matter where it goes rather than miss that market which if you look over the past was more the case.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [28]
+--------------------------------------------------------------------------------
+
+    Helpful, guys. And then as my follow on Stacy, several years back you put out a long-term gross margin target of 55% to 65% and I think for most of the time since you've put that target out you've been operating near the higher end of that range. I'm curious as you start bringing Bay Trail, Merrifield put it in a renewed effort into the Atom space, should we think that the next three years that that range is going to be more directed towards the lower half? Or are there other puts and takes within that gross margin range?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [29]
+--------------------------------------------------------------------------------
+
+    As you probably anticipate, I'm not going to get pinned down inside the range. I'm still very comfortable with the 55% to 65%. I think the second half is a great proof point, we're going to be from Q1 to Q3 we're going to quadruple our tablet volume. We're running at a 61% gross margin at the Company level. As Brian said, the market is going to go where it's going to go. We've got some great products to give us the cost structure to go after them profitably and I'm still confident in that gross margin range. And we'll talk more about the specific segments when we get to the investor meeting.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [30]
+--------------------------------------------------------------------------------
+
+    Thanks, guys, appreciate it.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+    Stacy Rasgon, Sanford Bernstein.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [32]
+--------------------------------------------------------------------------------
+
+    First on the annual revenue guidance, your prior guidance had total revenues up in the low-single digits as well as total units up in the low-single digits. With the new guidance of relatively flat revenue, does that essentially imply flat total units? And if so, how important is the Bay Trail launch and Bay Trail volumes to actually achieving that type of a unit target?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [33]
+--------------------------------------------------------------------------------
+
+    So apologies, Stacy, let me restate your question make sure I'm answering correctly because that was a little garbled in the middle, and it's not your fault, we're just having some issues on our part. I think what you're asking me is defend my flat revenue forecast and give you a sense of what's going on in Client versus other segments of the business, and in particular what's going on with units -- is that where you were going?
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [34]
+--------------------------------------------------------------------------------
+
+    Yes, that's it. And then if the guidance does actually imply flat units correlated with your revenue, how important is gaining Bay Trail volume in the back half to achieving that type of a unit outlook?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [35]
+--------------------------------------------------------------------------------
+
+    Yes, okay, let me go there. So first I'd say we would actually expect that overall compute units, so tablets up through PCs, they'll be down some this year. And that's consistent with the flat revenue forecast for the Company so let me just walk you through. And I'll start with what you've seen from Gartner and IDC of their view of the year. We're pretty aligned with those numbers in terms of our view of the classic PC market. But to get to then our units you have to make some  adjustments to that. So first off, in their classic view of PCs, that would not include some of the ultra-mobile devices i.e. the Microsoft Surface Pro, so you'd add that in to get to our PC Client Group units. We think we're gaining some share in tablets, so that's a little bit of an offset. Netbooks for us is declining pretty significantly that's not in the PC Client Group segment, that's in the other IAG segment. And then as I said earlier in my prepared remarks, we think we gain some share so that also gives us a little bit of help.
+But when you net all that out, you'd say our unit and our revenue for the PC Client Group is down year over year, it's just not down as much as the headline number that you'd see from Gartner. So you start there and then the offsets to that, the places where we're growing, is Data Center Group which we think grows in the low double digits if you do manager math on that it's 20% of our revenue. So that adds a couple of points of growth to the Company. NAND is probably worth a point on its own if they look to be having a good year. You have some other smaller things that you net that out against the PC Client Group that's down a bit and you get to flat for the year. So in the rough math that's how I'm viewing the different segments.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [36]
+--------------------------------------------------------------------------------
+
+    Got it.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [37]
+--------------------------------------------------------------------------------
+
+    Did that answer your question?
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [38]
+--------------------------------------------------------------------------------
+
+    No, that's very helpful. And as my follow up if I could carve into the Data Center a little bit. So you were still -- looks like you're still looking for low double-digit growth in this business that seems to be unchanged from the last couple of quarters. Does that not imply a very significant ramp both quarter over quarter and year over year? I mean in the ballpark of 15% to 20% sequentially as well as year over year in the second half? Can you give us some I guess where your confidence comes from that you're going to get that kind of growth in the Data Center in the second half? Is it all macro or is it something else, what drives that?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [39]
+--------------------------------------------------------------------------------
+
+    Sure, this is Brian I'll answer that one. Yes, we're still confident in the second half growth of our Data Center business overall. As we mentioned, we're seeing strong growth in the cloud, the high-performance computing, our networking and our storage, we think those continue through the second half of this year. What was down, as Stacy mentioned, was the enterprise data centers were down a bit in the first half we think as the macroeconomics continue to improve through this year that picks up a bit. When you put that all together, we believe that absolutely, we -- our view is that we can continue through this year with that low double-digit growth.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [40]
+--------------------------------------------------------------------------------
+
+    The enterprise had to have been down more than that, right? You said that a hard drive or storage and networking all this other stuff was up 20% to 40%. I think your total Data Center business in the first half year over year is just flat to up a little bit. So that enterprise piece had to have been down quite a bit year over year in the second half, so you're saying you're going to see a very significant reversal of that trend in the second half?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [41]
+--------------------------------------------------------------------------------
+
+    Yes, and as -- from a wonky finance standpoint, realize there's also prior period comparison thing going on. In the first half of last year we were in the steep part of the ramp for Romley. In the second half of this year we'll be launching other versions of Ivy Bridge into the Data Center. So the short answer to your question is yes, I would expect some pretty steep quarter-on-quarter and year-on-year comps in the back half of this year, that is what we're planning for.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [42]
+--------------------------------------------------------------------------------
+
+    And Stacy, we're going to have to move on from there.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [43]
+--------------------------------------------------------------------------------
+
+    Okay, thank you, guys.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+    Ross Seymore, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [45]
+--------------------------------------------------------------------------------
+
+    First question is for Brian, on that focus on the ultra-mobility side of things can you talk a little bit about what that implies for the OpEx for Intel? The OpEx is elevated as a percentage of sales versus where it's been historically, mainly on the R&D side, my understanding is the majority of that spending is for the mobile effort. Is your efforts to expedite that process likely to mean more OpEx to deliver those better results? And maybe a follow on to that is when do we get either results on the top line happening or you rationalize some of that OpEx? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [46]
+--------------------------------------------------------------------------------
+
+    Sure, so, let me start. The simple answer is no we're not going to increase our OpEx spending and in fact what we really have been focusing on is managing that as well. What you're going to see, and remember these -- as we move architecture more and more to an SoC, a lot of the work we do bridges between Core and Atom. And as pull Atom forward on to the leading edge technology, again that allows a lot of the architectural work to be in alignment and be shared amongst the two products. So we believe that we can move faster on Atom and into this ultra-mobility space without having to change or increase our OpEx. So absolutely that's the current model that we're working under.
+From a when will you start to see it? Some of these changes have been started a while back, and you see Bay Trail coming out towards the end of this year, it's a product that is on that Atom Core that is truly industry leading. We talked earlier about a lot of the benchmarks coming out, showing it very strong against the competition if not leading the competition in many of the metrics. And so we believe that you'll start to see some of this just naturally over the next six months as Bay Trail ramps up and gets into production. So we have a series of products after that, and you'll see more and more acceleration. So don't think of this as a one-time shift where you will see a digital move, look at it as a constant pushing of the accelerator down and the thing just gets faster and faster as time goes by. And so you'll just see more and more strength of that Atom line as time goes through here. And it will be kind of -- you'll look back and say wow, it's obvious that the Atom line has truly becoming strong and they've got share in the tablet space.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [47]
+--------------------------------------------------------------------------------
+
+    If I could just add to that, and give you a little bit of sense of where we're trying to go. You I'm sure you noticed we brought down the overall spending forecast for the Company. We know that we're running hot in terms of spending as a percent of revenue, we've been very consciously making investments in that space. What I've seen of Brian in his tenure is he's very focused on driving that efficiency and bringing it down. We'll come down a few points between where we were in Q2 and the end of the year in terms of spending as a percent of revenue and the expectation is we can come down more next year.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [48]
+--------------------------------------------------------------------------------
+
+    Great and I guess as --
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [49]
+--------------------------------------------------------------------------------
+
+    Go ahead.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [50]
+--------------------------------------------------------------------------------
+
+    No, go ahead.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [51]
+--------------------------------------------------------------------------------
+
+    My point was just going to be to reemphasize what Stacy just said is that my answer from why OpEx won't go up is you take a look at what we've done moving into Q3, right. And efficiency and structure that we put in both the reorganization that we did and flattening and decision making and just the cost savings that we've already put in through efficiencies in both the OpEx and the CapEx that you saw. We expect that same level of efficiency to keep moving forward even as we make this transition. So to me those are not separated, those go hand-in-hand actually as you become more efficient.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [52]
+--------------------------------------------------------------------------------
+
+    Thanks for your patience with the audio, Ross, do you have a follow-up question?
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [53]
+--------------------------------------------------------------------------------
+
+    Yes, I do. Switching gears again for BK but on the foundry side of things, I think Paul described it that you're no longer crawling on the first quarter conference call. I know that's a business that near and dear to your heart given your prior job. Can you give us some benchmarks that we should watch for to deem the success or lack thereof that Intel plans to have? And generally speaking, can you explain how your strategy and foundry may be any different than the prior CEO?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [54]
+--------------------------------------------------------------------------------
+
+    Sure. You have to remember that even when you sign up a foundry customer, it's 18 to 24, sometimes even longer, 30 months before that foundry customer is able to start producing product especially when they move from one foundry to another as they do go through their design cycle and their product qualification. So you should think that even the customers that we've already signed up that you've heard about in the press, those revenues and that impact on Intel's bottom line is still a ways out and any changes we'd make in strategy or additional customers we make now will have that same timeline. I think again Paul said it right, you want to crawl, walk, run not necessarily because that's what we should do in order to manage it. It's more you really want to make sure that the systems and the customer support models that you have are in place to handle the volume that you're really taking on. And since we haven't been in a foundry business all our life, we wanted to go and make sure we really knew what we were doing there. We are moving from I'd say that crawl space to at least a walk space.
+I think that the philosophy we have moving forward is that we're going to treat every one of these customers that come to us and come talk to us about foundry opportunities individually and look at them from a strategic standpoint, what size of business they bring and whether their products can really take advantage of our process leadership. And so we don't take a look at this as separating out the new we wills or won't, we're taking each customer individually and looking at them as an opportunity and what is the right thing for the shareholders from bringing value to the shareholders with this technology that we have.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [55]
+--------------------------------------------------------------------------------
+
+    Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+
+    David Wong, Wells Fargo.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [57]
+--------------------------------------------------------------------------------
+
+    You mentioned moving Atom even faster to the leading edge, can you give us some detail as to when we might see 14-nanometer Atom products in the market? And similarly you talked about 14-nanometers going into production end of this year, so does that mean the first 14-nanometer call products will launch in the first quarter of 2014?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [58]
+--------------------------------------------------------------------------------
+
+    Okay so let me -- you asked a couple questions. We're not going to give changes to the road map or any kind of product schedules here from what will happen as a result of this strategy. We'll try and bring those updates to our investor meeting that happens in November. As far as our 14-nanometer Core launch and our general product launch, I think what we said so far is first half of 2014. And we're not ready to give any specifics beyond that.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [59]
+--------------------------------------------------------------------------------
+
+    Okay.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [60]
+--------------------------------------------------------------------------------
+
+    And I gave you a pretty strong hint with the fact that we'll be taking prequalification reserves. You can sense that we're well -- and those are going to be material, so we'll be well into production in the fourth quarter.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [61]
+--------------------------------------------------------------------------------
+
+    Excellent, thanks, Stacy. And just one other, is the lower CapEx plan due to lower spending on 14-nanometer and 10-nanometer or lower on 450-millimeter or both?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [62]
+--------------------------------------------------------------------------------
+
+    It's a variety of things, David. As we said on the call, our view of the overall market is less now than it was when we started the year. I think you've seen us trying to be very responsive to changes in demand and get the balance right. And so as our view of the market changed, we saw some opportunities for things that we thought we were going to put into place this year that we no longer have to put in place, and it's across the board it's no one thing. Similar to what you saw in Q1 where we found opportunities to drive more reuse, here we're finding some opportunities to push some capital out of the year. Some of it is 450 not based on schedule changes but it's just based on some efficiencies that we're able to find and shortening the time it takes us to install certain things and that kind of stuff. Some of it is M&E for 14-nanometer, some of it is space but just a variety of small things that added up to $1 billion.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [63]
+--------------------------------------------------------------------------------
+
+    Okay, thanks very much.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [64]
+--------------------------------------------------------------------------------
+
+    Thanks, David. And Operator, we have time for two more questions.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+
+    Jim Covello, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Jim Covello,  Goldman Sachs - Analyst    [66]
+--------------------------------------------------------------------------------
+
+    Just to follow up on the CapEx. Does the new $11 billion forecast still include a full $2 billion for the new shell or is that some of what has gotten pushed out?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [67]
+--------------------------------------------------------------------------------
+
+    Specific on the 450, that's a 450 question, Jim?
+
+--------------------------------------------------------------------------------
+Jim Covello,  Goldman Sachs - Analyst    [68]
+--------------------------------------------------------------------------------
+
+    Well yes that shell that you guys had articulated there was an extra $2 billion in the CapEx that was related to that 450 shell.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [69]
+--------------------------------------------------------------------------------
+
+    That one's down a little bit but not a lot. It does change my round. I was rounding up to $2 billion and now it would round to $1.5 billion, but it's in the scheme is a $1 billion change, it's not the largest driver, it's not even that large of a driver. I think it's interesting when you deconstruct the CapEx and you get down to the level of CapEx that's in place for current run rate. You take out the 450, you can take out some of the capital that's being spent, not necessarily for our current production but things like IT and labs. You take out some of the Greenfield space that we've built in place and you get down to a run rate of CapEx in support of our current business that's in the mid- 50s, $55 billion or so in revenue in that range, that is I think a nice healthy level, a nice sustainable level and I can run at that level and generate a 60% gross margin. So it feels pretty good from that perspective. And as we said we're continuing to try to balance the CapEx relative to the business size.
+
+--------------------------------------------------------------------------------
+Jim Covello,  Goldman Sachs - Analyst    [70]
+--------------------------------------------------------------------------------
+
+    Sure, and if I -- I'll use my follow up on the CapEx as well. So it's great to see the CapEx come down from the $13 billion originally to the $11 billion today. The first half spending is $4.9 billion, so that would still imply pretty far below the $11 billion. Obviously that's shell, maybe a little more of that shell comes in the back half, so that would be some of the increase in the back half CapEx. But can we get any kind of hope that potentially even $11 billion is a number that there's some downside to?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [71]
+--------------------------------------------------------------------------------
+
+    No I -- so first of the linearity, more of that shell -- most of that shell frankly is in the back half of the year so that shifts the linearity, and you also see the 14-nanometer spending going up in the back half. So it's a back half loaded year. I think as I said earlier, we will continue to look for the right balance between capital and demand. But I want to stress, when you really deconstruct our CapEx, $7 billion to $8 billion of capital being spent to support a business that's in the mid-$50 billion in revenue, it's the right level of CapEx. I'm very comfortable with that, it's not putting in a bunch of incremental capacity and it's a level that I can sustain a gross margin that's in that range that I've been talking about and the right at 60%.
+
+--------------------------------------------------------------------------------
+Jim Covello,  Goldman Sachs - Analyst    [72]
+--------------------------------------------------------------------------------
+
+    Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+
+    Tristan Gerra, Baird.
+
+--------------------------------------------------------------------------------
+Tristan Gerra,  Robert W. Baird & Company, Inc. - Analyst    [74]
+--------------------------------------------------------------------------------
+
+    A few years ago when Atom first launched I think you had mentioned that Atom was slightly lower gross margin but same or slightly higher operating margin than the corporate average. Is that view still holding with the new products that you're launching?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [75]
+--------------------------------------------------------------------------------
+
+    This is probably a better conversation for the investor meeting. And keep in mind that Atom spans from servers to the PC segment of the market now where we're enabling these $299 price points to phones, to tablets, right. So there's -- it's worthwhile to have a deeper discussion about the different segments. As we articulated earlier, generally when you're looking at the predominance of our volume, the Core business. When Atom is price point replacing a Celeron or a Pentium, we're doing it at a better margin dollars per unit than we were selling Celeron into that space and we're enabling lower price points. So from that perspective, it's a great product, it lets us fight on the front foot and go after markets profitably that we tried to go after before. I'll save the rest probably until the investor meeting.
+
+--------------------------------------------------------------------------------
+Tristan Gerra,  Robert W. Baird & Company, Inc. - Analyst    [76]
+--------------------------------------------------------------------------------
+
+    Okay, that's useful. And then on this call there's been obviously a good amount of discussion about your diversification into ultra-mobile. If we look at the Core business, the ramp of Haswell and the Ultrabooks obviously hasn't been enough to bring back PC unit growth this year. Should we have the view that PC is basically past the peak, continues to decline? And if not, what catalyst do you see going forward and why what hasn't worked so far could work later in revitalizing PC growth going forward?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [77]
+--------------------------------------------------------------------------------
+
+    So let me -- we had a hard time hearing that one because of the break, the networking problems we're having on this end. Let me try and repeat it and make sure -- I think part of your question or the basic of your question was PCs have continued to decline, you've introduced Haswell, you're still forecasting a back half decline, what gives us confidence that we'll be able to turn that around or make any change in that? Did I capture your question correctly?
+
+--------------------------------------------------------------------------------
+Tristan Gerra,  Robert W. Baird & Company, Inc. - Analyst    [78]
+--------------------------------------------------------------------------------
+
+    Yes, that's correct, thank you.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [79]
+--------------------------------------------------------------------------------
+
+    I'll answer first and then Stacy can jump in. My answer would be simply, Haswell has been not a single product launch. Let me first start with Haswell, we launched the quad Core products in the second quarter, as we go into the third quarter, the dual Core products which go more into those lower price point regions is actually going out to the market. So it's a staggered launch which is a little bit different than we've done some other products. So we're just now really starting to see the ramp of Haswell into the consumer's hands. I think it's really way too early to say here's where Haswell is. And you're just going to see, as we move into the second half, the fanless devices with Haswell. As we move forward, Bay Trail and 14-nanometers as we move into next year, will, you can imagine will drive prices and battery life and the number of fanless devices up even more. So that would be my first answer.
+The second answer, I'd tell you what's different moving forward, again we've talked about this, is Bay Trail. Bay Trail is going into some of these same classic PC devices that you see today, the clamshells where they've got touch-enabled clamshells coming down into the $300 range. You're going to see convertible clamshells where you can detach or flip and it acts as both a tablet or a PC in the sub $400 range, right around $400. And as we move into next year those price points will continue to drop. So the fact that PCs, especially with Bay Trail are going to move down into this let's call it $200 to $400 range is going to shift that market we believe as well. And that's different than what's been out over the last few years. So you've got fanless Haswell, you've got Bay Trail coming in, all of those things allowing devices that haven't been allowed in the past with our designs.
+
+--------------------------------------------------------------------------------
+Tristan Gerra,  Robert W. Baird & Company, Inc. - Analyst    [80]
+--------------------------------------------------------------------------------
+
+    Thank you very much.
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - Director of IR    [81]
+--------------------------------------------------------------------------------
+
+    Thanks. Thanks, Tristan. All right, thank you all for joining us on the call today and again our apologies for the audio challenges that we've had. Jamie, can you please go ahead and wrap up the call?
+
+--------------------------------------------------------------------------------
+Operator    [82]
+--------------------------------------------------------------------------------
+
+    Thank you. Ladies and gentlemen, that does conclude the conference for today. Again, thank you for your participation, you may all disconnect.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------
