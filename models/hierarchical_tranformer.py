@@ -182,7 +182,6 @@ class CustomDataCollator:
         return batch
 
 def load_data(base_dir):
-    """Load and prepare the training and test data."""
     # CSV FILE PATHS
     train_csv_path = os.path.join(base_dir, "data", "one_hot_targets", "train_data.csv")
     test_csv_path = os.path.join(base_dir, "data", "one_hot_targets", "test_data.csv")
@@ -266,7 +265,6 @@ def process_datasets(dataset_train, dataset_test, tokenizer, base_dir):
     return dataset_train_chunked, dataset_test_chunked
 
 def setup_model_and_trainer(model_name, dataset_train_chunked, dataset_test_chunked, tokenizer, device):
-    """Set up the model and trainer."""
     # Create HierarchicalTransformer model
     model = HierarchicalTransformer(
         pretrained_model_name=model_name,
