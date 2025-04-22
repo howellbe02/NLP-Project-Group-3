@@ -2,9 +2,11 @@ import os
 import pandas as pd
 import numpy as np
 import torch
-from datasets import Dataset, load_from_disk
+from datasets import Dataset, load_from_disk, concatenate_datasets
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer
 import evaluate
+import math
+
 
 # DEVICE SETUP
 ######################
@@ -103,7 +105,7 @@ if not os.path.exists(train_dataset_path):
         #INCREASE NUM_PROC IF U CAN JUST FIND OUT HOW MANY CPU CORES YOU GOT
         #####################
         num_proc=8,        
-        load_from_cache_file=True
+        load_from_cache_file=False
     )
     # this part actually saves the stuff
     dataset_train_chunked.save_to_disk(train_dataset_path)
@@ -122,7 +124,7 @@ if not os.path.exists(test_dataset_path):
         #INCREASE NUM_PROC IF U CAN JUST FIND OUT HOW MANY CPU CORES YOU GOT
         #####################
         num_proc=8,
-        load_from_cache_file=True
+        load_from_cache_file=False
     )
     #saving stuff to file
     dataset_test_chunked.save_to_disk(test_dataset_path)
@@ -135,7 +137,23 @@ else:
 dataset_train_chunked.set_format(type="torch", columns=["input_ids", "attention_mask", "labels", "transcript_id"])
 dataset_test_chunked.set_format(type="torch", columns=["input_ids", "attention_mask", "labels", "transcript_id"])
 
+counts = {
+    lbl: dataset_train_chunked.filter(lambda ex, lbl=lbl: ex["labels"] == lbl).num_rows
+    for lbl in range(4)
+}
+max_count = max(counts.values())
 
+balanced_splits = []
+print(counts)
+for lbl, cnt in counts.items():
+    # pull out all examples of this label
+    ds_lbl = dataset_train_chunked.filter(lambda ex, lbl=lbl: ex["labels"] == lbl)
+    if cnt < max_count:
+        # repeat until we have at least max_count, then truncate
+        reps = math.ceil(max_count / cnt)
+        ds_lbl = concatenate_datasets([ds_lbl] * reps).select(range(max_count))
+    balanced_splits.append(ds_lbl)
+dataset_train_balanced = concatenate_datasets(balanced_splits).shuffle(seed=42)
 # Training time 
 
 # Load model 
@@ -155,7 +173,10 @@ training_args = TrainingArguments(
     save_strategy="epoch",
     logging_steps=50,
     load_best_model_at_end=True,
-    metric_for_best_model="accuracy"
+    metric_for_best_model="f1",
+    greater_is_better=True,
+    warmup_ratio=0.1,                
+    weight_decay=0.01,
 )
 
 # Define metric
@@ -183,7 +204,7 @@ def compute_metrics(eval_pred):
 trainer = Trainer(
     model=model,
     args=training_args,
-    train_dataset=dataset_train_chunked,
+    train_dataset=dataset_train_balanced,
     eval_dataset=dataset_test_chunked,
     tokenizer=tokenizer,
     compute_metrics=compute_metrics
@@ -191,7 +212,8 @@ trainer = Trainer(
 
 # TRAINING TIME BABY
 trainer.train()
-
+trainer.save_model("./final‑finetuned‑model")
+tokenizer.save_pretrained("./final‑finetuned‑model")
 # Evaluate lol i doubt well ever get to this part of the program
 eval_results = trainer.evaluate()
 print("Evaluation results:", eval_results)
