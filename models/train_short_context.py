@@ -157,9 +157,23 @@ dataset_train_balanced = concatenate_datasets(balanced_splits).shuffle(seed=42)
 # Training time 
 
 # Load model 
-model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=4, ignore_mismatched_sizes=True)
+model = AutoModelForSequenceClassification.from_pretrained(
+    model_name, 
+    num_labels=4, 
+    ignore_mismatched_sizes=True,
+    )
 model.to(device)
 
+for name, param in model.named_parameters():
+    if "classifier" not in name:
+        param.requires_grad = False
+
+print("Trainable parameters:")
+for n, p in model.named_parameters():
+    if p.requires_grad:
+        print("  ", n)
+    else:
+        print('not', n)
 # train args 
 ###################
 #IF YOU CHANGED BATCH SIZE ABOVE I THINK DO SAME HERE
@@ -177,6 +191,7 @@ training_args = TrainingArguments(
     greater_is_better=True,
     warmup_ratio=0.1,                
     weight_decay=0.01,
+    learning_rate=5e-5,
 )
 
 # Define metric
