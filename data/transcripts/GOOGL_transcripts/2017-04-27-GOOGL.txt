@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q1 2017 Alphabet Inc Earnings Call
 APRIL 27, 2017 / 8:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Ellen West
     - 
@@ -17,9 +15,7 @@ Corporate Participants
  * Sundar Pichai
    Alphabet Inc. - CEO of Google
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Eric James Sheridan
    UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst
@@ -48,27 +44,20 @@ Conference Call Participiants
  * Anthony Joseph DiClemente
    Nomura Securities Co. Ltd., Research Division - MD and Senior Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Good day, ladies and gentlemen, and welcome to the Alphabet First Quarter 2017 Earnings Call. (Operator Instructions)
 I'd now like to turn the conference over to Ellen West, Head of Investor Relations. Please go ahead.
 
---------------------------------------------------------------------------------
 Ellen West,   -     [2]
---------------------------------------------------------------------------------
 
           Thank you. Good afternoon, everyone, and welcome to Alphabet's First Quarter 2017 Earnings Conference Call. With us today are Ruth Porat and Sundar Pichai. While you were waiting, you were listening to the infectious song, Diggy by Spencer Ludwig. Spencer is a new exciting artist on Warner Bros. Records, who is touring Europe this month. You have heard his trumpet stylings when he performed with Capital Cities on Safe and Sound. Be sure to check out his official Diggy video on his YouTube channel. Now I'll quickly cover the safe harbor.
 Some of the statements that we make today may be considered forward looking, including statements regarding our future investments, our long-term growth and innovation, the expected performance of our businesses and our expected level of capital expenditures. These statements involve a number of risks and uncertainties that could cause actual results to differ materially. For more information, please refer to the risk factors discussed in our Form 10-K for 2016 filed with the SEC. Any forward-looking statements that we make are based on assumptions as of today, and we undertake no obligation to update them.
 During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release. As you know, we distribute our earnings release through our Investor Relations website located at abc.xyz/investor. This call is also being webcast from our IR website, where a replay of the call will be available later today.
 And now I'll now turn the call over to Ruth.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO and SVP    [3]
---------------------------------------------------------------------------------
 
           Thank you, Ellen. Our revenues of $24.8 billion in the first quarter demonstrate our broad-based strength globally, with revenues up 22% year-on-year. In constant currency, our consolidated revenues grew 24% versus 1Q '16.
 Growth in advertising revenues was again driven by mobile search with ongoing strength in YouTube and programmatic. We also had substantial growth in other revenues from Play, hardware and cloud.
@@ -100,9 +89,7 @@ Similarly, hardware remains an exciting growth opportunity for us, and you've se
 Finally, in Other Bets. We're determining the size and pace of investment appropriate to each bet given their stage of development and achievements against milestones. We expect to increase near-term investment in certain areas while continuing to calibrate the pace of investment in others as they move along a path to commercialization. For example, as I hope you saw earlier this week, Waymo announced it has commenced the trial of its self-driving cars in the Phoenix area. Waymo also announced it is expanding its fleet of minivans to support this trial. These actions reflect the tremendous accomplishment of our team over many years, leading with safety and now beginning to bring the experience to consumers.
 I will now turn the call over to Sundar.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [4]
---------------------------------------------------------------------------------
 
           Thanks, Ruth. It's been a terrific start to the year. This quarter was notable for the fantastic momentum across our products, advances for the Google Assistant, the launch of YouTube TV and lots of new features launched at our Google Cloud Next event.
 In the next few weeks, there's much more to come. We'll host our annual developer conference, Google I/O; our advertising event, Google Marketing Mix; and our YouTube upfront, Brandcast. I hope you'll join us.
@@ -140,288 +127,193 @@ For instance, we recently expanded our Programmatic Guaranteed reservation produ
 Over the last few days, we have had Take Your Child to Work Day at Google, which is one of my favorite events of the year. We have had thousands of excited screaming kids running around the Googleplex, which is how I feel some days, too. What motivates us at Google is building the technologies that will be central to all of their computing experiences, to give them opportunities to learn, to be heard and to succeed.
 And with that, I will hand it back over to Ruth.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO and SVP    [5]
---------------------------------------------------------------------------------
 
           Thank you, Sundar. And we will now take your questions.
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           (Operator Instructions) And our first question comes from Douglas Anmuth of JPMorgan.
 
---------------------------------------------------------------------------------
 Douglas Till Anmuth,  JP Morgan Chase & Co, Research Division - MD    [2]
---------------------------------------------------------------------------------
 
           I had 2. First, just you talked about cloud as a huge strategic priority. Can you just talk more about the go-to-market strategy for GCP and how you plan on building up the reseller channel there going forward? And then, secondly, Sundar, on Waymo. I was curious on some of your thoughts, I know it's early, but on the timing for Waymo to become commercially viable. And then what are the key guideposts and requirements along the way?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [3]
---------------------------------------------------------------------------------
 
           On the cloud stuff, talking about go-to-market, as Ruth said, in Q1, our largest growth in headcount and CapEx was in cloud. So we are thrilled with the progress we have made there since Diane arrived, building out world-class sales, marketing and engineering teams. The heavy lifting, I would say, is around how we meet the enterprises in the market. We have reorganized, so we have one face to the customer. So it's not just sales reps. We've been thoughtful about how we have built out the entire go-to-market organization. So we created 2 new areas that customers can now take advantage of. One is the office of the CTO, which helps customers solve difficult technical problems. And the second is our Advanced Solutions Lab, where customers can get help for machine learning experts. And on top of that, now, we have a phenomenal support team that helps keep customers' applications up and running. So I think what we have done, our approach is One Google. When a customer signs up for Google Cloud, they get more than GCP and G Suite, they have access to the ads and analytics teams, YouTube teams and resources within our organization. So I think it's coming along quite well.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO and SVP    [4]
---------------------------------------------------------------------------------
 
           And then on your question on Waymo, we view Waymo as a great example of a graduate from X that's addressing a sizable problem and builds off of tremendous technology here. We started with safety. We remain a leader in safety, and we continue to view that as the foundation for success. And at this point, we're exploring many options, enabling ride-sharing, personal-use vehicles, logistics and deliveries. And we also see opportunities to work with cities to address public transportation. So the announcements that we made this week are a continuation of the progress the team has made. We do have a strong relationship with Fiat Chrysler, increased our car order given the opportunity. They have been our primary partner to date. But to note, we're in active discussions with others around the globe. And then I think, importantly, the trial in the Phoenix area is something that's been in the works for some time, and we do look forward to that trial. So it's still in the early days and we're excited about the upside from Waymo.
 
---------------------------------------------------------------------------------
 Operator    [5]
---------------------------------------------------------------------------------
 
           And our next question comes from Heather Bellini of Goldman Sachs.
 
---------------------------------------------------------------------------------
 Heather Anne Bellini,  Goldman Sachs Group Inc., Research Division - Research Analyst    [6]
---------------------------------------------------------------------------------
 
           I also wanted to ask a question about cloud, as a follow-up. I was just wondering, Sundar, if you could share with us, what's the feedback then since Next from your cloud customers? And could you share with us how, qualitatively, some things we can gauge just kind of whether this is starting to see -- whether this business is starting to see an inflection on growth or not? Is there anything you could give us qualitatively about how the pipeline is building in this area? And I guess, just what I'm interested in is also the types of conversations you're having with customers now versus maybe 6 years ago -- or I'm sorry, 6 months ago. Sorry about that.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [7]
---------------------------------------------------------------------------------
 
           Time flies fast. I mean, Next was -- having them in Google I/O many, many times, I was surprised to see the scale and growth of Next from even last year to this year. We had 5 many times as (sic) [5x as many] people. I think everyone really appreciated seeing large customers, very sophisticated customers, like HSBC, eBay, Colgate-Palmolive, et cetera, discussing use of Google Cloud, GCP. Along with Diane, I did follow-up lunches with a set of people. And so the feedback has been very positive. People sense our commitment to the area. They understand the pace at which we are investing. They see that we have committed to machine learning and AI at a deep level. They appreciate how we are open sourcing things. Fei-Fei's talk was extraordinarily well received. They are noticing the acquisitions we are making of Kaggle and AppBridge, a couple of acquisitions which happened around that time. So all that, all those details, I think, clearly made an impact. I just spoke about the go-to-market progress. And I think that's beginning to get traction as well. In general, I think there is a very strong recognition that we have pivoted to being a deep enterprise company and conversations are very strategic. We are engaging at the highest levels within companies. And so overall, I can see qualitatively the momentum there. When we are in the middle of deals, we find we are very competitive and there are areas where our customers perceive us as best-in-class already. So it's been exciting to see.
 
---------------------------------------------------------------------------------
 Operator    [8]
---------------------------------------------------------------------------------
 
           And our next question comes from Eric Sheridan of UBS.
 
---------------------------------------------------------------------------------
 Eric James Sheridan,  UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst    [9]
---------------------------------------------------------------------------------
 
           Sundar, you mentioned Google Assistant in your remarks. I wanted to know, what have you seen in terms of consumer adoption of Google Assistant, whether at the Pixel level or the Google Home level? What does it give you in terms of sense in how people want to interact with the Assistant, what it might do in terms of putting artificial intelligence capabilities down to the consumer level and improve consumer experiences over the next couple of years?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [10]
---------------------------------------------------------------------------------
 
           Good question, Eric. I mean, Pixel is a good example because I think it's the place where we do the leading work here. And how we presented Google Assistant in the Pixel, well received, both qualitatively in terms of consumer feedback we get, quantitatively in terms of how we see people using voice, how we see people interacting with overall Google Assistant and search better. So we find that when we drive the Assistant experience well, it works overall in helping people engage with Google at a broader level. It's always surprising to us, all they said. Even with search, every single day, we see so many new types of queries. When you bring the Assistant in the mix, you start getting even more different types of queries. And queries are more casual, more conversational. And so over time, I think it starts breaking down the barriers to computing people have, and that's what makes it very, very exciting. Now artificial intelligence will help us push all that further. Just to give an example, we will make text to speech much, much better over time. Yesterday, we announced our neural machine translation is launching in 9 new languages. So all that starts accruing to the Assistant and I think will overall improve the consumer experience pretty dramatically. We'll talk about all this a lot more at Google I/O. So stay tuned.
 
---------------------------------------------------------------------------------
 Operator    [11]
---------------------------------------------------------------------------------
 
           And our next question comes from Mark Mahaney of RBC.
 
---------------------------------------------------------------------------------
 Mark Stephen F. Mahaney,  RBC Capital Markets, LLC, Research Division - MD and Analyst    [12]
---------------------------------------------------------------------------------
 
           Two questions, please, one on YouTube and one on Google Maps. Sundar or Ruth, there was some press about the -- some of the pushback or some of the controversy around content and advertising and monetization of that. Are those technical problems that can be solved over time? Or is it just the magnitude of the volume of content and trying to keep bad content off the site, however that's defined, and keep it from being monetized? Is that just -- is that an ongoing technology challenge? Or did you only already find a solution? And do you see any material impact to advertisers' budget interest with YouTube? And then if you could also comment briefly on Google Maps. This is one of those massive properties that you've owned that's highly used by almost everybody. And I think the monetization to date has been really de minimis. Is there anything that's changed for you in terms of your thought about the ability to monetize Google Maps over time?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [13]
---------------------------------------------------------------------------------
 
           On advertising and monetization in YouTube, we talked a bit about it. We have taken it pretty seriously, and we are taking significant steps. And obviously, as part of doing that, we brought new technical solutions into place. Machine learning is a great example of it. It helps us enforce -- as we improve our policies, it helps us enforce it better. And we are in early days. So as machine learning gets better, I think we'll be able to do all of this even better and create that virtuous cycle. Overall, I'm pretty confident at the rate at which we have made progress. And we are going to continue investing a lot here. It is super important to us that this ecosystem works well. It matters for advertisers. It matters for content creators. And so we take that responsibility very seriously. I would say advertisers have clearly noticed all the improvements we have made. Our conversations with them are very, very positive. And so I'm pretty optimistic about how we'll continue to make progress here. On Google Maps, your question is -- it's a good question. I get surprised that for a property, which we had launched many, many years ago, even now that it's showing strong growth, especially in emerging markets. Maps is an integral part of your mobile phone. And as we get more -- as users get more interested in the real world around them, with AR and so on, I think Maps will continue to play a bigger role. We take a long-term view. It's already impacting monetization very significantly for us with local search. So today, when you use Google, a lot of the information we are able to do is because of Google Maps. But I'm sure you've noticed changes within Google Maps over the past few months. If you open Google Maps, you're traveling or you're out on a Friday evening, we start surfacing a lot more interesting information about what you can do, places to eat and so on. So those are beginning to get good feedback from users. And I think that gives us opportunity to add value there over time as well.
 
---------------------------------------------------------------------------------
 Operator    [14]
---------------------------------------------------------------------------------
 
           And our next question comes from Peter Stabler of Wells Fargo Securities.
 
---------------------------------------------------------------------------------
 Peter Stabler,  Wells Fargo Securities, LLC, Research Division - Director and Senior Analyst    [15]
---------------------------------------------------------------------------------
 
           I want to follow-up on Mark's question on the local opportunity. Assuming that you agree it's a large one, what kind of steps are you taking to educate the smaller businesses out there on the opportunities you have? You've mentioned increasing take-up of local inventory ads. We understand that. But more generally, your go-to-market strategy on how you reach the millions of SMBs out there in terms of educating them on the growing opportunities on a local basis.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [16]
---------------------------------------------------------------------------------
 
           It's a great question, and I think there's a lot of opportunity for us. Today, we have many touch points. Obviously, people, we reach out to SMBs. They want to get listed in Search and in Maps. AdWords Express has been a big part of how they want to advertise on our platforms. We obviously provide things like Google Apps to SMBs. So we have a lot of touch points. And internally, we are beginning to do a much better job of reaching out and having a more thoughtful go-to-market approach. I think there's a lot more work there. But the rate at which we are seeing advertisers, small and medium businesses, on our platform has been growing very, very strongly as well. So indications are that it's already currently working at scale. We have millions and millions of SMBs on our platform, and the number continues to grow very well. But you'll see us invest a lot more here in the years ahead.
 
---------------------------------------------------------------------------------
 Operator    [17]
---------------------------------------------------------------------------------
 
           And our next question comes from Brian Nowak of Morgan Stanley.
 
---------------------------------------------------------------------------------
 Brian Thomas Nowak,  Morgan Stanley, Research Division - Research Analyst    [18]
---------------------------------------------------------------------------------
 
           Can you talk a little bit more about the retail search category? Any high-level commentary on consumer search, query trends in retail, either an area of strength or otherwise? And then you talked about the real-time local inventory integration. But Sundar, I'd be curious if you could talk about any opportunities or areas of innovation in the retail search space that you see to really continue to improve user's retail search experience.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [19]
---------------------------------------------------------------------------------
 
           I think, obviously, when we see what users are looking for in mobile, how shopping is evolving, it's an area we are continuously working on. I've been happy to see the evolution in our shopping experiences. Retail, overall, also happens to be an amazing category for us from a Google Cloud standpoint. So in some ways, we are developing deeper partnerships with retailers around the world. And so as we start doing that, and I think as we get a better understanding of their inventory and the data, how we can translate all of that into our core experiences is a bit of the work ahead. I think that's what excites us about the longer term. Shorter term, I think it's a space we're continuing to invest in. We are actually seeing strong trends in that category.
 
---------------------------------------------------------------------------------
 Operator    [20]
---------------------------------------------------------------------------------
 
           And our next question comes from Dan Salmon of BMO Capital Markets.
 
---------------------------------------------------------------------------------
 Daniel Salmon,  BMO Capital Markets Equity Research - Media and Internet Analyst    [21]
---------------------------------------------------------------------------------
 
           I've got 2 questions on YouTube for Sundar. First, this morning on the earnings call, WPP's CEO, Sir Martin Sorrell, noted that the company is being very responsive, I think, were his words, to some of the recent concerns that we had talked about earlier in the Q&A. We've also seen some official policy changes, things like that. I'd be interested, Sundar, to hear a little bit more about some of the softer outreach that you may be doing, thinking of Philipp Schindler's team, maybe the agency relations team and how your people are reaching out and connecting with their clients, especially as you go into Brandcast. And then the second follow-up on YouTube was, I'd be interested to hear your updated thoughts on the role of the YouTube Spaces. I think Ruth's prepared comments on CapEx mentioned some investments in production equipment, I don't know if that is related to that or something related to cloud, but it does seem that the Spaces remain an important part of YouTube and continue to grow, and I'd love to hear an updated view on them.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [22]
---------------------------------------------------------------------------------
 
           On the first part, I mean, I think you've kind of (inaudible). One of the things I've noticed is depth of relationships we have with our advertisers was very evident to me as we went through this over the past few weeks. I would estimate, I think, Philipp Schindler's team has probably made literally thousands and thousands of calls, in-persons conversations. And I think that deep relationship is what allowed us to respond thoughtfully. And I think the feedback from our partners were very positive and constructive, and I think we are evolving overall to a better place. And so I think, to me, that shows the long-term investments you make in these relationships, et cetera, plays -- plays well at times like these. And Brandcast is, again, an important touch point. And the excitement out of Brandcast, both internally and from our partners, all has the right indications for us. On YouTube on Spaces, I visited the YouTube Space. I took my family to the YouTube Space in New York and we had a lot of fun. Our creators love these spaces. They are something we are thoughtfully building out. They have a good return on investment for us. But we are very thoughtful about it. And I don't think that's a major factor in any of the CapEx we talked about here.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO and SVP    [23]
---------------------------------------------------------------------------------
 
           Yes, exactly. And the CapEx, when I talked about production equipment, we were talking about machines, and that was the primary driver here. We're investing more in machines, given both our growing requirements and the higher cost of the new generation of machines and accelerators. So that will be more expensive in the short term, and we are continuing to build our inventory, but it does increase performance and, we believe, reduce total cost of ownership in the longer term. Just to clarify that on CapEx.
 
---------------------------------------------------------------------------------
 Operator    [24]
---------------------------------------------------------------------------------
 
           And our next question comes from Ross Sandler of Barclays.
 
---------------------------------------------------------------------------------
 Ross Adam Sandler,  Barclays PLC, Research Division - MD of the Americas Equity Research and Senior Internet Analyst    [25]
---------------------------------------------------------------------------------
 
           I'm not sure if this is for Sundar or Ruth, but a question about regulatory. You guys recently reached an agreement in Russia around the Android bundling issue, where you're going to provide options for other browsers and search engines and app stores when a new Android phone is activated. So just wondering if this is the right way to think about these kinds of disputes in other areas of the world where you may be under some regulatory pressure around Android bundles? Or if that was kind of a one-off isolated agreement?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [26]
---------------------------------------------------------------------------------
 
           I think -- without getting into specifics, I think when we deal with regulatory issues, I mean, the concerns vary differently depending on local laws and what the concerns are. I think in the case of Russia, I think there were some specific issues, and I'm glad we were able to work together with the regulatory agencies there, with our partners there to come to a good solution. I'm not sure that's the right template, but as much as -- we are very committed to making sure we work with all the right agencies in all the countries we operate in. And I'm confident we'll get to a good place.
 
---------------------------------------------------------------------------------
 Operator    [27]
---------------------------------------------------------------------------------
 
           And our next question comes from Justin Post of Merrill Lynch.
 
---------------------------------------------------------------------------------
 Justin Post,  BofA Merrill Lynch, Research Division - MD    [28]
---------------------------------------------------------------------------------
 
           Sundar, ahead of this advertising conference, I was thinking about search innovation. And over the last 4 years, you had an acceleration with PLAs, a really acceleration with the third ad link. I'm just wondering, maybe you could talk about what excites you. Or do you think there's still a lot to go on search monetization or coverage? And then from Ruth, obviously, so many areas you can invest in. You could cut price on cloud. You could really ramp up engineers in the core or cloud. Just a lot you can do. And just how does the management team think about balancing profitability versus driving market share and long-term growth?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [29]
---------------------------------------------------------------------------------
 
           On search, I continue to get surprised by the kind of things users reach out to us for and how that keeps evolving and changing. So that -- and with the Assistant now, too, just exposes a whole new surface area. And so I think there's a lot of innovation ahead. In terms of monetization, I think about it. It still looks like there is a lot of -- for example, if you just look at retail, 90% of retail is still offline. So there are many, many secular trends like that which we look at and we see a huge opportunity to help connect users to the information they are looking for. So structurally, I do think we still have lots of both innovation and growth ahead for the long term, and that's how we think about it. Maybe to Ruth on the second part.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO and SVP    [30]
---------------------------------------------------------------------------------
 
           Yes, and really actually building on that, to answer the second part of your question. When we look at the ongoing momentum that you're seeing here in sites revenue, it really does go to innovation. No one change tends to drive results. It's really the combined benefit of all that we're doing across the franchise, continuing to invest in the business and the benefits that we see there. And that's the way we look at it, is we have tremendous opportunity continuing in mobile search and in YouTube across the business there. And as we're looking at these newer opportunities, all that we're doing in cloud, in hardware, YouTube subscription businesses, we analyze each one of those individually, working very closely with the leaders and the milestones that are established there. We do very much across the business have an operating principle that too many resources and too few can lead to suboptimal decisions and execution. And so what we're looking at over a multiyear period is the pace of innovation that's appropriate, given the sizable opportunity. But the key point, and I've said on so many different calls, is that we remain focused on long-term value creation. And we're excited about the growth opportunities, not just within Google, but across Alphabet, with all that we're doing in Other Bets. And so we're looking at these, again, individually over a multiyear period, looking at milestones and appropriately calibrating the pace of investment that is logical. And at the same time, we continue to have a focus on enhancing efficiencies where we can. But overall, as I keep saying, our main priority remains revenue and profit dollar growth.
 
---------------------------------------------------------------------------------
 Operator    [31]
---------------------------------------------------------------------------------
 
           And our next question comes from Michael Nathanson of MoffettNathanson.
 
---------------------------------------------------------------------------------
 Michael Brian Nathanson,  MoffettNathanson LLC - Co-Founder, Partner and Senior Research Analyst    [32]
---------------------------------------------------------------------------------
 
           I have 2 for Sundar. The first is, now that you've launched YouTube TV, I wonder, can you tell us about the advertising opportunity there? And then what are you going to do, given all the assets, to maximize inventory for marketers? And then secondly, I wonder would that focus on brand safety. You hear it now from agencies and the bigger marketers. What's going to be the long-term impact, do you think, to YouTube programmatic from a more focused view on finding the right places to advertise?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [33]
---------------------------------------------------------------------------------
 
           On your first question about YouTube TV, we're just getting started. I love -- I think the product is really intended for the YouTube generation. It's really great to see a take on how to consume TV, which is mobile-first for that generation. And I think -- I've been using the product and enjoying it. And I think that gives us -- as we rethink that experience and make it work better and scale it up, I think it's -- your question is valid, the delivery of ads on TV has also not evolved at the same speed as the delivery of ads and media content on the Internet. So I think -- we think we have a significant opportunity to improve that experience, and especially for advertisers to be able to think across all these surfaces. So I think there's a lot of opportunity, but I think we have -- we are very focused on the consumer experience first. On your second question around longer-term impact. Look, these types of issues are not new for us. Over the past many, many years, as we build services, scale it up on the web, constantly, things evolve. We adapt to it, be it from spam and e-mail or how we do search ranking and all the efforts we put into it. These are the classes of problems our engineers are really, really good at working. These are large-scale system problems, and especially with machine learning and AI over time, I think we can really put in the right systems in place. And our teams work very thoughtfully with the external ecosystem at our advertisers, agencies and partners. And I think that balance will help us get it right for the very long term.
 
---------------------------------------------------------------------------------
 Operator    [34]
---------------------------------------------------------------------------------
 
           And our next question comes from Anthony DiClemente of Nomura.
 
---------------------------------------------------------------------------------
 Anthony Joseph DiClemente,  Nomura Securities Co. Ltd., Research Division - MD and Senior Analyst    [35]
---------------------------------------------------------------------------------
 
           I have one for Ruth and one for Sundar. Ruth, sites TAC as a percentage of revenue grew sequentially and year-over-year. I totally understand that mobile search is contributing meaningfully to the profit dollars. But as we look at the sites TAC as a percentage, is there a quarter or is there a point in time looking forward where that sort of elevated TAC growth rate will anniversary or fall back into line with sites revenue growth as a growth rate? Is there anything you can do to proactively manage that TAC growth? And then for Sundar, on YouTube, as the competition out there for video content really intensifies, to what extent is YouTube providing more favorable economics to its content creators in order to ensure that YouTube remains the leading platform, and importantly, in a lot of cases, an exclusive platform for your most popular channel?
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO and SVP    [36]
---------------------------------------------------------------------------------
 
           So on sites TAC, as we've often discussed and as you said in your question, there are a number of factors that affect sites TAC as a percentage of sites revenue, and the primary driver has been the strong growth in mobile and the fact that more mobile searches are subject to TAC. And the other factors include the mix of paid versus organic as well as changes in partner mix or agreement terms. And when we look year-over-year, the primary driver of the increase is, very much to your question, the strength in mobile search, and we do expect sites TAC to increase as a percentage of revenues. But again, our focus continues to be on growing profit dollars. And I think the main point is we're very pleased to have a very strong business in a rapidly growing area, and that's benefiting our profit dollars even as the TAC percentage increases.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [37]
---------------------------------------------------------------------------------
 
           And on YouTube, I look at it from a content creator standpoint. I think there are a lot of factors which are working well. So for example, when we recently invested in original shows, we find that like over half the time people spend watching originals is on their mobile phones. They find that creators who are featured in originals experience a significant boost in YouTube subscribers and watch time on their main channels as well, often from new fans. So all of this shows us that -- the enthusiasm which is there for the platform, how creators can do unique things which are different from what they can do on other platforms. And I think that's what gives us the differentiation here. And in these areas, we are just getting started, and so there's a lot more to come. And I think that will help us provide better economics to them, better engagement for them and I think positions us well.
 
---------------------------------------------------------------------------------
 Operator    [38]
---------------------------------------------------------------------------------
 
           And our next question comes from Ben Schachter of Macquarie.
 
---------------------------------------------------------------------------------
 Benjamin Ari Schachter,  Macquarie Research - Head of TMET Research    [39]
---------------------------------------------------------------------------------
 
           Sundar, when we think about virtual reality and augmented reality, from your point of view, what are the key steps that are needed to see more mass-market appeal and usage? And could you help quantify the amount of investment that you are willing to place in this area before you expect to see a payoff?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [40]
---------------------------------------------------------------------------------
 
           So I think, obviously, you're seeing we are very happy with the progress we have seen with Daydream, just like we built Android. And we've been -- we are good at building platforms and ecosystems, and I think we are taking the right first steps with VR there as well. When I broadly look at VR and AR, I think there are -- I think all of us clearly understand the potential, and technically, we are making the breakthroughs that are needed. And all of it needs to converge from a hardware, software, services standpoint to a stage where it has mass-market appeal. And I think that is still some ways away. The thing which gives me excitement is all these changes start happening with a set of early adopters and most mainstream. And so we are engaging at that level with the early adopters, and that's where Daydream is working well. We are learning how to write great content on top of VR. YouTube, Google Earth VR, they use tilt brush, these are all great examples. So we -- and underlying technology-wise, be it all the kinds of sensors and tracking you need to do, the machine learning and AI you need, things like voice recognition, everything, it's just a computing evolution. And so everything we are investing today in machine learning and AI, as well as what we are doing in our computing platforms, transitions well. So I think we are already well positioned to play this. And so I think we'll thoughtfully approach it and we'll approach it more holistically.
 
---------------------------------------------------------------------------------
 Operator    [41]
---------------------------------------------------------------------------------
 
           And our final question comes from the line of Colin Sebastian of Robert Baird.
 
---------------------------------------------------------------------------------
 Colin Alan Sebastian,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [42]
---------------------------------------------------------------------------------
 
           I guess this is a follow-up to the question on voice interfaces and personal assistants, something that Larry also called out in his Founders letter. It appears there are more tests around monetization, including transactions and integration with Shopping Express. I wonder if there's a view internally now as to how best to make that transition in a voice-first world towards monetization towards voice and less text and video-centric.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google    [43]
---------------------------------------------------------------------------------
 
           We are very focused actually on the consumer experience now. And it's a good question. And we have always had these questions, be it the early days of search or when YouTube was first built out. How do [I see these] experiences created, like, will YouTube ever make money? And so I think if you go and create these experiences in a way that works at scale for users, the monetization will follow. And obviously -- and the models will be different than we have today. But I think we are squarely focused right now on delivering a world-class experience through voice and through Assistant.
 
---------------------------------------------------------------------------------
 Operator    [44]
---------------------------------------------------------------------------------
 
           Thank you. And that concludes our question-and-answer session for today. I'd like to turn the conference back over to Ellen West for closing remarks.
 
---------------------------------------------------------------------------------
 Ellen West,   -     [45]
---------------------------------------------------------------------------------
 
           Thanks, everyone, for joining us today. We look forward to speaking with you again on our second quarter 2017 call. Thank you, and good day.
 
---------------------------------------------------------------------------------
 Operator    [46]
---------------------------------------------------------------------------------
 
           Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program, and you may all disconnect. Everyone, have a great day.
 
@@ -431,9 +323,7 @@ Operator    [46]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -444,9 +334,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Thomson Reuters reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -472,6 +360,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2019 Thomson Reuters. All Rights Reserved.
---------------------------------------------------------------------------------

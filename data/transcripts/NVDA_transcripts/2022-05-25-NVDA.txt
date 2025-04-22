@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q1 2023 NVIDIA Corp Earnings Call
 MAY 25, 2022 / 9:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Colette M. Kress
    NVIDIA Corporation - Executive VP & CFO
@@ -17,9 +15,7 @@ Corporate Participants
  * Simona Jankowski
    NVIDIA Corporation - VP of IR
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Christopher Caso
    Raymond James & Associates, Inc., Research Division - Research Analyst
@@ -42,26 +38,19 @@ Conference Call Participiants
  * Matthew D. Ramsay
    Cowen and Company, LLC, Research Division - MD & Senior Technology Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 Good afternoon. My name is David, and I'll be your conference operator today. At this time, I'd like to welcome everyone to NVIDIA's first quarter earnings call. Today's conference is being recorded. (Operator Instructions) Thank you. 
 Simona Jankowski, you may begin your conference.
 
---------------------------------------------------------------------------------
 Simona Jankowski,  NVIDIA Corporation - VP of IR    [2]
---------------------------------------------------------------------------------
 Thank you. Good afternoon, everyone, and welcome to NVIDIA's conference call for the first quarter of fiscal 2023. With me today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer; and Colette Kress, Executive Vice President and Chief Financial Officer. 
 I'd like to remind you that our call is being webcast live on NVIDIA's Investor Relations website. The webcast will be available for replay until the conference call to discuss our financial results for the second quarter of fiscal 2023. The content of today's call is NVIDIA's property. It can't be reproduced or transcribed without our prior written consent. 
 During this call, we may make forward-looking statements based on current expectations. These are subject to a number of significant risks and uncertainties and our actual results may differ materially. For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent Forms 10-K and 10-Q and the reports that we may file on Form 8-K with the Securities and Exchange Commission. All our statements are made as of today, May 25, 2022, based on information currently available to us. Except as required by law, we assume no obligation to update any such statements. 
 During this call, we will discuss non-GAAP financial measures. You can find the reconciliation of these non-GAAP financial measures to GAAP financial measures in our CFO commentary, which is posted on our website. 
 With that, let me turn the call over to Colette.
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [3]
---------------------------------------------------------------------------------
 Thanks, Simona. We delivered a strong quarter driven by record revenue in both Data Center and Gaming, with strong fundamentals and execution against a challenging macro backdrop. 
 Total revenue of $8.3 billion was a record, up 8% sequentially and up 46% year-on-year. Data Center has become our largest market platform, and we see continued strong momentum going forward. 
 Starting with Gaming. Revenue of $3.6 billion rose 6% sequentially and 31% year-on-year, powered by the GeForce RTX 30 Series product cycle. Since launching in the fall of 2020, the RTX 30 Series has been our best Gaming product cycle ever. The gaming industry has grown tremendously, with 100 million new PC gamers added in the past 2 years according to Newzoo. And NVIDIA RTX has set new standard for the industry, with demand from both first-time GPU buyers as well as those upgrading their PCs to experience the 250-plus RTX-optimized games and apps, double from last year. We estimate that almost 1/3 of the GeForce Gaming GPU installed base is now on RTX. 
@@ -99,39 +88,26 @@ In closing, let me highlight the upcoming events for the financial community. We
 We will now open the call for questions. Operator, can you please poll for questions?
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 (Operator Instructions) We'll take our first question from C.J. Muse with Evercore ISI.
 
---------------------------------------------------------------------------------
 Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [2]
---------------------------------------------------------------------------------
 I guess would love to get an update on how you're thinking about the Gaming cycle from here. The business has essentially doubled over the last 2 years. And now we've got some crosswinds with crypto falling off, channel potentially clearing ahead of a new product cycle. You talked about macro challenges. But at the same time, only 1/3 of the installed base has RTX and we're moving out from under supply. So we'd love to hear your thoughts from here once we get beyond kind of the challenges around COVID lockdown in the July quarter. How are you thinking about Gaming trends?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [3]
---------------------------------------------------------------------------------
 Yes, C.J., thanks for the question. The -- you captured a lot of the dynamics well in your question. The underlying dynamics of the Gaming industry is really solid, net of the situation with COVID lockdown in China and Russia. The rest of the market is fairly robust. And we expect the Gaming dynamics to be intact. 
 There are several things that are driving the Gaming industry. In the last 2 years alone, 100 million new gamers came into the PC industry. The format has expanded tremendously. And the ways that people are using their PCs to connect with friends, to be an influencer as a platform for themselves, use it for broadcast. So many people are now using their home PCs as their second workstation, if you will, second studio. Because they're also working from home. It is our primary way of communicating these days. The need for GeForce PCs have never been greater. 
 And so I think the fundamental dynamics are really good. And so as we look into the second half of the year, we look -- it's hard to predict exactly what -- when COVID and the war in Russia is going to be behind us, but nonetheless, the governing dynamics of the gaming industry is great.
 
---------------------------------------------------------------------------------
 Operator    [4]
---------------------------------------------------------------------------------
 Next, we'll go to Matt Ramsay with Cowen.
 
---------------------------------------------------------------------------------
 Matthew D. Ramsay,  Cowen and Company, LLC, Research Division - MD & Senior Technology Analyst    [5]
---------------------------------------------------------------------------------
 Jen-Hsun, I wanted to ask a bit of a question on the Data Center business. In this upcoming cycle with H100, there's some I/O upgrades that are happening in servers that I think are going to be a fairly strong driver for you, in addition to what's going on with Hopper and the huge performance leaps that are there. 
 I wanted to ask a longer-term question, though, around your move to NVLink with Grace and Hopper and what's going on with your whole portfolio. Do you envision the business continuing to be sort of card-driven attached to third-party servers? Or do you think revenue shifts dramatically or in a small way, over time, to be more sort of vertically integrated all of the chips together on NVLink? And how is the industry sort of responding to that potential move?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [6]
---------------------------------------------------------------------------------
 Yes, I appreciate the question. The -- let's see, the first point that you made is a very big point. The next generation of servers that are being teed up right now are all Gen 5. The I/O performance is substantially higher than what was available before. And so you're going to see a pretty large refresh as a result of that. Brand-new networking cards from our company and others. Gen 5, of course, drives new platform refresh. And so we're perfectly timed to ramp into the Gen 5 generation with Hopper. 
 There are a lot of different system configurations you want to make. If you take a step back and look at the type of systems that are necessary for data processing, scientific computing, machine learning and training, inference done in the cloud for hyperscale nature, done on-prem for enterprise computing, done at the edge. Each one of these workloads and deployment locations, the way that you manage would dictate a different system architecture. 
 So there isn't one size that fits all, which is one of the reasons why it's so terrific that we support PCI Express, that we innovate a chip-to-chip interconnect for the very first [time], before anybody else did. This is now some 7 years ago. We're in our fourth generation of NVLink that allows us to connect 2 chips next to each other, 2 dies, 2 chips, 2 modules, 2 SXM modules to 2 systems to multiple systems. 
@@ -141,36 +117,24 @@ In the future, you're going to see large language models essentially becoming a 
 So I think the net of it all is that our ability to support every single workload, because we have a universal accelerator running every single workload from data processing to data analytics to high-performance computing to training to inference, that we can support ARM and x86, that we support PCI Express to multisystem NVlink to multi-chip NVLink to multi-die NVLink. That capability for us is -- makes it possible for us to really be able to serve all of these different segments. 
 With respect to vertical integration, I think that's system integration. The better way to make me saying that is that system integration is going to come in all kinds of different ways. We're going to do semi-custom chips, as we've done with many companies in the past, including Nintendo. We'll do semi-custom chiplets as we do with NVLink. NVLink is open to our partners, and they could bring it to any fab and connect it coherently into our chip. We could do multi-module packages. We could do multi-package systems. So there's a lot of different ways to do system integration.
 
---------------------------------------------------------------------------------
 Operator    [7]
---------------------------------------------------------------------------------
 Next, we'll go to Stacy Rasgon with Bernstein Research.
 
---------------------------------------------------------------------------------
 Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [8]
---------------------------------------------------------------------------------
 I wanted to follow up on the sequential. So Colette, I know you said the $500 million was a $400 million hit to Gaming and a $100 million hit to data. So I'm assuming, that doesn't mean the Gaming is down $400 million. I mean, is Gaming -- do you see Gaming actually down more than the actual Russia and lockdown hit? And I guess just how do I think about the relative sequentials of the businesses in light of those constraints that you guys are facing?
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [9]
---------------------------------------------------------------------------------
 Sure. Let me start first with what does that mean to gaming, what does that mean to Gaming for Q2. We do expect Gaming to decline into Q2. We still believe our end demand remains very strong. Ampere has just been a great architecture, and there's many areas where we continue to see strength and growth in both our sell-through and probably what we will see added into that channel as well. 
 But in total, Q2 Gaming will decline from last quarter from Q1, that it will probably decline in the teens, as we try and work through some of these lockdowns in China, which are holding us up. So overall, the demand for Gaming is still strong. We still expect end demand to grow year-over-year in Q2.
 
---------------------------------------------------------------------------------
 Operator    [10]
---------------------------------------------------------------------------------
 Next, we'll go to Mark Lipacis with Jefferies.
 
---------------------------------------------------------------------------------
 Mark John Lipacis,  Jefferies LLC, Research Division - MD & Senior Equity Research Analyst    [11]
---------------------------------------------------------------------------------
 If you listen to the networking OEMs this earnings season, it seems that there's a lot of talk about increased spending by enterprises on their data centers and sometimes you hear them talking about how this is being driven by AI. You talked about your year-over-year growth in your cloud versus enterprise spending. 
 I wonder if you could talk about what you are seeing sequentially? Are you seeing a sequential inflection in the enterprise? And can you talk about the attach rate of software for enterprise versus data centers? And which software is -- are you seeing the most interest? I know you talked about, is it Omniverse? Is it natural language processing? Or is there one big driver? Or is it a bunch of drivers for the various different software packages you have?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [12]
---------------------------------------------------------------------------------
 Yes. Thanks, Mark. We had a record Data Center business this last quarter. We expect to have a record -- another record quarter this quarter, and we're fairly enthusiastic about the second half. AI and data-driven machine learning techniques were developed for writing software and extracting insight from the vast amount of data that companies have is incredibly strategic to all the companies that we know. Because in a funnel analysis, AI is about automation of intelligence, and most companies are about domain-specific intelligence. 
 We want to produce intelligence. And there are several techniques now that have been created to make it possible for most companies to apply their data to extract insight and to automate a lot of the predictive things that they have to do and do it quickly. And so I think the trend that you hear other people are experiencing about machine learning, data analytics, data-driven insights, artificial intelligence, however, it's described, is all exactly the same thing. And it's sweeping just about every industry and every company. 
 Our networking business is also highly supply constrained. Our demand is really, really high. And it requires a lot of components aside from just our chips. Components and transceivers and connectors and cables. And just -- it's a really -- it's a complicated system, the network, and there are many physical components. And so the supply chain has been problematic. We're doing our best. And our supply has been increasing from Q4 to Q1. We're expecting it to increase in Q2 and increase in Q3 and Q4. And so we're really, really grateful for the support from the components industry around us, and we'll be able to increase that. 
@@ -182,26 +146,18 @@ Whether it's interacting with physics directly, meaning robotics or being able t
 Omniverse has now -- let's see some -- we're still early in the deployment of Omniverse for commercial license. It's been a couple of quarters now since we've released Omniverse enterprise. And I think, at this point, we have 10% of the world's top 100 companies that are already customers, licensing customers, substantially more who are evaluating. I think it's been downloaded nearly 200,000 times. It has been tried in some 700 companies. And Colette highlighted some of the companies, you might see some of the companies that are using it in all kinds of interesting applications at GTC. 
 And so I fully expect that the NVIDIA AI engine, the Omniverse engine, are going to be very successful for us in the future and contribute greatly to our earnings.
 
---------------------------------------------------------------------------------
 Operator    [13]
---------------------------------------------------------------------------------
 Next, we'll go to Vivek Arya with BofA Securities.
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [14]
---------------------------------------------------------------------------------
 Just wanted to clarify, Colette, if your Q2 outlook includes any destocking benefits from the new products that you're planning to launch this year. 
 And then, Jen-Hsun, my question is for you. You're still guiding Data Center to a very strong, I think, close to 70% or so year-on-year growth despite all the headwinds. Are you worried at all about all the headlines about the slowdown in the macro economy? Like is there any cyclical impact on Data Center growth that we should keep in mind as we think about the second half of the year?
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [15]
---------------------------------------------------------------------------------
 Yes. Vivek, let me first answer the question that you asked regarding any new products as we look at Q2. As we discussed about it, most of the ramp that we have of our new architectures, we're going to see in the back half of the year. We're going to start to see, for example, Hopper will probably be here in Q3, but starting to ramp closer to the end of the calendar year. So you should think about most of our product launches to be ramping in the second half of the year on that part. 
 I'll turn it over for Jen-Hsun for the rest.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [16]
---------------------------------------------------------------------------------
 Thanks. Our Data Center demand is strong and remains strong. Hyperscale and cloud computing revenues, as you mentioned, has grown significantly, has doubled year-over-year. And we're seeing really strong adoption of A100. A100 is really quite special and unique in the world of accelerators. And this is one of the really, really great innovations as we extended our GPU from graphics to CUDA to Tensor Core GPUs. It's now a universal accelerator. 
 And so you could use it for data processing. For ETL, for example, extract, transform and load. You could use it for database acceleration. Many SQL functions are accelerated on NVIDIA GPUs. We accelerate Rapids, we accelerate -- which is the Python version, Data Center scale version of Pandas, We accelerate Spark 3.0. And so from database queries to data processing to extraction and transform and loading of data before you do training and inference and, whatever, image processing or other algorithmic processing you need to do can be fully accelerated on A100. And so we're seeing great success there. 
 At the core and closer to what is happening today, you're seeing several different very important new AI models that are being invested in at very, very large scale and with great urgency. 
@@ -211,39 +167,27 @@ And then the third is this groundbreaking piece of work that's related to Transf
 Now we're working with thousands of start-ups, large companies that are building, who are using the public cloud. And so it's driving a lot of demand for us in the public cloud. I think we have now 10,000 AI inception startups that are working with us and using NVIDIA AI. Whether it's on-prem or in the cloud, it saves money because the computation time is significantly reduced. The quality of service is a lot better, and they could do greater things. And so that's driving AI in the cloud. 
 And so all of these different factors, whether it's just the industrial recognition of the importance of AI, the transformative nature of these new AI models, recommender systems, large language models, conversational AI. The thousands of companies around the world that are using NVIDIA AI in the cloud -- driving public cloud demand, all of these things are driving our Data Center growth. And so we expect to see Data Center demand remain strong.
 
---------------------------------------------------------------------------------
 Operator    [17]
---------------------------------------------------------------------------------
 Next, we'll go to Tim Arcuri with UBS.
 
---------------------------------------------------------------------------------
 Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [18]
---------------------------------------------------------------------------------
 I had a question about this $500 million impact for July and whether it's more supply related or demand related. And that's because most others in semis are sort of citing this China stuff, in particular, as more of a logistics issue, so more of a supply issue. But the language, Colette, you were using in your commentary side of lower sell-through in Gaming and sort of the absence of sales in Russia, to me, that sounds a little more demand, which would make sense in the context of this new freeze on hiring that you have.
 So I ask because if it's supply related, then you could argue that it's not perishable and really just timing. but if demand related, that might never come back, and it could be the beginning of falling knife. So I'm wondering if you could sort of walk through that for me.
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [19]
---------------------------------------------------------------------------------
 Thanks, Tim, for the question. Let me try a bit here on the China and Russia, two very different things. The current China lockdowns that we are seeing, interestingly, has implications to both supply and demand. We have seen challenges in terms of the logistics throughout the country, things going in and out of the country. It puts a lot of pressure on just logistics that were already under pressure. 
 From a demand perspective, it has also been hit from the Gaming side. You have very large cities that are in full lockdown focusing really on other important things for the citizens there. So it's impacting our demand. We do believe that they will come out of COVID and the demand for our products will come back. We do believe that will occur. The supply, we'll sort it out. It's very difficult to determine how. 
 Now in the case of Russia, we're not selling to Russia. That's something that we had announced earlier last quarter. But there were plans and Russia has been a part of our overall company revenue of probably about 2% of our company revenue historically. And a little larger percentage when you look at our Gaming business. I hope that helped.
 
---------------------------------------------------------------------------------
 Operator    [20]
---------------------------------------------------------------------------------
 Next, we'll go to Ambrish Srivastava with BMO.
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst    [21]
---------------------------------------------------------------------------------
 And I actually really appreciate it that you called out demand. For most chip companies, it seems like it's heresy to say demand is a problem, so it's so refreshing to hear that. 
 I had a question on the second half, and it relates to both Data Center as well as Gaming. So last couple of times you have talked publicly, you have made comments that your visibility into the Data Center has never been better. So I was wondering, if you just take out the Russia impact, is that still true? All the orders that you have been getting, they're intact. And you did say that business will see a strong momentum. I just want to make sure that statement of confidence you have made stays. 
 And then on Gaming, Colette, do we expect second half to be up year-over-year just based on the guide for second quarter? It seems like it could be up sequentially but may not return to year-over-year growth in Q3.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [22]
---------------------------------------------------------------------------------
 Yes. Ambrish, thanks for the question. On first principles, it should be the case that our visibility of Data Centers is vastly better, vastly better than a couple of years ago. And the reason for that is several. One, if you recall a couple 2, 3 years ago, deep learning and AI was starting to accelerate in the most computer science deep companies in the world with CSPs and hyperscalers. And but just about everywhere else, it was still quite nascent. And there was a couple of reasons for that. Obviously, the understanding of the technology is not as pervasive at the time. The type of industrial use cases for artificial intelligence requires labeling of data that's really quite difficult. 
 And then now with Transformers, you have unsupervised learning and other techniques, zero-shot learning that allows us to do all kinds of interesting things without having to have human-labeled data. We even have synthetic-generated data with Omniverse that helps customers do data generation without having to label data, which is either too costly or, quite frankly, oftentimes impossible. And so now the knowledge and the technology has evolved to a place that most of the industries could use artificial intelligence at a fairly effective way and in many industries rather transformative. 
 And so I think, number one, we went from clouds and hyperscalers to all of industries. Second, we went from training-focused to inference. Most people thought that inference was going to be easy. It turns out the inference is by far the harder. And the reason for that is because there are so many different models and there are so many different use cases and so many quality of service requirements. And you want to run these inference models in a small of a footprint as you can. 
@@ -252,60 +196,40 @@ And so the second dimension is training to inference. The third dimension is tha
 And then the final concept is really this industrial deployment now of AI that's causing us to be able to, in just about every industry, find growth. And so as you know, our cloud and hyperscalers are growing very, very quickly. However, the vertical part, vertical industries, which is the financial services and retail and telco, all of those vertical industries have also grown very, very nicely. 
 And so in all of those different dimensions, our visibility should be a lot better. And then starting a couple of years ago, adding the Mellanox portfolio to our company, we're able to provide a lot more solution-oriented, end-to-end platform solutions for companies that don't have the skills and don't have the technical depth to be able to stand up these sophisticated systems. And so our networking business is growing very, very nicely as well.
 
---------------------------------------------------------------------------------
 Operator    [23]
---------------------------------------------------------------------------------
 Next, we'll go to Harlan Sur with JPMorgan.
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan Chase & Co, Research Division - Senior Analyst    [24]
---------------------------------------------------------------------------------
 Let me ask a question. I just want to maybe just ask this question a little bit more directly. So it's good to see the team being able to drive -- navigate the dynamic supply chain environment, right? You booked strong sequential growth in Data Center in April, here in the July quarter, even with some demand impact from Russia, right? And so as we think about the second half of the year, cloud spending is strong, and it's actually, I think, accelerating. 
 You're getting ready to ramp H100 later in the year. Mellanox, I think, is getting more supply as you move through the year. And in general, I think previously, you guys were anticipating sequential supply and revenue growth for the business through this entire year. I understand the uncertainty around Gaming. But does the team expect continued sequential growth in Data Center through the remainder of the year?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [25]
---------------------------------------------------------------------------------
 Either one of us can -- the answer is yes. The answer is yes. We see a strong demand in Data Center. Hyperscale to cloud computing to vertical industries. Ampere is going to continue to scale out. It's been qualified in every single company in the world. And so after 2 years, it remains the best universal accelerator on the planet. And it's going to continue to scale out in all these different domains and different markets. 
 We're going to layer on top of that a brand-new architecture, Hopper. I'm going to layer on top of that brand-new networking architectures. Quantum 3, CX-7, BlueField 3, and we have increasing supply. And so we're looking forward to an excellent quarter next quarter again for Data Centers and going into the second half.
 
---------------------------------------------------------------------------------
 Operator    [26]
---------------------------------------------------------------------------------
 Next, we'll go to Chris Caso with Raymond James.
 
---------------------------------------------------------------------------------
 Christopher Caso,  Raymond James & Associates, Inc., Research Division - Research Analyst    [27]
---------------------------------------------------------------------------------
 Wonder if you could speak a little bit about the purchase obligations which seemed like they were up again in the quarter, and how that -- was that a function of longer-dated obligations? Or a higher magnitude of obligations? And maybe if you could just speak to supply constraints in general. You've mentioned a couple of times in the call about continued constraints in the networking business. What about the other parts of the business? Where are you still constrained?
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [28]
---------------------------------------------------------------------------------
 Yes. So let me start here, and I'll see if Jen-Hsun wants to add more of that. Our purchase obligations as well as our prepaids have 2 major things to keep in mind. One, for the first time ever, we are pre-paying to make sure that we have that supply and those commitments long term. And additionally, on our purchase obligations, many of them are for long-lead-time items that are a must for us to procure to make sure that we have the products coming to market. 
 A good percentage of our purchase commitments is for our Data Center business, which you can imagine, are much larger systems, much more complex systems. And those things that we are procuring to make sure we can feed the demand, both in the upcoming quarters and further. 
 Areas in terms of where we are still a little bit supply constrained are networking. Our demand is quite strong. We've been improving it each time. But yes, we still have demand -- excuse me, supply concerns with networking still. 
 Is there others that you want to add on, Jen-Hsun?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [29]
---------------------------------------------------------------------------------
 No, I thought you were perfect. That's perfect.
 
---------------------------------------------------------------------------------
 Operator    [30]
---------------------------------------------------------------------------------
 Our final question comes from Aaron Rakers with Wells Fargo.
 
---------------------------------------------------------------------------------
 Aaron Christopher Rakers,  Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Equity Analyst    [31]
---------------------------------------------------------------------------------
 And most of my questions around Gaming and Data Center have been answered. But I guess I'll ask about the Auto segment. While it's still small, clearly, you guys sound confident in that business, starting to see "significant sequential growth" into this next quarter. I'm wondering if you could help us kind of think about the trajectory of that business over the next couple of quarters. 
 And I think, in the past, you've said that, that should start to really inflect higher as we move into the second half of the year. Just curious if you could help us think about that piece of the business.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [32]
---------------------------------------------------------------------------------
 Several data points. We are just starting -- we have just started shipping O-RAN in the first quarter of shipping production O-RAN. O-RAN is a robotics processor. It's designed for a software-defined robotic card or robotic pick and placer or a robotic mover, logistics mover. 
 We've been designed into 35 car and trucks and robo taxi companies and more others, if you include logistics movers and last mile delivery systems and farming equipment. And the number of design wins for O-RAN is really quite fantastic. O-RAN is a revolutionary processor. And it's designed as a -- if you will, a Data Center on a chip. And it is the first Data Center on a chip that is robotic, processes sensor information, it's safe, it has the ability to be rather resilient. It has confidential computing. It is designed to be secure, designed to be all those things because these data centers are going to be everywhere. 
 And so O-RAN is really a technological marvels in production. We experienced very likely the lowest auto quarter in some time -- for some time. And the reason for that is because over the next 6 years-or-so, we have $11 billion and counting of business that we've secured, estimated. And so I think it's a fairly safe thing to say now that O-RAN and our autonomous vehicle and robotics business is going to be our next multibillion dollar business. It's on its way surely there. 
@@ -313,14 +237,10 @@ The robotics and autonomous systems and autonomous machines, whether they move o
 We have 4 pillars to our strategy for autonomous systems. Starting from the data processing and the AI training part of it to train robotics AIs; second, to simulate robotics AIs, which is Omniverse; third, to [build] the memory of the robotics AI otherwise known as mapping; and then finally, the actual robotics application and the robotics processor in the system. And that's where O-RAN goes. 
 But O-RAN is just 1 of our 4 pillars of our robotics strategy and the next wave of AI. And so I am really optimistic and really enthusiastic about the next phase of the computer industry's growth. And I think a lot of it is going to be at the edge. A lot of it's going to be about robotics.
 
---------------------------------------------------------------------------------
 Operator    [33]
---------------------------------------------------------------------------------
 Thank you. I'll now turn it back over to Jen-Hsun Huang for any additional closing remarks.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [34]
---------------------------------------------------------------------------------
 Thanks, everyone. 
 The full impact and duration of the war in Ukraine and COVID lockdowns in China is difficult to predict. However, the impact of our technology and our market opportunities remain unchanged. The effectiveness of deep learning AI continues to astound. The Transformer model, which led to the natural language understanding breakthroughs, is being advanced to learn patterns with great spatial, sequential and temporal complexity. Researchers are creating Transformer models that are revolutionizing applications from robotics to drug discovery. 
 The effectiveness of deep learning AI is driving companies across industries to adopt NVIDIA for AI computing. We're focused on 4 major initiatives: First, ramping our next generation of AI infrastructure chips and platforms, Hopper GPU, BlueField DPU, NVLink, InfiniBand, Quantum InfiniBand, Spectrum Ethernet networking. And all this to help customers build their AI factories and take advantage of new AI breakthroughs like Transformers. 
@@ -330,9 +250,7 @@ And fourth, with our software platforms, adding new value to our ecosystem with 
 These initiatives will greatly advance AI, and while continuing to extend this most impactful technology of our time to scientists in every field and companies in every industry. 
 We look forward to updating you on our progress next quarter. Thank you.
 
---------------------------------------------------------------------------------
 Operator    [35]
---------------------------------------------------------------------------------
 This concludes today's conference call. You may now disconnect.
 
 
@@ -341,9 +259,7 @@ This concludes today's conference call. You may now disconnect.
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -354,9 +270,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -382,6 +296,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2022 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

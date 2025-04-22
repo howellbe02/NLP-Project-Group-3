@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q2 2021 Intel Corp Earnings Call
 JULY 22, 2021 / 9:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Tony Balow
    Intel Corporation - Senior Director of IR
@@ -17,9 +15,7 @@ Corporate Participants
  * George S. Davis
    Intel Corporation - Executive VP & CFO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Srinivas Reddy Pajjuri
    SMBC Nikko Securities America, Inc., Research Division - Research Analyst
@@ -48,18 +44,13 @@ Conference Call Participiants
  * Matthew D. Ramsay
    Cowen and Company, LLC, Research Division - MD & Senior Technology Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Thank you for standing by, and welcome to the Intel Corporation Second Quarter 2021 Earnings Conference Call. (Operator Instructions) As a reminder, today's program is being recorded. 
 And now I'd like to introduce your host for today's program, Tony Balow, Head of Investor Relations. Please go ahead, sir.
 
---------------------------------------------------------------------------------
 Tony Balow,  Intel Corporation - Senior Director of IR    [2]
---------------------------------------------------------------------------------
 
           Thank you, operator. Welcome to Intel's second quarter earnings conference call. By now, you should have received a copy of our earnings release and the earnings presentation. If you've not received both documents, they are available on our investor website, intc.com. The earnings presentation is also available in the webcast window for those joining us online. 
 I'm joined today by our CEO, Pat Gelsinger; and our CFO, George Davis. In a moment, we'll have brief remarks from both followed by Q&A. 
@@ -67,9 +58,7 @@ Before we begin, let me remind everyone that today's discussion contains forward
 A brief reminder that this quarter, we have provided both GAAP and non-GAAP financial measures. Today, we will be speaking to the non-GAAP financial measures when describing our consolidated results. The earnings presentation and earnings release available on intc.com include the full GAAP and non-GAAP reconciliations. 
 With that, let me hand it over to Pat.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [3]
---------------------------------------------------------------------------------
 
           Thank you, Tony. Good afternoon, everyone. Thanks for joining our second quarter earnings call. It's a thrilling time for both the semiconductor industry and for Intel. We're seeing unprecedented demand as the digitization of everything is accelerated by the superpowers of AI, pervasive connectivity, cloud-to-edge infrastructure and, increasingly, ubiquitous compute. Our breadth and depth of software, silicon and platforms and packaging and process, combined with our at-scale manufacturing, uniquely positions Intel to capitalize on this vast growth opportunity. 
 Our Q2 results, which exceeded our top and bottom line expectations, reflect the strength of the industry, the demand for our products as well as the superb execution of our factory network. As I've said before, we are only in the early innings of what is likely to be a decade of sustained growth across the industry. Our momentum is building as we once again beat expectations and raised our full year revenue and EPS guidance. 
@@ -96,9 +85,7 @@ While there is more work ahead, we are moving at a torrid pace, and I look forwa
 Finally, at our Investor Day on November 18, we'll pull it all together and present a compelling long-term business plan to drive sustained growth and shareholder value creation. As you can see, we have a lot planned for the rest of the year. 
 But for now, I'll turn it over to George to discuss our Q2 performance and outlook.
 
---------------------------------------------------------------------------------
 George S. Davis,  Intel Corporation - Executive VP & CFO    [4]
---------------------------------------------------------------------------------
 
           Thanks, Pat, and good afternoon, everyone. As Pat said, we had a very strong Q2 and are raising full year revenue guidance by $1 billion despite a highly constrained supply environment. 
 Q2 revenue was $18.5 billion, exceeding our guidance by $700 million. This upside was led by continued strength in our PC business and earlier-than-expected recovery in both our IOTG business and the enterprise portion of the Data Center segment. The PC and Mobileye businesses both achieved record Q2 revenue. Gross margin for the quarter was 59.2%, exceeding guide by 220 basis points, primarily due to improved mix and strong flow-through on higher revenue. Q2 EPS was $1.28, up $0.23 versus guide, largely on strong operational performance across the board. In Q2, we generated $8.7 billion of cash from operations, free cash flow of $5.1 billion and paid dividends of $1.4 billion. 
@@ -116,304 +103,209 @@ For DCG, we expect full year revenue to be slightly down year-over-year but with
 Gross margin percent is expected to be lower in the second half of the year, predominantly due to 7-nanometer factory ramp, worsening supply constraints impacting client volume and mix and a onetime charge in Q4 related to our Intel federal business. For your models, absent this onetime charge, the implied Q4 gross margin would be approximately flat to Q3. It is good to remember that our investment in 7-nanometer represents a normal impact to introducing new process technologies. Since April, we have seen supply chain inflation happening faster than we are electing to pass-through to our customers, further impacting our second half gross margin outlook. We expect increased R&D through the year as we invest in our road map and IDM 2.0 strategy, resulting in year-over-year growth in OpEx of approximately 10%. 
 With that, let me turn it back over to Tony and get to your questions.
 
---------------------------------------------------------------------------------
 Tony Balow,  Intel Corporation - Senior Director of IR    [5]
---------------------------------------------------------------------------------
 
           All right. Thank you, George. Moving on now to the Q&A. (Operator Instructions) Operator, please go ahead and introduce our first caller.
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Certainly. Our first question comes from the line of Tim Arcuri from UBS.
 
---------------------------------------------------------------------------------
 Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [2]
---------------------------------------------------------------------------------
 
           Pat, there were some headlines recently about you potentially looking at maybe building out your foundry business by M&A. And I'm wondering, can you just comment? Broadly, do you think that M&A would significantly accelerate your foundry efforts? I know, right now, you're basically offering the 22-nanometer process, and you probably have to offer more processes to sort of pull those efforts forward. So I'm wondering if you can comment on the headlines that were out there.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [3]
---------------------------------------------------------------------------------
 
           Thanks for the question, Tim, and great to be with you all today. So first, I'd say, obviously, we can't comment specifically on the speculation that you've been hearing but feel well to say we are very happy with the build-out of the IFS business. As you say, it will include mature nodes, our 22FFL. It will also include our leading-edge nodes, as well our packaging offerings. Overall, we're just seeing great momentum over 100 customers in our pipeline, and we fully expect that this is going to be a great business for us. 
 At this point, we would not say that M&A is critical but nor would we rule it out. Our view is that industry consolidation is very likely. The intense R&D, the need to move to modern and leading-edge nodes, the massive capital investments required, we just simply view that smaller players simply won't be able to keep up, and foundries without leading edge capabilities will be left behind. And we're continually seeking ways to accelerate our plans with IFS. If an acquisition can help, we will certainly not rule it out. Thank you.
 
---------------------------------------------------------------------------------
 Operator    [4]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of C.J. Muse from Evercore.
 
---------------------------------------------------------------------------------
 Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [5]
---------------------------------------------------------------------------------
 
           I just wanted to clarify, George, the onetime charge in Q4, roughly $300 million, can you give a little more color on that? And then, I guess, Pat or George, a bigger picture question. As you're going through this transformation IDM 2.0 strategy, is there a free cash flow target that you have in your mind in the coming 1 or 2 years or no?
 
---------------------------------------------------------------------------------
 George S. Davis,  Intel Corporation - Executive VP & CFO    [6]
---------------------------------------------------------------------------------
 
           Yes. Let me -- I'll start with the onetime charge. Without going into too much detail, it is related to our high-performance compute activities through our Intel federal. It's crystallized in Q4 at the time that we execute a contract. So that's the reason for the timing.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [7]
---------------------------------------------------------------------------------
 
           Yes. And I would just say the HPC business for us, consistent with the reorg that we just announced, C.J., we just see a huge opportunity for us. As we start delivering our GPU, HPC specialized versions of the Xeon product, we see a great opportunity. The reorg brings more focus on this business. So even though there's a onetime charge in Q4, we see this as a great business for us for the long term and one that just will bring many, many technological market and business benefits. 
 So George, I'll let you answer the second half.
 
---------------------------------------------------------------------------------
 George S. Davis,  Intel Corporation - Executive VP & CFO    [8]
---------------------------------------------------------------------------------
 
           In terms of free cash flow, obviously, very important. We're focused on that. We raised it this year, as you saw on the call. We will go through not only free cash flow but capital and all of the normal key financial metrics for the company at the November analyst meeting. So we'll defer until that time on that question, but thanks.
 
---------------------------------------------------------------------------------
 Operator    [9]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of John Pitzer from CrÃ©dit Suisse.
 
---------------------------------------------------------------------------------
 John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [10]
---------------------------------------------------------------------------------
 
           Pat, I wanted to ask a bigger picture question just on pricing in the quarter and your philosophy around pricing. It sounds like within the client business, mix explains a lot of the decline in ASPs year-over-year. But when I look at the Data Center Group, especially with enterprise up and calms down year-over-year, I was a little bit surprised to see ASPs in that group down about 7% year-over-year. Can you help us understand what's mix versus like-for-like? And as you think about regaining product dominance, how do you use pricing to kind of maintain a share as you get sort of your feet back underneath you?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [11]
---------------------------------------------------------------------------------
 
           Yes. And broadly speaking -- my comments will be a little bit specific, to start with, on the Data Center business proper. Data Center business, good, good recovery in Q2. And with that, there was some ASP decline, some of that's competitive driven. A little bit of that is mix driven but a bit more competitive. Our outlook there is that we see fairly stable pricing and market segment share in the Data Center business for the second half of the year. And that's driven by, I'll just say, we are bringing everything we got to the table to continue to win back the market and, with that, our software resources, our deep investments with our customers, the increasing strength of our product line. 
 I'd also highlight that we have a very strong ramp for the Ice Lake product, which is very competitive, a clear leadership on a number of metrics, the critical ones such as AI performance. And we're also starting to see the return to growth in cloud, as you note, but stronger growth in the enterprise portion of the market. So overall, DCG, good growth second half over first half. We'll be very competitive with that business. But it's a supply-constrained environment overall, which is the similar case for the Client business. So overall, we don't see a lot of movement on ASP first half to second half in either of those businesses. It really is about supply limitations. 
 And as George commented, we're not passing through all of our supply constraint, price increases that we're seeing, from our supply chain. We really see as an opportunity to be investing with our customers, rebuilding their confidence and partnership for the future. And we're feeling very good about our overall strength, momentum and competitiveness as we go into the second half.
 
---------------------------------------------------------------------------------
 George S. Davis,  Intel Corporation - Executive VP & CFO    [12]
---------------------------------------------------------------------------------
 
           Yes. And C.J. (sic) [John], I would just add, the Q2 number, which looks like a double-digit ASP decrease for CCG, I would just remind you that that's a year-over-year comparison where we have a much bigger mix of the small core products, which is really driving that. You saw units were up 33%, and ASPs were down 15%. It's really the mix that is reflected there.
 
---------------------------------------------------------------------------------
 Operator    [13]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Stacy Rasgon from Bernstein Research.
 
---------------------------------------------------------------------------------
 Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [14]
---------------------------------------------------------------------------------
 
           I had a question on depreciation. It's been coming down sequentially for the last several quarters. It was actually down again sequentially this quarter. How is that possible given the CapEx ramp? Like, what's going on there? And how do we think about depreciation's impact on gross margin going forward given it's sort of run rating under $10 billion annually and your CapEx is now going to $20 billion annually? Like, how do I think about those?
 
---------------------------------------------------------------------------------
 George S. Davis,  Intel Corporation - Executive VP & CFO    [15]
---------------------------------------------------------------------------------
 
           Yes, Stacy. So the absolute numbers are down -- or trending sort of counterintuitively. And really, it's NAND moving from non-GAAP into GAAP. There's no depreciation for the NAND business anymore under the accounting once it's held for sale. So it's an anomaly. Yes, we expect depreciation to increase as we're ramping CapEx over the next several years. And again, in terms of how all of that translates into everything, from gross margins to free cash flow, we'll cover all that at the Analyst Day. But you're not missing anything.
 
---------------------------------------------------------------------------------
 Operator    [16]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Joe Moore from Morgan Stanley.
 
---------------------------------------------------------------------------------
 Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [17]
---------------------------------------------------------------------------------
 
           I wonder if you could address the timing on Sapphire Rapids. There were some stuff on your blog. Kind of end of June, there was a delay. It doesn't sound like, from customers, there's been that much of a change. But just maybe from your standpoint, how should we think about the timing of that product and how it affects you over the next 12 months?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [18]
---------------------------------------------------------------------------------
 
           Yes. Thanks, Joe. I'll take that one. And overall, as I said, the Data Center business, strong momentum. And we really felt Q1 as the low point, Q2 gaining momentum second half, Ice Lake ramp being very strong. And obviously, customers are now very anxious and excited about Sapphire Rapids, huge performance improvements but also a huge feature capabilities as part of that. So we did add a bit more time for the validation cycle for it. We are now deep into the validation. It's in the hands of customers with volume sampling underway, and they're quite excited about not just the performance capabilities, core count increases, but a lot of the new technologies in the area of new memory capabilities, new PCI gen 5 capabilities, many of the new features that we brought in here for AI performance in particular. 
 So overall, it's going to be a great product, and we're expecting to see a very strong ramp of it in the first half of next year. And this, we think, will just continue to build the momentum of the Data Center business. As we've indicated, a strong second half as forecast, and we're going to build on that as we go into next year with Sapphire Rapids. And the overall road map execution is improving as we look for '23 and '24 to deliver unquestioned leadership products across everything that we do, including the Data Center.
 
---------------------------------------------------------------------------------
 Operator    [19]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Vivek Arya from Bank of America.
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Securities, Research Division - Director    [20]
---------------------------------------------------------------------------------
 
           Pat, one more on the foundry business. So we have heard Intel commit, I think, $20 billion to U.S. foundry over the next several years and another $20 billion to foundry operations in Europe. I'm curious when that spending is going to start. And importantly, who are the target customers? Because when I look at the fabless landscape, it's not the cloud vendors who are the large fabless customers, right? It's Apple. It's Qualcomm. It's NVIDIA, Marvell, AMD, et cetera. And many of them compete against Intel. So I'm curious who are the target customers here that can justify this nearly $40 billion of spending that Intel is committing to from a foundry perspective?
 
---------------------------------------------------------------------------------
 George S. Davis,  Intel Corporation - Executive VP & CFO    [21]
---------------------------------------------------------------------------------
 
           Yes. Vivek, this is George. A couple of things, number one, we're short of supply. So we're the first big customer going into that expanded capacity. And we'll open up those facilities. Getting the shelves and, what I would call, the lower cost elements in place is something that, quite frankly, we've fallen behind on over the last few years. So this is -- we're playing a little catch-up just for our own requirements. 
 With foundry, we'll be talking about some potential customers. We've talked about 100 customers that are talking to us about foundry opportunities. Obviously, when you bring on a new foundry customer, as you look at the lead times that are needed for that and the lead times that are needed to actually do the most expensive part of adding to your capacity, those things actually line up pretty well. So we'll manage that quite tightly. We'll go into this in more detail in November. But it's not a -- this is not intended to be we'll just keep building and hoping that somebody shows up. It's going to be tied to the demand signals that we're receiving not only for us, which are significantly in excess of our capacity today, but also for the customers we're working with, which I believe we'll be talking about more next week at our event.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [22]
---------------------------------------------------------------------------------
 
           Yes. And just to add, Vivek, we'll cover some more of this on Monday in our Intel Accelerated event. And as part of that, we'll be laying out more specifics on the road map, the process, the packaging. But I'll say -- so the core of your question was who's going to be the customers for this. We expect a broad range of customers. We're going to have a range of offerings on the menu, if you could, for modern nodes as well as leading edge nodes. We expect a range of customers across different segments of the marketplace, including some of the largest users of wafer capacity in the industry. There's a lot of excitement in the marketplace, 100-plus customers in the pipeline already, and you can expect to see great things in this area of a new and exciting business. The world needs more semiconductors. The world needs a more balanced geographic supply chain for those semiconductors. And we're finding enormous momentum and enthusiasm for that, strong support from the customers, the ecosystem as well as the governments around the world.
 
---------------------------------------------------------------------------------
 Operator    [23]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Matt Ramsay from Cowen.
 
---------------------------------------------------------------------------------
 Matthew D. Ramsay,  Cowen and Company, LLC, Research Division - MD & Senior Technology Analyst    [24]
---------------------------------------------------------------------------------
 
           Pat, I was really pleased to see you guys announce that Greg was going to come join you as CTO. I don't know how many of the semiconductor folks are familiar with his background. Maybe you could just talk a little bit about what, as CTO, is going to be under Greg's remit. I know you guys have had this One API software strategy for a while that looks great in slides and on paper, but we've not seen a ton from it. So if you could expand a little bit about what's exactly going to be under Greg's remit and what he's going to be charged with, that would be really helpful.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [25]
---------------------------------------------------------------------------------
 
           Yes. Thank you, Matt. And Greg will be CTO, the company's CTO. So as part of that remit will be all of our labs, advanced research capabilities. We have a pool of hundreds of PhDs doing advanced research and some of the most leading edge work is done. And as you probably know about Greg as well, he was a UT professor and was my CTO at VMware. He will also be the leader of all of our central software activities. This is a large organization. It's BIOS, drivers, compilers, all of those core things and the One API initiative, which we're now starting to see major partners come and align with us around One API. 
 The third and maybe most important area under his remit will be standardizing the upper layers of the software stack for us and, in particular, the AI software offerings for us. And this is an area that we have, I'll say, not managed well. We've had too many pieces and different portions of the organization, so he will become the AI software leader at scale for us in an area that's going to be critical to standardize, deliver and just deliver some of the world-leading research that we have in the area of our software remit for our AI product offerings overall. 
 Super excited to have him on the team, a world-class technologist and software leader, combining with another world-class leader like Nick McKeown, a world-class leader like Shlomit Weiss coming back on the team for our engineering. Talent flow was going out of the company. It is now coming back to the company, and we are excited about the leadership team that we are forming.
 
---------------------------------------------------------------------------------
 Operator    [26]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Harlan Sur from JPMorgan.
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan Chase & Co, Research Division - Senior Analyst    [27]
---------------------------------------------------------------------------------
 
           On your Data Center business, good to see the sequential inflection in Q2. Looking into the second half and your guidance for Q3 and Q4, it looks like DCG is going to grow double digits percentage year-over-year in the second half and then that would imply that your data center business is growing double digits second half versus first half of this year. Is the math roughly correct? And in addition to cloud and hyperscale spending reacceleration and improving enterprise, does the team continue to see strength in service provider as well as your customers continue to build out their 5G networks?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [28]
---------------------------------------------------------------------------------
 
           Yes, yes and yes, to your question, Harlan, right? And we're really -- the first half, second half year-over-year, you got it, right? We're seeing the growth for it. And like we said, we saw the bottom in Q1, great Q2 momentum continuing into the second half and next year. And we saw strong growth in enterprise and government, recovery in cloud, and we're seeing growth in that area. But as you say -- I'll just say, we are so well positioned on the edge and the 5G. The open RAN, VRAN initiatives in the industry are now hitting stride. And I think I've only been on 3 major service provider calls this week on exactly that topic, right, where they're really starting to look at those deployments at scale for a standardized software-driven edge environment for their 5G networks. 
 And I'd also say this is a victory for innovation. Just a year ago, we were very -- just 3 years ago, there was grave geopolitical concerns around 5G and would there ever be flexibility for how that would get deployed nationally. Now everybody is aligning against the ORAN, VRAN initiatives as the way to do their 5G broad deployments. And the Intel platform sits in the center of those almost everywhere in the world. It really is a great success story for us and one that we think that we'll be harvesting for many, many years to come.
 
---------------------------------------------------------------------------------
 Operator    [29]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Toshiya Hari from Goldman Sachs.
 
---------------------------------------------------------------------------------
 Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [30]
---------------------------------------------------------------------------------
 
           I had a multi-part question on gross margin. George, you talked about PRQ reserves related to Alder Lake being a headwind this quarter. If you can quantify that for us, ballpark, that would be super helpful. And then toward the end of your remarks, in terms of the second half outlook, in terms of gross margin, you talked about supply tightness driving a deterioration in CCG mix. I was a little surprised to hear that given how strong Chromebooks were in the first half. So if you can elaborate on that, that would be super helpful as well.
 
---------------------------------------------------------------------------------
 George S. Davis,  Intel Corporation - Executive VP & CFO    [31]
---------------------------------------------------------------------------------
 
           Yes. So in terms of -- if we're looking at the -- particularly, let's look at Q3 because that's where we discussed the Alder Lake pre-PRQ reserves. It's one of the 2 top movers. When you look at being down 400 basis points, certainly, it's not the majority, but it's a meaningful impact in the quarter. 7-nanometer start-up costs ramping is the biggest impact far and away. 
 In terms of supply tightness, the challenge is -- part of what made Q2 so great was customers really challenged our sales teams and our factories to remix within a quarter to provide them with the components that they could then match with what their supply chain was providing them so they could get to market. And this was -- watching it was super impressive, a little bit scary at times. But the team did a fantastic job. So we did a really good job of eating up a lot of our substrates, some of which we thought we would have available to us in Q3. So the supply impact is more of a volume impact. Customers are already starting to mix upwards. So that's usually a positive for gross margin. And if there's upside in the second half, it will come from both higher substrates and the ability and a higher mix. And that could well be the case. 
 We were cautious. Q3, we could see we had a real supply challenge. I mean it's acute. But Q4, we're doing everything we can to help our substrate suppliers increase supply, including finishing up some of their manufacturing in our own facilities, which is something we could do as an IDM. If we have more success than we can forecast today, maybe Q4 could be seen as conservative.
 
---------------------------------------------------------------------------------
 Operator    [32]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Srini Pajjuri from SMBC Nikko.
 
---------------------------------------------------------------------------------
 Srinivas Reddy Pajjuri,  SMBC Nikko Securities America, Inc., Research Division - Research Analyst    [33]
---------------------------------------------------------------------------------
 
           Just a follow-up to the previous question, George. Could you give us some idea as we head into the next year, what are some of the puts and takes on the gross margin front? I'm just curious as to how long the 7-nanometer cost will persist and when do they peak out. And as we go into first half of next year, how should we think about the gross margins?
 
---------------------------------------------------------------------------------
 George S. Davis,  Intel Corporation - Executive VP & CFO    [34]
---------------------------------------------------------------------------------
 
           Yes. So again, I'm going to defer any kind of forecasting of '22 and beyond. But as you know, the fact that we have the 7-nanometer start-up ramping is a good sign that we're getting close to being able to get products ramping. And that's what really drives down costs over time. I think Pat was talking about Q2-over-Q2 of 47% reduction in wafer cost in 10-nanometer. That's the kind of benefit you can get as you ramp into a process. So we'll lay out more of our thinking in that regard later.
 
---------------------------------------------------------------------------------
 Operator    [35]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Tristan Gerra from Baird.
 
---------------------------------------------------------------------------------
 Tristan Gerra,  Robert W. Baird & Co. Incorporated, Research Division - MD & Senior Research Analyst    [36]
---------------------------------------------------------------------------------
 
           Just a quick follow-up on the substrate commentary during the Q&A. Is this something that you believe can actually help you competitively as you ramp substrate manufacturing in-house, particularly if supply constraints continue in the first half of next year?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [37]
---------------------------------------------------------------------------------
 
           Yes. We do think it generally moderates market share movements in the industry, period. And if anything, we're able to use it as an advantage because we're able to pull some of those substrate steps. And just to be clear, we're still relying on our substrate network, but we're pulling some of the back-end processing into our own factories, which allows us to essentially get more out of the capacity that's available in the industry. And that's what's enabling us to, I'll say, continue to overachieve on the overall market share gains that we've been seeing. This has been an important factor. We do have some factored into our second half. We do hope to continue to overachieve in that area. 
 And if I'd say, why did we overachieve so much in Q2, the heroes for the quarter for us were our manufacturing and operations team. They just did a superb job for us and really relying on them for the second half. And as George said, hey, if there's more opportunity for us to overachieve on the guide that we set for the second half, it's going to come at the hands of their ability to essentially create more out of nothing, find capacity in the industry, build it out. And we're doing quite well in this respect. But overall, it is a constrained environment. And as a result, we and everybody else are trying to drive our factories harder, drive yields better and be able to improve the supply chain of the industry. And we're quite excited about the enthusiasm we see in this consistent strong demand signal as the world becomes more digital, and we're going to be building our internal factories rapidly, our supply chains rapidly and working with our supply chain quite aggressively.
 
---------------------------------------------------------------------------------
 Operator    [38]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Ross Seymore from Deutsche Bank.
 
---------------------------------------------------------------------------------
 Ross Clark Seymore,  Deutsche Bank AG, Research Division - MD    [39]
---------------------------------------------------------------------------------
 
           I wanted to turn to the profitability side of things and specifically on DCG and the operating margin there. It's great to see that it improved from first quarter to second quarter. And given the revenue trajectory, I would assume it would improve again in the back half of the year. But kind of from trough to trough, 2018 digestion period to this most recent one, the operating margin is about 10 points lower, mid-20s roughly versus mid-30s prior. And I really wanted to understand why is it lower this time. And perhaps even much more importantly, going forward, is there anything structurally that is going to stop that from returning back to the 40% to 50% operating margin range you guys have historically driven? Competitive dynamics need to catch up on the manufacturing side, so you have headwinds there, people customizing more cloud competition internally. Any of those dynamics that would stop you from getting back to that range?
 
---------------------------------------------------------------------------------
 George S. Davis,  Intel Corporation - Executive VP & CFO    [40]
---------------------------------------------------------------------------------
 
           Yes. Maybe starting at the latter part of your question, there's no long-term reason why you could not see DCG return to more historical margins. What you're seeing today is a reflection of a couple of things. First off, year-over-year, you've got significant factory start-up costs embedded for them as you look at their operating margin. I would say another thing that people maybe are overlooking is our OpEx investments. We have significantly increased the OpEx in key areas of the company, even as we've taken down about $2 billion of OpEx since 2018 on various portfolio actions. And the DCG and the Xeon product line is absolutely critical to the company. And so we have substantially increased OpEx within that as well. So that's the second largest impact, and we're going to continue to do that for as long as it's needed. 
 And as you know, ultimately, it is your product competitiveness that gives you more flexibility to drive up ASPs further from today and drive higher gross margins. But I think the early comparisons this year were just off of such a strong compare. I mean the first half of last year was just super strong, high XCC count quarters in the first half of this year, although Q2, quite frankly, was a lot better than we thought, coming into it for DCG on strength in enterprise. But the comparisons year-over-year were quite tough. As you noted, it's coming up. And yes, 7-nanometer startup's got to be absorbed and higher OpEx. But I think as you see, our product portfolio continue to get stronger and stronger with Ice Lake and Sapphire Rapids and then for the generations after that. There's no reason why, over time, we don't get back to historic levels.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [41]
---------------------------------------------------------------------------------
 
           And I'd also just add one small point that the IFS gives us the opportunity to co-engineer with our largest customers. And this, in fact, creates a unique competitive differentiation where our IP with their IP is creating products that are very uniquely beneficial to their TCO and very co-engineered, so very sticky for both of us. And the example customer that we said, very large cloud customers, one of our IFS early customers, is an example of that kind of co-engineering that we expect that we'll be doing at scale for that portion of the marketplace pretty uniquely.
 
---------------------------------------------------------------------------------
 Operator    [42]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Ambrish Srivastava from BMO Capital Markets.
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst    [43]
---------------------------------------------------------------------------------
 
           Pat, I just wanted to get back to the competitive environment and just trying to connect all the dots. So in your slide deck for second quarter, you said that the ASPs were down and you referred to an increasingly competitive environment in servers. But in response to one of the questions earlier on, you said you expect a more stable share and pricing environment in DCG. And then the final thing that caught my attention was on the substrate side, you said you were kind of leveraging that back end to moderate market share. So is that true for the -- did I get that correct that the competitive environment will be stable versus what it was in the second quarter? And then is the substrate also enabling -- your captive footprint in the back end is allowing you to probably stabilize share losses in the Data Center side as well.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [44]
---------------------------------------------------------------------------------
 
           The comment on fairly stable market segment share and ASP for DCG for the second half of the year is what our expectations are. So I'd just say, I think that the substrate and the overall supply limitations keeps, I'll say, a bound on market share movements in that area of the business overall. We do think incrementally, our IDM capabilities give us a bit more capacity, and we saw market share gains, for instance, in the first half of the year in the Client business as a result of that. And we do think that gives us some ability to hopefully do a bit better than we've even guided with if it occurs. But overall, yes, your question is in the right domain, fairly stable ASPs, fairly stable market segment share in the data center in the second half of the year, which, as we've already said, has substantially improved from last year as well as from the first half of this year. 
 Products are getting more competitive. Stronger products give us more ASP capabilities as they become more competitive. So overall, we're feeling like the bottom was Q1, Q2 showed that to be the case, even a bit above our expectations, and we're in a great trajectory for the second half and into next year. Thank you. 
 Well, I think we'll wrap up at this point. And before we sign off, one last opportunity to say that it is an honor to be back for my dream job, to run this iconic company at this pivotal time in the history of the semiconductor industry. We're rebuilding our heritage of execution, innovation and growth. Along with the 110,000 talented, passionate Intel employees, I am just absolutely confident that the best days for this company are ahead of us. 
 Thanks for the call today. And I do look forward to talking to you all at our Intel Accelerated event on Monday. Talk to you then. Thank you so much.
 
---------------------------------------------------------------------------------
 Tony Balow,  Intel Corporation - Senior Director of IR    [45]
---------------------------------------------------------------------------------
 
           Thanks, Pat. Thank you all for joining today. Operator, can you please close the call?
 
---------------------------------------------------------------------------------
 Operator    [46]
---------------------------------------------------------------------------------
 
           Certainly. Thank you. And thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.
 
@@ -423,9 +315,7 @@ Operator    [46]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -436,9 +326,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -464,6 +352,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

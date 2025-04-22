@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q2 2020 Microsoft Corp Earnings Call
 JANUARY 29, 2020 / 10:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Satya Nadella
    Microsoft Corporation - CEO & Director
@@ -17,9 +15,7 @@ Corporate Participants
  * Michael Spencer
    Microsoft Corporation - General Manager of IR
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Mark Ronald Murphy
    JP Morgan Chase & Co, Research Division - MD
@@ -38,17 +34,12 @@ Conference Call Participiants
  * Heather Anne Bellini
    Goldman Sachs Group Inc., Research Division - MD & Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Welcome to the Microsoft Fiscal Year 2020 Second Quarter Earnings Conference Call. (Operator Instructions) As a reminder, this conference is being recorded. I would like to turn the call over to Mike Spencer, General Manager of Investor Relations. Thank you. Please proceed.
 
---------------------------------------------------------------------------------
 Michael Spencer,  Microsoft Corporation - General Manager of IR    [2]
---------------------------------------------------------------------------------
 
           Good afternoon, and thank you for joining us today. On the call with me are Satya Nadella, Chief Executive Officer; Amy Hood, Chief Financial Officer; Frank Brod, Chief Accounting Officer; and Keith Dolliver, Deputy General Counsel. On the Microsoft Investor Relations website, you can find our earnings press release and financial summary slide deck, which is intended to supplement our prepared remarks during today's call and provides a reconciliation of differences between GAAP and non-GAAP financial measures. 
 Unless otherwise specified, we will refer to non-GAAP metrics on the call. The non-GAAP financial measures provided should not be considered as a substitute for or superior to the measures of financial performance prepared in accordance with GAAP. They are included as additional clarifying items to aid investors in further understanding the company's second quarter performance in addition to the impact these items and events have on the financial results. 
@@ -56,9 +47,7 @@ All growth comparisons we make on the call today relate to the corresponding per
 We will post our prepared remarks to our website immediately following the call until the complete transcript is available. Today's call is being webcast live and recorded. If you ask a question, it will be included in our live transmission, in the transcript and in any future use of the recording. You can replay the call and view the transcript on the Microsoft Investor Relations website. 
 During this call, we will be making forward-looking statements, which are predictions, projections or other statements about future events. These statements are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could materially differ because of factors discussed in today's earnings press release, in the comments made during this conference call and in the risk factors sections of our Form 10-K, Forms 10-Q and other reports and filings with the Securities and Exchange Commission. We do not undertake any duty to update any forward-looking statement. And with that, I'll turn the call over to Satya.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - CEO & Director    [3]
---------------------------------------------------------------------------------
 
           Thank you, Mike. It was another strong quarter with double-digit top and bottom line growth driven by the strength of our commercial cloud. Stepping back from the quarter and reflecting more broadly on the next decade, the defining secular trend will be the increasing rate of digitization of people, places and things. This malleable power of software will drive productivity growth across all industries, leading to more inclusive economic growth, far beyond the domains of consumer tech today. 
 Tech spend as a percentage of GDP is projected to double over the next decade. At Microsoft, we are focused on building the most differentiated tech stack to enable every organization in every industry to build their own digital capability and tech intensity, with a business model that is trusted and aligned with their success in this new era. 
@@ -85,9 +74,7 @@ Finally, gaming. We continue to invest to reach gamers across every end point, m
 In closing, we are expanding our opportunity across all our businesses. Along with this opportunity, we recognize the responsibility we have to ensure the technology we build is always inclusive, trusted and is creating more sustainable world. Our customers see this urgent need and are looking to us in partnership with them to take action. That's why we announced an ambitious new sustainability commitment. Microsoft will be carbon negative by 2030. And by 2050, we will remove all the carbon we have emitted since the company was founded in 1975. And our $1 billion Climate Innovation Fund will accelerate the development of carbon reduction and removal technologies. We will continue to innovate alongside customers with profitable, sustainable solutions that expand our opportunity. 
 With that, I'll hand it over to Amy, who will cover our financial results in detail and share our outlook. I look forward to rejoining you after for questions.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [4]
---------------------------------------------------------------------------------
 
           Thank you, Satya, and good afternoon, everyone. This quarter, revenue was $36.9 billion, up 14% and 15% in constant currency. Gross margin dollars increased 22% and 25% in constant currency. Operating income increased 35% and 39% in constant currency, and earnings per share was $1.51, increasing 37% and 41% in constant currency when adjusting for the net charges related to TCJA from the prior year. 
 Our sales teams and partners again delivered strong commercial results, and we continue to benefit from favorable secular trends. From a geographic perspective, we saw broad-based strength across all markets. In our commercial business, we continued to see strong demand for our differentiated hybrid and cloud offerings, with increased customer commitment to the Azure platform. And the unique value of Microsoft 365, bringing together Office 365, Windows 10 and Enterprise Mobility and Security as a secure intelligent solution, again drove adoption by both new and existing customers. As a result, commercial bookings growth was ahead of expectations, increasing 31% and 30% in constant currency, with a high volume of new business and strong renewal execution. 
@@ -119,220 +106,151 @@ And in gaming, we expect revenue to decline in the low double-digit range, drive
 Now back to the overall company guidance. We expect COGS of $11.05 billion to $11.25 billion and operating expense of $11.2 billion to $11.3 billion. In other income and expense, interest income and expense should offset each other. And finally, we expect our Q3 effective tax rate to be slightly below our full year rate of 17% due to the timing of equity vests. 
 Now let me share some additional comments on the full year. At the company level, we continue to expect double-digit revenue and operating income growth, driven by the continued strength of our commercial business. For operating expense, as a result of lower spend in H1, we now expect full year growth between 10% and 11%. And finally, given our strong H1 results, particularly in high-margin businesses, as well as the expected sales mix for the remainder of the year, we now expect operating margins to be up roughly 2 points year-over-year, even as we invest with significant ambition in strategic and high-growth areas in the second half of this year. With that, Mike, let's go to Q&A.
 
---------------------------------------------------------------------------------
 Michael Spencer,  Microsoft Corporation - General Manager of IR    [5]
---------------------------------------------------------------------------------
 
           Thanks, Amy. We'll now move over to Q&A. (Operator Instructions). Operator, can you please repeat your instructions?
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           (Operator Instructions) Our first question comes from the line of Mark Moerdler with Bernstein.
 
---------------------------------------------------------------------------------
 Mark L. Moerdler,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Research  Analyst    [2]
---------------------------------------------------------------------------------
 
           Congratulations on a really strong quarter. I'd like to look at Azure. Can you give a little bit of more details on what's driving the Q-over-Q acceleration in the revenue growth? Are we seeing large contracts starting to ramp? Are there other factors that are kicking in that are helping that? And Satya, can you also give us some sense of what you think about the impact, if xCloud is successful on Azure?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - CEO & Director    [3]
---------------------------------------------------------------------------------
 
           Sure. Thanks, Mark, for the question. I think overall, in terms of the Azure momentum, it's sort of the thing that we have seen even in the previous quarters so, which is we have a stack that is -- from infrastructure to the PaaS services that's fairly differentiated. I mean I went through some of the things that we even announced at our Ignite Conference. Take something like Azure Arc. The fact that we have a control plane for hybrid computing that is multi-cloud, multi-edge, that's a pretty differentiated aspect of it. 
 And the data side, both on the transactions on the OLTP side as well as on the analytics side, we now have cloud-native databases. And Azure Synapse, I think, is a very competitive product. So that's what you see play out in terms of a customer adoption and the growth there. xCloud, I think, is a great workload. I mean we always have the mantra of first party equals third party, whether it is any of the workloads internally really helping us understand the new patterns, which then, of course, third parties can use. And you can see that even in terms of how Sony will use some of the same infrastructure capabilities. So we are excited about what xCloud teaches us but more importantly, we're excited about how others in the ecosystem can use the same capability for their streaming needs.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [4]
---------------------------------------------------------------------------------
 
           And Mark, to your question on -- a little bit about the reacceleration in the Azure growth rate, let me divide that into its components. We did have a very good and healthy, broad-based consumption growth, especially in IaaS and PaaS. I think actually, Satya touched on 1 of the important parts that we started to see this quarter was not only good workload migration work, strong growth and the optimization of the workloads already running but also some of these new PaaS workloads like Synapse and Cosmos DB and Arc are really starting to add some momentum in that part of the stack as well, which is important. 
 The SaaS component or the per user component also tends to be where you'll get some variability as well. We did have a good SaaS component quarter in addition to the healthy base, and that does result in some movement in that number from quarter-to-quarter. And in particular, I think Microsoft 365 suite actually, and the momentum we've got in security and management and mobility is a big contributor to that. 
 And of course, just the type of contracts that get signed, whether that's for the consumption layer, in particular, can have some impact quarter-to-quarter in a couple of points. So there will be some variability in that number, but the underlying fundamentals across both the consumption and per user were quite good.
 
---------------------------------------------------------------------------------
 Operator    [5]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Keith Weiss with Morgan Stanley.
 
---------------------------------------------------------------------------------
 Keith Weiss,  Morgan Stanley, Research Division - Equity Analyst    [6]
---------------------------------------------------------------------------------
 
           Sorry, guys, I was on mute. A very, very nice quarter. Coming out of the Ignite conference, I wanted to sort of get your views on progress with developers broadly, particularly after the GitHub acquisition. Can you talk to us a little bit about how that kind of impacted your traction with stuff like DevOps Studio and your developer tools? And also, how that's kind of changed the dynamic around Azure? Has that become a real competitive differentiation and change at all the competitive dynamic with guys like AWS and GCP out there in the marketplace?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - CEO & Director    [7]
---------------------------------------------------------------------------------
 
           Yes. First of all, thanks, Keith, for the question. We are very excited about what's happening with the developer offering. I mean at some level, I think of what we're doing between Visual Studio and Azure DevOps and GitHub as effectively coming together as a compelling developer SaaS solution in the same class as any other SaaS solution from Microsoft around productivity or communication because 1 of the data points I love to use is the number of developers in the non-tech sector is now more than in the tech sector. This is software engineers and that's going to only increase in the world going forward. So we want to build the best tool chain. After all, that's who we are as a company. We love building tools for developers. 
 And so -- and by the way, we're not focused only on Azure. For developers who use our tool chain, they can target any cloud, any edge device, and so this is not sort of means to some end. We've always been clear about it. It's an end to itself. But that said, of course, having this tool chain will help us overall, both with essentially what is, by itself, a high-margin tool as a SaaS business as well as, of course, developers who are going to be in our ecosystem. But we want to stay true to that ethos of open source, GitHub and do the best tools. In fact, just this last quarter, you saw even some of the tools being adopted by Facebook engineering, and that's, I think, a testament to the progress that's been made by Microsoft.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [8]
---------------------------------------------------------------------------------
 
           And I would just add to that, Keith, this is an important area for us to continue to invest in. The opportunity Satya talked about is at the developer SaaS level. And so whether you see us investing in GitHub or in the Azure tool chain, this will be a place that we'll continue to see as an opportunity for growth.
 
---------------------------------------------------------------------------------
 Operator    [9]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Karl Keirstead with Deutsche Bank.
 
---------------------------------------------------------------------------------
 Karl Emil Keirstead,  Deutsche Bank AG, Research Division - Director and Senior Equity Research Analyst    [10]
---------------------------------------------------------------------------------
 
           Amy, I'd love to ask you a gross margin question. Beginning in your third quarter or the current March quarter, we've been bracing for gross margins to trend flat or even down year-over-year, given the sales mix shifts that you and your IR team have long warned us about. Yet when I take your revs guide and your COGS guide, it equates to 3Q gross margins of 68%, which are actually up about 150 bps year-over-year. So I just wanted to understand what's going on. Is it that the higher gross margin businesses are decelerating at a slower-than-expected pace in your second half? Or perhaps the pace of Azure gross margin improvement is greater than you thought? A little color there might be helpful.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [11]
---------------------------------------------------------------------------------
 
           Thanks, Karl. Really, when you see the gross margin changes, it all comes down to sales mix. So at a fundamental level, I feel very good about the execution of each service to their own gross margin goals. We saw improvement across every cloud service, not just Azure in terms of their ability to deliver growing gross margin as they focus not only on cost but also on continuing to see ARPU growth and attach growth. 
 So -- and I could say that about many of the product lines, right? I focus on them at the -- what can each products line do to be its best and most competitive? What you saw in H1 and what you'll see in H2 is simply mix in Q2. There was a lot of mix into Windows away from, for example, the console, right, since we're heading into the next console cycle. At a company level, if you thought about what gross margins would have looked like without gaming, it's a couple of points of impact. 
 And as we head to H2, what you'll see is that the mix will shift a little bit. The sort of end of support impacts tail off, whether that's in OEM or on the server side. And the contribution from gaming as well as other components in our hardware portfolio go up a little bit. So that still does result, as you said, in a higher gross margin implication in Q3, and you'll see that continue to have a slightly different impact as we head into Q4, if that helps to give you a little sense.
 
---------------------------------------------------------------------------------
 Operator    [12]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Heather Bellini with Goldman Sachs.
 
---------------------------------------------------------------------------------
 Heather Anne Bellini,  Goldman Sachs Group Inc., Research Division - MD & Analyst    [13]
---------------------------------------------------------------------------------
 
           I just wanted to follow up on a little bit what Karl was just asking relating to gross margins. I was wondering if you could maybe help us think about the mix between PaaS and IaaS and kind of what -- if you can give us a sense of the mix shift or just kind of how that's been trending? But also, I wanted to ask about -- you've been -- it's been unbelievable, every quarter, you're able to call out material gross margin improvements in Azure. And I guess ultimately, what I'm asking is, given the success you've seen there, has your view for -- if you look 2 to 3 years down the road, do you just think Azure is going to be a higher gross margin business than maybe what you would have thought 3 years ago?
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [14]
---------------------------------------------------------------------------------
 
           Specifically on Azure, I think the Azure gross margins are trending where we thought they would trend actually on the IaaS and PaaS layer. And they're trending where we thought they would trend on the per-user-like assets. And what you're seeing is continued improvement on that trend line that we expected. But you'll also see as we go forward in time, those improvements will flow at the IaaS and PaaS layer. It will get better but the nature and the sort of rate of improvement will flow. And you'll see that increasing mix toward IaaS and PaaS in a way from the per user just as in terms of the opportunity and the TAM. 
 So -- and for the long run, Heather, I think my view is unchanged, frankly, about what that should look like. And of course, over the same time period, how it would impact commercial cloud gross margins all up. But what -- I think if you separate this from this gross margin implication, it goes to the fact of just how much revenue opportunity exists in cloud. And so if we can continue to capture the revenue growth, continue to meet customer needs and scenarios, pick and thoughtfully invest in industry-level solutions to grow those things, I worry less about the mechanics of the GM, which can continue to improve by service and more really about our opportunity to grow revenue.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - CEO & Director    [15]
---------------------------------------------------------------------------------
 
           Yes. And I would say when we think about whether it's our R&D and operating leverage there or sales or CapEx for the cloud, we don't sort of separate out these categories of IaaS, PaaS and even SaaS. I mean just to put it practically for you, we might do an infrastructure service around IoT. We then have PaaS services around IoT. We have apps around IoT and Dynamics 365. Similarly, we have the xCloud and Game Pass subscriptions and we have the streaming capability in Azure. So we think about our investments holistically in that sense, and I think that's what's going to define the long-term margin profile of our company is how well we manage all layers and collectively get leverage across the investment.
 
---------------------------------------------------------------------------------
 Operator    [16]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Brent Thill with Jefferies.
 
---------------------------------------------------------------------------------
 Brent John Thill,  Jefferies LLC, Research Division - Equity Analyst    [17]
---------------------------------------------------------------------------------
 
           Amy, you called out the strength of on-premise software. I'm just curious, I know you have the tailwind from the expiration. But maybe talk through some of the other drivers that you're seeing in the business that's causing such great growth even on the on-premise as the cloud continues to grow?
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [18]
---------------------------------------------------------------------------------
 
           Thanks, Brent. What we've seen has been relatively consistent is the drivers on the on-prem side have absolutely been the hybrid value prop and also premium. And they're actually related because ultimately, the really things that we've seen that has value for customers is that flexibility. And so the flexibility to deploy where they need it and when they need it. And if that makes sense on the edge, which some people may call on-prem, and whether that makes sense in the cloud, which people may call Azure, were relatively indifferent as long as it meets the customer solution in the way that the solution demands. 
 And so that hybrid value prop, you start to see that flexibility in the data point I gave, which is that 1/3 of the Windows and SQL Server customers are already starting to use that right, to be able to take advantage of that flexibility for their workload solutions. And so those trends I see is relatively durable. And that's why we talked about, I think, now for a number of years. And I think if we think about the sort of end of support and the tail on that, it was probably 2 points on IC for the quarter as I called out. So I feel very good about the underlying trajectory.
 
---------------------------------------------------------------------------------
 Operator    [19]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Mark Murphy with JPMorgan.
 
---------------------------------------------------------------------------------
 Mark Ronald Murphy,  JP Morgan Chase & Co, Research Division - MD    [20]
---------------------------------------------------------------------------------
 
           Satya, a few quarters ago, you had commented that Teams is the fastest-growing app in the company's history. Wondering if you could clarify if that is a reference to daily active user growth or bookings impact? Or is that a comment on user engagement and the time being spent in Teams or some other criteria? As well, Amy, wondering if you could offer any kind of directional thoughts on just how to model the Windows OEM line post-Windows 7 end of support and going into fiscal year '21. And any high-level thoughts on how you think that could trend versus what happened in the prior cycle.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - CEO & Director    [21]
---------------------------------------------------------------------------------
 
           Yes, thanks for the question, Mark. My comment was mostly around deployment engagement, the depth of engagement. There are very few types of products which have these platform effects. Teams is a scaffolding that is obviously related to messaging, which has significant usage. It's also driving usage of the rest of office because rest of office gets integrated in the usage patterns around channels. It's obviously used in meetings. It's also the place where business process workflows in context of messaging happen and both for knowledge workers and first-line workers. 
 So when I look at all of that cumulative effect, it's much broader than any other user experience scaffolding and in terms of its ability to drive that type of platform effect and engagement. So we're excited about it. And we continue to see that, and you saw that in my remarks as well.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [22]
---------------------------------------------------------------------------------
 
           And to your question on OEM, I think what's important is if you try to take out, which is challenging, some of the comments we've had on either chip supply constraints or some of the uncertainty related to the public health situation in China, you would say, what we have in terms of what the cycle would look like compared to prior cycle ends, would actually be quite similar. If not, we probably have a little more opportunity in the mid and small business segment to have the tail last a little longer probably than it did the last time. So we feel very good. We'll still need to work through that as we work through both the situations I've talked about, frankly, now for quite a few quarters and then looking forward. So we'll continue to give you guidance on what we see in the market each quarter.
 
---------------------------------------------------------------------------------
 Operator    [23]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Brad Reback with Stifel.
 
---------------------------------------------------------------------------------
 Brad Robert Reback,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD & Senior Equity Research Analyst    [24]
---------------------------------------------------------------------------------
 
           Great. Amy, you mentioned a couple of times this evening about 1/3 of customers using hybrid rights. Within that customer base, any sense of what percent of workloads that represents for those clients?
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [25]
---------------------------------------------------------------------------------
 
           Brad, there's not really a good way for me to know that. For me, the way I think about this is a top of funnel. It means that we've got solutions or workloads where all the corporate developers that Satya mentioned are really starting to make that transition and making decisions for themselves about how to use Azure and how to get to experience it. For me, that is a great sign. We've always said a lot of these hybrid use rights were about investing in skilling and learning and teaching the environment and having the adoption happen for the workloads that make the most sense. And then we can continue to partner with customers to help them through this process and continue to have more meaningful workload transition. So for us, I think I tend to start at the top and say, if we've got more going into the funnel, more opportunities to partner with customers, that's a good thing.
 
---------------------------------------------------------------------------------
 Operator    [26]
---------------------------------------------------------------------------------
 
           Our last question will come from the line of Phil Winslow with Wells Fargo.
 
---------------------------------------------------------------------------------
 Philip Alan Winslow,  Wells Fargo Securities, LLC, Research Division - Senior Analyst    [27]
---------------------------------------------------------------------------------
 
           Congrats on a great quarter. I just wanted to focus in on Dynamics. I guess a question for Amy and Satya. I mean, Amy, you called out seat growth but also increasing attach to multiple products with the Dynamics driving that growth rate. Wondering if you could help us sort of parse that out. And then to Satya, when you think about just SaaS in general, how important is sort of Dynamics to the overall Microsoft strategy, particularly with what you're trying to do with the AI platform in Azure because, obviously, over the past 12 months, we've seen rollouts of some of those insights, AI products where you have -- you can use the Dynamics' data, but also data from Salesforce, Zendesk, et cetera, but as a sort of a sidecar there. So wondering if you could just sort of walk us through just sort of the, call it, the application strategy and then that in the context of what you're trying to do in the AI world.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - CEO & Director    [28]
---------------------------------------------------------------------------------
 
           Yes. No, great. Thanks, Phil, for the question. Let me start, and then Amy, you can. I mean we are very excited about what's happening with Dynamics 365 in particular because when I look at what the world needs is it needs a business application suite that is more comprehensive. That can turn what is the real currency of this next era, which is data into predictions, insights and automation without boundaries. I mean they take even the Canada Goose example that I had in my remarks, which is actually a pretty fascinating story of how they've been able to take the end-to-end nature of Dynamics 365 and really bring together the manufacturing, wholesale and retail operations to the next level of efficiency. That's, I think, what is needed. And the way we have architected it on top of Azure, it's cloud native in terms of its use of databases. It's, for example, all these insights modules I referenced and you referenced are all built on Azure Synapse. So it's sort of deeply integrated into Azure. It integrates into LinkedIn. It integrates into Microsoft 365, Power platform, the extensibility model for both Microsoft 365 and Dynamics is the same, which is Power platform. And that's a pretty -- no, there's no such thing as a canonical business and no such thing as a canonical business over time, right? The business processes change. The question is how rapidly can people and domain experts keep up with the change. And that's where Dynamics 365 absolutely shine. So we're excited about what's happening there. 
 You mentioned a point about sidecar. We think that, that's a very legitimate use case. There is a new category, in fact, and a new race starting with CDP, and we are leading. And so I feel excited about that as well.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [29]
---------------------------------------------------------------------------------
 
           And to your question on how the Dynamics 365, sort of the excitement we have, when I think about the comment I made around adding workloads, what's so important about what Satya just talked about is how this reaches into new budgets for us, new opportunity for us in terms of being able to tap growth that we had not been able to access before. And the way I tend to think about that is not dissimilar from how I think of most per seat businesses. You add a seat and then you add workloads and the more you can do that in terms of tapping into new budgets, that's a great opportunity for us. So I think that's a frame that I'll start to talk a little bit more about as we learn more about Dynamics 365 and its momentum. This is another place I would call out, where I do think we can sort of focus and continue to make some investments in H2 based on the momentum we have seen in H1.
 
---------------------------------------------------------------------------------
 Michael Spencer,  Microsoft Corporation - General Manager of IR    [30]
---------------------------------------------------------------------------------
 
           Thanks, Phil. That wraps up the Q&A portion of today's earnings call. You can find additional details on the Microsoft Investor Relations website. Thanks for joining us today, and we look forward to speaking with you soon.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - CEO & Director    [31]
---------------------------------------------------------------------------------
 
           Thank you very much.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [32]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Operator    [33]
---------------------------------------------------------------------------------
 
           Thank you. This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation.
 
@@ -342,9 +260,7 @@ Operator    [33]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -355,9 +271,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Thomson Reuters reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -383,6 +297,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2020 Thomson Reuters. All Rights Reserved.
---------------------------------------------------------------------------------

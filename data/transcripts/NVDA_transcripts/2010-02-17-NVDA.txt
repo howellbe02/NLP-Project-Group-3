@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q4 2010 NVIDIA Corporation Earnings Conference Call
 FEBRUARY 17, 2010 / 10:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Jen-Hsun Huang
    NVIDIA Corporation - Co-Founder, President & CEO
@@ -17,9 +15,7 @@ Corporate Participants
  * David White
    NVIDIA Corporation - EVP & CFO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Alex Gauna
    JMP Securities - Analyst
@@ -42,11 +38,8 @@ Conference Call Participiants
  * Glen Yeung
    Citigroup - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Mike Hara,  NVIDIA Corporation - SVP - IR & Communications    [1]
---------------------------------------------------------------------------------
 
            Before we begin, I would like to remind you that today's call is being webcast live on NVIDIA's investor relations website and is also being recorded.  A replay of the conference call will be available via telephone until February 24, 2010, and the webcast will be available for replay until our conference call to discuss our financial results for our first quarter of fiscal 2011.  The content of today's conference call is NVIDIA's property and cannot be reproduced or transcribed without our prior written consent.
  During the course of this call we may make forward-looking statements based on current expectations.  These forward-looking statements are subject to a number of significant risks and uncertainties and our actual results may differ materially.  For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our Form 10-Q for the fiscal period ended October 25, 2009, and the reports on Form 8-K filed with the Securities and Exchange Commission.  All of our statements are made as of today, February 17, 2010.  Based on information available to us today and except as required by law, we assume no obligation to update any such statements.  Unless otherwise noted, all references to research market and market share numbers throughout the call come from Ricker Research or John Petty Research.
@@ -58,9 +51,7 @@ Mike Hara,  NVIDIA Corporation - SVP - IR & Communications    [1]
  OEMs and carriers alike are equally excited about the potential of the tablet platform.  NVIDIA, Motorola and Verizon privately demonstrated streaming 1080p video, highlighting the combined capabilities of Tegra and a Motorola 4G wireless modem operating over the Verizon LTE precommercial network.  We have multiple next gen Tegra design wins in tablets, smartbooks and SmartPhones, with the first of these expected to ship in Q2.  3D stereo was the other big story at CES.  3D Blu-ray was everywhere and 3D TV's ubiquitous.  ESPN announced the first 3D network.  NVIDIA has been a pioneering force in 3D stereo and this was clear at the show when we took 3D Vision to the next level with 3D Vision Surround.  3D Vision Surround is the world's first consumer multimedia -- multi-display 3D solution.  It allows users to span 3D consent across three high-definition monitors or projectors for a truly breathtaking and immersive gaming experience.  3D Vision is a great fit for high-end notebooks.  ASUS launched its first 3D notebook at CES with more OEMs following suit in Q2.  Over 420 games now support NVIDIA 3D Vision.  SLI defined high-end gaming and we believe that 3D Stereo will do it again.  We are very excited about Q1.  [Permia]'s in production and we plan to launch many new GPU products in the coming months, but we'll save the details for later.
  With that let me hand the call over to David. 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [2]
---------------------------------------------------------------------------------
 
            Thanks, Mike.  Q4 was another good quarter driven by an improving PC market and better mix.  Revenue was $982.5 million, above guidance, and up 9% sequentially, marking the fourth consecutive quarter of strong results.  GAAP gross margin was 44.7%, significantly higher than guidance, GAAP OpEx was $304.4 million, in line with guidance, and GAAP net income was $131.1 million, or $0.23 per diluted share.  The core GPU business had another strong quarter.  Within that our desktop GPU business was up 19%, notebook was up 27%, and workstation graphics was up 25% in the quarter.  Demand was strong, but we were, again, constrained by supply across the board.  Gross margin improved sequentially as a result of several factors; cost reductions due to yield improvements and reduced waste; favorable mix from our professional business; better mix within the PC GPU business; and increased revenues.  Inventories at the end of the quarter were up 19% to $330.7 million, inventory days on hand was 60 at the end of the quarter.  Inventory in the channel remains low at around five weeks.  Cash and cash equivalents, marketable securities at the end of the quarter were approximately $1.73 billion, up approximately $94 million from the third quarter.
  Our outlook for the first quarter of fiscal 2011, revenue's expected to be flat and strained by supply; GAAP gross margin is expected to be in the range of 44% to 45%; GAAP operating expenses are expected to be flat.
@@ -68,615 +59,412 @@ David White,  NVIDIA Corporation - EVP & CFO    [2]
 
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
      Thank you.  (Operator Instructions).  And our first question comes from the line of Alex Gauna with JMP Securities.  Please go ahead with your question. 
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [2]
---------------------------------------------------------------------------------
 
      Thanks very much.  I was wondering if you could clarify a little bit on your supply constraint statement for the first quarter.  I'm assuming that means that you're going to see seasonality in legacy products and you can't get enough of the new to offset it, or maybe wrap some color around that, please? 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [3]
---------------------------------------------------------------------------------
 
      I'm trying to figure out the seasonality question.  We -- the seasonality in the PC industry is that Q1 is generally a down quarter and if you take a look at -- if you look what most companies have guided, they've guided down sequentially.  We're guiding flat, and if we had sufficient supply to support the ramps of the products that we're going into production with right now we would guide further up.  We -- we're -- our Company is currently in a growth phase.  There's new products in many new markets, as well as going into a new product generation, and so there's a lot of different reasons why we're expecting to grow and our suppliers are working as hard as they can for us, and their yields are improving; however, over -- we remain constrained. 
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [4]
---------------------------------------------------------------------------------
 
      Okay.  If I can get a follow up on your Optimus technology, when are you expecting that to ramp in force in the market and when do you see the earliest adoption occurring? 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [5]
---------------------------------------------------------------------------------
 
      Optimus is going to show up in notebooks and it's designed for notebooks, and you should expect to see it starting to ship in the April timeframe, I think we'll be the first laptop and then it'll just start ramping, about 50 models or so, and we're getting new models as we speak and we'll ramp throughout the year. 
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [6]
---------------------------------------------------------------------------------
 
      Okay, thanks very much.  Congratulations, nice quarter. 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [7]
---------------------------------------------------------------------------------
 
      Yes, thanks a lot, Alex. 
 
---------------------------------------------------------------------------------
 Operator    [8]
---------------------------------------------------------------------------------
 
      Our next question comes from the line of Suji DeSilva with Kaufman Brothers.  Please proceed with your question. 
 
---------------------------------------------------------------------------------
 Suji DeSilva,  Kaufman Brothers - Analyst    [9]
---------------------------------------------------------------------------------
 
      Thanks.  Can you guys help us understand what the impact was in the quarter from the constraint to perhaps in the guidance, as well just to give a sense to understand where the 40-nanometer constraints come off at some point? 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [10]
---------------------------------------------------------------------------------
 
      Well, it's hard to figure out exactly how much we're constrained by.  It's probably on the order of $100 million, a couple hundred million dollars, but the big picture is that 40-nanometer supply is constrained for the world.  You know that the markets snapped back a lot more quickly than people expected in the beginning of the year, and it surely appears that Windows 7 is doing very well, and I think it surely appears on top of that that GPU adoption is increasing.  People are -- we've always believed that, as you know, but we think that more and more people are enjoying their PC experience with GPUs and more and more PC manufacturers recognize the benefits of adding GPUs to their system.  So we're seeing a pretty strong demand across the board, whether it's desktop PCs or notebook PCs.  We're seeing increased demand in our workstation business, and on top of that, we're in the process of ramping a new architecture called Fermi that everybody's really excited about.  Fermi is going to sweep across GeForce and our Quadro business and across our Tesla business and so we just have a lot of growth drivers going right now and we could surely use more supply. 
 
---------------------------------------------------------------------------------
 Suji DeSilva,  Kaufman Brothers - Analyst    [11]
---------------------------------------------------------------------------------
 
      Great, and then one other question.  On MCP, I know you're going to fold that into GPU going forward, but can you help us understand what the trajectory of that product by itself is, or should we not -- should we think of it more being truly folded into the GPU in terms of forward revenues? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [12]
---------------------------------------------------------------------------------
 
      There's a -- let me just -- let me make a comment and then I will have David make some comments.  The first thing is that GPU -- MCP business was down quarter to quarter and we're expecting it to grow quarter to quarter for Q1, and we're in the process of ramping what is internally code named MCP-89, a 40-nanometer chip set, and we're really excited about that.  And so next year, the chip set business is going to do nicely for us.  On top of that, we have created two new technologies that over time will supplement the MCP business that we're transitioning out of.  One of them is called the ION.  ION will do for netbooks what GeForce does for PCs and we today had the -- I think Acer announced today -- well, I'm pretty sure Acer announced today at the Mobile World Conference our first second-generation ION design win.  And so my sense is that over time the netbook market will segment, just as the PC market has, and there'll be basic netbooks based on [atom] and then there'll be netbooks that are premium netbooks that are designed to deliver the best possible experience and those people are called ION netbooks.  So if we can capture 10%, 25% of that marketplace, a market that is currently 40 million units and also the fastest growing segment of the PC industry that should -- ION should be a nice business for us.
  And then the second technology Mike was talking about early, called Optimus, it's really a game changer for us and it solves the single largest issue that has kept GPUs from growing further into the notebook marketplace and that's power dissipation or battery life.  So Optimus allows to us now to automatically, completely invisibly from the user, to switch off to completely zero power state and consume absolutely no power when it is not in use and whenever the user uses an application that can benefit from a GPU we instantly turn on and the user never knows the difference.  So you now have the best of battery life, as well as the benefits of a GPU, the performance of a GPU without any compromise.  And so those two technologies I think not only will help us grow our opportunity in the marketplace and hopefully make up more than plenty of the MCP business that'll decline a couple of years from now. 
 
---------------------------------------------------------------------------------
 Suji DeSilva,  Kaufman Brothers - Analyst    [13]
---------------------------------------------------------------------------------
 
      Thanks, that's it. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [14]
---------------------------------------------------------------------------------
 
      Thanks, Suji. 
 
---------------------------------------------------------------------------------
 Operator    [15]
---------------------------------------------------------------------------------
 
      Our next question comes from the line of Rick Schafer with Oppenheimer and Company.  Please proceed with your question. 
 
---------------------------------------------------------------------------------
 Dan Morris,  Oppenheimer and Company - Analyst    [16]
---------------------------------------------------------------------------------
 
      Hi, guys, this is Dan Morris calling in for Rick.  Thanks for taking my questions.  Just on the gross margin, you've expanded it pretty nicely over the last few quarters.  As I look at your -- some of your new products, such as Tesla and Tegra and Tesla ramping over the next few quarters it seems like you have a nice tailwind with mix.  Can you talk to us a little bit about expectations for gross margins and further opportunities for margin expansion? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [17]
---------------------------------------------------------------------------------
 
      Well, the only thing I would add, Dan, is we don't typically give guidance out past the first quarter, but as we've talked about previously, we expect our Quadro, our Tesla and our Tegra business to become a greater part of our mix over time as those businesses ramp.  Those three businesses all carry a gross margin that is above even our current corporate-weighted average and so as those products ramp and become a richer part of our mix, we would expect to see further lift in our gross margins.  And we've indicated in the past that we expect Tegra to ramp substantially in the second half of the year.  We would reiterate our belief of that and hopefully with that we'd see some margin expansion with it. 
 
---------------------------------------------------------------------------------
 Dan Morris,  Oppenheimer and Company - Analyst    [18]
---------------------------------------------------------------------------------
 
      Okay, great.  And as follow up could you just talk about the pricing environment in GPU and what happens in the second half, assuming that 40-nanometer capacity issues abate? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [19]
---------------------------------------------------------------------------------
 
      Well, you're asking a question for a state of supply that we're all hoping for, which is when they abate.  My sense is that supply will remain constrained for at least the first half of the year, and as we ramp further new products into the marketplace I surely hope that the supply situation will be there to support it.  In terms of pricing, we increasingly are shifting our focus towards products and markets where we have great differentiation, and if you look at the products that we offer today in mass markets, GeForce, for example, increasingly CUDA brings unique capabilities to it.  We're the only supplier of 3D stereo in the PC market and 3D Vision only works with GeForce.  And so we're increasingly developing capabilities that are very differentiated on top of our processor brands and so hopefully those differentiations will be valued in the marketplace and accordingly reward us with a price premium over time. 
 
---------------------------------------------------------------------------------
 Dan Morris,  Oppenheimer and Company - Analyst    [20]
---------------------------------------------------------------------------------
 
      All right, thanks.  Thanks, guys. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [21]
---------------------------------------------------------------------------------
 
      Yes, thanks a lot, Dan. 
 
---------------------------------------------------------------------------------
 Operator    [22]
---------------------------------------------------------------------------------
 
      Our next question comes from the line of Craig Berger with FBR Capital.  Please proceed with your question. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR Capital - Analyst    [23]
---------------------------------------------------------------------------------
 
      Hey, guys, nice job on the results.  Can you talk a little bit about attach rates for GPUs, both in desktop and notebook, where were they, where are they, were do you think they can go? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [24]
---------------------------------------------------------------------------------
 
      Well, I don't think this quarter the GPU attach rate changed substantially -- 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [25]
---------------------------------------------------------------------------------
 
      Pretty flat. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [26]
---------------------------------------------------------------------------------
 
      -- and so I'll review the numbers again, but my last look at the numbers it was relatively stable.  If anything, on the notebook side, it increased slightly is my recollection.  And so, yes, there you go.  Okay?  So on the des - so Chris just showed me some numbers.  On the desktop side they were flat and on the notebook side they were up about five points, and so my guess is that people are increasingly recognizing the importance of the GPU and there's so many things that you do now that the GPU adds value to.  And the video game market is obviously still very large, the online game market is very, very large and people who are enjoying high-definition movies on their PC or just want snappy graphics where two processors simply does a better job than one for their PCs, they're just increasingly recognizing the benefits of PCs -- of GPUs.  The other thing is that in the consumer market the GPU attach rate is just much higher and the consumers -- the consumer segment is really the fastest growing segment right now.  And so our sense is that the GPU attach rate's going to continue to grow.  The separation between the integrated graphics, whether it's on a chip set or on a CPU, integrated is integrated, that comparison to a discreet GPU is -- in fact, the technology is growing further and further apart.  The GPU is, in fact, becoming more and more advanced relative to integrated graphics versus previous years and so my sense is that this trend is going to continue. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR Capital - Analyst    [27]
---------------------------------------------------------------------------------
 
      My -- thank you for preempting my follow up so I'll ask another one, which is, I guess, for David.  How do you see operating expenses tracking over the rest of this year, just generally?  Should it be sloping up, are you guys going to be increasing your investment levels?  Any color there would be great for the models. 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [28]
---------------------------------------------------------------------------------
 
      Well, we guided flat, obviously, and I think as we talked about last quarter, our quarter just before just ended was a 14-week quarter and so we had more expenses in that quarter than what we would typically carry.  We guided flat because we've -- as you'll recall, last year we had a number of temporary cost reduction measures in place, which we are restoring, some of which related to wage reductions and so forth that a lot of our employees were carrying, so those tended to offset one another.  And as you see, we guided flat in Q1.  I would expect that we would be roughly flat in the first half of the year and we'll just have to wait and see how revenue shapes up for the second half to give you any further guidance beyond that. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR Capital - Analyst    [29]
---------------------------------------------------------------------------------
 
      Let me ask one more question, which is do you think your customers are building inventory, meaning, is any of the revenue strength you guys are seeing temporary inventory build and does that hamper second-half revenue seasonality?  Thank you so much. 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [30]
---------------------------------------------------------------------------------
 
      If you look at our channel inventory, which is where we sell a lot of our -- the vast majority of our desktop GeForce business, that channel inventory has been roughly stable throughout the year.  It's been teetering in the three to four-week range.  We had a one-week uptick in that in the fourth quarter which is probably the first sign we've seen of any uptick in channel inventory now this year.  But we still consider that pretty modest, certainly well below where it's been historically, and as a result of even those low levels we continue to have stock-out situations, which we try to obviously avoid.  So right now, we don't -- I don't think we've got really any indicators that would tell us that we've got an inventory build going on, either in the channel or even at the OEM companies, that we sell to.  So at some point we know that supply will catch up with demand, and I think we just have to be very alert to make sure that we see the early indicators of that and respond as early as we can. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR Capital - Analyst    [31]
---------------------------------------------------------------------------------
 
      Thank you very much. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [32]
---------------------------------------------------------------------------------
 
      At the highest levels -- let me just make a comment on top of that, everything David said was right.  At the highest level, the last couple of years we've invested in R&D pretty aggressively, and we invested in R&D so that we could drive our top-line growth.  And so if there's anything at all, we -- and because as we go into this year, we have so many new products, whether it's Tegra, or the Fermi architecture, or the Tesla product line, or some exciting new products that we're planning for Quadro, all of these growth opportunities are a result of the R&D investment that we've made.  And so if there's anything at all, we would just love to have the supply to support the growth and so we're looking forward to that. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR Capital - Analyst    [33]
---------------------------------------------------------------------------------
 
      Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [34]
---------------------------------------------------------------------------------
 
      Our next question comes from the line of Daniel Berenbaum with Auriga SA.  Please proceed with your question. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  Auriga SA - Analyst    [35]
---------------------------------------------------------------------------------
 
      Hi, good afternoon, thanks for taking the call.  David, I wanted to make sure I understand a comment that you made a little bit earlier, when you were talking about the supply constraints.  You're saying that the order of the supply constraints, you -- if you didn't have the supply constraints you could have done another couple hundred million dollars in revenue.  First question, did I hear that correctly?  And second of all, can you help us understand a little bit, is that really just focused in GPU where you could have had that extra revenue?  And can you help give us any color on who's not getting parts?  Is it notebook is it the channel, can you give us a little bit of granularity there, if I did understand that correctly? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [36]
---------------------------------------------------------------------------------
 
      Well, I was trying not to give you an exact number and I probably shouldn't have given you a number at all, because we really don't know.  When supply -- we knew that during -- let me tell you what we do know.  We knew that during the quarter channel inventory was too low.  When David said that channel inventory was five weeks, five weeks average, in fact, means gap outs in many regions around the world.  And you can only measure channel inventory really in the final analysis to its averages, but we know that certain regions are much higher than other regions, and it's hard to keep them from stocking out.  Now, the second thing is, OEMs, without exception, notebook OEMs were hand-to-mouth the whole quarter, and we were fighting hard to keep them from gapping out throughout the quarter, and we weren't successful most of the time.  And so there were challenges in fulfilling the demand that we did have throughout the quarter.  And so -- 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  Auriga SA - Analyst    [37]
---------------------------------------------------------------------------------
 
      And for -- am I correct in assuming you're talking about really GPU?  There were no shortages in chip set or in Tegra or in Quadro? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [38]
---------------------------------------------------------------------------------
 
      Well, Tegra and Quadro, Tegra's production ramp is rather modest right now. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  Auriga SA - Analyst    [39]
---------------------------------------------------------------------------------
 
      Right. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [40]
---------------------------------------------------------------------------------
 
      And Quadro's volume relative to GeForce is small, although -- 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  Auriga SA - Analyst    [41]
---------------------------------------------------------------------------------
 
      Okay. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [42]
---------------------------------------------------------------------------------
 
      -- the revenues are high, the actual units are relatively small.  And so the final analysis, with most -- whenever you have a gap out situation it'll be in your highest-volume products and in our case it would be GeForce. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  Auriga SA - Analyst    [43]
---------------------------------------------------------------------------------
 
      Okay, and just to follow up on that.  Is this giving you any pricing power, or was there any contribution to the gross margin?  Obviously you are printing a good gross margin number, are you getting some pricing power because of this? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [44]
---------------------------------------------------------------------------------
 
      Well, we certainly haven't raised prices on the marketplace.  The benefit of being this constrained is that you could make adjustments on product mix, but those adjustments are still rather hard to do because customers are lined up and we've made commitments to customers with respect to the products that we would ship them, and so to the best of our ability, we try to honor those commitments.  And so supply constraints are -- it takes -- it makes the market a little bit less disruptive from a pricing perspective, because people are mostly focused on fulfilling demand, but -- and it helps us with some amount of modest mix benefits, but overall we haven't raised prices on customers. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  Auriga SA - Analyst    [45]
---------------------------------------------------------------------------------
 
      Okay, great.  Thanks very much. 
 
---------------------------------------------------------------------------------
 Operator    [46]
---------------------------------------------------------------------------------
 
      Our next question comes from the line of Glen Yeung with Citigroup.  Please proceed with your question. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [47]
---------------------------------------------------------------------------------
 
      Thanks.  When you take into account all the moving parts at NVIDIA for this upcoming year, think about the MCP business versus things like Tegra, for example, when I look at what would be a seasonal year -- if we assume it would a seasonal year for PCs, should we expect, above, below or average seasonal growth for NVIDIA? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [48]
---------------------------------------------------------------------------------
 
      We -- well I was going say, right now we're constrained at least in the first half, right, so seasonality I don't think is going to have a significant bearing on what revenue we're going to put up on the top line.  Our top line's going to be more dictated by allocation than it is by normal end user seasonality.  The second half is anyone's guess. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [49]
---------------------------------------------------------------------------------
 
      Yes, okay. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [50]
---------------------------------------------------------------------------------
 
      If you look at our -- if you look at the moving parts it kind of boils down to this.  Fermi is going to be a growth driver for us.  We've -- we're in mass production now with Fermi, and, Fermi not only ships into the GeForce market and brings incredible new capabilities to that market, Fermi also grows into two other markets.  One is Tesla, and OEMs are lined up and designing servers and high-performance supercomputers dedicated to Tesla.  Supercomputers are being built around the world, waiting for the new Tesla.  And so this Fermi architecture grows into new markets.  It also creates new types of products for our Quadro family, and so those are new growth drivers.  So the Fermi architecture is really important to us.
  The second is 3D Vision.  3D is going to be really big and it's going to be -- it's going to redefine, as Mike says, what a gaming notebook is going to be, just as -- or gaming PCs are going to be.  Just as SLI did a few years ago defined what a gaming PC is 3D Vision will now.  And so we're seeing -- you've already seen the ASUS tech notebook, Acer has a product out.  Dell just announced their product today, and we're expecting 3D Vision to be adopted by nearly every PC OEM in the world.  It'll also be adopted by the workstation market.  So 3D Vision's going to be important.  And then lastly, Tegra is a brand new product line for us.  Those are all good growth drivers.  I think I said last time and I think this time I would reinforce that statement that the MCP product line will do well this year.  Although it's -- it is our last chip set for Intel processors we're expecting MCP-89 to be far, far superior for what you can get on an Arrandale or any integrated CPU from Intel today, and so I think we're going to see it do it quite nicely. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [51]
---------------------------------------------------------------------------------
 
      Thanks for that, Jen-Hsun.  One point of clarification and one other question.  On a clarification perspective, you mentioned that obviously you're supply constrained and yet you were able to build inventory yourself, is that because you are foregoing sales this quarter in order to build the right inventory for next quarter?  And then the question is just on the workstation side of the house, not withstanding your points made on Fermi right now, how sustainable do you think the workstation strength that you're seeing is as we look beyond the current quarter? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [52]
---------------------------------------------------------------------------------
 
      The inventory situation happened as a result of wafers that came in late in the quarter that we couldn't -- we could get through our back-end process and then ship to customers.  And so the back-end process includes Sord and TUF and with the complicity of the GPUs these days requires quite a substantial battery of tests to go along with it, and so we just couldn't get it through the back end to ship to customers.  Customers were clamoring for parts all the way through the end of the quarter, so we ship it to them as soon as we can.  We just couldn't get it through the back end.
  The second -- your second question is about workstations.  I think the workstation market is going to continue to improve from this point forward.  The vast majority of the world's industries held back on spending towards the latter part of the year before and the early part of this last year, and technology has really, really moved forward and until -- unless they invest in tools, unless they invest in computing, they really can't build products.  And so the Quadro business has improved quarter on quarter.  I think it was some 20% or so.  My guess is that -- and it's still off of its historical highs.  And it's historical highs, I think is going to be ultimately beaten.  We'll exceed that in some period of time, because back when we had the historical high about two years ago, I think a year and a half ago -- 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [53]
---------------------------------------------------------------------------------
 
      Yes. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [54]
---------------------------------------------------------------------------------
 
      -- before the recession, the end -- the world was not nearly as globalized from an industrial design standpoint.  China wasn't nearly as progressed from a design perspective.  It was a manufacturing powerhouse, but now it's turned into a design powerhouse, as well.  And so you're going to see that projects are being worked on by teams on the same project around the world and so it'd be people working in Europe, working with engineers in the United States, working with engineers in China, and to do that you have to use the same database and you have to use the same architecture.  And so my belief is that the workstation market is going to do quite nicely over the next several years. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [55]
---------------------------------------------------------------------------------
 
      Great, thanks. 
 
---------------------------------------------------------------------------------
 Operator    [56]
---------------------------------------------------------------------------------
 
      Our next question comes from the line of James Schneider with Goldman Sachs.  Please proceed with your question. 
 
---------------------------------------------------------------------------------
 James Schneider,  Goldman Sachs - Analyst    [57]
---------------------------------------------------------------------------------
 
      Good afternoon and thanks for taking my question.  Could you talk a little bit about your customer order patterns at this point?  And clearly you're supply constrained, but are customers putting as much backlog on you today as they were three months ago?  And so in the context of that, plus the supply constraints, how should we think about what's likely to happen for Q2 in terms of revenues? 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [58]
---------------------------------------------------------------------------------
 
      Yes, I think I can answer that, James.  If you look at the last three quarters, we have opened each of the last three quarters with a fairly healthy shippable backlog at the start of each one.  In fact, that has been at near record levels, at least as far as I can tell, and that has helped significantly with linearity of product deliveries, linearity of collections, for example, et cetera, and has made our business a little bit more predictable than what it's been, as well, because we have less turns business to actually generate within a quarter.  And as we go into Q1 that backlog -- the opening backlog position is in relatively the same position it was at the beginning of Q4, and so we're opening Q1 with a fair amount of our business already visible to us. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [59]
---------------------------------------------------------------------------------
 
      And in terms of -- in terms of Q2, the benefit of Q2 is it's going to benefit from quite a few growth drivers that are firing at the same time.  We've got new GeForce products, new Quadro products, new Tesla products and Tegra products and 3D Vision products all cranking.  So this is -- we're in just the beginning now of a new product cycle and this new product cycle's driven by a revolutionary architecture called Fermi and so we're real excited about that and we can't get -- can't wait to get to it. 
 
---------------------------------------------------------------------------------
 James Schneider,  Goldman Sachs - Analyst    [60]
---------------------------------------------------------------------------------
 
      Thanks, that's very helpful.  And then as a follow up, just briefly, I think you talked about 40-nanometer products being about 19% of shipments last quarter, can you give us an update on what that was this quarter? 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [61]
---------------------------------------------------------------------------------
 
      We've really not broken that out this time.  I think we've decided that it would be just better to show the vector and the vector was up 178% quarter to quarter. 
 
---------------------------------------------------------------------------------
 James Schneider,  Goldman Sachs - Analyst    [62]
---------------------------------------------------------------------------------
 
      40-nanometer? 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [63]
---------------------------------------------------------------------------------
 
      40-nanometer. 
 
---------------------------------------------------------------------------------
 James Schneider,  Goldman Sachs - Analyst    [64]
---------------------------------------------------------------------------------
 
      Great.  Thanks very much. 
 
---------------------------------------------------------------------------------
 Operator    [65]
---------------------------------------------------------------------------------
 
      Our next question comes from the line of Doug Freedman with Broadpoint.AmTech.  Please proceed with your questions. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Broadpoint.AmTech - Analyst    [66]
---------------------------------------------------------------------------------
 
      Great and thanks for taking my question.  Congratulations on a strong quarter.  Can you guys talk a little bit about what drove the change in stock comp reporting?  Is there any underlying change to the compensation structure that you're working with the employees? 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [67]
---------------------------------------------------------------------------------
 
      You mean the fact that our non-GAAP now includes stock-based compensation.  Is that what you mean, Doug. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Broadpoint.AmTech - Analyst    [68]
---------------------------------------------------------------------------------
 
      Correct. 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [69]
---------------------------------------------------------------------------------
 
      There was really no change in compensation at all.  In fact, if you look at the commentary and so forth I think you'd see that it's relatively flat quarter over quarter.  What we really kind of guided is that we'd like to get closer to a GAAP reporting structure, and most of the analysts and so forth now report GAAP and non-GAAP numbers and so forth, and so our thought was that this would just remove one more layer of noise in our story by reporting GAAP when we can report GAAP and only have to talk about non-GAAP when there's an extraordinary item that we need to discuss. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Broadpoint.AmTech - Analyst    [70]
---------------------------------------------------------------------------------
 
      All right, great.  And if you could talk a little bit about use of cash and what your thinking is on the buy back of your shares.  We're now seeing dilution creep up every quarter and you're almost back to where you were.  I believe when you were at this level in the past, you talked about wanting to hold dilution down, is that still something that you're thinking about. 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [71]
---------------------------------------------------------------------------------
 
      Yes, it's certainly something we have discussions on and some time this year we'll probably be more -- be able to talk more openly about what it is we plan on doing with it. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Broadpoint.AmTech - Analyst    [72]
---------------------------------------------------------------------------------
 
      And then my last one is really the Fermi architecture, how quickly do you guys think you're going to be able to take that architecture to the full product line.  What is the -- what expectations should we have as far as getting those into the mainstream and if my understanding is correct, you're going to launch that at the high end? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [73]
---------------------------------------------------------------------------------
 
      All of that just depends on 40-nanometer supply and we're trying to finesse it the best we possibly can.  For the entry level products, the truth is that the new architectures at the very, very, entry level GPUs are probably not extremely well appreciated anyhow.  The reasons why people buy the new architectures are tend to be early adopters and they tend to be game enthusiasts for workstation designers, or creative artists.  There are very specific reasons why it really enhances their experience.  Our current generation GPUs are fabulous at all of the things that mainstream compu -- consumers would use, use their computer for.  All of the high-definition videos, even plays 3D Blu-ray.  We're the only GPU that processes 3-D Blu-ray completely in the GPU.  All of them have CUDA and they're all compatible with the Fermi architecture and now all of them have Optimus.  I think the mainstream GPUs are really fabulous and have been enhanced recently with some really great features and so it makes sense that they're going to continue to do quite nicely in the marketplace and then we'll just transition as fast as we can. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Broadpoint.AmTech - Analyst    [74]
---------------------------------------------------------------------------------
 
      All right, terrific.  And is there any change to your expectations in the ramp for Tegra during the year? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [75]
---------------------------------------------------------------------------------
 
      No, not much has changed.  We're currently working on quite a few tablets and these tablets are -- some are tablets and some are tablets with keyboards and there's all kinds of different form factors.  There's five-inch versions, there's seven-inch versions, there's ten-inch versions.  Some are being created by computer companies, some are being created by consumer electronics companies and some are created mobile companies and everybody has a slightly different perspective on how they would take it to market, so I'm really excited about that.  Today -- I think it's just literally today in Barcelona, Adobe and NVIDIA demonstrated the world's first interactive reader on a mobile device and -- a magazine reader on a mobile device and the Wired magazine demonstrated an interactive version of Wired, and if you get a chance to see it on the web it's just really stunning, just completely stunning.  The experience of reading a magazine that comes to life when you touch it on the tablet -- on the Tegra tablet is just really something else.  And so now we have the full Internet on Tegra.  Flash 10.1 is completely accelerated on our GPU so the 100 million websites around the world now just work.  You have multitasking, so you could read a magazine, close it, go look up something on the web, close that and come back to read your magazine exactly where you left off.  You could also enjoy digital magazines and in the near future, digital books.  So I think this form factor is really going to do nicely and we can't wait to start ramping it. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Broadpoint.AmTech - Analyst    [76]
---------------------------------------------------------------------------------
 
      Great, thanks for taking my questions. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [77]
---------------------------------------------------------------------------------
 
      Yes, thanks a lot, Doug. 
 
---------------------------------------------------------------------------------
 Operator    [78]
---------------------------------------------------------------------------------
 
      Our next question comes from the line of Nicholas Aberle with Caris & Company.  Please proceed with your question. 
 
---------------------------------------------------------------------------------
 Nicholas Aberle,  Caris & Company - Analyst    [79]
---------------------------------------------------------------------------------
 
      Good afternoon.  My question is, so given a scenario where 40-nanometer supply is constrained throughout all of 2010, my guess is you guys will make some -- have to make some tough decisions on how to allocate the supply you do have.  Given you guys are transitioning GPU, desktop and notebook over to 40-nanometer, Tegra too, is 40-nanometer, Tesla, too, is 40-nanometer, how do you guys make those decisions as we roll through the year? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [80]
---------------------------------------------------------------------------------
 
      Well, I said that supply was going to be constrained, I didn't say supply was going to be constant.  (LAUGHTER) We're expecting a big year, but, frankly, if we had more supply we'd have a bigger year and so we just have to keep working it.  TSMC is just doing a fabulous job of improving their yields and if you look at from August, when we first started ramping, to now, the yield improvements that they've done and the execution that they -- their teams have gone through, it's just fabulous.  This is a really extraordinary company and what they have done with 40-nanometer yields over the last several months is really fabulous.  And so if the trend continues, things are going to look a lot better and so we're hoping for it to continue, we're working hard together to make it improve.  And so I'm hoping that supply will abate -- I think was the word I was using ear -- or used earlier -- sooner than later because we can certainly use the wafers to drive our growth. 
 
---------------------------------------------------------------------------------
 Nicholas Aberle,  Caris & Company - Analyst    [81]
---------------------------------------------------------------------------------
 
      Got you.  Well, I guess what I'm asking -- 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [82]
---------------------------------------------------------------------------------
 
      Either way we're expecting a lot of wafers this year and improved yields and a lot more supply than obviously now. 
 
---------------------------------------------------------------------------------
 Nicholas Aberle,  Caris & Company - Analyst    [83]
---------------------------------------------------------------------------------
 
      Yes, I just -- in the scenario that you guys don't get all that you want, which is sounds like you're at least not going to get all you want in the first half of the year, you guys got to make decisions on how to allocate that, I was just curious how you make those decisions to allocate that? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [84]
---------------------------------------------------------------------------------
 
      We're making the decisions now.  We made the decisions last quarter.  We are making decisions this quarter and every commitment that we make we need to fulfill and so we have to be thoughtful about the commitments we do make.  Our customers are working very closely with us now.  Everybody has just done a much, much better job aligning forecasts and I appreciate that, and so we are making those tradeoffs all the time now.  And so you -- I think one of the things that you give up on is you give up on any amount of inventory, and we don't have very much inventory at all in the grand scheme of things, considering the velocity of our business, and I -- so there's not much buffer and everything is hand to mouth.  That's one of the challenges of being constrained.  But we're -- our most important objective is to meet the commitments that we've made to our customers. 
 
---------------------------------------------------------------------------------
 Nicholas Aberle,  Caris & Company - Analyst    [85]
---------------------------------------------------------------------------------
 
      Got you.  We haven't really talked about PlayStation 3 much, I was curious, is that a little bit soft during the quarter.  What are your expectations for PS3 this year and given there's a transition coming up, do you expect to be part of that transition? 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [86]
---------------------------------------------------------------------------------
 
      Seasonality they're lower in our fourth quarter, just the way they ramp for the holidays and so forth, so it was seasonally weaker in the fourth quarter.  I think it'd be probably inappropriate for us to guide what we think Sony's business is going to do over the next year, so I'm not sure I want to answer the balance of that question. 
 
---------------------------------------------------------------------------------
 Nicholas Aberle,  Caris & Company - Analyst    [87]
---------------------------------------------------------------------------------
 
      Thanks, guys. 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [88]
---------------------------------------------------------------------------------
 
      Thanks, Nick. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [89]
---------------------------------------------------------------------------------
 
      Thanks a lot, Nick. 
 
---------------------------------------------------------------------------------
 Operator    [90]
---------------------------------------------------------------------------------
 
      Our next question comes from the line of Arnab Chanda with Roth Capital Partners.  Please proceed with your question. 
 
---------------------------------------------------------------------------------
 Arnab Chanda,  Roth Capital Partners - Analyst    [91]
---------------------------------------------------------------------------------
 
      Thank you.  I have a question about gross margins.  This is basically, as far as I can tell, pretty much a record gross margin, maybe even better than your record if you assume this non-GAAP business excluded [stockcom].  It seems like your new products basically have a better gross margin than your current business so that mix improvement should only get better.  Is there a target that you'd like to let us think about longer term, where you think you can get to? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [92]
---------------------------------------------------------------------------------
 
      Let me answer it in pieces.  First of all, I don't think this is our record. 
 
---------------------------------------------------------------------------------
 David White,  NVIDIA Corporation - EVP & CFO    [93]
---------------------------------------------------------------------------------
 
      It's two points lower. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [94]
---------------------------------------------------------------------------------
 
      And secondarily, it's not at the internal targets.  Our business is increasingly moving from a great chip business to much more of a software-rich business.  If you look at our Quadro business it's nearly all software.  The enormous R&D that we invest in Quadro and the technology we create for Quadro is all software, because it's -- in the final analysis, it's still built on video GPUs.  So you see the same thing with GeForce now.  The work we did in 3D Vision, tons of software.  The work that we did with 3D Blu-ray, tons of software.  So the work that we do with CUDA, the work we do with PhysX, tons of software.  So I think increasingly that's going to become the nature of our business.  Tesla is just all software, right, software tools and software compilers and libraries and.  These are profilers and debuggers.  It's a software, it's become increasingly a software-oriented-type business and that's where our differentiation really is and that's where NVIDIA has historically been really, really excellent.  So in order for us to differentiate the basic commodity platform and turn it into an extraordinary experience for gamers or scientists or digital creators or for clouds or for netbooks or for tablets, it's increasingly a software business.  And so that's where a lot of our differentiation becomes and I think if you think of our business from that perspective, a gross margin of 40 -- the 44 points -- the 44.7% that we had this quarter should be far from our expectations.  And it is. 
 
---------------------------------------------------------------------------------
 Arnab Chanda,  Roth Capital Partners - Analyst    [95]
---------------------------------------------------------------------------------
 
      Okay.  And then one question about your -- actually a couple of questions about your products.  So when you look at Tegra you talked a lot about your -- the tablet potential there, where do you see taking that business.  Do you think that will be confined to tablets?  Are you expecting to take it down to SmartPhones?  And then with Fermi, is there a possibility with ASP growth that you could offset normal seasonality when it starts to launch significantly in the second quarter? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [96]
---------------------------------------------------------------------------------
 
      I think Fermi will very substantially offset any seasonality, that's my expectation, because Q2 is going to be the quarter when Fermi is hitting full stride.  And it won't just be one Fermi product, it'll be a couple of Fermi products spanning many different price ranges, but also the Fermi products will span GeForce and Quadro and Tesla.  And so we're going to be hand-to-mouth on Fermi architecture products through Q2 and we're building a lot of it.  And so I'm real excited about the upcoming launch of Fermi, and I think that it'll more than offset the seasonality we usually see in Q2.
  And then the question about Tegra, our focus on Tegra is initially on the markets where high resolution and snappy performance is really important.  What NVIDIA's really great at is multimedia and great, snappy performance, high-performance computing, and so if you want a great experience with a touch tablet and the resolution is high and it's in high def, choosing NVIDIA, choosing Tegra is really your best choice.  So we're going to focus our energy on the marketplaces where we could add the most value and initially those are tablets.  We're seeing a lot of over-the-top TV opportunities and engaged in a few of those.  And You also heard that Audi has standardized the video graphics starting this year in America and in the year 2012 everywhere around in the world and we're just expanding from there.  So I think the Tegra opportunity is quite large for us and we're just going focus on -- we're going to start from where we have the most value first. 
 
---------------------------------------------------------------------------------
 Arnab Chanda,  Roth Capital Partners - Analyst    [97]
---------------------------------------------------------------------------------
 
      Thanks, Jen-Hsun. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [98]
---------------------------------------------------------------------------------
 
      Yes, thanks, Arnab. 
 
---------------------------------------------------------------------------------
 Operator    [99]
---------------------------------------------------------------------------------
 
      And gentlemen, there are no further questions at this time.  I'll now turn the call back over to you. 
 
---------------------------------------------------------------------------------
 Mike Hara,  NVIDIA Corporation - SVP - IR & Communications    [100]
---------------------------------------------------------------------------------
 
      Thank you, everyone.  We look forward to talking to you about our next quarter's results. 
 
---------------------------------------------------------------------------------
 Operator    [101]
---------------------------------------------------------------------------------
 
      And ladies and gentlemen, that does conclude the conference call for today.  We thank you for your participation and ask that you please disconnect your lines.  Have a nice day.
 
@@ -687,9 +475,7 @@ Operator    [101]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -700,9 +486,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Thomson Reuters reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -728,6 +512,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2019 Thomson Reuters. All Rights Reserved.
---------------------------------------------------------------------------------

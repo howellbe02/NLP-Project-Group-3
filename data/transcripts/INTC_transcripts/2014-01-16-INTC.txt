@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q4 2013 Intel Corporation Earnings Conference Call
 JANUARY 16, 2014 / 10:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Stacy Smith
    Intel Corp - CFO
@@ -17,9 +15,7 @@ Corporate Participants
  * Brian Krzanich
    Intel Corp - CEO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Stacy Rasgon
    Sanford C. Bernstein & Company, Inc. - Analyst
@@ -46,28 +42,21 @@ Conference Call Participiants
  * Jim Covello
    Goldman Sachs - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Good day, ladies and gentlemen and welcome to the Intel Corporation fourth-quarter 2013 earnings conference call. 
 (Operator Instructions) 
 As a reminder, today's conference is being recorded. I would now like to turn the conference over to Mark Henninger, Director of Investor Relations. Please go ahead, sir. 
 
---------------------------------------------------------------------------------
 Mark Henninger,  Intel Corp - Director of IR    [2]
---------------------------------------------------------------------------------
 
           Thank you, Jamie, and welcome, everyone, to Intel's fourth-quarter 2013 conference call. By now you should have received a copy of our earnings release and the CFO commentary that goes along with that. If you've not received both documents, they're currently available on our investor website, INTC.com. 
 I'm joined today by Brian Krzanich, our CEO; and Stacy Smith, our Chief Financial Officer. In a moment we'll hear brief remarks from both of them followed by Q&A. 
 Before we being, let me remind everyone that today's discussions contain forward-looking statements based on the environment as we currently see it, and as such does include risks and uncertainties. Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially. 
 Also when, during this call, we use any non-GAAP financial measures or references, we will post the appropriate GAAP financial reconciliation to our website, INTC.com. With that, let me hand it over to Brian. 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [3]
---------------------------------------------------------------------------------
 
           Thanks, Mark. Q4 was a solid finish to a year of transitions, both for the computing market and for Intel. We spent the year building a foundation in important growing segments of computing and as a result we are better positioned as we enter 2014. 
 Importantly, the beat rate of innovation inside the Company has also improved. I'll touch on each of these themes but I'd like to start with our results. 
@@ -84,9 +73,7 @@ We also exit the year having made important strides on our 14-nanometer process 
 Our customers and partners also continue to evolve the computing experience. By the time we enter the back-to-school selling season we'll have nearly 70 unique 2-in-1 designs with outstanding battery life and performance across a range of price points and form factors. And later this quarter we'll launch Ivy Bridge-EX which will bring the largest generation-to-generation improvement in MP server performance since 2010. 
 Our work to improve our velocity and position the Company for the future of computing isn't done, but our recent progress is testament to what's possible when we focus and bring all of these assets to bear. We're building on a foundation upon which we'll compete for years to come and we're beginning this year in a better position than we began last year. With that, let me turn the call over to Stacy. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [4]
---------------------------------------------------------------------------------
 
           Thanks, Brian. The fourth quarter came in consistent with expectations with a return to financial growth and was a solid ending to a challenging year. For the fourth quarter, revenue came in at $13.8 billion, up 3% from a year ago. 
 PC Client Group revenue was flat from a year ago. Our Data Center Group grew 8% from a year ago. And relative to our expectations at the beginning of the quarter, we saw higher PC Client Group revenue, partially offset by lower growth in our Data Center Group. 
@@ -110,33 +97,24 @@ We are uniquely situated to benefit from the other end of the compute continuum 
 In 2013, we extended our leadership to the high end of the data center with the launch of the Ivy Bridge-based ZN product line. And at the low end of the data center we extended our leadership with the launch of Avoton, targeting the micro server market. We plan to build on this foundation as we launch the Haswell-based Xeon family in 2014. 
 At the foundation of this innovation, we continue to advance Moore's Law faster than the rest of the industry. This gives us the world's highest performance and lowest power transistors and will result in a growing cost advantage over time. With that, let me turn it back over to Mark. 
 
---------------------------------------------------------------------------------
 Mark Henninger,  Intel Corp - Director of IR    [5]
---------------------------------------------------------------------------------
 
           All right. Thank you, Brian and Stacy. As we move on to the Q&A, as is our normal practice, we would ask each participant to ask one question and just one follow-up, if you have one. Jamie, please go ahead and introduce our first questioner. 
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
     (Operator Instructions) 
 The first question comes from Mark Lipacis from Jefferies. 
 
---------------------------------------------------------------------------------
 Mark Lipacis,  Jefferies & Company - Analyst    [2]
---------------------------------------------------------------------------------
 
     Thanks for taking my question. At the Analyst Day you addressed your view on transistor density and your expectation for leadership on that vector. 
 But I have to say, discussing that idea with investors, there's a consensus view that seems to be that Intel has an inherent wafer cost disadvantage relative to TSMC that neutralizes, or more than neutralizes your transistor density advantage. The argument is that TSMC ships more wafers and therefore has better purchasing power than you and has Lower labor costs, and net-net they have a big, huge advantage on wafer costs that you should have too hard of a time to overcome. 
 My question is do you think that's a fair view? Can you help us talk to the relative elements of the wafer costs and how you think you can compare? Any kind of help that you could give us on the cost dimension would be extremely helpful. Thank you. 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [3]
---------------------------------------------------------------------------------
 
     Sure. This is Brian. I think the first thing to remember is that what really counts in all of this is transistor cost. 
 And what we really talk about in our Moore's Law curves, and when we talk about transistor density, is driving a consistent cost reduction of the transistors. And so wafer cost is one segment of that. 
@@ -144,15 +122,11 @@ I'm not going to comment on TSMC's wafer cost versus our wafer cost, but we feel
 Doesn't matter whose technology it's on to some extent. Doesn't matter what node. And so the more cost effective those transistors are, whether it's 500 million or 3 billion, the lower the product cost is. 
 That's really what we focus on and why we focus on transistor costs. So I think we stand by what we said at the investor meeting. 
 
---------------------------------------------------------------------------------
 Mark Lipacis,  Jefferies & Company - Analyst    [4]
---------------------------------------------------------------------------------
 
     Thank you. And if I could have a follow-up, there's been some news reports about the Fab 42. Could you helps us understand what's going on, how we should think about what's going on there? Thank you. 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [5]
---------------------------------------------------------------------------------
 
     Sure. I'll start and then Stacy can talk to you about any of the financial discussion of it. You start these construction projects, we've talked about it in the past. You have to start them three years, roughly, in advance. 
 They're very complex, some of the most complex, if not the most complex construction projects you could imagine. You start those three years in advance, so when you're ready for operation. 
@@ -160,41 +134,29 @@ We started this one about three years ago. If you go back and look three years a
 We've brought it up until the shell is complete and facilitated from a construction standpoint. And we've held back putting equipment in until we see the demand requirement and that's really what we've done. 
 We've done that in the past. I've been in Intel's manufacturing for 30 years. You can go back in time and we did that fairly frequently and that's what we've done with Fab 42 as well. We've held it back until the demand requirement comes about. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [6]
---------------------------------------------------------------------------------
 
     Don't have a lot to add to that. I would just say that the financial impact of this is actually pretty minimal. As Brian said, we built a shell but we didn't equip it, and we did that before we need it. 
 We will ultimately use it so the economic cost is just the time value of the money, which is a pretty modest cost. And this is pretty normal for us. We actually always want to have some prepositioned space to grow into as the market grows. 
 As Brian said, it's three years to construct one of these things. So it's economically quite detrimental to get caught short and the cost of having a little bit of extra space is pretty high. Doesn't impact depreciation. Doesn't impact gross margin. 
 
---------------------------------------------------------------------------------
 Mark Lipacis,  Jefferies & Company - Analyst    [7]
---------------------------------------------------------------------------------
 
     Thank you. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [8]
---------------------------------------------------------------------------------
 
     You're welcome. 
 
---------------------------------------------------------------------------------
 Operator    [9]
---------------------------------------------------------------------------------
 
     The next question comes from Ross Seymore from Deutsche Bank. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [10]
---------------------------------------------------------------------------------
 
     Thanks for letting me ask a question. I guess the first one is on DCG. Can you give us a little more color what happened in the fourth quarter? Especially given the confidence that you had as recently as November in the growth there. And also what gives you confidence given the fourth quarter miss in forecasting still low double-digit growth in 2014? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [11]
---------------------------------------------------------------------------------
 
     Let me take that. This is Stacy. If you look at the trends in the fourth quarter, I think the trends actually reinforce the growth rate among cloud, high-performance computing, networking, storage. They all came in consistent with what we thought. 
 Brian went through a lot of the year-on-year growth rates there. Still very robust growth rates. So it actually increased our confidence in that. 
@@ -203,61 +165,43 @@ As we step back and look at what happened there, we think there's two elements t
 And then secondly, we saw a tapering off in order patterns across certain customers in certain segments at the end of the quarter. And we think that that was driven by the government shutdown and the uncertainty around the debt ceiling, because when you look at the customers and the segments it's pretty clearly in those segments. 
 We had a range around growth rates for 2014 and the investor meeting, we said 10% to 15%. Based on a slower growth in enterprise in Q4 and maybe a slower recovery in enterprise over the course of 2014, I'd say we're now at the lower end of that range. So we're more at the 10% range than the 15% part of that range. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [12]
---------------------------------------------------------------------------------
 
     Great. I guess as my follow-on, switching gears a little bit to the OpEx side, you guided sequentially flat. But it looks like if you just hold R&D as part of that sequentially flat for the full year, it seems to imply that R&D as a singular expense will be coming down as the year progresses. Is that math correct? And if so, what's driving that decline throughout the year? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [13]
---------------------------------------------------------------------------------
 
     That math is correct. So I think Q1 will be the high point in terms of quarterly spending. It will come down quarter by quarter. 
 We'll be bringing employment down over the course of the year. Beyond that, as we talked about at the investor meeting, we're going to be making some significant new investments in things like the data center, tablets, low-power SoCs, those kinds of things. 
 So even beyond the headline number, there's going to be a significant shift in investment over the course of the year. But you have the math right, and it's going to be due to just shifting on projects and bringing down employment over the course of 2014. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [14]
---------------------------------------------------------------------------------
 
     Thank you. 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [15]
---------------------------------------------------------------------------------
 
     Thanks, Ross. 
 
---------------------------------------------------------------------------------
 Operator    [16]
---------------------------------------------------------------------------------
 
     The next question comes from Glen Yeung from Citi. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citi - Analyst    [17]
---------------------------------------------------------------------------------
 
     Thanks. Brian or Stacy, either one, to what extent could you be misreading the enterprise server market, in the sense that the virtualization curve is probably now over? And maybe you don't see the recovery in enterprise server with the economy that one might normally see. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [18]
---------------------------------------------------------------------------------
 
     I think we'd say there is some impact. As Dianne showed you, we're showing a long-term growth rate in enterprise that's less than what it was three years ago. 
 I think she said there was some impact associated with the virtualization curve having played out. But that doesn't stop the fact that we think that there's growth in the enterprise segment. 
 We would just change our view for 2014. We think the recovery just plays out a bit slower than we would have thought a quarter ago. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citi - Analyst    [19]
---------------------------------------------------------------------------------
 
     And then a similar question, but on the PC side. To what extent do you think that the strength you're seeing, relative strength you're seeing, in PCs today is a function of the software transition at Microsoft? And does it therefore end in April? Or do you think this is a more sustainable recovery? 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [20]
---------------------------------------------------------------------------------
 
     So as we said in our script, what drove a lot of it was desktop. And we're seeing the mature markets, enterprise being the strongest, with the emerging markets still flat to slightly down. 
 So our view, if you look out from a PC perspective, was that we forecast with a relatively cautious and careful view, looking out. We compared against the third parties. We think we're in line with what third parties have forecasted as well. 
@@ -265,101 +209,69 @@ Some of the contribution to fourth quarter was the XP transition, which is reall
 The desktop was largely enterprise in the mature markets. That really we thinks has the to do with a lot of great form factors that are coming in, the all-in-ones, the great innovation that's coming in there. We saw some of the highest units of i5 and i7 in the enthusiast area. We think those are some great gaming platforms. 
 We think there's a lot more to the desktop growth. We also introduced the Haswell-based NUC, which is the smallest form factor desktop machine that you can have. So it's those kinds of innovations that are driving this desktop growth as much or more than the software transition. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citi - Analyst    [21]
---------------------------------------------------------------------------------
 
     That's great. Thank you very much. 
 
---------------------------------------------------------------------------------
 Operator    [22]
---------------------------------------------------------------------------------
 
     The next question comes from Stacy Rasgon from Sanford Bernstein. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [23]
---------------------------------------------------------------------------------
 
     Thanks for taking my questions. I want to dig into the full-year guidance a little bit. There's something I don't understand. 
 You just basically took your data center guidance down for 2014 by a little bit. Doesn't sound like you're improving your full-year PC guidance at all. You're still saying single-digits. 
 You didn't take your full-year revenue outlook down. What's making up the difference? And if there's nothing making up the difference, why didn't you take the full-year revenue guidance down? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [24]
---------------------------------------------------------------------------------
 
     I think, Stacy, you're assuming a level of precision around approximately flat that doesn't exist. Approximately flat can encompass a little bit up, a little bit down. So if you think about the Data Center being $10 billion, if we're at the higher end of the range versus the lower end of the range that we put out here, you changed the full year on a $50-plus billion dollar business by a few hundred million dollars. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [25]
---------------------------------------------------------------------------------
 
     Is the bias more to a little bit down, versus a little bit up, at least more than it was in November?  
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [26]
---------------------------------------------------------------------------------
 
     At this point, again you're assuming a level of precision that I think isn't appropriate when you're talking something that will play out over the next 12 months. We had a positive data point on PCs. We had a little bit of a negative data point on one element of the enterprise. Our tablet momentum looks good. You look at it and I'd say our view is pretty consistent with what it was back in November. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [27]
---------------------------------------------------------------------------------
 
     But you don't book any revenues on the tablets, right? 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [28]
---------------------------------------------------------------------------------
 
     Stacy, thanks for the question. We're going to move on to the next questioner. 
 
---------------------------------------------------------------------------------
 Operator    [29]
---------------------------------------------------------------------------------
 
     The next question comes from Christopher Danely from JPMorgan. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [30]
---------------------------------------------------------------------------------
 
     Mr. Danely, you may be on mute. We can't hear you. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan Chase & Co. - Analyst    [31]
---------------------------------------------------------------------------------
 
     Is that better?  
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [32]
---------------------------------------------------------------------------------
 
     Yes, that's better. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan Chase & Co. - Analyst    [33]
---------------------------------------------------------------------------------
 
     One of these days I got to figure out how to work my own phone. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [34]
---------------------------------------------------------------------------------
 
     Yes, technology's tough. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan Chase & Co. - Analyst    [35]
---------------------------------------------------------------------------------
 
     Tell me about it. Anyway, my first question is on gross margins. You gave us the Q1 and the full-year guidance. Can you talk about how things are supposed to trend after Q1? And then maybe also talk about some of the levers on gross margins, up or down. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [36]
---------------------------------------------------------------------------------
 
     Sure. I'll anchor it on Q1 and then give you a sense of how I see it playing out over the course of the year, since we've provided specific guidance for Q1. 
 We've guided Q1 at 59%, coming down from Q4. We're at 62% in Q4, so down to 59%. The elements there that bring us down, we have about 1.5 points down associated with the start of production on Broadwell, prior to its qualification for sale. 
@@ -370,401 +282,277 @@ We see volume and unit costs getting better over the course of the year. And res
 The big offset to that then are the dollars that we're providing in terms of contra-revenue dollars for tablets that we also talked about in some depth at the investor meeting. We're not seeing a lot of those in the first quarter. They really build over the course of the year. 
 So we have the positives that I outlined. Then you'll see that offset as a result of those temporary contra-revenue dollars that we're providing to our customers as we take our tablet product line broadly through the different OSs and price points. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan Chase & Co. - Analyst    [37]
---------------------------------------------------------------------------------
 
     Great. And for my follow-up, I guess it's on that question. On the tablet strategy, to get to $40 million you're saying it's going to be a 1.5 percentage hit. 
 Let's say you guys get into the second half of the year and you're not quite to the $40 million, if it's a pretty significant shortfall. Would you consider canning that strategy? I guess I'm just wondering what the commitment is if the volumes aren't there but the cost is there by the end of the year. 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [38]
---------------------------------------------------------------------------------
 
     Sure. So this isn't a price reduction as a normal price reduction would be. It's not where you're just simply reducing it. It's truly a BoM cost equalizer. 
 And remember, a lot of our 40 million tablets in 2014 will be based on Bay Trail. Bay Trail was originally designed for Atom-based PC segment and the upper-end tablet. And so what we're doing here is doing a BoM cost delta relative to what the mid- and lower-end tablets require. 
 And so those are things like Bay Trail may require more layers of a printed circuit board for the board itself, more components on the board, tighter power management controls and things like that. We have a whole program to reduce those throughout the year. 
 So that gives us confidence that as we go through the year, the BoM cost delta will shrink. But if the volume didn't show up for some reason, and I'm not going to say that that's what's going to happen, but I'm confident it will. But if it didn't, it's on a per-unit basis, and so the spending on that contra would be reduced equivalently. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [39]
---------------------------------------------------------------------------------
 
     I'd just add, as Brian said, we're doing a lot of enabling across the industry to take the BoM costs down. Keep in mind, these are costs at the system level, not at our chip level. 
 It will vary a lot by SKU, but to give you a sense for a Bay Trail platform from the beginning of the year to the end of the year, we think that that BoM penalty drops by more than half. And so it gets better out in time and then when we get to the Broxton generation we think it's de minimis. 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [40]
---------------------------------------------------------------------------------
 
     Both Broxton and SoFIA are specifically designed to eliminate that delta. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan Chase & Co. - Analyst    [41]
---------------------------------------------------------------------------------
 
     Got it. Okay. Thanks a lot, guys, that's very helpful. 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [42]
---------------------------------------------------------------------------------
 
     Thanks, Chris. 
 
---------------------------------------------------------------------------------
 Operator    [43]
---------------------------------------------------------------------------------
 
     The next question comes from Tristan Gerra from Baird. 
 
---------------------------------------------------------------------------------
 Tristan Gerra,  Robert W. Baird & Company, Inc. - Analyst    [44]
---------------------------------------------------------------------------------
 
     Hi, good afternoon. If we look at tablets and smartphone, what type of units do you need to reach for that business to start having a material impact in gross margin from the standpoint of higher utilization rates and excluding the contra-revenue impact and offset? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [45]
---------------------------------------------------------------------------------
 
     You were asking tablets and phones? 
 
---------------------------------------------------------------------------------
 Tristan Gerra,  Robert W. Baird & Company, Inc. - Analyst    [46]
---------------------------------------------------------------------------------
 
     Yes. So just looking at the 40 million units target for this year, what type of volume do you need to get in order for gross margin to start appreciating from the rest of the business, if you exclude the contra-revenue impact? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [47]
---------------------------------------------------------------------------------
 
     Yes, it's hard to say. Maybe I'll bridge back to our strategy here. Our strategy is that we're going to use our process technology lead. 
 We'll have leadership products that also are competitive, or maybe even leadership in terms of cost. I showed some data at the investor meeting that showed the die size as we progress from Bay Trail to Broxton to SoFIA, so you can get a sense of the kinds of cost structure that we're going to have. 
 On a percentage basis, I'm not envisioning a situation where it causes the gross margin percentage to go up. But you can definitely get to a space once we get through these contra-revenue enabling dollars, where every unit we sell is accretive on our gross margin dollars per unit. It's utilizing factories that we have in place for PCs, and so it's a nice adder at a gross margin dollars per unit standpoint. 
 
---------------------------------------------------------------------------------
 Tristan Gerra,  Robert W. Baird & Company, Inc. - Analyst    [48]
---------------------------------------------------------------------------------
 
     Okay. And then quick follow-up. You talked about enterprise desktop being strong. Any color that you can provide in notebooks, in terms of whether it tracked in line with expectation and whether it was more driven by consumer or enterprise. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [49]
---------------------------------------------------------------------------------
 
     It was pretty much in line with expectations. We didn't see any surprise on the notebook side. We saw overall PC units a little bit higher and that was really desktop. It was, as Brian said, broad-based a across desktops. It was all-in-ones and corporate and consumer, everything was just a little stronger on the desktop side. 
 
---------------------------------------------------------------------------------
 Tristan Gerra,  Robert W. Baird & Company, Inc. - Analyst    [50]
---------------------------------------------------------------------------------
 
     Great, thank you. 
 
---------------------------------------------------------------------------------
 Operator    [51]
---------------------------------------------------------------------------------
 
     Next question comes from John Pitzer from Credit Suisse. 
 
---------------------------------------------------------------------------------
 John Pitzer,  Credit Suisse - Analyst    [52]
---------------------------------------------------------------------------------
 
     Yes, good afternoon, guys. Congratulations on the solid result. Brian, I guess my first question relative to the seasonal guide for the March quarter, is there any granularity you can give us between the PC group, the Data Center Group and other IA? 
 I guess the reason why I'm asking the question is, I get in the absence of knowing just guiding to seasonal makes sense, but you do have Bay Trail Android tablets in Q1 that you didn't have in Q4. When you look at availability of SKUs in the PC group, you actually have a lot better availability of the SKUs I think people like in Q1 versus Q4, both of which would argue for better seasonality. Maybe you could give us a little granularity there to be helpful. 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [53]
---------------------------------------------------------------------------------
 
     Sure. Let me try and Stacy can add some of the financial detail. Part of it is -- let's go back. It's seasonality off growth from Q4, so a stronger Q4. So it's a good quarter. I don't want to say that just growing at seasonality is not a good thing. 
 Second thing I would say is, you're right, on the PC we do see a lot of the 2-in-1s come in. But also Q1 is just -- there's not a lot of events that happen that can drive upsides like holidays and things like that. 
 One of your comments, you said we'll start seeing Bay Trail Android tablets. Most of the Bay Trail Android tablets really start showing up more in Q2 than in Q1. That's, again, purely -- remember, we made a shift. Our original program for Bay Trail was all Windows. 
 As we came in through the mid-point of the year, we said left's shift and make it Windows and Android. So our OEM partners, as well, are targeting more towards Q2. It's just, when do you go and start putting back in that back-to-school event which is the next seasonal place where upsides usually occur. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [54]
---------------------------------------------------------------------------------
 
     The only thing I'd add to that, I guess I'd say I certainly hope you're right and it's better than seasonal and we have all the ability in the world to respond to that. So that ends up being a good answer. 
 The thing you want to keep in mind as you work through seasonality over the course of the year, is that these contra-revenue dollars that we're providing to the customers for tablet enabling, that will come off of revenue. So it's a gross margin hit, but it will also be a detriment to revenue while we support them. So not so much a Q2 issue, but as you get into the back half it's going to be one of the minuses out there. 
 
---------------------------------------------------------------------------------
 John Pitzer,  Credit Suisse - Analyst    [55]
---------------------------------------------------------------------------------
 
     That's helpful. And then, guys, relative to DCG, at the Analyst Day in November you talked about your expectations for enterprise being, I believe, a 7% or 8% type long-term grower. I know relative to Glen's question around virtualization, you answered that. 
 I guess my question is, have you taken into account cloud and enterprise as off-loading infrastructure into the cloud?  I know at the Analyst Day you talked about two-thirds of cloud growth being consumer and not business. 
 But if you start to lose dollars in enterprise to cloud, is it a one-to-one law?  If you lose at enterprise you'll just make it up in cloud? Or how do I think about that dynamic? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [56]
---------------------------------------------------------------------------------
 
     I think it's close enough for government work. If that's how it plays out, it should be dollar-for-dollar close enough that you don't care. 
 One of the phenomenon that we've seen is that we've seen the mix in the cloud actually moving up. So if you look at the ASP impact inside of servers, John, it's more driven by cloud than anything else right now, and so thereby a richer and richer mix. That's why I think you're probably pretty close if you start to see an offload that way. 
 And utilization rates inside of enterprises tend to be pretty high on the kinds of things that they move into the cloud. I think you're pretty close to one-to-one. 
 
---------------------------------------------------------------------------------
 John Pitzer,  Credit Suisse - Analyst    [57]
---------------------------------------------------------------------------------
 
     Thanks, guys. Helpful. 
 
---------------------------------------------------------------------------------
 Operator    [58]
---------------------------------------------------------------------------------
 
     The next question comes from Alex Ghana from JMP Securities. 
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [59]
---------------------------------------------------------------------------------
 
     Thanks so very much for taking my question. I was wondering if you could talk about how you see Asia specifically and what's going on for you with the holiday build there and how that's factoring in to your Q1 expectations. Thank you. 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [60]
---------------------------------------------------------------------------------
 
     Like we said in Q4, we saw Asia continue to be soft. We've built in our seasonal growth. We don't expect anything big to shift there. We see Asia continuing to -- they'll have that same seasonal growth as well. The forecast stands. We don't see anything different occurring there, so to speak. 
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [61]
---------------------------------------------------------------------------------
 
     Is there any evidence within your build and your ODM build into the server market that I know some of that's coming back to service data center?  But what about the opportunity in Asia for them to become a stronger data center enterprise customer going forward? 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [62]
---------------------------------------------------------------------------------
 
     Certainly. I mean, if you look at one of the places we look at for data center growth and we are seeing it, for both. I mean, it's across enterprise, cloud is growing very well. A lot of the cloud growth is driven out of Asia. We absolutely see Asia as a growth area for the data center in general. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [63]
---------------------------------------------------------------------------------
 
     Yes, exactly. I would just say on the client side, we think what we're seeing in Asia is just the tablet penetration rate increase that's offset by a couple of years from what we saw in mature markets. That's why I think we're seeing stabilization and improvement in mature markets that's ahead of emerging markets, is we've just reached saturation point on tablet penetration. In the emerging markets it's still increasing. It's much more of a client phenomenon than a data center phenomenon. 
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [64]
---------------------------------------------------------------------------------
 
     Would you expect the lag in Asia to be driven more by Bay Trail later on in the year? Or Haswell?  
 
---------------------------------------------------------------------------------
 Mark Henninger,  Intel Corp - Director of IR    [65]
---------------------------------------------------------------------------------
 
     Alex, I appreciate the question, but we're trying to keep it clear for everybody. Limit it to two. 
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [66]
---------------------------------------------------------------------------------
 
     Thank you. That's helpful. 
 
---------------------------------------------------------------------------------
 Operator    [67]
---------------------------------------------------------------------------------
 
     The next question comes from Vivek Arya from Bank of America. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [68]
---------------------------------------------------------------------------------
 
     Thanks for taking my question. So first, on the smartphone and tablet space, I think it is true that Intel has a manufacturing lead. But do you think your cost reduction efforts and then the Moore's Law advantages ever progress faster than the ASP declines in the space? In other words, do you think Intel can be sustainably profitable in the mobile space, which is maturing? 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [69]
---------------------------------------------------------------------------------
 
     Yes. We absolutely do. You saw at the investor meeting products like SoFIA, which really are going to be put onto 14-nanometer, are fully integrated all the way through with a 3G option or an LTE option. And that LTE is with carrier aggregation. 
 Those kinds of products we believe are very, very cost competitive. In fact, leading from a cost position. In addition, we don't talk a lot about but we are already in that low cost Asia market. We are in Shenzhen. We're working with ODMs there. 
 That's actually where a lot of the innovations coming out of, for some of these cost reductions on tablets, and where we're getting the cost reduction ideas. So we're in that market now. 
 We sold out of that Shenzhen low-cost market in Q4. We'll continue through it, through 2014. And with products like SoFIA on leading edge technology, we're very comfortable that we can get into those very low price points. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [70]
---------------------------------------------------------------------------------
 
     Thanks. For my follow-up, there seems to be this race to provide 64-bit capability in application processors. I think you guys have always had 64-bit support with Atom like, in fact all your products. The question is, what do you think is the value proposition of 64-bit? And how can you leverage your 64-bit capabilities to win market share in mobile? 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [71]
---------------------------------------------------------------------------------
 
     Sure. You're right. All of our products have always been 64-bit, including Atom. OEMs who build with our products now can already go out and start to utilize 64-bit. 
 We're out there, working with the OSs, all of the OSs and the OEMs, to go enable that. The real usages and the values are going to be in those high-compute areas, things like video; things like media transfer, media manipulation. 
 All the classic things around computing that you saw drive the compute cycles on PC and people are doing more and more with tablets and phones, are going to be the same things that drive 64-bit utilization on these mobile devices. I think you'll also see it in security. All of those things are going to drive a desire for 64-bit. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [72]
---------------------------------------------------------------------------------
 
     Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [73]
---------------------------------------------------------------------------------
 
     The next question comes from Mike McConnell from Pacific Crest. 
 
---------------------------------------------------------------------------------
 Mike McConnell,  Pacific Crest Securities - Analyst    [74]
---------------------------------------------------------------------------------
 
     Thanks. I wanted to ask about, again, going back to enterprise and DCG, since you said that some of the fall off late in the quarter was due to some of the government issues, shutdown, debt ceiling, et cetera. And now that the debt deal has been reached, have you gotten any feedback from some of these enterprise customers that they are feeling more comfortable now to respend?  
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [75]
---------------------------------------------------------------------------------
 
     We'll watch it over the first quarter. I think the headline here is that the first half of the year we saw an enterprise market that was declining. When we got into the back half of the year it was growing. It was just growing a little less fast than we thought and the recovery was a little less fast than we thought. 
 My expectation is we'll see that segment pop back to the normal rate. I also think that we were just a bit ahead of ourselves in terms of how fast the enterprise market was going to recover and grow. So we have a little bit more of a cautious view of that as we progress through 2014. 
 I guess the short answer is yes, I'd expect that piece to come back. I still believe we'll be at the lower end of the guidance. We probably were just a little overheated in Q4. 
 
---------------------------------------------------------------------------------
 Mike McConnell,  Pacific Crest Securities - Analyst    [76]
---------------------------------------------------------------------------------
 
     I understand. My follow-up would be, Stacy, could you remind us about linearity in DCG?  Would we have to wait until the second half of 2014 to see the re-acceleration? Or do you think we could still see growth in the first half of the year? Thanks. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [77]
---------------------------------------------------------------------------------
 
     No, I think you'll see year-on-year growth rates. Remember, the order pattern particularly with some of these big cloud customers can be very lumpy. But when you step back and look at it on a year-on-year basis, I think we'll see year-on-year growth rates progress through the year. 
 
---------------------------------------------------------------------------------
 Mike McConnell,  Pacific Crest Securities - Analyst    [78]
---------------------------------------------------------------------------------
 
     Sequentially, though, as well? Or is that second half? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [79]
---------------------------------------------------------------------------------
 
     Sequentially it would be more based on normal seasonality. But again, for DCG, my litmus test is always year-on-year growth rates. It tends to be a more meaningful indicator. 
 
---------------------------------------------------------------------------------
 Mark Henninger,  Intel Corp - Director of IR    [80]
---------------------------------------------------------------------------------
 
     Thanks, Mike. Operator, we'll go ahead and take two more questions. 
 
---------------------------------------------------------------------------------
 Operator    [81]
---------------------------------------------------------------------------------
 
     The next question comes from Hans Mosesmann from Raymond James. 
 
---------------------------------------------------------------------------------
 Hans Mosesmann,  Raymond James & Associates - Analyst    [82]
---------------------------------------------------------------------------------
 
     Thank you for letting me ask a question. Brian, real l simple. If you can, can you split out the types of servers that you sent or shipped in the quarter, be it enterprise, networking? If you can provide that level of granularity. Thanks. Or splits. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [83]
---------------------------------------------------------------------------------
 
     We don't provide that level of granularity. But if you go back to Brian's prepared, this is Stacy, you go back to Brian's prepared remarks, you heard a lot of data on year-on-year growth rates across cloud, networking, high-performance computing. And then I'm giving you for the enterprise piece, it was growth. It was just a lower level of growth than we thought. 
 If you go back to the investor meeting stuff and take what Brian showed you,  what you'll see is for all those other segments, was very consistent with how we modeled it. Enterprise growth but a little bit less growth. 
 
---------------------------------------------------------------------------------
 Hans Mosesmann,  Raymond James & Associates - Analyst    [84]
---------------------------------------------------------------------------------
 
     Okay, and then as a follow-up, the Broadwell SoC, timing still second half of 2014? 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [85]
---------------------------------------------------------------------------------
 
     Yes, I said that we had made great progress on our 14-nanometer yields. We were actually very happy with the results that we got out of Q4. We're squarely on target for our second half launch and for, as Stacy said, starting production in Q1. 
 
---------------------------------------------------------------------------------
 Hans Mosesmann,  Raymond James & Associates - Analyst    [86]
---------------------------------------------------------------------------------
 
     Okay. Thank you. 
 
---------------------------------------------------------------------------------
 Mark Henninger,  Intel Corp - Director of IR    [87]
---------------------------------------------------------------------------------
 
     Thanks, Hans. Operator, if you can go ahead and introduce our last question. 
 
---------------------------------------------------------------------------------
 Operator    [88]
---------------------------------------------------------------------------------
 
     The final question comes from Jim Covello from Goldman Sachs. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [89]
---------------------------------------------------------------------------------
 
     Thank you so much, guys. I appreciate it. I know that on the pick-up in desktops, you had said it wasn't all corporate refresh, but obviously some of it was. Is there any chance that enterprise just had a fixed budget and so more of it went to the corporate refresh in the fourth quarter? And so they had a little bit less to spend on the data center and that could account for some of the delta there? 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [90]
---------------------------------------------------------------------------------
 
     We don't have a signal that suggests that, Jim. From what we've heard from the OEMs and the customers is more around, like as Stacy said, a little bit of inventory coming into Q3 and into Q4, and then the government shutdown. If you looked at the order pattern, it really followed that from what we could tell from our position as well. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corp - CFO    [91]
---------------------------------------------------------------------------------
 
     I'd just add to that. As Brian said earlier, we had record shipments in the desktop on the core i7. We know that SKU is not an enterprise SKU at all. That's a customer SKU. 
 Our data as we look across, was consumer was strong, all-in-ones were strong, i7 was strong. A lot of things we know don't go into enterprise were strong. I don't think that was the driver of what happened in the client side of enterprise. And we don't have any data points that would suggest that was what happened on the server side of enterprise. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [92]
---------------------------------------------------------------------------------
 
     If I could just, quickly on the follow-up on the tablet. Could you give us some perspective on the design wins that are not being supported by the contra-revenue? In other words, maybe a split between design win activity that is supported by contra-revenue versus ones that aren't? 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [93]
---------------------------------------------------------------------------------
 
     We can't go into specifics of each one. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [94]
---------------------------------------------------------------------------------
 
     Sure, maybe just percentages or something. 
 
---------------------------------------------------------------------------------
 Brian Krzanich,  Intel Corp - CEO    [95]
---------------------------------------------------------------------------------
 
     I'd say the majority of the projects that we have in 2014 use some level of contra-revenue to bring their BoMs, the bill of materials, actually. We don't use our acronyms everywhere, their bill of materials to parity. And so it really is very SKU by SKU dependent. It's not a fixed number out there. 
 We work with each OEM, and that's how I'm comfortable that we're going to work this out over the next year or so. We work with each OEM depending on are they targeting a high-end SKU, a mid-range SKU, a low-level SKU?  What type of display and graphics and all of those things they want to put in that system, we have a delta in BoM that we're working out and so we go and work with them on that. And it's literally at that level, SKU by SKU. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [96]
---------------------------------------------------------------------------------
 
     Terrific. Very helpful. Thank you. 
 
---------------------------------------------------------------------------------
 Mark Henninger,  Intel Corp - Director of IR    [97]
---------------------------------------------------------------------------------
 
     Thanks, Jim. And thank you all for joining us today. Jamie, please go ahead and wrap up the call. 
 
---------------------------------------------------------------------------------
 Operator    [98]
---------------------------------------------------------------------------------
 
     Ladies and gentlemen, that does conclude the conference for today. Again, thank you for your participation. You may all disconnect. Have a good day. 
 
@@ -774,9 +562,7 @@ Operator    [98]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -787,9 +573,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Thomson Reuters reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -815,6 +599,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2019 Thomson Reuters. All Rights Reserved.
---------------------------------------------------------------------------------

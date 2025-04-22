@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q4 2021 NVIDIA Corp Earnings Call
 FEBRUARY 24, 2021 / 10:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Colette M. Kress
    NVIDIA Corporation - Executive VP & CFO
@@ -17,9 +15,7 @@ Corporate Participants
  * Simona Jankowski
    NVIDIA Corporation - VP of IR
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Vivek Arya
    BofA Securities, Research Division - Director
@@ -36,17 +32,12 @@ Conference Call Participiants
  * John William Pitzer
    Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Good afternoon. My name is Mariama, and I will be your conference operator today. At this time, I would like to welcome everyone to NVIDIA's financial results conference Call. (Operator Instructions) I will now turn the call over to Simona Jankowski, NVIDIA's Vice President of Investor Relations and Strategic Finance, to begin the conference.
 
---------------------------------------------------------------------------------
 Simona Jankowski,  NVIDIA Corporation - VP of IR    [2]
---------------------------------------------------------------------------------
 
           Thank you. Good afternoon, everyone, and welcome to NVIDIA's conference call for the fourth quarter of fiscal 2021. With me on the call today from NVIDIA are Jensen Huang, President and Chief Executive Officer; and Colette Kress, Executive Vice President and Chief Financial Officer.  
 I'd like to remind you that our call is being webcast live on NVIDIA's Investor Relations website. The webcast will be available for replay until the conference call to discuss our financial results for the first quarter of fiscal 2022.  
@@ -54,9 +45,7 @@ The content of today's call is NVIDIA's property. It can't be reproduced or tran
 All our statements are made as of today, February 24, 2021, based on information currently available to us. Except as required by law, we assume no obligation to update any such statements. During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures and GAAP financial measures in our CFO commentary, which is posted on our website.  
 With that, let me turn the call over to Colette.
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [3]
---------------------------------------------------------------------------------
 
           Thanks, Simona. Q4 was another record quarter, with revenue exceeding $5 billion and year-on-year growth accelerating to 61%. Full year revenue was also a record at $16.7 billion, up 53%.  
 Our Gaming business have reached record revenue of $2.5 billion in Q4, up 10% sequentially and up 67% from a year earlier. Full year Gaming revenue was a record at $7.8 billion, up 41%. Demand is incredible for our new GeForce RTX 30 series products based on the NVIDIA Ampere GPU architecture. In early December, we launched the GeForce RTX 3060 Ti, which joined the previously launched RTX 3090, 3080 and 3070.  
@@ -105,23 +94,16 @@ Our earnings call to discuss our first quarter and full -- our first quarter is 
 We will now open the call for questions. Operator, would you please poll for questions.
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           (Operator Instructions) Your first question comes from the line of C.J. Muse with Evercore ISI.
 
---------------------------------------------------------------------------------
 Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [2]
---------------------------------------------------------------------------------
 
           I guess, Jensen, a higher-level question for you on the enterprise side. You're now a couple of quarters into the ramp of A100, and curious if you could speak to whether you've seen any surprises here. Any areas of specific strength worth calling out, and any changes to how you're thinking about the size of this opportunity?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [3]
---------------------------------------------------------------------------------
 
           Yes. Thanks a lot, C.J. So as you know, A100 is a very different type of GPU. This is our first universal computing GPU. It's great at high-performance computing. It's great at data analytics. It's great training. And also for our highest GPU, it's also the first time that is incredible for imprint. It's some 20x faster than previous generation. We introduced this, some really, really exciting new computational format like TF32, TensorFloat-32 for training. And with a multi-instance GPU, turning our GPU, 1 GPU into a whole bunch of smaller GPUs, autonomous GPUs to improve performance and reducing latency. 
 And so the capability is really quite exciting. We're seeing strength in hyperscalers as they continue to accelerate their adoption of AI. Some of the new applications we've spoken about a couple of times before, the transition to deep learning for conversational AI, speech recognition to natural language understanding, all the way to speech synthesis is now based on AI -- based on deep learning. 
@@ -130,28 +112,20 @@ For the first time, we saw our industrial application -- industrial data center 
 We're seeing AI being deployed for big data analytics, RAPIDS, which is NVIDIA's created open source platform for data analytics. Spark 3.0, which NVIDIA really led and is now GPU-accelerated. So now you could have big data in the cloud while doing big data analytics in the cloud on all of the CSP  platforms. 
 You could -- we're seeing a lot of excitement around financial services. Financial services and consumer Internet services are all really growing nicely. And so A100 adoption is just starting. I mean we're going to see several couple of years of continued growth yet ahead of us, well, as AI gets adopted in clouds and industries.
 
---------------------------------------------------------------------------------
 Operator    [4]
---------------------------------------------------------------------------------
 
           Your next question comes from the line of Vivek Arya with BofA Securities.
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Securities, Research Division - Director    [5]
---------------------------------------------------------------------------------
 
           Just a clarification and then a question for Jensen. On the clarification, Colette, I was hoping if you could give a little more color around Q1. Do you still expect the Data Center to grow sequentially in Q1? I know you said that most of the growth coming -- will come from Gaming, but any color on the Data Center would be useful. 
 And then Jensen, the question for you is, in your press release, you used the phrase, AI driving the smartphone moment for every industry. Could you help us quantify what that means? And where I'm going with that is, is there a number in terms of what percentage of servers are shipping today with your accelerators? And where can that ratio go over time? Is that a fair way of looking at the adoption of your technology and AI?
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [6]
---------------------------------------------------------------------------------
 
           So thank you, Vivek. Your question regarding the guidance as we lead into Q1. We had indicated that, yes, a good percentage of our growth between Q4 and Q1 rolls down from Gaming. But we also do expect Data Center to grow. Most of our sequential growth coming from Gaming. But keep in mind, we also expect all of our market platforms will likely be able to grow quarter-over-quarter.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [7]
---------------------------------------------------------------------------------
 
           Because we're entering in the third phase of AI. The first phase of AI was when we invented the computing platforms, the new chips, the new systems, the new system software, the new middleware, the new way of working, the new way of developing software, which the industry, the world is now starting to call ML ops. The way that software is developed and the way that it's deployed is completely different than the past. 
 Something -- in fact, I heard a great term, Software 2.0, and it makes a lot of sense. It's a computer that is writing software. The way that you develop software is completely different. The way you compute is different. And that was our first phase, and that started in the journey that was some 8, 9 years ago now. 
@@ -165,56 +139,40 @@ Rather than selling something once, they sell something and provide service that
 And we saw what happened to the smartphone revolution. And then we saw what happened to the smart microphone, the smart speaker revolution. You're going to see smart lawn mowers, smart tractors, smart air conditioners, smart elevators, smart building, smart warehouses, but robotic retail storage, entire store -- and the entire retail store is like a robot. And they will all have autonomous capability. They'll all be driven by AI. So what's new for the industry, therefore, is that all of the enterprises in the world used to have computers for IT to facilitate, to host their employees and their supply chain. But in the future, all of these industries, whether you're in medical imaging or in lawn mowers, you're going to have data centers that are hosting your products just like the CSPs. 
 And so that's a brand-new industry. And we have a platform that we call EGX, which is the 5G Edge AI systems. And we have the autonomous systems we call AGX, which is what goes into Jetson and DRIVE. And between those 2 systems and the software stack that we have on top of it, we're in a great position to help these industries one at a time transform their business model from an object-oriented business model, a thing-based business model to a connected device business plan.
 
---------------------------------------------------------------------------------
 Operator    [8]
---------------------------------------------------------------------------------
 
           Your next question comes from the line of Stacy Rasgon with Bernstein Research.
 
---------------------------------------------------------------------------------
 Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [9]
---------------------------------------------------------------------------------
 
           First, I don't want to be pedantic, I suppose. But I guess, on the Q1 guide, you're saying the Gaming is the majority of the growth. Was that an absolute statement? Or was that a percentage statement? Can you give us some idea of how you sort of rank the sequential percentage growth of, say, Gaming versus Data Center versus other, especially since it sounds like you've got $50 million in crypto-specific stuff that will go into the other. 
 And then I guess, just briefly, could you give us some indication of where your supply situation and lead times are on your Ampere parts within Data Center? I think you said last quarter, they were many months on 6 months plus. Are they still looking like that? And is that sort of the limiting factor at this point in terms of what you can actually ship on the compute side of the data center?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [10]
---------------------------------------------------------------------------------
 
           Colette will take one, and I'll take the other.
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [11]
---------------------------------------------------------------------------------
 
           Sure. Let me start off, Stacy, in terms of our guidance for Q1. As you know, we're still in the early innings of our Ampere architecture, our Ampere architecture, as it relates to Gaming as well as what it relates to Data Center. As we articulated in our call, we have been really seeing continued uplift of folks' adoption of A100, and it's going quite smoothly than what we had seen in prior overall versions. 
 So when we think about our guidance for Q1, there's many different types of conclusions that will happen at the end of the quarter in terms of what we said. But all of our platforms can grow. But the majority of the growth from Q4 to Q1 will likely be Gaming.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [12]
---------------------------------------------------------------------------------
 
           You asked a question about lead time. Our company -- at the company level, we're supply-constrained. Our demand is greater than our supply. And however, for Data Center, so long as the customers work closely with us, and we do a good job planning between our companies, there should be a supply -- there shouldn't be a supply issue for Data Centers. We just have to do a good job planning. And we have direct relationships with each one of the world's CSPs, and we have direct relationships with all the OEMs. And we could do excellent planning between us. We shouldn't have a supply -- we shouldn't be supply-constrained there. But at the company level, we're supply-constrained, demand is greater than supply. And we have enough supply. We usually have enough supply to achieve better than the outlook. And we had that situation in Q4. We expect that situation in Q1. And we have enough supply to grow through the year. 
 But supply is constrained and demand is really, really great. And so we just have to do a really good job planning. And meanwhile, one of the things that really came through for us is we have the world's best operations team. 
 Our company is really -- really has an amazing operations team. We build the most complex products in the world, the most complex chips, the most complex packages, the most complex systems. And during Q4, they improved our cycle time. And during Q1, I'm expecting them to improve our cycle time again. And we really are based to have such an amazing operations team. And so during these times, it really comes in handy. But overall, at the company level, where we expect demand to be greater than supply, we have enough supply to do better than the outlook. And we have enough supply to grow each quarter throughout the year.
 
---------------------------------------------------------------------------------
 Operator    [13]
---------------------------------------------------------------------------------
 
           Your next question comes from the line of Timothy Arcuri with UBS.
 
---------------------------------------------------------------------------------
 Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [14]
---------------------------------------------------------------------------------
 
           I had a question on crypto. I guess Jensen, I know that the CMP stuff and the software driver stuff that you're doing for the 3060, that's going to help a lot. But I think that there's like 4 or 5 of the big currencies that are going to move or at least they're moving or on a path to move from proof of work to proof of stake, which is going to be a lot less computing-intensive. 
 So I guess the question that I get a lot is how do you assess the degree to which that drives GPUs back into the secondary market? Is there any way that you can get kind of a handle on that?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [15]
---------------------------------------------------------------------------------
 
           Yes. If you look at the recent hashrate, first of all, the transition is going to take some time. It can't happen overnight. And so people have to build trust in the new versions. And so it'll take a little bit of time. But I hope it does. I mean I hope that people use their proof of stake over time. And a little bit of these questions don't have to be answered. However, I don't have that much optimism either that it will be all proof of stake. 
 I think that proof of work is a very legitimate way of securing the currency. And in the beginning, while any currency is building its reputation, it's going to take something like a proof of work to do so. And so I think proof of work is going to be around for a bit. 
@@ -225,22 +183,16 @@ And so I think that this is going to be a part of our business. It will grow ext
 Now one of the important things is to realize that in the near term, the -- because we're in the beginning parts of our Ampere ramp, only 2 quarters into it, into a multiyear cycle, this is also the first time that we've completely changed computer graphics. RTX using ray tracing is completely different than rasterization. And so this is a fundamental change in the way we do computer graphics, and the results have been spectacular. 
 There is some 200 million installed base in desktop, some 50 million in laptop. And the vast majority of them, we've only upgraded, approximately, I think it's something like 15% of the installed base that's been upgraded to RTX. And so there's a giant installed base, and the installed base is growing, that we need to update to the next generation of computer graphics.
 
---------------------------------------------------------------------------------
 Operator    [16]
---------------------------------------------------------------------------------
 
           Your next question comes from the line of John Pitzer with Crédit Suisse.
 
---------------------------------------------------------------------------------
 John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [17]
---------------------------------------------------------------------------------
 
           I want to go back to Data Center. You've been very kind over the last couple of quarters to call out Mellanox, both when it was a positive driver and when it was a headwind. I'm kind of curious when you look into the fiscal first quarter, is there anything of distinction to mention around Mellanox versus core Data Center? And I guess as a follow-on, the key metric that a lot of investors are looking at is when does the core Data Center business year-over-year growth start to reaccelerate. 
 And some of that is just simple math. You're just comping very hard compares from last year. But Jensen, how would you think about Data Center year-over-year growth in the context of a reopening trade or of any sort of new applications out there? I mean what happened -- what helped us last time around was the move to natural language AI, is there another big sort of AI application we should be thinking about as we think about Data Center growth reaccelerating?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [18]
---------------------------------------------------------------------------------
 
           Yes. We're expecting -- Mellanox was down this last quarter. And our compute business grew double digit and offset -- more than offset the decline in Mellanox. 
 We expect Q1 to be a growth quarter with Mellanox, and we expect this coming year to be quite an exciting year of growth for Mellanox. The business is growing in Ethernet. It's growing for CSPs. It's growing in InfiniBand for high-performance computing and the switches have grown -- switch business grew 50% year-over-year. And so we're seeing really terrific growth there. 
@@ -252,22 +204,16 @@ The other big, huge driver is recommenders. This is something really worthwhile 
 And these models are gigantic. They're utterly gigantic. And this is an area that is really driving high-performance computers. So we -- I expect us to feel a lot of momentum. And the last one is the one that you I spoke about which has to do with industrial, 5G and edge IoT-type of applications for all of the different industries, whether it's retailer, logistics or transportation, agriculture or warehouses to factories. 
 And so we're going to see AI and robotics in a very large number of applications and industries. And we're just seeing so much excitement there.
 
---------------------------------------------------------------------------------
 Operator    [19]
---------------------------------------------------------------------------------
 
           Your next question comes from the line of Aaron Rakers with Wells Fargo.
 
---------------------------------------------------------------------------------
 Aaron Christopher Rakers,  Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Equity Analyst    [20]
---------------------------------------------------------------------------------
 
           I wanted to go back again on the Data Center business. You just mentioned, Jensen, the BlueField-2 product poised to kind of ramp and materialize in the back half of the calendar year. How do you see that? Is it an attach rate? I think there's some discussions in the past about all servers could potentially, over time, incorporate this layer of acceleration. How quickly should we think about that ramp? 
 And then the second question is can you just, at a high level, talk about how CPU -- how a CPU strategy -- you're thinking about that in the context of the broader data center market?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [21]
---------------------------------------------------------------------------------
 
           Sure. If I could just work backwards, I believe that every single data center node will be outfitted with a DPU someday. And that someday is probably, call it, 5 years from now. And the fundamental driver of it is going to be security. Every single application in the data center and every single node in the data center has to be individually secured. Zero-trust Computing, 0 -- or confidential computing and zero-trust computing, these initiatives are going to cause every data center to have every single application and every single node be secured. 
 Which means every one of those computers have to have a control play that is isolated from the application plan. And all the applications cannot share the same resources because that application could be network, that application could be an intruder. No application could have access to the control. And yet today, the software-defined data centers, the software-defined networking, software-defined storage, all of the security agents are running in the same processors as the application, and that hasn't changed. 
@@ -276,22 +222,16 @@ We support every CPU in the world, and we're the only accelerated computing plat
 You want the most energy efficiency in every single data center because every data center is power-constrained. We are going to be power constrained in every aspect of computing going forward. And so we would love to build around the Arm processor and invest in building a great ecosystem around it, so that all the world's peripherals and all the world's applications to work on any one of the CPUs that we know today. 
 And we're going to start with high-performance computing and start with AI and all the areas that we have a lot of expertise in, build out our platform. So you're starting to see one industry leader after another embrace Arm. And I think that's terrific. But now we've got to energize it with all of the ecosystem support. It can't just be vertical applications, but we want to create a broad general Arm ecosystem.
 
---------------------------------------------------------------------------------
 Operator    [22]
---------------------------------------------------------------------------------
 
           Your next question comes from the line of Mark Lipacis with Jefferies.
 
---------------------------------------------------------------------------------
 Mark John Lipacis,  Jefferies LLC, Research Division - MD & Senior Equity Research Analyst    [23]
---------------------------------------------------------------------------------
 
           A question for Jensen, I think. Jensen, if you look at the past computing eras, typically, it's one ecosystem that captures 80% of the value of that computing era. And mainframe says IBM and many computers was stacked, PCs, Wintel, cell phones, Nokia and Apple. So if you don't get the ecosystem right, then you're splitting 20% of the market with a handful of players. So in this next era of computing, parallel processing or AI, I think you've articulated the most compelling architectural vision of the Data Center, of the future with Data Center scale computing devices with CPUs, GPUs, DPUs, integrated in the same box, serving all workloads, I imagine, virtualized environment. 
 Can you help us understand where is the market in embracing that vision? And where is NVIDIA in building out that ecosystem for that Data Center scale computing vision? And then maybe as part of that, to what extent is CUDA the kernel for that ecosystem?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [24]
---------------------------------------------------------------------------------
 
           Yes. We're -- I think we've done a great job building out the platforms for several ecosystems around the world. And the domains that we do incredibly well at are the domains that I have to do with accelerated computing. We pioneered this approach. And we brought it to high-performance computing at first. And we accelerated -- sent to the computing and democratized supercomputing for all researchers, anybody who wants to have a supercomputer now can. And computing it will simply not be the obstacle to somebody's discovery. 
 We did the same for artificial intelligence. We did the same for virtualization. We brought -- we expanded the reach of gaming tremendously. Our GeForce today is the largest gaming platform. It's the largest -- single largest body of computers that are used for gaming. And in each case, we expanded the market tremendously. But we would like to do the same for Data Center scale computing as it applies to virtualizing these applications. These applications are also in the process. They've historically required dedicated systems, but they're moving into a virtualized data center environment. And we are best at doing that. They run on our platform today. We have the ability to virtualize it and put it into the Data Center and make it remotely available. 
@@ -300,23 +240,17 @@ First, creating and architecting this platform and then putting it literally int
 Networking is going to be incredible, it's going to run software to 5G and GP accelerated 5G we call AERIAL. And so these platforms are going to become data centers. They'll be secure. The software is protected and you can't tamper with it. If you temper with it, it, of course, won't run. And so the capability of these clouds will move all the way out to the edge. And we're in the best position to be able to do that. 
 So I do think in this new world of post-Moore's Law, post-Dennard scaling, in this new world where AI and software, the right software in this new world where data centers are going to be literally everywhere and they're unprotected. There's no giant building with a whole bunch of people to secure it. And in this new world, where software is going to enable this autonomous future, I think we are perfectly positioned for it.
 
---------------------------------------------------------------------------------
 Operator    [25]
---------------------------------------------------------------------------------
 
           This is all the time we have for Q&A today. I will now turn the call back to CEO, Jensen Huang.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [26]
---------------------------------------------------------------------------------
 
           Thanks for joining us today. Q4 capped a truly breakout year for NVIDIA. The 2 biggest engines of our business, Gaming and Data Center, posted powerful growth. Gaming has become the world's largest media and entertainment industry and will grow to be much larger. And again gamers will create, will play, they'll learn, they'll connect. The medium of gaming can host any type of game and eventually evolve into countless metaverses, some for play, some for work. Gaining a simultaneously a great technology and a great business driver for our company. 
 This year, we also closed our Mellanox acquisition and successfully united the amazing talent of our companies. Combined, we possess deep expertise in all aspects of computing and networking to drive the architecture of modern data centers. Cloud computing and hyperscalers have transformed the data center into the new unit of computing. Chips and servers are just elements of the data center scale computers now. With our expertise in AI computing, full-stack accelerated computing, our deep network to computing expertise and cloud-to-edge platforms, NVIDIA is helping to drive a great computer industry transformation. And our planned acquisition of Arm, the world's most popular and energy-efficient CPU company, will help position NVIDIA to lead in the age of AI. 
 This year was extraordinary. The pandemic will pass, but the world has been changed forever. Technology adoption is accelerating across every industry. Companies and products need to be more remote and autonomous. This will drive data centers, AI and robotics. This underlies the accelerated adoption of NVIDIA's technology, the urgency to digitize, automate and accelerate innovation has never been higher. We are ready. We look forward to updating you on our progress next quarter. Thanks a lot.
 
---------------------------------------------------------------------------------
 Operator    [27]
---------------------------------------------------------------------------------
 
           This concludes today's conference call. You may now disconnect.
 
@@ -326,9 +260,7 @@ Operator    [27]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -339,9 +271,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -367,6 +297,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

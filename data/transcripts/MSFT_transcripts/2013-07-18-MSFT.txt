@@ -6,18 +6,14 @@ E D I T E D   V E R S I O N
 Q4 2013 Microsoft Earnings Conference Call
 JULY 18, 2013 / 9:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Chris Suh
    Microsoft Corporation - General Manager IR
  * Amy Hood
    Microsoft Corporation - CFO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * John DiFucci
    JPMorgan Chase & Co. - Analyst
@@ -50,17 +46,12 @@ Conference Call Participiants
  * Ed Maguire
    Credit Agricole Securities - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Welcome to Microsoft's fiscal year 2013 fourth-quarter earnings conference call. All lines have been placed in a listen-only mode until the question-and-answer session. Today's call is being recorded. If anyone has any objections, please disconnect at this time. And I would now like to turn the meeting over to Chris Suh, General Manager of Investor Relations. Chris, you may begin.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [2]
---------------------------------------------------------------------------------
 
           Thank you, operator.
 On our website, Microsoft.com/investor, is our financial summary slide deck, which is intended to follow our prepared remarks and provide the reconciliation of differences between GAAP and non-GAAP financial measures. As a reminder, we will post today's prepared remarks to our website immediately following the call until the complete transcript is available.
@@ -69,9 +60,7 @@ During this call, we will be making forward-looking statements that are predicti
 Before I hand the call over to Amy, I'd like to remind you that all growth comparisons we make on the call today will relate to the corresponding period of last year. Also, unless specified otherwise, all impacted numbers for the current quarter have been adjusted for the cumulative effect of the revenue deferrals and recognitions related to the Office and Windows upgrade offers, the $900 million charge for inventory adjustments primarily related to the new Surface RT pricing we announced earlier this week, and the goodwill impairment charge from last year. You can find the details of the adjustments and reconciliation of differences between GAAP and non-GAAP financial measures in our financial summary slide deck.
 And with that, I'll turn the call over to Amy.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [3]
---------------------------------------------------------------------------------
 
           Thanks, Chris, and good afternoon, everyone. Thanks for joining us today.
 In many ways, our fourth-quarter results reflect the trends we saw developing throughout the fiscal year. The consumer x86 PC market declined, as users continued to prioritize devices with touch and mobility. At the same time, we saw continued strength in our enterprise products and cloud solutions, and increased adoption of our consumer services.
@@ -93,9 +82,7 @@ During the quarter, we saw ongoing momentum for our consumer services such as Of
 In summary, the fourth quarter continued many of the trends we saw developing throughout the fiscal year. We continued to make important strides toward our strategy, to create a family of devices and services for individuals and businesses, to empower them for the activities they value the most. Some of our investments are already paying off, while others reinforce the foundation that positions us for future growth and profitability.
 With that, I'll hand it over to Chris to give more details about this quarter, before I come back to share thoughts on the first quarter of fiscal 2014.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [4]
---------------------------------------------------------------------------------
 
           Thanks Amy.
 First, I'm going to review our overall results, and then I'll move on to the details by business segment.
@@ -118,9 +105,7 @@ Progress with Windows Phone continues, as our partners including Nokia, Samsung,
 Now I'll cover the remainder of the income statement. Cost of goods sold increased 14%, principally driven by Surface and growth in cloud infrastructure. Operating expenses grew 9%, primarily related to sales and marketing for Surface and Windows 8. This quarter, our CapEx increased as we continued to invest in our cloud infrastructure and expand our geographic footprint to support the growth in our online businesses. And finally, we returned $2.9 billion to shareholders in buybacks and dividends.
 Now, I'll turn the call back to Amy for our outlook.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [5]
---------------------------------------------------------------------------------
 
           Thanks, Chris.
 Before I discuss our expectations for the first quarter, I'd like to spend a few minutes discussing last week's announcement on One Microsoft. If you haven't already done so, I encourage you to read our Strategy Memo and Steve Ballmer's email to employees. Microsoft is rallying behind a single strategy.
@@ -142,453 +127,306 @@ We took share from competitors in key enterprise markets. We added several new f
 As we look to fiscal 2014, we're focused on a single strategy. With our new organizational structure, we believe we will be able to execute more quickly and more efficiently, driving long-term growth, profitability, and shareholder value.
 With that, I'll turn it back to Chris, and we'll take some questions.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [6]
---------------------------------------------------------------------------------
 
           Thanks, Amy. We want to questions from as many of you as possible, so please just stick to one question. Operator, please go ahead and repeat your instructions.
 
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
     (Operator Instructions) Walter Pritchard, Citigroup.
 
---------------------------------------------------------------------------------
 Walter Pritchard,  Citigroup - Analyst    [2]
---------------------------------------------------------------------------------
 
     Amy, I'm wondering if you could talk a little bit about -- you talked about COGS in Q1 and you don't mention COGS for the rest of the year. Obviously, you have Xbox One launching in the second quarter. Could you give us some guidance about how we should think about that product having an impact on margins, maybe comparing it to the 360 or anything else you could do to help us directionally with the COGS impacts beyond Q1?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [3]
---------------------------------------------------------------------------------
 
     As we transition to a device and services Company I think you should keep in mind that we expect CapEx to continue to grow as we ramp our business. Specifically to Xbox One, and a new generation of consoles and launches, I think you should think about that as you think about all console lifecycles, and so keep that in mind as you model COGS and seasonality throughout the year.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [4]
---------------------------------------------------------------------------------
 
     Thanks, Walter. Next question, please.
 
---------------------------------------------------------------------------------
 Operator    [5]
---------------------------------------------------------------------------------
 
     Mark Moerdler, Sanford Bernstein.
 
---------------------------------------------------------------------------------
 Mark Moerdler,  Sanford C. Bernstein & Company, Inc. - Analyst    [6]
---------------------------------------------------------------------------------
 
     Can you give us some color on the short-term revenue impact of the move to the cloud? Is it just MBD? Is also in Server and Tools? How does the license revenue convert to cloud revenue?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [7]
---------------------------------------------------------------------------------
 
     Mark, thanks for that question. It is primarily in MBD where we had a higher percentage of our revenue, but that was accounted for transactionally, both on the business side and in the consumer side. So, I think that's why you've seen us in our outlook for Q1, try to start to explain that transition to consumer by saying that we expect it to lag the PC market by approximately 5 percentage points while attach increases.
 
---------------------------------------------------------------------------------
 Mark Moerdler,  Sanford C. Bernstein & Company, Inc. - Analyst    [8]
---------------------------------------------------------------------------------
 
     Is there a similar lag on the transactional side on the enterprise?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [9]
---------------------------------------------------------------------------------
 
     Yes. You can see it when we gave the guidance for the Business segment. We said 10% growth in the annuity, and so that would clearly say that part of that is a transactional move from recognized upfront revenue to multiyear licensing agreements.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [10]
---------------------------------------------------------------------------------
 
     Thanks, Mark.
 
---------------------------------------------------------------------------------
 Operator    [11]
---------------------------------------------------------------------------------
 
     Phil Winslow, Credit Suisse.
 
---------------------------------------------------------------------------------
 Phil Winslow,  Credit Suisse - Analyst    [12]
---------------------------------------------------------------------------------
 
     Just a follow-up on actually both those two. First, Amy obviously when you go to a subscription model you have less upfront, lower billings that first year versus license. Wondered if you give us sort of a backfill, where a $1 of cloud or Office 365 revenue would have been, in that first year would have been $3 relative to license. Just so we can try to backfill and help with that transition?
 And also actually to Walter's question about Xbox COGS, maybe give us a sense for if this cycle really should be any different than previous cycles when you thought about pricing relative to the cost of the console itself. Thanks.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [13]
---------------------------------------------------------------------------------
 
     I'll try to remember both those questions. Let me take the second one, because it is the most recent in my mind. I would not think about this console cycle as being any different from prior cycles.
 So, let me go back to the first question, which is can I give an example, I believe, of how to think about the transition from how we used to recognize revenue when we bought something upfront  transactionally, versus buying a subscription from us.
 I'll give an example, if you used to buy a license from us as a consumer, and paid us, for example $100 for ease of math, we recognized $100 in the period in which it was purchased. Now, if that same person went and bought Office 365 Home Premium and once it was activated, we would recognize the revenue over the period of the purchase, which is 12 months, and recognize it ratably.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [14]
---------------------------------------------------------------------------------
 
     Thanks. Next question, please.
 
---------------------------------------------------------------------------------
 Operator    [15]
---------------------------------------------------------------------------------
 
     Keith Weiss, Morgan Stanley.
 
---------------------------------------------------------------------------------
 Keith Weiss,  Morgan Stanley - Analyst    [16]
---------------------------------------------------------------------------------
 
     I was wondering, focusing on the Server and Tools division, you guys came in with high single digit growth versus the guidance of low double digit growth. I was hoping you could walk us through some of the elements that perhaps transpired during the quarter, that caused that gap. Why you came in slightly below expectations there, and to what extent was the shift towards subscriptions a part of that.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [17]
---------------------------------------------------------------------------------
 
     Let me start by saying Server and Tools had a very good quarter. We continue to win share in virtualization with SQL Server, and continue to grow faster than both Oracle and IBM. Revenue did grow 9%, which importantly far outpaced the underlying hardware market. And over the period of the quarter we did see the hardware market fundamentally come in a bit lower than we had expected.
 
---------------------------------------------------------------------------------
 Keith Weiss,  Morgan Stanley - Analyst    [18]
---------------------------------------------------------------------------------
 
     Okay.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [19]
---------------------------------------------------------------------------------
 
     Great, thanks, Keith. Next question, please.
 
---------------------------------------------------------------------------------
 Operator    [20]
---------------------------------------------------------------------------------
 
     Heather Bellini, Goldman Sachs.
 
---------------------------------------------------------------------------------
 Heather Bellini,  Goldman Sachs - Analyst    [21]
---------------------------------------------------------------------------------
 
     Amy, I was wondering if you could talk a little bit about the incentive pricing you've been doing, not just on your own devices, like Chris mentioned in his prepared remarks, but also in the OEM market. If you haven't done incentive pricing at the OEM level, is there a chance we could see this strategy going forward, as a way to help lower the price points of consumer PCs and just try and spur demand? Thank you.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [22]
---------------------------------------------------------------------------------
 
     Thanks, Heather. I think it's a great question. I do think that we should think about incentives and all of our programs, including a small screen touch view that we have launched, as a way to increase the breadth of our Windows devices available across all price points.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [23]
---------------------------------------------------------------------------------
 
     Thank you, Heather. Next question, please.
 
---------------------------------------------------------------------------------
 Operator    [24]
---------------------------------------------------------------------------------
 
     Rick Sherlund, Nomura.
 
---------------------------------------------------------------------------------
 Rick Sherlund,  Nomura Asset Management - Analyst    [25]
---------------------------------------------------------------------------------
 
     I wonder if you have any perspective for us on, you've got Intel's Haswell chip shipping now, 8.1 coming in, probably, October. Are you sensing that OEMs are trying to manage inventories down for the time being and waiting cautiously? Intel suggested that maybe you are seeing some inventory liquidation, so I wondered if you could give us a sense for what you're hearing from the OEMs.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [26]
---------------------------------------------------------------------------------
 
     Thanks, Rick. I think like the rest of the ecosystem, we are excited by the advances Intel has made with the fourth-generation Core processor, and we're also looking forward to the next Atom chip. But with launch a little less than a month ago, I think it's a little bit too early for me to say, and we'll have to wait and see how the quarter plays out.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [27]
---------------------------------------------------------------------------------
 
     Thank you, Rick, next question, please.
 
---------------------------------------------------------------------------------
 Operator    [28]
---------------------------------------------------------------------------------
 
     Brent Thill, UBS.
 
---------------------------------------------------------------------------------
 Brent Thill,  UBS - Analyst    [29]
---------------------------------------------------------------------------------
 
     Amy, on the expenses, you're revising next year down, and it looks like your expense growth will materially slow from what it was this year. I'm just curious if you could help us understand where that's coming from and how you're thinking about that for next year.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [30]
---------------------------------------------------------------------------------
 
     Well actually, I think this is -- I feel good because I think in some ways, the re-org we announced last week, along with our increased focus and our new single strategy has allowed us to really look and say, what are the things we are going to put behind and focus to improve our execution, and so, I feel quite good about our ability to do that. And you've heard us say before, many of the reasons we did this re-org are about doing things better and more efficiently.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [31]
---------------------------------------------------------------------------------
 
     Thank you, thanks, Brent, next question, please.
 
---------------------------------------------------------------------------------
 Operator    [32]
---------------------------------------------------------------------------------
 
     Ed Maguire, CLSA.
 
---------------------------------------------------------------------------------
 Ed Maguire,  Credit Agricole Securities - Analyst    [33]
---------------------------------------------------------------------------------
 
     Amy, you had discussed your increased CapEx this quarter, and I was wondering if you could address the margin profile of your cloud services. In the comments, you discussed how you have higher datacenter cost, and what I'd like to understand is whether this is temporary, as you are ramping up this transition towards subscription business, or whether this actually changes the gross margin profile of these revenues. Thanks.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [34]
---------------------------------------------------------------------------------
 
     Thanks, Ed, it's a good question. As we transition to a device and services Company, that is a multiyear commitment to evolve our business. You should expect that CapEx will continue to grow as we ramp that business.
 With the expansion of Azure service offerings and the continued momentum in Office 365 as well as our consumer services, investing in this global footprint to meet customer demand is incredibly important, and quite strategic. And really, the question is, our ability to scale smartly, and that will create an advantage for us that we can pass along to our customers, and so I look forward to being able to move these datacenters globally to reach more people with more services.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [35]
---------------------------------------------------------------------------------
 
     Thanks, Ed. Operator, next question, please.
 
---------------------------------------------------------------------------------
 Operator    [36]
---------------------------------------------------------------------------------
 
     John DiFucci, JPMorgan.
 
---------------------------------------------------------------------------------
 John DiFucci,  JPMorgan Chase & Co. - Analyst    [37]
---------------------------------------------------------------------------------
 
     Amy, your CapEx this quarter was about $700 million or greater than $700 million, greater than you guided just 90 days ago. Why was there such a sudden change? I know, Chris explained why it was higher, and why it's going to be higher going forward, but why was it such a sudden change, so dramatically just in this quarter? And will this planned increase going forward affect your ability to do things like buy back shares?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [38]
---------------------------------------------------------------------------------
 
     In Q4, really as we continued to add Azure services, in fact we added over 80 this quarter, and, with the increased demand of Office 365 and the $1.5 billion annual run rate, up from just $1 billion in Q3, I would think about that as our ability to increase demand and meet demand globally with our services. And so, doing that in Q4 was important, because you want to be ahead of demand there.
 
---------------------------------------------------------------------------------
 John DiFucci,  JPMorgan Chase & Co. - Analyst    [39]
---------------------------------------------------------------------------------
 
     So, was that something that was unexpected? You just had higher demand in Q4?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [40]
---------------------------------------------------------------------------------
 
     We're accelerating.
 
---------------------------------------------------------------------------------
 John DiFucci,  JPMorgan Chase & Co. - Analyst    [41]
---------------------------------------------------------------------------------
 
     Okay. Okay, and will this affect your ability to buy back shares going forward, this increase in CapEx?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [42]
---------------------------------------------------------------------------------
 
     No. I mean, our cash -- we returned $2.9 billion this quarter, over $12 billion for the year, and we'll continue to take a balanced approach to capital allocation with those investments, acquisitions where they make sense and return of capital to shareholders.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [43]
---------------------------------------------------------------------------------
 
     Next question, please.
 
---------------------------------------------------------------------------------
 Operator    [44]
---------------------------------------------------------------------------------
 
     Kash Rangan, Merrill Lynch.
 
---------------------------------------------------------------------------------
 Kash Rangan,  BofA Merrill Lynch - Analyst    [45]
---------------------------------------------------------------------------------
 
     Amy, congrats on your first conference call as CFO. My question had to do with the Windows side of the business. I know that you had an impairment charge for the inventory clearance, but even if I add that back in, it looks like the operating margins in the Windows business were sequentially lower, quite materially. Just wanted to get some insight into what drove that from the March quarter into the June quarter.
 As you look further out into the operating margins of the Windows business, given that you're going to be focusing on Surface, how should we think about the margin structure? I guess you have a volume threshold to clear before you can start to make a margin, given that it's more of a product. But really two parts to that question. Love to get your insights, thank you so much.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [46]
---------------------------------------------------------------------------------
 
     Thanks, Kash. Let me address what I think were the two components. The first component felt like a general question about margins this quarter for Windows. As you said, they were impacted by Surface. And the second one is by the marketing investment we continue to make in the ecosystem to move it forward.
 Overall, as you think about the Windows division as we report it, obviously since there is a mix between hardware and software, you should continue to expect margins to reflect that mix.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [47]
---------------------------------------------------------------------------------
 
     Thank you, Kash. Next question, please.
 
---------------------------------------------------------------------------------
 Operator    [48]
---------------------------------------------------------------------------------
 
     Ross MacMillan, Jefferies.
 
---------------------------------------------------------------------------------
 Ross MacMillan,  Jefferies & Co. - Analyst    [49]
---------------------------------------------------------------------------------
 
     Amy, I just wanted to drill into the billings growth where we adjust for the unearned, and it's a lot higher for the Server and Tools business, which is obviously going through a transition towards more a subscription arrangement, a lot higher there than in the MBD segment. I'm just wondered if you could compare and contrast why that might be.
 I understand the consumer piece in MBD, but is the other piece of this just that there are more traditional licensing arrangements in MBD with enterprise customers, and so the impact from the transition is all the greater, and that's why you see that more subdued billings growth rate in MBD? Thanks.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [50]
---------------------------------------------------------------------------------
 
     Ross, thank you, it's always terrific when someone answers their own question. You actually have it exactly correct.
 
---------------------------------------------------------------------------------
 Ross MacMillan,  Jefferies & Co. - Analyst    [51]
---------------------------------------------------------------------------------
 
     Great, thank you.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [52]
---------------------------------------------------------------------------------
 
     Thanks, Ross. Next question, please.
 
---------------------------------------------------------------------------------
 Operator    [53]
---------------------------------------------------------------------------------
 
     Gregg Moskowitz, Cowen.
 
---------------------------------------------------------------------------------
 Gregg Moskowitz,  Cowen and Company - Analyst    [54]
---------------------------------------------------------------------------------
 
     Just a follow-on, a bit on Kash's question. With Windows revenue coming in where it did, we're getting a few questions from investors about how Windows fared this quarter, relative to PC units. If we were to exclude tablet revenues both Surface and otherwise, just wondering, Amy, if you might be able to say roughly on a year-over-year basis how Windows PC revenue compared to the low double digit PC unit decline, cited by the IDCs and Gartners?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [55]
---------------------------------------------------------------------------------
 
     Chris actually covered that a bit in his comments, but let me reiterate, because I do understand the question, I think. Which is related to our OEM revenue, 15%, down 15%.
 It was related, I believe to China. Lower ASPs on the small screen SKU that we mentioned, as well as some of the incentive programs that we had in place during the quarter.
 
---------------------------------------------------------------------------------
 Gregg Moskowitz,  Cowen and Company - Analyst    [56]
---------------------------------------------------------------------------------
 
     Thank you.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [57]
---------------------------------------------------------------------------------
 
     Thanks, Gregg. Next question, please.
 
---------------------------------------------------------------------------------
 Operator    [58]
---------------------------------------------------------------------------------
 
     Raimo Lenschow, Barclays.
 
---------------------------------------------------------------------------------
 Raimo Lenschow,  Barclays Capital - Analyst    [59]
---------------------------------------------------------------------------------
 
     Amy, welcome on this first earnings call. I have a question on the business PC side, that was an area of strength for the Windows division, and you saw some growth there. Can you talk a little bit about if that's -- if you see that as a sustainable number, or is that still driven by the end of life for Windows XP? Thank you.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [60]
---------------------------------------------------------------------------------
 
     As we mentioned, our Windows business did make incremental progress in the business side, we expect that to continue in Q1. And, with the end-of-life of Windows XP next year, we expect continued migrations, and today in the enterprise, about three-quarters of desktops are already running Windows 7.
 
---------------------------------------------------------------------------------
 Raimo Lenschow,  Barclays Capital - Analyst    [61]
---------------------------------------------------------------------------------
 
     Perfect. Thank you.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [62]
---------------------------------------------------------------------------------
 
     Thank you. Next question, please, operator.
 
---------------------------------------------------------------------------------
 Operator    [63]
---------------------------------------------------------------------------------
 
     Brendan Barnicle, Pacific Crest Securities.
 
---------------------------------------------------------------------------------
 Brendan Barnicle,  Pacific Crest Securities - Analyst    [64]
---------------------------------------------------------------------------------
 
     Amy, contracted but unbilled was down sequentially from Q3, the first time we had seen that in the last two years. What's contributing to that shift?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [65]
---------------------------------------------------------------------------------
 
     Thank you. Actually I think our strong annuity growth, as well as our record unearned balance I do believe supports our belief that the strong performance of our multiyear licensing agreements is in place.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [66]
---------------------------------------------------------------------------------
 
     Thanks. Operator, I think we have time for one more.
 
---------------------------------------------------------------------------------
 Operator    [67]
---------------------------------------------------------------------------------
 
     Karl Keirstead, BMO Capital Markets.
 
---------------------------------------------------------------------------------
 Karl Keirstead,  BMO Capital Markets - Analyst    [68]
---------------------------------------------------------------------------------
 
     I just wanted to ask a question about the mix shift to multiyear licensing across Microsoft, that's been a big part of the story. It's been up about 5 percentage points year-over-year each quarter in fiscal 2013. Amy, I'm just wondering, as we look forward to fiscal 2014, can we expect it to increase at that clip, or is the Software Assurance attach rate now getting high enough that that mix shift should start to moderate?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corporation - CFO    [69]
---------------------------------------------------------------------------------
 
     I continue to believe we'll have double-digit annuity growth next year, so I think that shift you've seen, especially as we continue to move people to our cloud services, will continue.
 
---------------------------------------------------------------------------------
 Karl Keirstead,  BMO Capital Markets - Analyst    [70]
---------------------------------------------------------------------------------
 
     Okay, thanks.
 
---------------------------------------------------------------------------------
 Chris Suh,  Microsoft Corporation - General Manager IR    [71]
---------------------------------------------------------------------------------
 
     Thank you, Karl. Okay, so that will wrap up our Q&A portion of today's earnings call. We look forward to seeing many of you in the coming months at various investor conferences, and at our financial analyst meeting to be held in late September, where we'll share more details about our long-term strategy, new organizational structure, and outlook for the rest of the fiscal year. Thank you again for joining us today.
 
---------------------------------------------------------------------------------
 Operator    [72]
---------------------------------------------------------------------------------
 
     This concludes today's conference. Thank you for your participation, you may disconnect at this time.
 
@@ -599,9 +437,7 @@ Operator    [72]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -612,9 +448,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -640,6 +474,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

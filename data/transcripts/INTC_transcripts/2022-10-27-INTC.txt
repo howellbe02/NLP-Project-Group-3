@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q3 2022 Intel Corp Earnings Call
 OCTOBER 27, 2022 / 9:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * David A. Zinsner
    Intel Corporation - Executive VP & CFO
@@ -17,9 +15,7 @@ Corporate Participants
  * John Pitzer
     - 
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Vivek Arya
    BofA Securities, Research Division - MD in Equity Research & Research Analyst
@@ -38,26 +34,19 @@ Conference Call Participiants
  * Matthew D. Ramsay
    Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 Thank you for standing by, and welcome to Intel's Third Quarter 2022 Earnings Conference Call. (Operator Instructions) As a reminder, today's program is being recorded.  
 And now I'd like to introduce your host for today's program, John Pitzer, Corporate Vice President of Investor Relations. Please go ahead, sir.
 
---------------------------------------------------------------------------------
 John Pitzer,   -     [2]
---------------------------------------------------------------------------------
 Thank you, operator. By now, you should have received a copy of the Q3 earnings release and earnings presentation, both of which are available on our investor website, intc.com. For those joining us online today, the earnings presentation is also available in our webcast window.  
 I'm joined today by our CEO, Pat Gelsinger; and our CFO, David Zinsner. In a moment, we will hear brief comments from both followed by a Q&A session.  
 Before we begin, please note that today's discussion contains forward-looking statements based on the environment as we currently see it. As such, it does involve risks and uncertainties. Our press release provides more information on the specific risk factors that could cause actual results to differ materially.  
 We have also provided both GAAP and non-GAAP financial measures this quarter, and we will be speaking to the non-GAAP financial measures when describing our consolidated results. The earnings release and earnings presentation include full GAAP and non-GAAP reconciliations.  
 With that, let me turn things over to Pat.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [3]
---------------------------------------------------------------------------------
 Thank you, John, and good afternoon, everyone. Despite growing economic headwinds, Q3 revenue was flat sequentially and only modestly below the midpoint of our guidance. In June, we were one of the first companies to highlight an abrupt and pronounced slowdown in demand, which has brought it beyond our initial expectations and is now having an industry-wide impact across the electronic supply chain. We are adjusting our Q4 outlook, and we are planning for the economic uncertainty to persist into 2023.  
 While we are not satisfied with our results, we remain laser-focused on controlling what we can, and we are pleased that our PC share stabilized in Q2 and is now showing meaningful improvement in Q3. Our server share, while not where we want it to be, is tracking in line with our expectations, and we are encouraged by good execution in the quarter against our product road map. In addition, we are intensifying our cost reduction and efficiency efforts, and we are aggressively moving into the next phase of IDM 2.0 geared to unlocking the full potential of the IDM advantage.  
 This afternoon, I will focus my comments in 3 areas: one, the key trends and dynamics that shape Q3 and are informing our outlook; two, the progress we are making on IDM 2.0, including our momentum on process and product road maps and our recent announcement that we are implementing an internal foundry model; and three, the actions underway to drive cost savings and efficiency gains aimed at accelerating our transformation.  
@@ -90,9 +79,7 @@ Lastly, I was particularly pleased to join the Mobileye team earlier this week i
 Before turning it over to Dave, I want to close by saying I continue to be heartened and impressed by the dedication and commitment of all of our employees by far, the most important owners of this great company. They are passionately committed like me to reestablish Intel as a dominant driver of innovation and by the opportunity to improve the lives of everyone on the planet.  
 It was also rewarding to see that same drive and dedication in the faces of our broader developer community at Intel Innovation, the rebirth of Intel IDF in September. We are the building blocks, an enabler of their vision and aspirations, and it is our commitment to them to be great partners and collaborators. Our ambitions are equal by our passions and our efforts across manufacturing, design, products and foundry are well on their way to driving our transformation and creating the flywheel, which is IDM 2.0.
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Intel Corporation - Executive VP & CFO    [4]
---------------------------------------------------------------------------------
 Thanks, Pat, and good afternoon, everyone. We had a solid third quarter despite the macroeconomic headwinds impacting the semiconductor industry. We expect these headwinds to persist and as a result, we're lowering our expectations for the fourth quarter. We will continue to be laser-focused on the things that we can control and use economic uncertainty to accelerate our transformation and drive cost cutting and efficiency gains. 
 Moving to Q3 results. Revenue was $15.3 billion, flat sequentially and only modestly below the midpoint of our guide. Q3 revenue benefited from CCG's strength, offset by declining TAMs in DCAI and NEX. Gross margin for the quarter was 46%, below our guide, but largely in line relative to lower Q3 revenue. Q3 gross margin increased 100 basis points sequentially on lower inventory reserves. 
 EPS was $0.59, $0.24 above our guide largely on lower-than-forecasted taxes. Adjusting for the lower tax rate, EPS would have been $0.37, $0.02 above our guide on better expense management. 
@@ -114,290 +101,189 @@ This will be a multiyear journey, but as Pat said earlier, best-in-class semicon
 In closing, we remain committed to the strategy and financial model communicated at Investor Day. The compelling long-term financial opportunity of strong revenue growth across our 6 business units and free cash flow at 20% of revenue remains. And I believe this downturn represents an opportunity to more quickly make the transformation necessary to achieve these goals. 
 With that, let me turn it back over to John and get to your questions.
 
---------------------------------------------------------------------------------
 John Pitzer,   -     [5]
---------------------------------------------------------------------------------
 Thank you, Dave. (Operator Instructions)
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 (Operator Instructions) Our first question comes from the line of Ross Seymore from Deutsche Bank.
 
---------------------------------------------------------------------------------
 Ross Clark Seymore,  Deutsche Bank AG, Research Division - MD    [2]
---------------------------------------------------------------------------------
 You mentioned, both Dave and Pat, many times about the macroeconomic weakness, likely persisting into next year. So if you're willing to talk a little bit about the puts and takes in the market. You talked about the PC market being but down about 5%, Pat. But overall, from your segments, where do you see either market headwinds or tailwinds or individual Intel-specific areas for market share gains or still challenges into 2023?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [3]
---------------------------------------------------------------------------------
 Yes. Thank you, Ross. I'll start off on that. And like we said, it's just the macroeconomic, unpredictable, tough market outlook. And inside of that, it's just hard to see any points of good news on the horizon, inflation in the U.S., the situation in Europe with energy and the war and in Asia. So against that backdrop, we're still looking to have economic headwinds as we go into next year. And with that in mind, obviously, lowering our guide for Q4. 
 As we think about it, at the industry level, obviously, some of that helps to accelerate some of the rebalancing of the supply chain, and some of that will help our business like lowering of DDR memory costs will decrease the premiums on DDR5 that makes Sapphire Rapids a more compelling platform. In other areas, we still have a rebalancing of the supply chain in front of us on some of the older nodes. 
 When we look at our business units, the PC, more critical device than ever. And as Sacha talked about yesterday on his earnings call, 20% more active devices usage increasing. That said, we do expect that the TAM, as I indicated in my formal comments, is going to be a bit lower next year. We've given a range aligned with the industry. For servers, we have seen the slowdown in enterprise and to a lesser degree, in the cloud market, decreasing the TAM outlook there. We do, in our modeling, look at that as we're building our capacity. 
 Obviously, our cost efforts have been very specific to give us flexibility for lowering the structural rate cost even as we stay true to the strategic investments that we're making and driving our transformation and disciplined cost modeling more quickly. 
 So it really is a challenging environment, unpredictable environment, and we're staying true to the strategy, making cost adjustments and trying to balance market outlooks as we gain share, right, in some segments, and we fight for share in other segments. And I was very pleased with how the team executed in improving our execution in an environment that really was quite tough.
 
---------------------------------------------------------------------------------
 John Pitzer,   -     [4]
---------------------------------------------------------------------------------
 Ross, do you have a brief follow-up?
 
---------------------------------------------------------------------------------
 Ross Clark Seymore,  Deutsche Bank AG, Research Division - MD    [5]
---------------------------------------------------------------------------------
 Yes. Just following on to that last part that you said, Pat, about some of the areas of share gains or share losses. Where do you think those will be most acute in both directions, the good and the bad?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [6]
---------------------------------------------------------------------------------
 Yes. And we'd say, we saw no -- if we go to the areas, we're just entering in the AXG business and IFS. So everything there is gaining share. In the NEX business, we saw our businesses entirely driven by the macro. And our market share seems to have no real shift whatsoever, and we continue to be a grower in that segment. 
 In PC, we had very market share gains this quarter, very strong product lines, so we think we're well positioned. And in data center, we grew slower than the market. And as the product line gets stronger, we will be in a position to regain share, regain ASP, obviously, ramp the Sapphire Rapids. But we still see ourselves not in a position that we're gaining share yet and expect that will be the case for a couple of more quarters.
 
---------------------------------------------------------------------------------
 Operator    [7]
---------------------------------------------------------------------------------
 Our next question comes from the line of Timothy Arcuri from UBS.
 
---------------------------------------------------------------------------------
 Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [8]
---------------------------------------------------------------------------------
 I had a question on the internal foundry. It seems sort of like the first step in basically splitting the company into an external foundry and a fabless company. Can you sort of play that out? Is that the idea? And sort of how does this create value? I guess, I mean, obviously, if you look at GlobalFoundries' market cap, that's like 30% of your market cap. But how does it play out functionally? How it creates value?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [9]
---------------------------------------------------------------------------------
 Yes. When we definitely view that there are efficiencies for us to gain as we go through this internal foundry model, where we see numerous areas in the company that were not as rigorous as we need to be. In factory loadings, where we make lots of change in factory loadings and we would run the factories more efficiently or steppings aren't accountable, right, through cost modeling back to the business units, and thus, driving the high-quality A0 steppings. And stepping changes being fully reflected internally and the cost of those will make us more efficient. Leveraging third-party IP more aggressively will make us more efficient. 
 And the combination of that is a big piece of why we're stepping to this internal foundry model, and we expect that we're going to start giving more financial transparency that way so that you can start to see the benefits in the margin stacking being realized of both being a product company as well as a fab foundry company. And that's what we're out to get with the structure that we're laying out. 
 That said, we think that this tight coupling of the IDM 2.0 model is a powerful value generator for us, at least the 3 areas. One, the technology benefits that we get to have a rapid pace of technology innovation and co-optimization between product and process. The second is the cash flows and balance sheet benefits that we get by having these internal to be able to drive the large investments required in the manufacturing networks. And third is in the supply chain efficiency and flexibility being able to balance across the foundry and business unit structure. 
 So these 3 areas for us are ones that we see that tight coupling bringing long-term meaningful value generation to the company and to our shareholders. But we're going to do it against the backdrop that we are going to be benchmarking ourselves against the best-in-class in each area and that transparency, right? We'll provide more visibility to you, our shareholders, but also drive our teams internally. And an engineering, manufacturing team when they see benchmark that you're holding up against them, it just unleashes energy into the future. And that's the excitement that we are working to create with this internal foundry model. And as we've launched it this quarter, we're already starting to see the roots of that permeate through our teams.
 
---------------------------------------------------------------------------------
 John Pitzer,   -     [10]
---------------------------------------------------------------------------------
 Tim, do you have a brief follow-up?
 
---------------------------------------------------------------------------------
 Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [11]
---------------------------------------------------------------------------------
 I do, just quickly. I guess just a follow-up on that. So like what's the line in the sand, Dave? I guess, it's a question more on cash flow. What is the line in the sand? I think before, you said that 2024 was going to be free cash flow neutral. Is that still the line in the sand where whatever you have to do, you'll cut CapEx as much as you can to be free cash flow neutral in 2024? Is that still the free cash flow line on the sand?
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Intel Corporation - Executive VP & CFO    [12]
---------------------------------------------------------------------------------
 Yes. I mean we expect to manage in the near term, while we're in this investment phase to kind of a neutral-free cash flow over the course of '23, '24 combined. Obviously, our long-term goal is to is actually significantly improve cash flow, and we still feel like the model we gave at Investor Day is the right model that we can generate 20% free cash flow, as a percent of revenue. And obviously, this year, I think we showed very good discipline on the CapEx side. We brought our CapEx. I think when we started the year, we thought CapEx would be in the $27 billion range on a net basis. We've adjusted that down to $21 billion. But we still preserved what Pat thought was the most important things to invest in to make sure that we're ready to go as we launch new nodes, as we bring out the IFS business and gain more customer traction in that space. 
 And then next year, the real protection on the cash flow now will be around these spending reductions. We have $3 billion of spending reductions we're going out to achieve in '23. No guidance yet on CapEx, but I would just say the model in the near term was to run essentially at 35% of revenue. And as Pat, I think, even mentioned at the Investor Day, we will manage to the model, and that's quite important to us. 
 So we think we can manage both aspects of this, protect cash flow, be smart around spending, but continue to operate our strategy and our road map to get to leadership on process and product, to bring out these emerging businesses like the foundry business and like graphics.
 
---------------------------------------------------------------------------------
 Operator    [13]
---------------------------------------------------------------------------------
 Our next question comes from the line of Vivek Arya from Bank of America.
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [14]
---------------------------------------------------------------------------------
 Pat, isn't it risky to plan for a 270 million to 290 million PC TAM. Then clearly, the market seems to be reverting back to pre-pandemic levels of 260 million or so. And since that time before the pandemic, 1 large customer has moved away from x86, and there have been share shift. So what is the TAM next year is more like 250 to 260? What impact will it have on your cost and fab loading assumptions?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [15]
---------------------------------------------------------------------------------
 Yes. So first, the premise of the question, we clearly, over a number of quarters, we're above market forecast. That range that I described is exactly in line with the various forecast, our OEM feedback, the feedback from key software providers as well. So I'd say our range is now aligned with that industry range. 
 Second point being that ranges larger than and well above pre-pandemic levels at that point. It is a structurally larger market. There's lots of units out there waiting to be replaced that are aging in the footprint, clear markets that are yet to have the PC penetration. So we feel quite comfortable. 
 And as I noted in the earlier question, PC usage is high, as seen by Microsoft and their metrics, and our product line is positioned to gain share. So somewhat independent of the size of the TAM, we have a great product line, and our product line is also in our brand is well suited with a higher margin segments of the market that have been more resilient, right, to the market effects, low-end consumers where you've seen the biggest issues and our product line is very strong. Alder Lake, Raptor Lake, stunning numbers that we're getting and well on track with Meteor Lake. 
 All of that said, obviously, you have to make some assumptions as you build a factory network and the range that we gave has a lot of room inside of it. And as we're demonstrating by the near-term cost cutting, that Dave described, we're trying to build flexibility into our factory network even as we adjust the cost structure, which is largely a fixed cost structure. And obviously, as we're ramping into the next-generation products, we're building into our Intel 4 and 3 product lines and the costs associated with that even as we balance both the near term and the strategic agenda. So we feel like we're well positioned to manage and thick or thin. And against that, with a strong product line, we believe we're a share gainer in this industry, and we're going to be quite aggressive to accomplish exactly that.
 
---------------------------------------------------------------------------------
 John Pitzer,   -     [16]
---------------------------------------------------------------------------------
 Vivek, do you have a quick follow-on?
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [17]
---------------------------------------------------------------------------------
 So maybe Pat, just following on to that. Do you think you are shipping to demand on the PC side? Or do you still think there is a channel inventory because as we head into Q1, that is often a seasonally softer period, but again, compares are very different this year? So I was just hoping to get your perspective on what the supply-demand balance is in the PC market as it exists kind of real time.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [18]
---------------------------------------------------------------------------------
 Yes. Our belief is that we ship below consumption levels. So in other words, inventory levels at the OEM and in the channels decreased over the last quarter. They didn't decrease as far as we were originally predicting. So consumption was a little bit weaker, but we still saw inventories systematically going down across the various routes to market throughout the quarter. We expect them to continue to go down next quarter at both the OEMs and at the channel level. And the numbers I gave on the TAM model would be our consumption models for next year, which are below the consumption models of this year. So a somewhat smaller number for next year but not dramatically different as we already said. 
 So overall, I think we're getting to a better point of supply-demand equilibrium where we were way behind on demand and supply for many, many quarters in a row. Clearly, the last couple of quarters have been adjusting of inventory levels and we think that we're going to be in a better supply-demand balance situation as we go into next year.
 
---------------------------------------------------------------------------------
 Operator    [19]
---------------------------------------------------------------------------------
 Our next question comes from the line of Pierre Ferragu from New Street Research.
 
---------------------------------------------------------------------------------
 Pierre C. Ferragu,  New Street Research LLP - Global Team Head of Technology Infrastructure    [20]
---------------------------------------------------------------------------------
 I'd love to talk a bit about like the very ambitious like efficiency plan you've announced. And first, I'd like to understand the timing of it. The performance of Intel has been challenged in the last 6 months. But should we read that as a very reactive plan and you're basically... 
 (technical difficulty)
 
---------------------------------------------------------------------------------
 John Pitzer,   -     [21]
---------------------------------------------------------------------------------
 Operator, I think we lost Pierre.
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Intel Corporation - Executive VP & CFO    [22]
---------------------------------------------------------------------------------
 I can answer as long as we're still on. Okay. Just making sure we're live.
 
---------------------------------------------------------------------------------
 Operator    [23]
---------------------------------------------------------------------------------
 Yes, you are.
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Intel Corporation - Executive VP & CFO    [24]
---------------------------------------------------------------------------------
 Okay. Thank you. So thanks for the question, Pierre. Yes. So keep in mind, as we look at this $8 billion to $10 billion of efficiency gains that we're talking about, we're actually making a pretty meaningful down payment on those efficiency gains in 2023. We expect to get $3 billion of savings versus '22 in '23. And keep in mind, actually, we have some fixed expenses that come on next year. So the cash savings is actually more like $5 billion of savings next year.  
 Now as it relates to the 8 to 10, we think as we exit the 2025 period will roughly be in that $8 billion to $12 billion -- or $8 billion to $10 billion range. And as Pat kind of walked through, we just think we've already identified a lot of different efficiencies that will get us to this $8 billion. But also, as we start to manage the business in this internal foundry model, we think we'll find and cover a lot more opportunities to drive efficiency and savings. So we'll update you as we progress over the course of the next 3 years and let you know how we're doing in terms of our progress, but we have very good line of sight on the first $3 billion and pretty good line of sight on the full $8 billion to $10 billion.
 
---------------------------------------------------------------------------------
 Operator    [25]
---------------------------------------------------------------------------------
 Our next question comes from the line of Joseph Moore from Morgan Stanley.
 
---------------------------------------------------------------------------------
 Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [26]
---------------------------------------------------------------------------------
 I want to come back to the internal foundry model again. Can you talk about -- it's very clear how it makes your foundry business better. From the standpoint of the CPU business back when you guys were on top in process, there was a pretty clear indication that it was the alignment of the device business with the fab that was kind of creating this really good outcome. Is there any trade-off that you make with this from the standpoint, looking at it from the standpoint of the microprocessor part of the business?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [27]
---------------------------------------------------------------------------------
 Yes. Thanks, Joe, and I'll start on that one. The simple answer is our job is to keep that 1 Intel synergy. And when I describe the 3 value vectors that I'm expecting to continue to really leverage around this technology collaboration, co-optimization of the microprocessor with the process technology is one that's high on that list. And we've made a lot of -- actually quite a lot of progress since I've been back driving that. And we're really seeing the benefits of that. And for instance, the great health that we described on Granite Rapids as an example about the momentum that we're seeing from Meteor Lake, there were clear examples. So I do believe that we're well underway at keeping that rich cycle of technical collaboration and co-optimization. 
 But there's been many of these areas that I described that there hasn't been this intense accountability. Steppings were done too easily and without the quality A stepping. And some of that came through or stumbles as you went with 14 and 10 nanometers, but we lost the discipline of the understanding of what steppings cost and not just in the fab but also in the validation cycle. So we have to bring much more accountability and transparency to that. 
 Also, we expedited all the time. While expedites are a good thing when you're bringing a new product to marketplace, but they also create fab inefficiencies, and the results of that are we're not being accountable for the fab efficiencies. Otherwise, our margins will be markedly higher than they are today. So to me, it's really maintaining the good things and the 3 I described, the technology benefits, balance sheet capital and the supply chain while driving a lot more transparency, automation, efficiency and the result will be, I believe, is a much better Intel for the long term, not just for the external foundry customers, as you suggest, but for my internal customers as well.
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Intel Corporation - Executive VP & CFO    [28]
---------------------------------------------------------------------------------
 I would just add that we have 6 business units today. We measure them separately, but they actually do a very good job. In a lot of cases, they need to pull together to engage with customers, to develop products and so forth. And so I think we have a pretty good process and culture within Intel, where we can strike the right balance between creating some transparency and accountability for the internal foundry business, but also make sure that they're aligned to the overall Intel goals.
 
---------------------------------------------------------------------------------
 John Pitzer,   -     [29]
---------------------------------------------------------------------------------
 Joe, do you have a quick follow-up?
 
---------------------------------------------------------------------------------
 Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [30]
---------------------------------------------------------------------------------
 Yes, I do. That's very helpful. In terms of the accounting in 2024 around this internal foundry structure, is the goal there to sort of have a transfer price between the foundry business and the rest of it, that kind of reflects the market price? Or just how -- it seems like the accounting of how you're going to determine where the profits could get tricky.
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Intel Corporation - Executive VP & CFO    [31]
---------------------------------------------------------------------------------
 Yes, it's a good question. That's pretty much what we're thinking. I mean we will have our own foundry business. So we'll have a good sense, I think, of the market. And so that's how we'll approach it. I would say in '23, it's going to be a somewhat light touch. We'll do this through mostly kind of spreadsheet-oriented analytics. Eventually, we -- and Pat's been pretty vocal on this. We want to create more automation, systemization of everything that we're doing between the foundry and the product. So over time, this will get more robust, and ergo, we'll be able to drive more accountability, I think, as we progress through...
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [32]
---------------------------------------------------------------------------------
 And just to add on to that a little bit, Joe. Here, this is a case where our internal processes and systems were optimized for IDM 1.0, right? We weren't having to say what is a sustainable wafer price that we should be designing against. And we were having a wafer cost view, right, which early in a process life is very high, right? And then it gets to mature, and how do design teams pick the right choice when you have such variability, whereas the foundry model gives a much more predictable wafer pricing that then enables a more efficient business unit model to pick the right technology choices to deliver the best products. So that's just one example that we're finding that we're not making the best decisions today, and this will allow us to hold the manufacturing teams to be entirely accountable. 
 You've given a price, hit the defects, hit the cost structures associated with it and the business units, you have a wafer cost and go build the best product against that and ramp it like crazy in the industry. And obviously, presenting those with clarity will help you as the Street understand the progress we're making to accomplish that.
 
---------------------------------------------------------------------------------
 Operator    [33]
---------------------------------------------------------------------------------
 Our next question comes from the line of C.J. Muse from Evercore ISI.
 
---------------------------------------------------------------------------------
 Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [34]
---------------------------------------------------------------------------------
 And one more question on your Intel foundry strategy. It makes perfect sense to me around the discipline and cost that you're looking to achieve here. But if I'm a business unit head, and you've been pretty clear that you're playing catch up 5 node migrations over the next 4 years. If I'm a business unit head over the next 2 years, why would I not outsource completely? So I guess what are the guardrails to ensure that you're keeping capacity internally until you achieve the goals that you set out for 2025?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [35]
---------------------------------------------------------------------------------
 Yes. Maybe 3 different perspectives on that C.J. Obviously, most of the design decisions that are being made by my product teams now are '25, '26, '27 decisions when we're back to process leadership, right? And they're seeing that progress day to day. And just as I said, "Hey, if you want to design the best product, have the best transistor." So they're with the capability to look now at the Intel leadership process technologies as they make those decisions. 
 Also, secondly, as I described, this is a tight binding and we're going to maintain that tight binding of optimization and co-optimization for relationships that are decades old between our teams, by bringing in a new discipline to the boundary between them. 
 And the third answer is we already use external foundries. This is a process that's already pretty well established, and we're using a range of external foundries. Our design teams over the last 5 years or so have learned how to use external foundries. And the fact is they're interacting now with my internal foundry, many of those learnings on expectations of PDKs, design tools, IP libraries are driving the expectations for what is required to be a good internal foundry, which will make my internal foundry a better external foundry as well. So I see this as a very regenerative cycle as we unleash these energies. And ultimately, I'm the CEO across both, and we'll be making good decisions to hold both of them accountable even as we clarify the interfaces and the efficiencies between them.
 
---------------------------------------------------------------------------------
 John Pitzer,   -     [36]
---------------------------------------------------------------------------------
 C.J., do you have a quick follow-up?
 
---------------------------------------------------------------------------------
 Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [37]
---------------------------------------------------------------------------------
 Yes, John. I guess, Dave, as you think about the strategy, how does it change capital intensity for the business, not into '23, but perhaps say, over the next 5 years? Is it still that 35% type of number? Or how should we be thinking about it?
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Intel Corporation - Executive VP & CFO    [38]
---------------------------------------------------------------------------------
 Yes. Good question, C.J. So obviously, in this investment phase where we're catching up on node transitions, what we do, we will have a higher CapEx intensity, this 35%. But we do expect, as we get out of this phase, to be back down to a more normalized level of about 25% CapEx intensity. So there definitely will be an evolution and adjustment. And that's one of the key components of allowing us to kick up our free cash flow to this 20% of revenue level that is ultimately the model.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [39]
---------------------------------------------------------------------------------
 Yes. And also just piling on to that, we also look -- we always look at that through the lens of our smart capital strategy, where clearly, we're viewing both the gross CapEx, but more importantly, the net CapEx from your perspective and how we access other pools of capital to be able to build that out in a very financially prudent way and those other approaches, EU, U.S. CHIPS Act, ITC skip give us a lot of flexibility, combined with the Shell First Strategy to be able to make sure we're spending the capital, the more expensive equipment capital, more timed with the market demand clarity.
 
---------------------------------------------------------------------------------
 Operator    [40]
---------------------------------------------------------------------------------
 Our next question comes from the line of Mark Lipacis from Jefferies.
 
---------------------------------------------------------------------------------
 Mark John Lipacis,  Jefferies LLC, Research Division - MD & Senior Equity Research Analyst    [41]
---------------------------------------------------------------------------------
 Pat, maybe for you, despite all the consolidation in the industry and the growth that Intel has seen and the larger foundries have seen, the capital intensity continued to seem to have moved higher, notwithstanding your hope that -- or expectations that it's going to come back down again. So given the high levels, you can make the argument that the industry actually needs even more consolidation than it has already seen at the level of the -- some of the biggest players in the industry. 
 Can you share your thoughts on how you think about the potential for this large scale -- this kind of large-scale M&A or maybe joint ventures amongst the class of the leading-edge players? Or are they just -- are there issues like FTC-related or national security-related that just means that thinking about that kind of consolidation or joint ventures across borders is something that just takes it off the table and maybe it's a different analysis for consolidation versus joint ventures?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [42]
---------------------------------------------------------------------------------
 Well, there's a lot packed into that question. And I would just say, I mean, I generally said that, hey, we see this industry being a consolidating industry over time, particularly on the manufacturing side because of the extreme capital intensity, but also the incredible R&D costs, right? If you think -- if you want to have a world-class technology development team, all you have to do is spend $5 billion a year in R&D and do that for 30 years, right? Now you're okay. Now you're world class, right? And these are just extraordinary long-term investments that you have to build up and operate this way. And against that, I've consistently said I expect that there will be further consolidations in the industry going forward. 
 Now what shape those will take, what the timing of those will be, what will be the trigger points that would position such moves, and as you said, there's many factors associated with that in terms of regulatory, legal, financial steps associated with it. But fundamentally, economics 101, right, would say, you will see further consolidations into the future, and we believe that will be the case. And we would expect to be a consolidator in that process over time.
 
---------------------------------------------------------------------------------
 Operator    [43]
---------------------------------------------------------------------------------
 And our final question for today comes from the line of Matt Ramsay from Cowen.
 
---------------------------------------------------------------------------------
 Matthew D. Ramsay,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [44]
---------------------------------------------------------------------------------
 Pat, I wanted to ask a question about the server road map. We've got some, I think, relief from some of the commentary for cloud CapEx during this earnings season in the last 3 days and particularly from Meta last night, but the rest of the big guys as well. But on the flip side, there's some rumblings that maybe there's a couple of more months before Sapphire Rapids might ramp in big volumes. 
 So I'm just -- maybe if you could help and level set us on the timing of big cloud volume of Sapphire Rapids and how that now dovetails in with the timing. It seems like you're keeping for Emerald Rapids in late '23.
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [45]
---------------------------------------------------------------------------------
 Yes. Thank you. And as I indicated, Sapphire Rapids is now PRQed and the ramp is underway. We are ramping the product as we speak, strong customer demand. We expect this will be our fastest-ever Xeon to 1 million units, and we're going to push that quite aggressively, and the factories are ramping up, as we speak. Obviously, this is good news for that business competitively, a big ASP uptick as well on the product. So lots of good things come. 
 Also, we had a particularly good quarter on the execution front, not just Sapphire Rapids PRQ but great health on Granite Rapids, Emerald Rapids looking very good, Sierra Forest. So the next 3 generation products are all making very good milestones, and I really feel like the worst of our execution is behind us. And we're really starting to see some enthusiasm, momentum, excitement building in those teams as they turn the corner on these products. 
 We do think, as I said in the formal, that the market is softer, right, on the enterprise side and somewhat on the cloud side as you reinforced by some of the other comments from others. That said, as we ramp these products, it's all about having the best product to gain share, to gain ASP, to improve the margins of the business. And we now feel like our portfolio is taking share or taking shape to accomplish exactly that. 
 And we're going to be aggressive. We're going to fight for every socket. This is a game where we have to reestablish ourselves in the marketplace. And now we're starting to have the product line to do that. And that's exactly what you'll see. In addition to that, we're also building out our software assets to have an increased value proposition. And one of those is, for instance, with Sierra. Sapphire Rapids is the market improvements in AI, but even more importantly, in security. And with our security services and capabilities, very differentiated areas like confidential computing are gaining quite a lot of interest in the industry for not just enterprise, but cloud customers as well. 
 So a lot of things going on there. But overall, we feel like our momentum is being reestablished in this critical, critical area of our business and one that we know has a lot of attention from you all in the community.
 
---------------------------------------------------------------------------------
 John Pitzer,   -     [46]
---------------------------------------------------------------------------------
 Matt, do you have a quick follow-on?
 
---------------------------------------------------------------------------------
 Matthew D. Ramsay,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [47]
---------------------------------------------------------------------------------
 Yes, John. One thing that piqued my interest, Pat, in your prepared script was -- I mean there's a lot of discussion of the 5 nodes in 4 years and halfway through that transition is 20A with RibbonFET or gate all around. So you guys are going to need to go through that jump. Your competition as well. 
 And you mentioned, I think, some tape-outs of your own stuff but also some tape-outs of potential external foundry customers on 20A that seemed, I don't know, from the language used, kind of meaningful. So if you could give us a status report there on sort of the gate all-around RibbonFET progress you see versus competition? And is this external customer really significant?
 
---------------------------------------------------------------------------------
 Patrick P. Gelsinger,  Intel Corporation - CEO & Director    [48]
---------------------------------------------------------------------------------
 Yes. Thank you. And on 20A and 18A, they go to RibbonFET, as you say. And Intel has driven every major transistor, right, in the volume production for the last 35 years. So the idea that we're the ones who are going to drive this major new transistor structure into production is something that we're pretty committed to be a driver for 20A, as you said, on track, on schedule. We expect 20A will primarily be an internal node, not one that we have a lot of external foundry customers for the external foundry chipset or tape-outs are largely associated with 18A. 
 And a very typical process for a foundry customer will be "give me a test chip of my circuits on your process." And that's exactly what we taped out. The first one this quarter. We'll have several more in the pipeline. So now we're taking out not only our test chips for 18A, but our foundry customer test chips for 18A, and that's a pretty critical milestone when they see the results of the silicon for them making a volume decision for a foundry customer. 
 So we're exactly on the time line that I described earlier for those tape-outs and those decisions. So as they start to see the silicon results, which we think are going to be very promising, we think that will be a key step to them making major foundry decisions. And overall, this just affirms our 5 nodes in 4 years. We're making the investments. We're seeing good progress to get back to process technology leadership, which for Intel is a tide that raises all boats in the company. It makes our products better. It establishes our new business areas, positions us in a very profound way for foundry to (technical difficulty) economic environment. Macro, very challenged, but we're happy with the execution progress we made even though we're not happy with the reported results. And we know we have a lot more work to do there. 
 It was also thrilling to participate with the Mobileye IPO in a tough market with very good results. We're prepared for the economic headwinds. We're making the necessary adjustments structurally as well as through our cost model to go through them. And we remain fully committed to being a value generator for our shareholders for the long term as we execute our 2.0. And we believe that, that will be a great result for our owners for the long term. 
 Thank you for joining us for the call today and look forward to our update next quarter.
 
---------------------------------------------------------------------------------
 Operator    [49]
---------------------------------------------------------------------------------
 Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.
 
 
@@ -406,9 +292,7 @@ Thank you, ladies and gentlemen, for your participation in today's conference. T
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -419,9 +303,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -447,6 +329,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

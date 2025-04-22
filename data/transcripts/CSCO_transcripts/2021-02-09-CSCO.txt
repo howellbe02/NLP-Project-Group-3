@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q2 2021 Cisco Systems Inc Earnings Call
 FEBRUARY 09, 2021 / 9:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Marilyn Mora
    Cisco Systems, Inc. - Director of Global IR
@@ -17,9 +15,7 @@ Corporate Participants
  * Charles H. Robbins
    Cisco Systems, Inc. - Chairman & CEO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Paul Jonas Silverstein
    Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
@@ -46,18 +42,13 @@ Conference Call Participiants
  * Pierre C. Ferragu
    New Street Research LLP - Global Team Head of Technology Infrastructure
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Welcome to Cisco's Second Quarter Fiscal Year 2021 Financial Results Conference Call. At the request of Cisco, today's conference is being recorded. If you have any objections, you may disconnect. 
 Now I would like to introduce Marilyn Mora, Head of Investor Relations. Ma'am, you may begin.
 
---------------------------------------------------------------------------------
 Marilyn Mora,  Cisco Systems, Inc. - Director of Global IR    [2]
---------------------------------------------------------------------------------
 
           Welcome, everyone, to Cisco's Second Quarter Fiscal 2021 Quarterly Earnings Conference Call. This is Marilyn Mora, Head of Investor Relations, and I'm joined by Chuck Robbins, our Chairman and CEO; and I'm very pleased to welcome, Scott Herren, our CFO.  
 By now, you should have seen our earnings press release. A corresponding webcast with slides, including supplemental information, will be made available on our website in the Investor Relations section following the call. Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements and other financial information can also be found in the Financial Information section of our Investor Relations website.  
@@ -66,9 +57,7 @@ The matters we will be discussing today include forward-looking statements, incl
 With respect to guidance, please also see the slides and press release that accompany this call for further details. Cisco will not comment on its financial guidance during the quarter unless it is done through an explicit public disclosure. 
 With that, I'll now turn it over to Chuck.
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [3]
---------------------------------------------------------------------------------
 
           Thanks, Marilyn. First of all, I hope that all of you and your families are safe and healthy. This year is full of promise as vaccines give us a path to healing and recovery. We are optimistic about the future and look forward to what lies ahead.  
 This past quarter, our team delivered strong performance with revenues coming in at the top of our guidance range and non-GAAP EPS landing above the high end of our expectations, all supported by margin expansion and a further strengthening of our balance sheet. More importantly, we are seeing encouraging signs of strength across our business as the recovery takes shape with all customer segments showing improvement in year-over-year growth rates.  
@@ -101,9 +90,7 @@ While the past year has highlighted far too many inequities in our society, we b
 With our ongoing disciplined approach to investment and innovation, we expect to be in an even stronger position post-pandemic as our customers look to deploy their next-generation networks at the heart of their organizations. I firmly believe Cisco is well positioned to capture the long-term growth opportunities ahead and win for years to come.  
 I'll now turn it over to Scott, our new CFO, to walk through our financial results. As you know, Scott has strong experience in software and a proven track record of leading successful business model transitions from perpetual licenses to SaaS and recurring subscriptions. Scott is proving to be a powerful addition to our team, and I look forward to partnering with him as we plan the next phase of Cisco's continued transformation. Scott, over to you.
 
---------------------------------------------------------------------------------
 Richard Scott Herren,  Cisco Systems, Inc. - Executive VP & CFO    [4]
---------------------------------------------------------------------------------
 
           Thanks, Chuck. Let me start by saying how excited I am to join the Cisco team at such a pivotal time in the company's transformation. Before turning to our performance in the quarter, I thought I'd share my initial observations and key priorities. I'm impressed by the team here at Cisco and the progress the company has made on its transformation, achieving the goals laid out 3 years ago of driving 50% of our revenue from software and services. It's also clear that the leadership team is unified and focused and that the strategies Chuck laid out earlier in the call will drive our growth over the next several years. It's an exciting time to be joining the company in this role.  
 In terms of my key priorities, they include the following: driving profitable growth, a continued disciplined focus on financial management and operating efficiency, setting a long-term plan to maximize value creation through strategic transformation and examining investments, both organic and inorganic. I'm also committed to providing you the insight and metrics needed to understand and properly value our business longer term.  
@@ -125,72 +112,51 @@ Now let me reiterate our guidance for the third quarter of fiscal '21. This guid
 The guidance for Q3 is as follows: We expect revenue to be in the range of 3.5% to 5.5% growth year-over-year. We anticipate the non-GAAP gross margin to be in the range of 65% to 66%. The non-GAAP operating margin is expected to be in the range of 33% to 34% and the non-GAAP tax provision rate is expected to be 19%. Non-GAAP earnings per share is expected to range from $0.80 to $0.82. 
 I'll now turn it back to Marilyn so we can move into the Q&A.
 
---------------------------------------------------------------------------------
 Marilyn Mora,  Cisco Systems, Inc. - Director of Global IR    [5]
---------------------------------------------------------------------------------
 
           Thanks, Scott. Michelle, let's go ahead and queue up the Q&A.
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Our first question comes from Meta Marshall from Morgan Stanley.
 
---------------------------------------------------------------------------------
 Meta A. Marshall,  Morgan Stanley, Research Division - VP    [2]
---------------------------------------------------------------------------------
 
           Great. Maybe to start off for me, I just wanted to get a sense of where you feel like organizations are in planning for a return to work and what the hybrid workplace looks like. And when do you think that investment will take place in that architecture versus kind of when employees return to the office?
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [3]
---------------------------------------------------------------------------------
 
           Yes. Meta, thank you. I think that the -- what we have been operating under is a premise that customers will probably begin to come back to the offices and we have been thinking sort of mid to late summer. I think if you're watching the news this morning, you heard some of the New York companies say that they may be September. 
 But I would suspect that as companies look to prepare their offices for the return, in our case, we've seen significant uptake in WiFi 6, as an example, as they've begun to get ready for that return. We believe that, that will require switching infrastructure as people come back to the office and begin to put load on those wireless networks. 
 We also believe that every meeting in the future is going to be a hybrid meeting, even when people are back in the office. You'll have people in the office and you'll have people remote. And in order to accommodate that, we suspect most of our customers will be putting video units in every conference room they have, which, again, will also accommodate the hybrid work model but will also drive bandwidth requirements, which could lead to switching infrastructure. 
 So that's the way we see it playing out over the next few months. And we would expect that with some of the solutions we have around worker safety in the collaboration portfolio and the WiFi 6 build-outs that we'll continue to see some progress from our customers as they prepare to return.
 
---------------------------------------------------------------------------------
 Operator    [4]
---------------------------------------------------------------------------------
 
           Jim Suva from Citigroup Investment Research.
 
---------------------------------------------------------------------------------
 James Dickey Suva,  Citigroup Inc., Research Division - MD & Research Analyst    [5]
---------------------------------------------------------------------------------
 
           Looking at your guidance, I think some investors are asking a little bit about, hey, the revenue guidance is up year-over-year quite impressively, off a little bit of easy comps and also an extra week. But the EPS year-over-year, there's not much leverage there. Are there additional costs? I think with less travel, why wouldn't there be more flow-through to the bottom line of earnings per share?
 
---------------------------------------------------------------------------------
 Richard Scott Herren,  Cisco Systems, Inc. - Executive VP & CFO    [6]
---------------------------------------------------------------------------------
 
           Yes. Thanks, Jim, for the question. And I think there's a couple of things you have to bear in mind. Not only does the extra week in Q3 bring along with it additional revenue, it brings along additional spend as well. And we touched on this in the opening commentary, it's about $185 million -- our expectation is about $185 million of additional spend. 
 Coming through -- when you compare year-on-year coming through from last year, we also have comp plans reset. So as you'd expect, commissions and bonuses are on a different track this year than they were last year. And FX, the weakness of the dollar is having an effect on us as well.  And so when you add those up, that's what drops through to the COGS and the OpEx line. 
 We are on track just to get ahead of maybe what your next question would have been. We're on track with the $1 billion of savings that we talked about through the restructuring. That continues to go well. Almost all of that is behind us at this point. But there's some year-on-year things that are factoring into our spend rate for this year -- for this coming quarter.
 
---------------------------------------------------------------------------------
 Operator    [7]
---------------------------------------------------------------------------------
 
           Ittai Kidron from Oppenheimer.
 
---------------------------------------------------------------------------------
 Ittai Kidron,  Oppenheimer & Co. Inc., Research Division - MD    [8]
---------------------------------------------------------------------------------
 
           Good luck, Scott, in your new role. I guess I have a couple of questions. First, on the decline 9% in orders on enterprise. Chuck, can you give us a little bit more color? It seems like a significant lag relative to the others? When do you expect that to normalize and improve? 
 And then perhaps a second question, more of a bigger picture one for you, Chuck. It's been clearly a very difficult year all around. Maybe you can give us a little bit more -- the bigger picture perspective that you have here about the company. In what ways Cisco here and now different in the way it operates and thinks and moves going forward versus the Cisco of a year ago just before heading into the pandemic? I'm trying to understand kind of the lessons learned and how they're implemented and impacting the company. And how should we think about you differently going forward?
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [9]
---------------------------------------------------------------------------------
 
           Yes. Ittai, thank you. And look, first of all, I think that if you look at the customer segments, we saw improvement across service provider, commercial and public sector. And we saw improvement in enterprise, although it's still negative year-over-year. 
 But what I would tell you is from a vertical industry perspective, we did see positive movement from industries that are not directly impacted by the pandemic. Think financial services, think manufacturing, think technical services. And then those that are still in the midst of the pandemic continue to struggle, hospitality, retail, transportation, energy. And so I think from that perspective, it gives us confidence that as we come out of this thing that those industries that are being depressed by the pandemic will obviously look to the future and will recover as well. 
@@ -198,98 +164,68 @@ So the other thing that we've reflected on is that when we came out of the 2008 
 As it relates to the bigger picture, I think we've talked a lot about giving our customers consumption flexibility. Earlier in my comments, I actually outlined 6 of the strategic pillars that we're all focused on. I'd say that we are super optimistic about the progress we've made in the web scale space. We continue to deliver on our software revenues, which were $3.6 billion this quarter, and again, 76% of it coming from software. And I think that will only increase. 
 So I think that those 6 pillars, combined with more flexibility and consumption options for our customers and continued transition to software and a continued focus on web scale and other growth opportunities is what we're trying to do over the next 2 to 3 years.
 
---------------------------------------------------------------------------------
 Operator    [10]
---------------------------------------------------------------------------------
 
           Paul Silverstein from Cowen and Company.
 
---------------------------------------------------------------------------------
 Paul Jonas Silverstein,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [11]
---------------------------------------------------------------------------------
 
           Scott, can you tell us what the rate of price degradation was? And in connection with that, any thoughts in terms of the margin structure of the company at both the gross and operating line as to both resiliency and even hopefully better as to upside in where you can drive that front?
 
---------------------------------------------------------------------------------
 Richard Scott Herren,  Cisco Systems, Inc. - Executive VP & CFO    [12]
---------------------------------------------------------------------------------
 
           Yes. Thanks, Paul. The pricing mix was really in line with what we've seen over the last several quarters. And you'll see this next week, obviously, in the Q, but I'll go ahead and give you the data point. It was 1.6% for the second quarter, slightly better actually than what we had seen in Q1 and actually modestly better than what we've seen over the trailing 4 quarters. So pricing mix was as expected during the second quarter. 
 I think as you look longer term, gross margin is going to bounce around a little as it always does. I think part of what is factoring into our view of gross margin ahead is the benefit of a greater mix of software and services in there being somewhat offset by some of the supply chain concerns that we have right now that I think you've seen not just from us, but from everyone who's building products that contain a significant amount of semiconductor. 
 So we're doing what you'd expect us to do on the supply chain front. We are contacting all of our key suppliers on that front. We're leveraging kind of the volume purchase that we have, extending that supply chain further out, all with a goal of ensuring we can protect customer shipments. So there's a little bit of a headwind coming in those lines from the -- just the supply -- the current supply chain.
 
---------------------------------------------------------------------------------
 Paul Jonas Silverstein,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [13]
---------------------------------------------------------------------------------
 
           Scott, I trust that the supply chain commentary, that's a transitory issue that's going to pass. If we look beyond, assuming all goes back to normal, it sounds like if you net that out, there should be a positive trajectory at some point.
 
---------------------------------------------------------------------------------
 Richard Scott Herren,  Cisco Systems, Inc. - Executive VP & CFO    [14]
---------------------------------------------------------------------------------
 
           I think that's right. I mean we've talked about growing the percent of our business, and you've seen Cisco do a really nice job of growing the percent of the business coming from software and services. And obviously, that comes through at a higher margin.
 
---------------------------------------------------------------------------------
 Operator    [15]
---------------------------------------------------------------------------------
 
           Pierre Ferragu from New Street Research.
 
---------------------------------------------------------------------------------
 Pierre C. Ferragu,  New Street Research LLP - Global Team Head of Technology Infrastructure    [16]
---------------------------------------------------------------------------------
 
           Scott, I have a question for you on your gross margin. I was just checking my model and I think the 66.9% you reported this quarter is actually a record for as far back as my model goes. I think it goes back quite far. So congratulations for like a great start on that front. 
 And my question is actually, how should we think about gross margin in this transition you want to accelerate and continue towards the cloud? Are we now in a phase where we should expect gross margins to head up over time with ups and downs, of course? But should we expect like margin -- structural margin expansion going along with your transformation?
 
---------------------------------------------------------------------------------
 Richard Scott Herren,  Cisco Systems, Inc. - Executive VP & CFO    [17]
---------------------------------------------------------------------------------
 
           Yes. Again, Pierre, your model must go back to our fiscal 2006 because this was the highest gross margin we reported since the second quarter of 2006. So you're right from that standpoint. And again, I would just -- in terms of where this goes longer term, I expect there to be a little bouncing around over the next couple of quarters given some of the supply chain concerns that  everyone that's building product based on semis and a slight headwind still from memory. But I think everyone in the market is going to see that same set of trends. 
 Longer term, again, as we drive up the mix of software and services, that should have a positive impact on gross margins.
 
---------------------------------------------------------------------------------
 Pierre C. Ferragu,  New Street Research LLP - Global Team Head of Technology Infrastructure    [18]
---------------------------------------------------------------------------------
 
           Great. And maybe if I have a quick follow-up on the same theme. You mentioned extending the transition. What's up next for grab for you to evolve in the product portfolio to increase the share of technology that you deliver as a service and cloud-based?
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [19]
---------------------------------------------------------------------------------
 
           Pierre, it's Chuck. I'll take that one. And Scott is pretty proud of the immediate impact he had by delivering the record gross margins being here a very short time.
 
---------------------------------------------------------------------------------
 Pierre C. Ferragu,  New Street Research LLP - Global Team Head of Technology Infrastructure    [20]
---------------------------------------------------------------------------------
 
           I'm very impressed.
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [21]
---------------------------------------------------------------------------------
 
           Yes, exactly, high impact. So I think on the -- as you look at the as a service offerings, what we're going to do is take -- we're taking intellectual property we have in our core enterprise portfolio. We're delivering a lot of that as both cloud-delivered as well as cloud-managed. Think about what we've done with the whole discussion we've had over the years about the Meraki platform and how we bring those capabilities to the rest of the portfolio, taking technologies like SD-WAN and cloud security and integrating those together and delivering those as a service, which, frankly, are uniquely capability -- that's a unique capability that we have. 
 And so I think those are areas where you'll see that continue to move forward. In addition to -- anything that we've sort of virtualized over the years, you can now deliver that as a service, anything that's pure software. So we're looking at every aspect of the portfolio.
 
---------------------------------------------------------------------------------
 Operator    [22]
---------------------------------------------------------------------------------
 
           Jeff KVaal from Wolfe Research.
 
---------------------------------------------------------------------------------
 Jeffrey Thomas Kvaal,  Wolfe Research, LLC - Research Analyst    [23]
---------------------------------------------------------------------------------
 
           Yes. I'm hoping to ask two, I guess. First is, I'm wondering, could you help us understand better the dynamics involved in the web scale progress, which product lines and what type of applications are you into? Is that a Silicon One story? And then secondly, I was just wondering if you could help us with the expectation for the durability of the public sector strengths.
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [24]
---------------------------------------------------------------------------------
 
           Yes. Thanks, Jeff. So let me start with the second one. The durability of the public sector, I think 2 comments on this one. Clearly, there's stimulus that's flowing both in the U.S. and around the world, and I think that will continue for some period of time, obviously. And that's certainly helping. 
 But the other thing that I think has occurred over the last year is that countries have realized that they have to invest in infrastructure and digital infrastructure and technology to be prepared for these sorts of crises in the future. So I think that notwithstanding stimulus, I think the spending we see post-pandemic will be greater than what we saw pre-pandemic. And in fact, some of these countries have come to the conclusion that they need to take more dependency on themselves and less on some of their allies given sort of what we've seen over the last few years. And so they're beefing up their technology investments from that perspective. So I think net, once the stimulus goes out, I still think you see a positive segment for a few years to come. 
@@ -298,61 +234,43 @@ From a portfolio perspective, you asked, we're selling the 8000 series, which we
 And the last thing I'll tell you is that -- the other question you're probably going to ask is how material it is from a size perspective. And I'll tell you that last quarter that we just finished, it was 25% of our service provider segment. And over the last 4 quarters, it's averaged 21% of that SP segment. So it's gotten to a point where it's meaningful. So that's why we decided to give additional information today. 
 Again, this business, much like the service provider business that we've talked about over the years will have -- will be big deal-driven, big customer-driven, so will have a tendency to be lumpy. But I think if you look at it over the course of 4 quarters, 6 quarters, 8 quarters, it's going to be -- it should continue to be positive.
 
---------------------------------------------------------------------------------
 Operator    [25]
---------------------------------------------------------------------------------
 
           Rod Hall from Goldman Sachs.
 
---------------------------------------------------------------------------------
 Roderick B. Hall,  Goldman Sachs Group, Inc., Research Division - MD    [26]
---------------------------------------------------------------------------------
 
           Yes. I had 2 as well. One would be, I guess, one of the most surprising numbers in here is the service provider order growth rate of 5%. I think huge turnaround from last quarter. And I think you just gave me part of the answer to that, Chuck. But just curious if you could dig into that in a little bit more color, what drove that. Just a little bit unexpected for me. 
 And then the second thing I wanted to ask, back to you, Scott, on the FX impact. Is there any way you could quantify those for us? Can you help us understand how the dollar move has affected, for instance, revenue growth year-over-year and maybe margins as well? Just anything you can help us with on quantification there.
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [27]
---------------------------------------------------------------------------------
 
           All right, Rod, I'll take the first one. On the SP space, so yes, if you look at what we saw in the quarter from an order perspective, we saw positive growth in cable, which represents about 15% of the segment. We saw triple-digit growth in web scale, which has represented 25% of the segment. 
 And then our telco business was down, and that's roughly 60% of the business. And primarily, that is because of where we are in the stages with 5G. We have roughly 35 customers around the world that we're working on 5G solutions with mobile backhaul, with orchestration, with packet core. And so we're just early in that transition. And I think that particular sub-segment of SP will begin to show progress for us as we see the core backbone build-out, as we've been saying over the last few years. And the good news is we're seeing the backhaul stuff being built. We're seeing the packet core decisions get made, which means that the core network backbone decisions will be made and the fact that we are being -- having some positive success in the web scale space would give me a high degree of confidence that those same products will bode well in the service provider space. 
 So I think this has been a tough segment for us for many, many years. And we're hopeful right now with the web scale success and then with the 5G build-outs underway that this could be a tailwind over the next few years for us.
 
---------------------------------------------------------------------------------
 Richard Scott Herren,  Cisco Systems, Inc. - Executive VP & CFO    [28]
---------------------------------------------------------------------------------
 
           And Rod, this is Scott. On the FX impact, as you know, in most markets, we price in USD. So there's a limited impact from FX on the top line. But of course, with the weaker dollar, we have employees worldwide. And obviously, you pay them in local currency. And so when you translate that back, it has -- it creates a bit of a headwind for us on the OpEx side. I'm hesitant to give you an exact figure on that, but just so you can understand the dynamics. That's the way it works. And it has created a headwind for us during the second quarter.
 
---------------------------------------------------------------------------------
 Operator    [29]
---------------------------------------------------------------------------------
 
           Tal Liani from Bank of America Securities.
 
---------------------------------------------------------------------------------
 Tal Liani,  BofA Securities, Research Division - MD and Head of Technology Supersector    [30]
---------------------------------------------------------------------------------
 
           I have 2 questions. One is just clarification from my understanding, and I'll ask it in a general way. What's holding up the closure of Acacia and what will change now versus the delays we have seen so far? So that's the easy one. 
 The second question is, I want to understand your outlook on a product basis rather than vertical. When we focus on legacy switches and routers, can you discuss the trends that you're seeing for the next 4 quarters or the next kind of calendar year, where is the change? Meaning, what are the areas where you see increase versus the previous 4 quarters?
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [31]
---------------------------------------------------------------------------------
 
           So Tal, I'm going to ask for clarification on the second one before I start. So are you talking about in the enterprise space? Or are you just talking about what do we feel good about from a product perspective over the next few quarters in general?
 
---------------------------------------------------------------------------------
 Tal Liani,  BofA Securities, Research Division - MD and Head of Technology Supersector    [32]
---------------------------------------------------------------------------------
 
           Exactly. I'm trying to understand it at the product level rather than the vertical level.
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [33]
---------------------------------------------------------------------------------
 
           Yes, got you. Okay. So on the Acacia thing, I think it's quite clear what occurred. We didn't have China approval. We thought we did. We didn't have it in time. So we renegotiated the price because our contract with them had expired. And candidly, the performance they put up in the 18 months between our original deal and this deal was pretty astounding, so the price was not out of the question. 
 And then we subsequently got Chinese approval, and I think, Scott, keep me honest, but I think they have to get shareholder approval and the proxies out. So we expect that, that should happen. It will happen during Q3, Tal. So China approval is done. There's no more approvals to get. It's just up to the shareholder vote at this point. So we think that is in pretty good shape. 
@@ -364,53 +282,37 @@ Within the security portfolio, the teams are working on a couple of very differe
 Again, you have to remember in the applications space when -- there's probably a view on that, that when it's not performing the way you would think -- you got to remember, all the phones are included in that space, too. So while WebEx was up double digits, as Scott said, you've also got the drag of the handset business that's in there as well. But I think the WebEx work and the pace of innovation, the feature velocity, the suite aspect that they're looking at, I think the teams are doing a really good job. And I think over the next year, you'll see us actually -- that portfolio will continue to improve, and I think we have a chance to take share back. 
 What did I miss? And then we're working on things like full stack observability, which are somewhat nascent. We're working on our edge service strategy, which is somewhat nascent. But I feel like the team -- I think the portfolio is in probably as good a shape as it's been in a while, and we just have to execute.
 
---------------------------------------------------------------------------------
 Operator    [34]
---------------------------------------------------------------------------------
 
           Samik Chatterjee from JPMorgan.
 
---------------------------------------------------------------------------------
 Samik Chatterjee,  JPMorgan Chase & Co, Research Division - Analyst    [35]
---------------------------------------------------------------------------------
 
           Chuck, just wanted to see if you can dig a bit deeper into the demand drivers for the security segment here, particularly, how have you seen customers respond to the recent events around SolarWinds. And if we would have expected a bit more momentum on the security segment here, is that more to come? Particularly, is it more going to be hardware or software that we should expect the demand from?
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [36]
---------------------------------------------------------------------------------
 
           Yes. I think that what we see across that portfolio is we had a really good quarter actually in network firewall and cloud security. So it was a good quarter across the board, across the portfolio. And I think what you'll see is that we're in the early phases, I think, of any positive impact that you would see from the SolarWinds build-out because most of the customers are going in to assess like where am I, what have I missed, what do I need, what caused me to miss what I missed. And then they're going to move from there. So I think we're sort of in the midst of that right now with a lot of our customers doing those kinds of assessments. 
 But it's been -- from the early parts of the pandemic, when we saw VPN technology being absorbed as much as we could possibly build and then the network firewall and then combine that with the cloud security, it just -- it feels like customers are consuming whatever security they can consume right now to try to avoid those sorts of situations. So I would think that, that will continue to be positive for us.
 
---------------------------------------------------------------------------------
 Operator    [37]
---------------------------------------------------------------------------------
 
           Simon Leopold with Raymond James & Associates.
 
---------------------------------------------------------------------------------
 Simon Matthew Leopold,  Raymond James & Associates, Inc., Research Division - Research Analyst    [38]
---------------------------------------------------------------------------------
 
           I wanted to ask first an easy one and then more of a thematic one. On the easy side, hopefully, is just wondering if the supply chain constraints, your ability to get components, if that cost you any revenue in the quarter, if you could quantify that. 
 And then in terms of the broader trend, maybe you could help me understand how you see the campus environment developing. Because it sounds like you've highlighted a number of positives, getting back to work, long legs in the Cat 9K cycle, WiFi sounds good, but I have to imagine there are some offsets as well, maybe not as many people go back to work, legacy products rolling over. Just if you could build a bridge on what's going on in campus over the longer term.
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [39]
---------------------------------------------------------------------------------
 
           All right. Scott, you want to take supply chain?
 
---------------------------------------------------------------------------------
 Richard Scott Herren,  Cisco Systems, Inc. - Executive VP & CFO    [40]
---------------------------------------------------------------------------------
 
           Yes. We didn't really see any impact on our ability to get product out the door during the second quarter. The team has stayed on top of the supply chain scenario, and it's been evolving, as you know, throughout the quarter. As we look ahead at Q3, that is something that is factored into our guide, both in the -- our expectations on the top line and on the gross margin line. But it really hasn't been a -- in the second quarter at least, it hasn't been a significant headwind for us.
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [41]
---------------------------------------------------------------------------------
 
           Yes. I think that our teams are doing a good job on that, on trying to buy ahead, trying to build inventory. Our -- and I think that there's certainly some unknowns and it's certainly complex, but I think the teams have done a pretty good job navigating it and it is built into the guide. 
 On the campus front, I think what I described is actually what I would expect for most customers. I think, Simon, the question you ask is a philosophical discussion that we have a lot in that when customers go back, what is it going to look like? Are more employees going to stay at home? Does that mean they're going to shrink their footprint? Does COVID stay with us? Do people now believe that they want to be -- they want to maintain somewhat of a social distance in the office even post-COVID until we really get well beyond it? And does that mean you need more footprint? What's the future of shared space? Are employees comfortable coming in and sitting in a shared space that someone else occupied the day before or do they want their own space when they come in so that they feel safe in it? 
@@ -418,89 +320,63 @@ And I think those are the kinds of things that we don't understand. But if I net
 And so I really believe it's going to be hybrid where people are going to work from home. And everybody is sort of landing here where they work from home 3 days a week and then work from the office 2 days a week or vice versa. The question is, what accommodations does that lead to for customers based on employees' concern over space issues, concern over future pandemics or other concern? That's what we just don't know yet. 
 But I do believe, based on what we've seen with WiFi 6, that tells me customers are getting ready. And they're upgrading the wireless infrastructure now. And in the commercial space, we've seen a fair amount of the follow-on with the switching. And hopefully, we'll see that in the enterprise space beyond this quarter.
 
---------------------------------------------------------------------------------
 Operator    [42]
---------------------------------------------------------------------------------
 
           Tim Long from Barclays.
 
---------------------------------------------------------------------------------
 Timothy Patrick Long,  Barclays Bank PLC, Research Division - MD and Senior Technology Hardware & Networking Analyst    [43]
---------------------------------------------------------------------------------
 
           Yes. Two, if I could as well. First, maybe Chuck, on the Cat 9k, still doing very well. Just curious what you think the impacts will be when some of the kind of earlier adopters licenses are coming due. So kind of what impact is that? Kind of what inning are we in there? 
 And then second, on the cloud business. Curious kind of who you're winning against there. Is this against your traditional competitors? Are you starting to see any wins back from white box or are you just serving to maybe limit where white box can go with that cloud customer base?
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [44]
---------------------------------------------------------------------------------
 
           Tim, thanks. So on the Cat 9K, I think the way I would think about it is that the license -- I think you're really asking about the renewal side of that piece, which in this fiscal year is not significantly material. And I think I've said on a couple of calls before, it's really good, the size of it this year because it gives us a chance to test our processes and our renewal value proposition, all that stuff because it's meaningful in fiscal '22. So teams are working hard right now to try to get ahead of that and be ready for it. 
 On the cloud front, what I would say is that we are -- when we announced in December of 2019, we had a launch -- the future of the Internet launch. We talked about that we would be -- we would sell our customers systems, integrated systems. We would sell them silicon or we would sell them white boxes, I mean, I'm sorry, our software. And we have all 3 of those scenarios actually playing out right now. So we have customers who have standardized on our systems for 400 gig. We have customers who are testing our silicon and actually putting it in white boxes, which is what we would expect them to do. 
 We have some customers running our software stack on their hardware. And so -- and the people we're competing with, they would be quite evident to you, short of me calling them out. I think these are the traditional players that have been successful in that space. And we talked a lot back years ago about the fact that we missed the first wave, and we were going to work hard to be in a position when the 400-gig transition occurred and try to work our way back in and earn that business back, and I think the teams have begun to do that. So I'm really proud of what they've done.
 
---------------------------------------------------------------------------------
 Operator    [45]
---------------------------------------------------------------------------------
 
           Sami Badri from Crédit Suisse.
 
---------------------------------------------------------------------------------
 Marilyn Mora,  Cisco Systems, Inc. - Director of Global IR    [46]
---------------------------------------------------------------------------------
 
           Sami, are you on mute?
 
---------------------------------------------------------------------------------
 Ahmed Sami Badri,  Crédit Suisse AG, Research Division - Senior Analyst    [47]
---------------------------------------------------------------------------------
 
           I don't think so.
 
---------------------------------------------------------------------------------
 Marilyn Mora,  Cisco Systems, Inc. - Director of Global IR    [48]
---------------------------------------------------------------------------------
 
           I can hear you now. We can't hear you before.
 
---------------------------------------------------------------------------------
 Ahmed Sami Badri,  Crédit Suisse AG, Research Division - Senior Analyst    [49]
---------------------------------------------------------------------------------
 
           Okay, perfect. Sorry about that. First question is for Chuck. One thing that I think has not come up in this call is anything regarding 5G really. And for about year 3 in the telecommunications 5G cycle and at this point, a lot of people are just trying to understand what's really the effect to the equipment supply chain and how these telecommunication providers are going to consume equipment from those different vendors. 
 And then the other question is for Scott. You do have some M&A that has already closed in fiscal 3Q, and there are projections for other closures of deals in fiscal 3Q. Does any of the guide include acquired or inorganic revenues? And if you're prepared to give us a breakout of organic versus inorganic, that would be helpful.
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [50]
---------------------------------------------------------------------------------
 
           Let me take the 5G. I think what you're seeing right now is most of our customers that are working on 5G, they've been building out the radio networks, they've been building out packet core capabilities, they've been building out mobile backhaul. And in many cases, they're running these hybrid 4G, 5G backbones, with some exceptions where you have like a stand-alone 5G network that's been built. 
 And in that case, what we participate in, in there, the packet core, for sure, mobile backhaul and some elements of orchestration. And  what we believe is that over the next couple of years as these providers begin to build out a stand-alone 5G backbones and, in many cases, to serve up enterprise services, that they will be making decisions on core upgrades to support the bandwidth and the traffic that's going to load those networks. And I think that's when we believe we will see this -- most of the benefit from the 5G build-out. So that's kind of where we are right now. And we're having good success in the areas that we participate based on where they are in the life cycle of these networks. Scott, do you want to touch on the M&A question?
 
---------------------------------------------------------------------------------
 Richard Scott Herren,  Cisco Systems, Inc. - Executive VP & CFO    [51]
---------------------------------------------------------------------------------
 
           Sure. Sami, we did have a couple of acquisitions that closed during the second quarter, but they were both quite small, strategically important, but not meaningful in terms of adding to the Q3 guide. We've got some more meaningful ones that we do expect to close during the quarter. Obviously, Acacia would be meaningful. We've got IMImobile, which we expect to close during the quarter, which will have some level of impact on the guide. Neither of those are factored in at this point. 
 So as we get those closed -- and at this point, it's not exactly certain when they'll close, which is why they're not currently factored into the guide. As those close, we'll give you some insight into what our expectations are for them.
 
---------------------------------------------------------------------------------
 Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [52]
---------------------------------------------------------------------------------
 
           All right. Just to wrap up, I want to thank everybody for spending time with us today. And again, just hope that everybody stays safe as we work through what we're all hopeful is the beginning of the recovery. And I think that from a business perspective, we continue to feel like that is definitely the case that we are in the midst of a recovery, which gives us a lot of optimism. 
 I'm proud of what our teams have done. I'm proud of the innovation that we have built during this complicated time. We have Cisco Live coming up at the end of March, where there'll be a lot of innovation that we'll be announcing. And based on that and some of the performance that we see and the continued improvement in our business, I remain fairly optimistic about where we are right now as we come through this pandemic. So we look forward to talking to all of you on the next call. And Marilyn, I'll turn it back over to you.
 
---------------------------------------------------------------------------------
 Marilyn Mora,  Cisco Systems, Inc. - Director of Global IR    [53]
---------------------------------------------------------------------------------
 
           Thanks, Chuck. Cisco's next quarterly earnings conference call, which will reflect our fiscal 2021 third quarter results will be on Wednesday, May 19, 2021 at 1:30 p.m. Pacific Time, 4:30 p.m. Eastern Time. As a reminder, we will be presenting and hosting meetings at several investor conferences over the next few weeks, including the Goldman Sachs technology and internet conference tomorrow. 
 Again, I'd like to remind the audience that in light of Regulation FD, Cisco's policy is not to comment on its financial guidance during the quarter unless it is done through an explicit public disclosure. We now plan to close the call. If you have any further questions, feel free to contact the Investor Relations day -- Investor Relations team. Have a great day.
 
---------------------------------------------------------------------------------
 Operator    [54]
---------------------------------------------------------------------------------
 
           Thank you for participating in today's conference call. If you would like to listen to the call in its entirety, you may call 1 (800) 391-9851. For participants dialing from outside the U.S., please dial (203) 369-3268. This concludes today's call. You may disconnect at this time.
 
@@ -510,9 +386,7 @@ Operator    [54]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -523,9 +397,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -551,6 +423,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

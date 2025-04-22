@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q4 2024 Microsoft Corp Earnings Call
 JULY 30, 2024 / 9:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Brett Iversen
    Microsoft Corp - Vice President, Investor Relations
@@ -17,9 +15,7 @@ Corporate Participants
  * Amy Hood
    Microsoft Corp - Chief Financial Officer, Executive Vice President
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Keith Bachman
    BMO Capital Markets - Analyst
@@ -38,18 +34,13 @@ Conference Call Participiants
  * Mark Murphy
    JPMorgan - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Greetings, and welcome to the Microsoft fiscal year 2024 fourth-quarter earnings conference Call. (Operator Instructions) As a reminder, this conference is being recorded.
 I would now like to turn the conference over to your host, Brett Iversen, Vice President of Investor Relations.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corp - Vice President, Investor Relations    [2]
---------------------------------------------------------------------------------
 
           Good afternoon and thank you for joining us today. On the call with me are Satya Nadella, Chairman and Chief Executive Officer; Amy Hood, Chief Financial Officer; Alice Jolla, Chief Accounting Officer; and Keith Dolliver, Corporate Secretary and Deputy General Counsel.
 On the Microsoft Investor Relations website, you can find our earnings press release and financial summary slide deck, which is intended to supplement our prepared remarks during today's call and provides the reconciliation of differences between GAAP and non-GAAP financial measures. More detailed outlook slides will be available on the Microsoft Investor Relations website when we provide outlook commentary on today's call.
@@ -60,9 +51,7 @@ During this call, we will be making forward-looking statements, which are predic
 Actual results could materially differ because of factors discussed in today's earnings press release and the comments made during this conference call and in the Risk Factors section of our Form 10-K, Forms 10-Q, and other reports and filings with the Securities and Exchange Commission. We do not undertake any duty to update any forward-looking statement.
 And with that, I'll turn the call over to Satya.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corp - Chairman of the Board, Chief Executive Officer    [3]
---------------------------------------------------------------------------------
 
           Thank you, Brett. We had a solid close to our fiscal year. All up annual revenue was more than $245 billion, up 15% year over year, and Microsoft Cloud revenue surpassed $135 billion, up 23%. Before I dive in, I want to offer some broader perspective on the AI platform shift. Similar to the Cloud, this transition involves both knowledge and capital-intensive investments.
 And as we go through this shift, we are focused on two fundamental things: first, driving innovation across a product portfolio that spans infrastructure and applications, so as to ensure that we are maximizing our opportunity while, in parallel, continuing to scale our cloud business and prioritizing fundamentals, starting with security.
@@ -103,9 +92,7 @@ Finally, we are bringing our IP to new audiences. Fallout, for example, made its
 In closing, I'm energized about the opportunities ahead. We are investing for the long term in our fundamentals, in our innovation, and in our people.
 With that, let me turn it over to Amy.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corp - Chief Financial Officer, Executive Vice President    [4]
---------------------------------------------------------------------------------
 
           Thank you, Satya. And good afternoon, everyone. This quarter, revenue was $64.7 billion, up 15% and 16% in constant currency. Earnings per share was $2.95 and increased 10% and 11% in constant currency. In our largest quarter of the year, we again delivered double-digit top and bottom line growth with continued share gains across many of our businesses and record commitments to our Microsoft Cloud platform.
 Commercial bookings were significantly ahead of expectations and increased 17% and 19% in constant currency. This record commitment quarter was driven by growth in the number of $10 million-plus and $100 million-plus contracts for both Azure and Microsoft 365 and consistent execution across our core annuity sales motions.
@@ -164,30 +151,21 @@ So as we begin FY25, we will continue to invest in the cloud and AI opportunity 
 With that, let's go to Q&A, Brett.
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corp - Vice President, Investor Relations    [1]
---------------------------------------------------------------------------------
 
           Thanks, Amy. We'll now move over to Q&A. Out of respect for others on the call, we request that participants please only ask one question. Operator, can you please repeat your instructions?
 
---------------------------------------------------------------------------------
 Operator    [2]
---------------------------------------------------------------------------------
 
           (Operator Instructions) Keith Weiss, Morgan Stanley.
 
---------------------------------------------------------------------------------
 Keith Weiss,  Morgan Stanley - Analyst    [3]
---------------------------------------------------------------------------------
 
           Thanks. Thank you, guys, for taking the question and congratulations on another great quarter and really solid overall fiscal year. Right now, there's an industry debate ranging around the CapEx requirements around generative AI and whether the monetization is actually going to match with that. And I think the question for you guys, from a Microsoft perspective, is CapEx still an appropriate leading indicator for cloud growth?
 Or does the shift in gross margin profile change that equation? Or said another way, maybe can you give us a little bit more help in understanding the timing between the CapEx investments and the yield on those investments? Thank you.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corp - Chairman of the Board, Chief Executive Officer    [4]
---------------------------------------------------------------------------------
 
           Thank you, Keith. Let me start, and then Amy can add to this. I think, I would say we primarily start right now from the demand side. What I mean by that is what's the product -- shape of the product portfolio, what we learned even from the cloud transition, which, as you know, Keith, was similar in the sense that it was both a knowledge intensive and a capital-intensive transition.
 We needed to have the product portfolio where there was the right mix of, I'll call it, infrastructure meters as well as SaaS applications. So that's the first thing that we are looking at.
@@ -197,9 +175,7 @@ The asset, as Amy said, is a long-term asset, which is land and the data center,
 There is definitely spend for training. Even there, of course, we will only be scaling training as we see the demand accrue in any given period in time. So I would say it's more important to manage to capture the opportunity with the right product portfolio that's driving value.
 And on that front, I feel good about the breadth of Microsoft offering, whether it's in consumer side, whether it's on commercial per seat side or on the consumption meters, that's, I think, the fundamental driver.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corp - Chief Financial Officer, Executive Vice President    [5]
---------------------------------------------------------------------------------
 
           And Keith, I do think -- and I really do appreciate how you phrased the question as well because I think the timing and some of the questions you all have had really led to how we were talking even about capital expense in our comments -- in my comments today.
 Being able to maybe share a little more about that when we talked about roughly half of FY24's total capital expense as well as half of Q4's expense, it's really on land and build and finance leases, and those things really will be monetized over 15 years and beyond.
@@ -207,35 +183,25 @@ And they're incredibly flexible because we've built a consistent architecture fi
 And if you think about it, that way, you can see what we're doing and focused on is building out this network in parallel across the globe. Because when we did this last transition -- the first transition to the cloud, which seems a long time ago sometimes. It rolled out quite differently.
 We rolled out more geo by geo and this one because we have demand on a global basis, we are doing it on a global basis, which is important. We have large customers in every geo. And so hopefully, with that shape of our capital expense, it helps people see how much of that is near-term monetization driver as well as a much longer duration.
 
---------------------------------------------------------------------------------
 Keith Weiss,  Morgan Stanley - Analyst    [6]
---------------------------------------------------------------------------------
 
           Thank you very much,
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corp - Vice President, Investor Relations    [7]
---------------------------------------------------------------------------------
 
           Thanks, Keith. Operator, next question, please.
 
---------------------------------------------------------------------------------
 Operator    [8]
---------------------------------------------------------------------------------
 
           Mark Moerdler, Bernstein Research.
 
---------------------------------------------------------------------------------
 Mark Moerdler,  Bernstein Research - Analyst    [9]
---------------------------------------------------------------------------------
 
           Thank you for taking the question and congrats on a strong year. GenAI has been a bit of roller coaster of a tech over the last year with periods of acceleration, high expectations, and the expectations drop as reality kicked in. With Azure growth we've seen this quarter and O365 Commercial, not yet fully visible in numbers even though Amy, you gave us a lot of color on it.
 Two quick parts to the question. Satya, how should we think about what it's going to take for GenAI to become more real across the industry and for it to become more visible within your SaaS offerings?
 And Amy, with cloud, it took time for margins to improve. It looks like with AI, it's happening quicker. Can you give us a sense of how you think about the margin impact near term and long term from all the investment on AI? Thank you.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corp - Chairman of the Board, Chief Executive Officer    [10]
---------------------------------------------------------------------------------
 
           Yes. Thanks again, Mark, for the question. So to me, look, at the end of the day, GenAI is just software. So it is really translating into fundamentally growth on what has been our M365 SaaS offering with a newer offering that is the Copilot SaaS offering, which, today, is on a growth rate that's faster than any other previous generation of software we launched as a suite in M365.
 That's, I think, the best way to describe it. I mean the numbers I think we shared even this quarter are indicative of this, Mark. So if you look at it, we have both the landing of the seats itself quarter over quarter that growing 60%, right? That's a pretty good healthy sign.
@@ -245,41 +211,29 @@ Contact centers being a great example. We ourselves are on course to save hundre
 And then on the Azure side, you see the numbers very clearly. In fact, I think last quarter is when we started giving you that. You saw an acceleration of that this quarter. One of the other pieces, Mark, is AI doesn't sit on its own, right? So it's just for -- we have a concept of design wins in Azure. So in fact, 50% of the folks who are using Azure AI are also using a data meter.
 That's very exciting to us because the most important thing in Azure is to win workloads in the enterprise. And that is starting to happen. And these are generational things once they get going with you. So that's, I think, how we think about it at least when I look at what's happening on our demand side.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corp - Chief Financial Officer, Executive Vice President    [11]
---------------------------------------------------------------------------------
 
           And, Mark, to answer the second half of your question on margin improvement looking different than it did through the last cloud cycle. That's primarily for a reason I've mentioned a couple of times. We have a consistent platform. So because we're building to on Azure AI stack, we don't have to have multiple infrastructure investments.
 We're making one. We're using that internally first party, and that's what we're using with customers to build on as well as ISVs. So it does, in fact, make margins start off better and obviously scale consistently.
 
---------------------------------------------------------------------------------
 Mark Moerdler,  Bernstein Research - Analyst    [12]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corp - Vice President, Investor Relations    [13]
---------------------------------------------------------------------------------
 
           Thanks, Mark. Operator, next question, please.
 
---------------------------------------------------------------------------------
 Operator    [14]
---------------------------------------------------------------------------------
 
           Kash Rangan, Goldman Sachs.
 
---------------------------------------------------------------------------------
 Kasthuri Rangan,  Goldman Sachs - Analyst    [15]
---------------------------------------------------------------------------------
 
           Hi. Thank you very much and congrats on a great year -- fiscal year ending. A question for you, Amy. When you look at the CapEx, how do you ring efficiencies out of the CapEx? You've disclosed that 50% of the infrastructure, the other 50% tech, is very useful.
 So in other words, do you have to keep growing CapEx at these elevated rates? Or could you slow down CapEx and still get that consistent revenue growth rate in your Azure and generative AI? That's the main question in my mind. Thank you so much.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corp - Chief Financial Officer, Executive Vice President    [16]
---------------------------------------------------------------------------------
 
           Thanks, Kash. That's a very good question. There's really two pieces, I think, as I heard your question that I would reflect on. The first is, could we see consistent revenue growth without maybe what you would say is more of this elevated capital expense number or something that continues to accelerate.
 And the answer to that is yes because there's two different pieces, right? You're seeing half of this go toward long-term builds that Satya mentioned, the pace at which we fill those builds with CPUs or GPUs will be demand-driven.
@@ -288,143 +242,99 @@ And so you're right that you could see relatively consistent revenue patterns an
 The other thing I would note, Kash, is you'll also notice there's a growing distinction between our CapEx number, and on occasion, the cash that we pay for PP&E and you're going to start to see that more often in this period because it happens when we use leases.
 Leases show up all at once. And so you'll see a little bit more volatility. I've mentioned it back in my comments before, but I mentioned it again just because you're starting to see that distinction in my comments and hopefully that's helpful context.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corp - Chairman of the Board, Chief Executive Officer    [17]
---------------------------------------------------------------------------------
 
           Just one other thing, Amy, if I want to add. I think as people think about capital spend, I think it's important to separate out leases from build. And when it comes to build, I think it's important for us to think about -- we think about it in terms of what's the total percentage of cost that goes into each line item, land which obviously has a very different duration and a very different lead time.
 So those are the other two considerations. We think about lead time and duration of the asset. Land, network, construction, the system or the kit, and then the ongoing cost. And so if you think about it that way, then you know how to even adjust, if you will, the capital spend based on demand signal.
 
---------------------------------------------------------------------------------
 Kasthuri Rangan,  Goldman Sachs - Analyst    [18]
---------------------------------------------------------------------------------
 
           Thank you. It was triggered by the jump in CapEx. And as Amy pointed out, you're guiding to accelerating -- Azure revenue growth rate, which, I guess, follows the CapEx surge. Thank you so much.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corp - Vice President, Investor Relations    [19]
---------------------------------------------------------------------------------
 
           Thanks, Kash. Operator, next question, please.
 
---------------------------------------------------------------------------------
 Operator    [20]
---------------------------------------------------------------------------------
 
           Brent Thill, Jefferies.
 
---------------------------------------------------------------------------------
 Brent Thill,  Jefferies - Analyst    [21]
---------------------------------------------------------------------------------
 
           Thanks. Amy, the magnitude to beat this quarter was a little lower than we've seen in the past. Was there anything unusual on sales cycle that close rate that you saw off?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corp - Chief Financial Officer, Executive Vice President    [22]
---------------------------------------------------------------------------------
 
           Thanks, Brent. Actually, no. As I was talking on the quarter, I mean commercial bookings were much better than we expected going into the quarter. Commitments were very good execution across both the core annuity renewal motion was good, as expected, the larger long-term commitments were better than we expected.
 So Brent, I would not say there was anything really unusual in how I thought about what we saw in our commercial execution through the quarter.
 
---------------------------------------------------------------------------------
 Brent Thill,  Jefferies - Analyst    [23]
---------------------------------------------------------------------------------
 
           Great. Thank you.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corp - Vice President, Investor Relations    [24]
---------------------------------------------------------------------------------
 
           Thanks, Brent. Operator, next question, please.
 
---------------------------------------------------------------------------------
 Operator    [25]
---------------------------------------------------------------------------------
 
           Karl Keirstead, UBS.
 
---------------------------------------------------------------------------------
 Karl Keirstead,  UBS - Analyst    [26]
---------------------------------------------------------------------------------
 
           Okay. Great. So maybe I'll direct this to Amy. Amy, I know when you set your Azure guidance, you're always looking to meet or beat the high end the 30% you put up in the June quarter, amazing number given the scale of Azure, but it did come in at the low end of your range.
 And I'd just love for you to maybe elaborate on the delta. I guess as I reflect on what you said in your comments, there's two things that I heard you say. One, it sounded like there's persistent capacity constraints that you think might get alleviated in the second half.
 And then, secondly, you mentioned perhaps some modest softness in Europe. I presume that's a little bit more economic rather than Azure-specific. Is that the right way to frame the performance in the quarter? Thank you.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corp - Chief Financial Officer, Executive Vice President    [27]
---------------------------------------------------------------------------------
 
           Thanks, Karl. Yes, that's exactly right. Maybe I'll just repeat it, just so people can hear it in my words as well to that 30% to 31% guide for Q4 and coming in at the lower end of 30%. You're exactly right.
 The distinguishing between being at the higher end or at the lower end, really was some softness we saw in a few European geos on non-AI consumption really made the difference in that number. And we've assumed that going forward into H1 inclusive of my guide 28% to 29% going forward.
 And then let me separate which was your larger point, which is what are the other factors you see ongoing. Number one, you're right, capacity constraints, particularly on AI and Azure will remain in Q4 and will remain in H1. So hopefully, that's helpful.
 
---------------------------------------------------------------------------------
 Karl Keirstead,  UBS - Analyst    [28]
---------------------------------------------------------------------------------
 
           Yeah. Thank you, Amy.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corp - Vice President, Investor Relations    [29]
---------------------------------------------------------------------------------
 
           Thanks, Karl. Operator, next question, please.
 
---------------------------------------------------------------------------------
 Operator    [30]
---------------------------------------------------------------------------------
 
           Brad Zelnick, Deutsche Bank.
 
---------------------------------------------------------------------------------
 Brad Zelnick,  Deutsche Bank - Analyst    [31]
---------------------------------------------------------------------------------
 
           Great. Thank you very much. Amy, with Azure demand, once again greater than available capacity, I appreciate the CapEx investments and the build-out and acceleration you expect in the back half. But as we think about cloud capacity and AI services specifically, can you talk about both the near-term and long-term strategy around the AI partnerships that you're signing with the likes of Oracle and Cohere, for example? Thank you.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corp - Chief Financial Officer, Executive Vice President    [32]
---------------------------------------------------------------------------------
 
           Thanks, Brad. Maybe separate a couple of things. We are -- and we've talked about now for quite a few quarters, we are constrained on AI capacity. And because of that, actually, we've, to your point, have signed up with third parties to help us as we are behind with some leases on AI capacity.
 We've done that with partners who are happy to help us extend the Azure platform, to be able to serve this Azure AI demand. And you do see us investing quite a bit as we've talked about in builds so that we can get back in a more balanced place.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corp - Chairman of the Board, Chief Executive Officer    [33]
---------------------------------------------------------------------------------
 
           Yes. I mean, to me, it's no different than leases that we would have done in the past. These -- even say sometimes buying from Oracle, maybe even more efficient leases because they're even shorter date.
 
---------------------------------------------------------------------------------
 Brad Zelnick,  Deutsche Bank - Analyst    [34]
---------------------------------------------------------------------------------
 
           Excellent. Thanks for the color.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corp - Vice President, Investor Relations    [35]
---------------------------------------------------------------------------------
 
           Thanks, Brad. Operator, next question, please.
 
---------------------------------------------------------------------------------
 Operator    [36]
---------------------------------------------------------------------------------
 
           Mark Murphy, JPMorgan.
 
---------------------------------------------------------------------------------
 Mark Murphy,  JPMorgan - Analyst    [37]
---------------------------------------------------------------------------------
 
           Thank you very much. With a couple of quarters of Copilot for M365 availability under your belt now, how are you assessing the capability of Copilot to replicate the productivity gains that they've created for developers, which seem to be very high and to do something similar for the broader population of knowledge workers?
 For instance, you're mentioning the 10,000 feet deals, the repeat purchases, is it possible to eventually see co-pilot penetration rate equally high in office as they will be in GitHub?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corp - Chairman of the Board, Chief Executive Officer    [38]
---------------------------------------------------------------------------------
 
           Yeah, that's a great question. In fact, the GitHub design system and the GitHub Copilot workspace design system, which now, for example, you start with an issue, you create a plan, from a plan, you create a spec, or you create a spec and from a spec, you create a plan and then you go operate across the full repo. That's effectively the design system that is getting replicated inside of even the M365 Copilot.
 And you see this even now -- for example, you get an email, you're in sales, you want to respond to the customer. The data from the email is essentially context for a prompt but you expand by bringing in all of your CRM data, right? So this customer email is in the context of some order, all of the CRM record gets completed in context and a reply gets generated with the CRM data. That's the type of stuff that's already happening.
@@ -432,34 +342,24 @@ Then you take something like Copilot Studio, you can start even grounding it in 
 And those are the kinds of workflows that are getting built within IT or by end users themselves, what used to be line of business applications to us are Copilot extensions going forward. So we think of this as really a new design system for knowledge and frontline work to drive productivity, which would be very akin to what has happened in software engineering.
 So when you think about marketing or finance or sales or customer service, we will effectively replicate what you just said, which is the type of productivity we've seen in developers, will come to all of these functions as they think about their work, workflow and workout effect, all being driven by Copilots.
 
---------------------------------------------------------------------------------
 Mark Murphy,  JPMorgan - Analyst    [39]
---------------------------------------------------------------------------------
 
           Thanks.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corp - Vice President, Investor Relations    [40]
---------------------------------------------------------------------------------
 
           Thanks, Mark. Operator, next question, please.
 
---------------------------------------------------------------------------------
 Operator    [41]
---------------------------------------------------------------------------------
 
           Keith Bachman, BMO Capital Markets.
 
---------------------------------------------------------------------------------
 Keith Bachman,  BMO Capital Markets - Analyst    [42]
---------------------------------------------------------------------------------
 
           I actually wanted to veer towards gaming, if I could, for a second. Xbox Content Services revenue grew 61%, 58 points held from Activision. So net is about 3 points of growth. How should investors think about the longer-term growth potential in this area?
 You've made significant investments, including the Activision deal. But how should investors be thinking about the growth potential of the gaming? Or what are the puts and takes to help make considerations here?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corp - Chairman of the Board, Chief Executive Officer    [43]
---------------------------------------------------------------------------------
 
           Yes. For us, our investment in gaming fundamentally was to have, I would say, the right portfolio of both what we love about gaming and always have loved about gaming, which is Xbox and the content for the console and expand from there so that we have content for everywhere people play games, starting with the PC.
 So when I think about the Activision portfolio, it comes with great assets for us to cover both the PC and the console. And then, of course, assets to cover mobile sockets, which we never have. So we feel that now we have both the content and the ability to access all the traditional high scale platforms where people play games, which is the console, PC, and mobile.
@@ -467,34 +367,24 @@ But we're also excited about these new sockets, right? I mean the fact that even
 And that ultimately will show up in that software plus services and transaction revenue for us, which is really our long-term KPI, and that's what we're building towards. And that was strategy behind Activision as an asset.
 Amy, if you want to add to it?
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corp - Chief Financial Officer, Executive Vice President    [44]
---------------------------------------------------------------------------------
 
           No, I do think the real goal here is to be able to take a broad set of content to more users in more places, and really build what looks more like to us, the software annuity and subscription business. with enhanced transactions and the ownership of IP, which is quite valuable long term.
 As Satya mentioned, things where with the ownership of IP, it can be monetized in multiple ways. And I think we're really encouraged by some of the progress and how we're making progress with Game Pass as well with some of the new announcements. Thank you, Keith.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corp - Vice President, Investor Relations    [45]
---------------------------------------------------------------------------------
 
           Thanks, Keith. That wraps up the Q&A portion of today's earnings call. Thank you for joining us today, and we look forward to speaking with all of you soon.
 
---------------------------------------------------------------------------------
 Amy Hood,  Microsoft Corp - Chief Financial Officer, Executive Vice President    [46]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corp - Chairman of the Board, Chief Executive Officer    [47]
---------------------------------------------------------------------------------
 
           Thank you all.
 
---------------------------------------------------------------------------------
 Operator    [48]
---------------------------------------------------------------------------------
 
           This concludes today's conference. You may now disconnect your lines at this time. Enjoy the rest of your day.
 
@@ -504,9 +394,7 @@ Operator    [48]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -517,9 +405,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -545,6 +431,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2024 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

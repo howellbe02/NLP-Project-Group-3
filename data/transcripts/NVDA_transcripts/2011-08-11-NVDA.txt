@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q2 2012 Nvidia Corp Earnings Conference Call
 AUGUST 11, 2011 / 9:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Rob Csongor
    NVIDIA Corporation - VP IR 
@@ -17,9 +15,7 @@ Corporate Participants
  * Karen Burns
    NVIDIA Corporation - Interim CFO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Harlan Sur
    JPMorgan - Analyst
@@ -48,24 +44,17 @@ Conference Call Participiants
  * Chris Caso
    Susquehanna Financial Group / SIG - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
            Good afternoon.  My name is Rose, and I will be your conference operator today.  At this time I would like to welcome everyone to the NVIDIA financial results conference call.  All lines have been placed on mute to prevent any background noise.  After the speakers' remarks, there will be a question-and-answer period.  (Operator Instructions).  It's now my pleasure to introduce the President and Chief Executive Officer of NVIDIA, Mr.  Jen-Hsun Huang.  Go ahead, sir. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [2]
---------------------------------------------------------------------------------
 
            Thank you.  Good afternoon and welcome to NVIDIA's conference call for the second quarter of fiscal 2012.  In addition to Karen Burns, our interim CFO, with me on the call is our new Vice President of Investor Relations, Rob Csongor.  Rob is a long-time veteran of NVIDIA and one of our original employees.  He joined our Company in 1995 and has since ran product marketing, launching our first product, NV1, was GM of our Embedded Business and in 2003 I asked him to start our Notebook GPU business.  Our Notebook GPU business is now approaching $1 billion a year and has just had a record quarter.  Over the last five years he was our VP of Corporate Marketing, responsible for many of the Company's marketing initiatives.
  I'm very excited to welcome Rob to his new role, where he will bring his knowledge of NVIDIA to serve the investor community and communicating the Company's growth strategies.  Please join me in welcoming Rob to his new job.  With that, I would like to turn the call over to Rob to begin our summary of second quarter of fiscal 2012. 
 
---------------------------------------------------------------------------------
 Rob Csongor,  NVIDIA Corporation - VP IR     [3]
---------------------------------------------------------------------------------
 
            Thank you, Jen-Hsun.  After our prepared remarks, we'll open up the call to a question and answer session.  Please limit yourself to one initial question with one follow-up question.  Before we begin, I'd like to remind you that today's call is being webcast live on NVIDIA's Investor Relations website, and is also being recorded.  A replay of the conference call will be available via telephone until August 18, 2011, and the webcast will be available for replay until our conference call to discuss our financial results for our third quarter of fiscal 2012.  The content of today's conference call is NVIDIA's property, and cannot be reproduced or transcribed without our prior written consent.
  During the course of this call, we may make forward-looking statements based on current expectations.  These forward-looking statements are subject to a number of significant risks and uncertainties and our actual results may differ materially.  For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our Form 10K for the fiscal period ended January 30, 2011 and the reports we may file from time to time on Form 8-K, filed with the Securities and Exchange Commission.  All our statements are made as of today, August 11, 2011, based on information available to us as of today, and except as required by law, we assume no obligation to update any such statements.  Unless otherwise noted, all references to market research and market share numbers throughout the call come from Mercury Research or John Petty Research.
@@ -78,9 +67,7 @@ Rob Csongor,  NVIDIA Corporation - VP IR     [3]
  In addition to new products, Tegra 2 continues to have legs, with new products launching into new regions and with new partners.  Consumers can now buy Tegra super phones on all major carriers in the US, including T-Mobile, AT&T, Verizon and Sprint.  In addition, we announced with Alibaba and [Tien Hu], the first smartphone designed by a China OEM, and the first phone offered by Alibaba.  In May, at Computex 2011 in Taipei, our Tegra 2 processor was selected for more than 400 products and awarded the prestigious Computex Best Choice Award for smart hand-held devices innovation from the Taipei Computer Association.
  Our next generation Kal-El processor had a very strong quarter of design wins, with new products launching in time for the holiday season.  In addition, our acquisition of Icera let's us expand beyond the super phone and tablet segments and address mainstream smartphones.  With these moves, we believe we are well positioned to continue our strong momentum with Tegra.  With that, let me hand the call over to Karen. 
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [4]
---------------------------------------------------------------------------------
 
            Thanks, Rob.  Revenue for the second quarter was $1.02 billion, up 5.7% sequentially.  GAAP gross margins of 51.7% was a record for the fourth consecutive quarter.  Gross margin exceeded our expectations we had at the beginning of the quarter, primarily as a result of a more favorable product mix and our GPU and TSB businesses.
  GAAP OpEx was $351.3 million, in line with our estimates as it includes $17.3 million of costs related to Icera, including costs of its ongoing operations and those related to its acquisition.  Combined, these results generated a GAAP net income of $151.6 million, or $0.25 per diluted share.  The dilutive effect of the Icera acquisition, including its results of operations and all acquisition-related costs was $0.02 per diluted share.  Consequently, net of the Icera acquisition, we achieved the high end of our outlook range for the quarter.
@@ -92,501 +79,340 @@ Karen Burns,  NVIDIA Corporation - Interim CFO    [4]
  We believe the tax rate will track near 16% for the rest of the year, resulting in an annual effective tax rate of about 15%.  This outlook includes Icera.  That concludes our prepared remarks.  We will now take questions. 
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
      (Operator Instructions).  Ladies and gentlemen your first question comes from the line of Shawn Webster of Macquarie.  Go ahead, sir. 
 
---------------------------------------------------------------------------------
 Shawn Webster,  Macquarie Research - Analyst    [2]
---------------------------------------------------------------------------------
 
      Great.  Thank you very much.  On the guidance for up 4% to 6% I was wondering if you could add some color in what you're seeing in terms of order trends, where you're seeing strength from a geographic perspective, and maybe by segment, which of the end markets do you expect to be the strongest and the weakest for you going into Q3? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [3]
---------------------------------------------------------------------------------
 
      Well, going to the first part of the quarter looks pretty good.  Bookings were strong.  We don't see anything unusual across the world, and to your question on segments, nothing unusual.  I mean, frankly, nothing unusual. 
 
---------------------------------------------------------------------------------
 Shawn Webster,  Macquarie Research - Analyst    [4]
---------------------------------------------------------------------------------
 
      Well, as far as your outlook goes, do you expect for example, your notebook or desktop GPU to be the strongest or Tesla or workstation? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [5]
---------------------------------------------------------------------------------
 
      We're expecting growth in enterprise.  We're expecting growth, which is our Quadro and our Tesla business.  We're expecting growth in our GeForce business, and we're expecting business to be steady as she goes on the Tegra business.  We're ramping new tablets and new phones introducing new tablets and new phones this coming quarter.  In Q2, we introduced 6 new phones and 5 new tablets.  Next quarter we'll introduce more and we're looking forward to those devices being successful as well. 
 
---------------------------------------------------------------------------------
 Shawn Webster,  Macquarie Research - Analyst    [6]
---------------------------------------------------------------------------------
 
      Okay, thank you, and if I might a last one.  What did graphics chip pricing in units do sequentially?  Thank you. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [7]
---------------------------------------------------------------------------------
 
      No significant change. 
 
---------------------------------------------------------------------------------
 Shawn Webster,  Macquarie Research - Analyst    [8]
---------------------------------------------------------------------------------
 
      Thanks. 
 
---------------------------------------------------------------------------------
 Operator    [9]
---------------------------------------------------------------------------------
 
      Your next question comes from the line of Hans Mosesmann of Raymond James. 
 
---------------------------------------------------------------------------------
 Hans Mosesmann,  Raymond James & Associates - Analyst    [10]
---------------------------------------------------------------------------------
 
      Thanks, Jen-Hsun, as you look at your road map with Kal-El and next year's new products and the introduction of a new Google Android Operating System, what does the competitive environment look like?  What are your customers saying and how does that all play out based on what you think your position is as you look into next year? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [11]
---------------------------------------------------------------------------------
 
      Hi, Hans.  We are now I think the only processor to be in production with shipping devices in Froyo, Gingerbread, as well as Honeycomb, and we just recently introduced and went to production with Honeycomb 3.2.  If you look at our position now, relative to a year ago at this time, we had no operating systems shipping at the time and in this business, having a stable operating system and having a full software stack translates to velocity.
  So we've made really, really large investments in the Google Operating System as you know, and we have a great working relationship with those guys.  As soon as our next generation processor, Kal-El, is ready for production, we can run like the wind, like we do in the PC industry, now that we have a full software stack ready to go. 
 
---------------------------------------------------------------------------------
 Hans Mosesmann,  Raymond James & Associates - Analyst    [12]
---------------------------------------------------------------------------------
 
      And if I can, just a quick follow-up.  28-nanometer, how does it look relative to 40-nanometer.  That was a tough industry transition, can you give comments there, thanks. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [13]
---------------------------------------------------------------------------------
 
      We are far better prepared for 28 than we were for 40, because we took it so much more seriously.  We were successful in so many different nodes for so long that we all collectively as an industry forgot how hard it is.  One of the things that we did this time around was to set up an entire organization that is dedicated to advanced nodes, and we have had many test chips run on 28-nanometer.
  We have working silicon and momentarily about to go to production with 28-nanometer, and it's looking really good.  It's looking much, much better than our experience with 40-nanometer and just -- it's just a comprehensive across-the-board engagement between TSMC and ourselves and making sure that we're ready for production ramp when the time comes so I feel really good about 28. 
 
---------------------------------------------------------------------------------
 Hans Mosesmann,  Raymond James & Associates - Analyst    [14]
---------------------------------------------------------------------------------
 
      Great.  Thank you very much. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [15]
---------------------------------------------------------------------------------
 
      Yes, thanks a lot, Hans. 
 
---------------------------------------------------------------------------------
 Operator    [16]
---------------------------------------------------------------------------------
 
      Next in queue is Raji Gill of Needham & Company. 
 
---------------------------------------------------------------------------------
 Rajvindra Gill,  Needham & Company - Analyst    [17]
---------------------------------------------------------------------------------
 
      Thanks, a question on the Tegra part of the business.  You said it held steady, but really it didn't contribute to any of the sequential growth in the CPV business.  Just wondering why that is, especially with all of the new phones and tablets that have come out in the second quarter relative to the first quarter, why wouldn't you see maybe a bigger jump in the second quarter, and also how that relates to the on the consumer side in October, should we see a seasonally down quarter on the Sony royalty business and will that be offset by Tegra in the CP business in the October quarter? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [18]
---------------------------------------------------------------------------------
 
      Well, our phone business ramped up towards the second half of Q2 and so these devices are just now going to production.  The Photon 4G was just announced, and the reviews have been fabulous, and I'm delighted to see Motorola build such a great phone.  The Samsung Galaxy R just went to production, and so those 2 phones are really wonderful phones.  The Motorola phones in China just went to production.
  Q2 probably, those devices didn't contribute very much to Q2's business.  Now as we look forward to Q3, all of these phones that are ramping up, we now have something like 53 SKUs around the world and we cover some 16 of the world's Top 20 carriers.  These devices are now just going into production.  We look forward to seeing how they do.  Our results will reflect that.
  I think that the indicator that probably makes the most sense for me to watch and for all of us to keep an eye on is just the number of phones that go to production each quarter and the number of countries and carriers that we increasingly expose ourselves to, and I think the numbers will follow. 
 
---------------------------------------------------------------------------------
 Rajvindra Gill,  Needham & Company - Analyst    [19]
---------------------------------------------------------------------------------
 
      And in the guidance you said you talked about including Icera.  Is that meaningful in terms of a revenue prospectus? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [20]
---------------------------------------------------------------------------------
 
      Not very much yet.  The Icera modem technology was just recently approved by a very large carrier for product acceptance this year and they were approved for LTE multi-mode.  Some companies have LTE modems and some companies have 3G modems.  Very few companies have LTE 3G/4G multi-mode modems.  They passed 100% of the LTE testing.
  In fact, the Icera modem is used in a large number of the 3G PP industry standards by its testing and it is the reference by which many modems are tested.  I think that business will surely be very important to us in the LTE segment.  And then a little longer term, our intention is to integrate the modem into our Tegra application processors so that we can address this segment that is very fast growing and also very large, the mainstream segment of the smartphone market. 
 
---------------------------------------------------------------------------------
 Rajvindra Gill,  Needham & Company - Analyst    [21]
---------------------------------------------------------------------------------
 
      And just last question on the going back to the Sony royalty.  Can you maybe just remind us where the seasonally strong quarters are, and the second quarter as you mentioned, does it trail-off in the third quarter and bounce back up again in the fourth quarter? 
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [22]
---------------------------------------------------------------------------------
 
      It will be sequentially up again quarter-over-quarter, Sony royalties.  Not by a lot, but typically the ramp for the game console is a ramp that just grows through Q3 as you go into Christmas/back to school, but Q3 is 1 of the strongest quarters. 
 
---------------------------------------------------------------------------------
 Rajvindra Gill,  Needham & Company - Analyst    [23]
---------------------------------------------------------------------------------
 
      Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [24]
---------------------------------------------------------------------------------
 
      You have a question from the line of Kevin Cassidy of Stifel Nicolaus. 
 
---------------------------------------------------------------------------------
 Kevin Cassidy,  Stifel Nicolaus - Analyst    [25]
---------------------------------------------------------------------------------
 
      Thanks for taking my question and congratulations. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [26]
---------------------------------------------------------------------------------
 
      Thank you. 
 
---------------------------------------------------------------------------------
 Kevin Cassidy,  Stifel Nicolaus - Analyst    [27]
---------------------------------------------------------------------------------
 
      Tesla adoption in high performance computing and data centers, would this be tied at all, is the adoption tied to world GDPs or if there's a slowing economy, do your customers get more hesitant or does it accelerate it? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [28]
---------------------------------------------------------------------------------
 
      That's a good question.  We're trying to figure it out ourselves, to be honest because it's still a relatively business as you know.  It's on its way to be a couple hundred million dollar business and more and more OEMs are adopting it, and are bringing to market just this last quarter, we introduced the M2090 module that goes into data center configurations from HP and Dell, so we're ramping that business up, but it's still very much at the moment an application driven business.
  The more applications we have ported, the greater the opportunity we will see.  I don't know that in the near term right now that it's tied to GDP or anything like that.  I just think it's just way too small of a business to be affected by the global economy.  People who are early adopters have very severe computation needs and those severe needs exist whether the economy is doing well or not.
  Probably more than anything right now, the lumpiness of the business comes from occasionally very large deals because they go into large data centers.  Those design wins and installations don't happen on a regular basis yet.  Every now and then you'll see some lumpiness.  This is a business that's still being developed. 
 
---------------------------------------------------------------------------------
 Kevin Cassidy,  Stifel Nicolaus - Analyst    [29]
---------------------------------------------------------------------------------
 
      Okay, so it's more of a technical issue you'd say right now? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [30]
---------------------------------------------------------------------------------
 
      I would say right now as an application limited business.  The more applications we have the more applications we announce, the greater the market opportunity is.  That's 1 and then number 2, it's dependent on large data center design wins. 
 
---------------------------------------------------------------------------------
 Kevin Cassidy,  Stifel Nicolaus - Analyst    [31]
---------------------------------------------------------------------------------
 
      Okay, and if I could just ask another about any competitive, any changes to the competitive landscape in this segment? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [32]
---------------------------------------------------------------------------------
 
      Well, we really are just about the only high performance computing, GPU computing processor Company today and the reason for that is because it's not just about having a chip.  It's really about having an entire software stack and developers who can help and work with software companies to optimize their software and having configurations that are designed to be server and enterprise caliber and enterprise ready.  And having OEMs that bring these products to market.  Its ecosystem is not trivial to build up and we have a very large lead on that and so we'll just have to keep getting those applications ported. 
 
---------------------------------------------------------------------------------
 Kevin Cassidy,  Stifel Nicolaus - Analyst    [33]
---------------------------------------------------------------------------------
 
      Great.  Thank you. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [34]
---------------------------------------------------------------------------------
 
      Yes.  Thanks a lot. 
 
---------------------------------------------------------------------------------
 Operator    [35]
---------------------------------------------------------------------------------
 
      Next in queue is CJ Muse of Barclays Capital. 
 
---------------------------------------------------------------------------------
 CJ Muse,  Barclays Capital - Analyst    [36]
---------------------------------------------------------------------------------
 
      Yes, good afternoon.  Thank you for taking my question.  First question, was hoping you could I guess elaborate a bit on the Tegra ramp and what you expect in the second half, whether we're on track for the $400 million-plus.  And then I guess in terms of mix, what kind of mix you see between handsets and tablets as you think about what the revenue stream would look like over the next 3, 4, 5 quarters? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [37]
---------------------------------------------------------------------------------
 
      I guess it's probably just on the mix question first, it's about 2/3 phones and 1/3 tablets, just because there's just so many phones and we now have 53 SKUs of phones that are shipping.  There will be more phones shipping next quarter and then there will be more phones shipping the quarter after that, new phones.
  Those are really the only indicators that I know, because we're pretty new to this business, CJ, and we ramped it up pretty hard.  We have a whole lot of new design wins on Tegra II, and we have a whole lot of new design wins on Kal-El.  The only thing that I can watch is how many design wins do we have and are they high quality design wins from high quality customers and OEMs.  When the phones and the devices come out, are they well positioned?
  Are they really well designed and are they well positioned as a product?  Then after that, we really don't know how to judge at the moment how well these devices will do.  In terms of, if the business is on track, I would say that the business is doing better than on track in the sense that our design win momentum is better than ever and Kal-El is going to be the world's first quad core processor.  It's so much higher performance than Tegra II, and it's so much lower power.
  Very few people have internalized that Kal-El is lower power in every use case compared to Tegra II, and so this is really a great breakthrough based on the technology we call variable SMP, variable symmetric multi-processing that makes it possible for us to achieve much higher performance where performance is needed and much lower power in almost everything that you do. 
 
---------------------------------------------------------------------------------
 CJ Muse,  Barclays Capital - Analyst    [38]
---------------------------------------------------------------------------------
 
      That's very helpful.  I guess as my follow-up, I guess curious.  If I look at the mid point of the revenue guidance, about $50 million sequentially and you talked about the Sony royalties being up again in October.  It sounds like design-win wise the Tegra ramp is coming.  Is it fair to say at least 50% of the revenue uptick is coming from the consumer products division? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [39]
---------------------------------------------------------------------------------
 
      No.  What you didn't pick up in Karen's comments was that underneath it is a chip set business that's declining.  So, our growth is actually more than a $50 million quarter to quarter in the core businesses. 
 
---------------------------------------------------------------------------------
 CJ Muse,  Barclays Capital - Analyst    [40]
---------------------------------------------------------------------------------
 
      Sure, but I guess, all right well I guess we add the decline in chip sets.  Is it fair to say 50% is coming from the consumer side or no? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [41]
---------------------------------------------------------------------------------
 
      I don't think so.  I think the numbers, our other businesses are so large in total dollar amounts, GeForce is growing, Quadro is growing, Tesla is growing and Tegra, we'll see how it goes. 
 
---------------------------------------------------------------------------------
 CJ Muse,  Barclays Capital - Analyst    [42]
---------------------------------------------------------------------------------
 
      Excellent.  Thank you. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [43]
---------------------------------------------------------------------------------
 
      Thanks a lot. 
 
---------------------------------------------------------------------------------
 Operator    [44]
---------------------------------------------------------------------------------
 
      You have a question from Harlan Sur of JPMorgan. 
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [45]
---------------------------------------------------------------------------------
 
      Hi.  Thank you for taking my question.  Along the lines of the last caller, so Jen-Hsun, you talked about enterprise for Q3.  You talked about your GPU business.  Embedded within your assumptions for the third quarter, are you guys expecting consumer to be up, down, or flat sequentially in Q3? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [46]
---------------------------------------------------------------------------------
 
      We're expecting it to be up. 
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [47]
---------------------------------------------------------------------------------
 
      Up, okay, great. 
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [48]
---------------------------------------------------------------------------------
 
      TSB will be up as well.  TSB is more significantly up. 
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [49]
---------------------------------------------------------------------------------
 
      The enterprise business? 
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [50]
---------------------------------------------------------------------------------
 
      That's right. 
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [51]
---------------------------------------------------------------------------------
 
      Okay, great, and then my follow-up questions-- 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [52]
---------------------------------------------------------------------------------
 
      From our chip business all of our businesses next quarter are expected to be up. 
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [53]
---------------------------------------------------------------------------------
 
      Okay, and then in your prepared comments, I think within consumer you had mentioned Tegra as being sort of a steady contributor in Q3.  Should we take that to mean flat growth quarter-over-quarter or how should we interpret your comments there? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [54]
---------------------------------------------------------------------------------
 
      You should interpret it as flat and we're hopeful for more. 
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [55]
---------------------------------------------------------------------------------
 
      Got it, and 1 last question.  On the new baseband business, the Icera team was sampling its 450 baseband processor and this is I believe it's a 3G chip with voice capability.  Can you just give us an update on the progress, does the team have design wins and when do you think you're going to start taking this to production?  Thank you. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [56]
---------------------------------------------------------------------------------
 
      We have design wins in smartphones from, well we have design wins in smartphones with a modem.  Our expectation is that we would have our first smartphone with Icera modem in it about the Q1 time frame of next year.  We are nearly 100% passing on voice and all the major carriers and infrastructures and we are 100% passed on LTE. 
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [57]
---------------------------------------------------------------------------------
 
      Thanks. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [58]
---------------------------------------------------------------------------------
 
      Yes.  Thanks a lot. 
 
---------------------------------------------------------------------------------
 Operator    [59]
---------------------------------------------------------------------------------
 
      Next in queue is Ambrish Srivastava from BMO. 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [60]
---------------------------------------------------------------------------------
 
      Thank you.  Jen-Hsun, good job on the graphics side, especially with the share gains and also on the attach rate, but just wanted to get your perspective on how should we think about it going forward, share gains and the attach rate given that Sandy Bridge ramp is probably going to slowdown, and then I had a follow-up for Karen as well. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [61]
---------------------------------------------------------------------------------
 
      Well if you look at the GPU business overall, over the course of the last 5 years, it grew from about 100 million consumer GPUs to 150 million this last year, we're on 150 million run rate.  My expectation is that the overall GPU business if you include the 2 pieces that we have a very large position on, that we by and large drive in the industry, and the enterprise GPU business of Quadro and Tesla.  If you combine those 2 with the consumer GPU business, the overall GPU business to us should grow faster than that, and so my sense is that the GPU business is going to continue to grow.
  Now how big is it going to be in the coming years is kind of hard to say.  It's grown 100-150 over the last 5 years and there was integrated graphics all the way along.  There was competition from Intel and A&D all the way along.  I think that is probably a good indicator.
  On top of that, we've added Quadro and Tesla as both vehicles for us in the overall GPU business.  Our expectation next quarter is to grow share and we'll come back and report it next quarter on how well we do. 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [62]
---------------------------------------------------------------------------------
 
      Okay, and before I turn to Karen, I'm assuming you're refusing to answer the $400 million to $600 million target, so we should assume that's off the table? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [63]
---------------------------------------------------------------------------------
 
      Well how, we don't guide that far out, so come Q4, I'm going to confirm or deny it. 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [64]
---------------------------------------------------------------------------------
 
      Okay, fair enough. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [65]
---------------------------------------------------------------------------------
 
      And we're only literally 2 quarters into the shipment of Tegra, and there's 2 quarters left in the year, 2 big seasons left, so we're looking forward to them. 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [66]
---------------------------------------------------------------------------------
 
      Okay.  Karen, on OpEx how should we think about, I want to make sure I understood including Icera, how should we think about OpEx versus revenue growth for the following 3 quarters? 
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [67]
---------------------------------------------------------------------------------
 
      Following which quarters? 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [68]
---------------------------------------------------------------------------------
 
      The following quarters post the1 that you're guiding to. 
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [69]
---------------------------------------------------------------------------------
 
      So, we don't guide beyond the next quarter. 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [70]
---------------------------------------------------------------------------------
 
      I understand but how should we think about it?  Icera is slightly dilutive but you also said you would be also investing for new products and then you have the Project Denver investment also ahead of you, So if you lay that against your long term target that you had laid out at the Analyst day, how should we think of the target versus that you laid out. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [71]
---------------------------------------------------------------------------------
 
      I'm not sure I understand the question myself.  We guided for next quarter and we typically guide 1 quarter out. 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [72]
---------------------------------------------------------------------------------
 
      Okay, so that's nothing beyond that? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [73]
---------------------------------------------------------------------------------
 
      Nothing regular happening beyond that. 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [74]
---------------------------------------------------------------------------------
 
      Okay, thanks. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [75]
---------------------------------------------------------------------------------
 
      Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [76]
---------------------------------------------------------------------------------
 
      You have a question from Chris Caso of Susquehanna. 
 
---------------------------------------------------------------------------------
 Chris Caso,  Susquehanna Financial Group / SIG - Analyst    [77]
---------------------------------------------------------------------------------
 
      Hi, thank you.  Just a question on the consumer products business, and I guess if we take out the Tegra business, it appears that's up fairly significantly on a year-over-year basis.  Could you give us some color on what we may be missing there or what we may have to be factoring in.
  Then if you could remind us in the consumer business again excluding Tegra, what the normal seasonality is for that business, I think it's normally seasonally down in the January quarter.  Should we model in on a sharper seasonal decline given that it's at higher levels now? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [78]
---------------------------------------------------------------------------------
 
      Embedded entertainment is expected to do well next quarter and we've had embedded entertainment businesses for quite a long time.  These are consider them slot machines or entertainment machines like that, and our embedded business is likely to continue to grow over time and the reason simply,
  The reason being that you see displays all over the world in arcades and in malls and these large displays need to have great graphics processors.  We have a full platform that is with a great operating system on top of it that embedded customers could use.  The embedded business will also grow into auto.  We've already announced that starting next year.
  Audi would be 100% NVIDIA and there will be many cars, other car companies to follow beyond that and so I think our embedded business is going to continue to grow.  We're expecting next quarter specifically to your question, next quarter we're expecting embedded entertainment to grow as well. 
 
---------------------------------------------------------------------------------
 Chris Caso,  Susquehanna Financial Group / SIG - Analyst    [79]
---------------------------------------------------------------------------------
 
      And then just moving on with respect to the notebook business, and obviously, listening to others there's been fairly cautious commentary about the notebook market in general in the second half of the year.  What's your expectation with respect to share gains?
  We also have the Mercury numbers which had you gaining some share.  Your expectations in the second half assume additional share gains of kind of additional similar magnitude, can you give us some color there? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [80]
---------------------------------------------------------------------------------
 
      We don't know what's going to happen in the second half completely until it's done.  For now our expectation is we will gain share in the second half.  How much we don't know yet and what was the other question?  The notebook market.
  We're seeing all of the same commentary that you see in notebooks and my sense is what's happening is that the netbook part of the market and the entry level part of the notebook market is probably under a lot of pressure from tablets.  In that part of the market, our contributing strategy is to build tablets processors for tablets.
@@ -594,405 +420,275 @@ Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [80]
  In terms of GPU attach rate, the GPU attach rate around the world is higher than the United States by far.  For example, in China, the attach rate is about 80% and in Europe the attach rate of GPUs in consumer PCs is about 60% some-odd, 60% to 70%.  Here in the United States the attach rate is only in the 20s and I don't know exactly why.
  Maybe it's because people have a greater sense of value outside the United States or maybe people use their PCs for more digital content.  Nonetheless the attach rate is much higher outside the United States.  As you know, the growth rate of PCs outside of the United States is higher than the United States.  I think that our GPU position for consumers and high-end notebook segments are doing quite well. 
 
---------------------------------------------------------------------------------
 Operator    [81]
---------------------------------------------------------------------------------
 
      Next in queue is Craig Berger of FBR. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR & Co. - Analyst    [82]
---------------------------------------------------------------------------------
 
      Hi, guys.  Thanks for taking my question.  I guess the first question SKU talk about inventory in the channel or at your customers.  Did it go up in the second quarter, did it go down, or any other color you can provide around channel inventories? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [83]
---------------------------------------------------------------------------------
 
      Channel inventory is slightly down and we're comfortable with the levels. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR & Co. - Analyst    [84]
---------------------------------------------------------------------------------
 
      Okay.  As a follow-up, it was sort of asked a little bit more but this baseband business Icera is obviously going to invest a lot to be active in the baseband business.  How do we think about R&D as a percentage of sales as we move out in time.  Not explicit guidance, but, how are you guys thinking about the investment profile of NVIDIA as we move forward, because I get this question a lot from investors and any color you can provide would be helpful. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [85]
---------------------------------------------------------------------------------
 
      We try very hard to invest what we can afford, and as a result, to focus our investments on things that either have extraordinary growth opportunities or something that we're really good at.  In the case of GPUs, it's something that we're very good at, and it has grown from 100 million to 150 million units over the last 5 years.
  Because it's a growth business we'll continue to invest in that.  Now ideally, our SOC business, the Tegra business in combination with Icera will start in the near future to grow faster than the R&D that we've invested in.  That's what we're looking forward to.  Hopefully, we will get to a point where we're investing R&D proportional to the growth that we're experiencing. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR & Co. - Analyst    [86]
---------------------------------------------------------------------------------
 
      Last question.  Can you just help us understand how big are the non-Intel royalties as part of your consumer business? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [87]
---------------------------------------------------------------------------------
 
      It's really hard to break out anymore because we increasingly have unified the engineering development in our Company.  We have 1 huge software organization and we have a very large VSOI design organization.  It's hard to figure out exactly which part of it is for Tegra, and which part of it is for GeForce. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR & Co. - Analyst    [88]
---------------------------------------------------------------------------------
 
      Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [89]
---------------------------------------------------------------------------------
 
      Next up is Glen Yeung from Citi. 
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [90]
---------------------------------------------------------------------------------
 
      Hi. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [91]
---------------------------------------------------------------------------------
 
      Hi, Jen-Hsun.  Just a question, if you think about all of the years you've been in the business and lacking at what we're seeing in the economy now, first of all how would you characterize your current visibility into particularly PC business.  Then secondly, if you think ahead, looking at what we're seeing in the economy, do you have incremental concern at this point or do you still feel relatively comfortable? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [92]
---------------------------------------------------------------------------------
 
      Well, the only thing, the only gauge that we have is bookings rate and bookings rate is probably about as linear as I've ever remembered it for Q2 and bookings rate continues to be solid going into Q3 and so that's really about as much indicators as we have about the quality of the quarter. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [93]
---------------------------------------------------------------------------------
 
      Okay, and then 1 other question is and I recognize that it may be hard for you to tell but can you differentiate between what is share gain on your part versus what is the overall market?  Obviously we see some softness in the PC market but we don't necessarily put in your numbers.  Is there a way to slice it to figure out which is which? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [94]
---------------------------------------------------------------------------------
 
      Talking about the PC market? 
 
---------------------------------------------------------------------------------
 Rob Csongor,  NVIDIA Corporation - VP IR     [95]
---------------------------------------------------------------------------------
 
      He's asking how do we slice it when we see some softness in the PC market.  (inaudible - microphone inaccessible).  How can we reconcile the attach rate in software and computer. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [96]
---------------------------------------------------------------------------------
 
      That's how we consolidated everything to provide guidance. 
 
---------------------------------------------------------------------------------
 Rob Csongor,  NVIDIA Corporation - VP IR     [97]
---------------------------------------------------------------------------------
 
      So, our addressable market. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [98]
---------------------------------------------------------------------------------
 
      You can answer it.  You're here too. 
 
---------------------------------------------------------------------------------
 Rob Csongor,  NVIDIA Corporation - VP IR     [99]
---------------------------------------------------------------------------------
 
      Well, I'm having a hard time understanding your question to say something smart. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [100]
---------------------------------------------------------------------------------
 
      All I want to know is how much do you think your results are share gain versus the overall market conditions. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [101]
---------------------------------------------------------------------------------
 
      Oh, we gained share in notebooks, but our desktop business was about flat share.  Our workstation business is about flat share, but then on the other hand, our market share in workstations is very high.
  Our share in Tesla is flat, but then, of course, our market share there is practically 100%.  So, the answer I guess to your question is, we gained share in notebooks and we were flat share everywhere else.  Next quarter we're expecting small gain shares and the rest of it would be coming from the market. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [102]
---------------------------------------------------------------------------------
 
      Okay, thanks. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [103]
---------------------------------------------------------------------------------
 
      Yes.  Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [104]
---------------------------------------------------------------------------------
 
      And you have a question from Uche Orjii of UBS. 
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [105]
---------------------------------------------------------------------------------
 
      Thank you very much.  Can you hear me? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [106]
---------------------------------------------------------------------------------
 
      Yes. 
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [107]
---------------------------------------------------------------------------------
 
      Let me ask you, let me start with Karen.  Karen?  On gross margins, so if I strip out the Intel payment and I get gross margins to be down on the product side almost 300 basis points, and the royalties probably calculate about $45 million.  I'm not sure whether that number is correct, but even if I put that in then product gross margins goes down even further.  So, in the quarter you've had improvements in Quadro, I'm trying to understand why product gross margins went down and how I should think about the outlook for product gross margins into the next quarter. 
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [108]
---------------------------------------------------------------------------------
 
      The quarter-over-quarter product margins, excluding Intel royalties was basically flat.  We held up very strong ASPs, strong same costs, so I'm not really sure what you're looking at other than of course Icera.  When you come into an acquisition, you have an accounting where you're going to have to basically step up your inventory to fair market value.  You aren't going to get a lot of lift from what we sold for Icera.  So there was a little bit of drag there, but NVIDIA core is stable. 
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [109]
---------------------------------------------------------------------------------
 
      So, including if you strip out the impact of royalty increase, product gross margins will be flat? 
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [110]
---------------------------------------------------------------------------------
 
      Yes. 
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [111]
---------------------------------------------------------------------------------
 
      Okay.  I'll take that offline with you.  Separate question.  If I look at the Tegra business, if I look at the Quadro business, we finally started to see some growth there, I mean, outside (inaudible) quarters.
  How sustainable do you think the improvement we're seeing now is?  How much of it is driven by the movement to Fermi and how much of it is just a lag reaction from enterprise in terms of spending and should we expect this to continue for a few more quarters?  I'm not asking to guide specifically.  I'm just trying to understand when you have conversations with your customers what are they telling you about Quadro? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [112]
---------------------------------------------------------------------------------
 
      Well Quadro has grown from several different areas.  1, you mentioned Fermi.  The Fermi GPU is just so much better than the last generation, and can do so much more and so that's 1.  The other is that people are using workstations for more and more applications.  Digital video editing is a very large market and growing, and there's just so much more digital video content being created all over the world and the third is global expansion.
  Whereas the developing countries used to be a manufacturing-oriented culture and economy, it's increasingly a design oriented economy.  In order for movies and advertisement and products to be designed in China, they need workstations to do that.  That's a really fabulous growth opportunity for us, and so we're seeing usage of workstations in more industries than ever.
  We're seeing that our GPUs can do more things.  At Cigraf, as this week we demonstrated a workstation that has the ability to not only visualize but also simulate and visualize in realtime the technology we call Maximus, Quadro Maximus.  All of these vectors are growth opportunities for workstations.  Frankly I wouldn't be surprised to see our workstation business continue to grow for many years to come and just as the world continues to become more and more of a design environment, design economy, you're going to see other countries develop capabilities and the tools such as workstations. 
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [113]
---------------------------------------------------------------------------------
 
      That's great.  And in terms of what we should expect from Icera.  I apologize if somebody asked this earlier.  I dialed in a little late, but in terms of what we should expect from Icera going forward.  Obviously you said the contribution last quarter wasn't material.  At the moment, we had top line growth going from down growth but what in terms of the road map should we be looking for.  Will the contribution next quarter be material within the guidance you gave? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [114]
---------------------------------------------------------------------------------
 
      We're not expecting much contribution from Icera next quarter either.  The real growth of Icera is going to come from 2 things.  As we launch our LTE multi-mode modems, their multi-mode modem is fabulous and its been fully tested and approved and we're looking forward to shipping them in tablets early next year, so that's 1 growth.  Just discrete high end, high speed modems where they have a really good expertise and something they've quite famous for a long time.
  The second area requires us to build a unified chip and we're in the process of doing that and that allows us to address on the low end part of the smartphone market with an integrated application processor in baseband.  That part of the marketplace is going to become quite large over the next several years.
  Analysts estimate that the mainstream smartphone market is going to grow to about a billion units by 2015 from a couple 100 million units today.  That part of the marketplace is really not well served today by anybody and we had to go and build a highly integrated version of application processor and modem to address that.  Those are 2 growth opportunities to us with respect to Icera. 
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [115]
---------------------------------------------------------------------------------
 
      Okay, thank you very much. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [116]
---------------------------------------------------------------------------------
 
      Yes.  Thanks. 
 
---------------------------------------------------------------------------------
 Operator    [117]
---------------------------------------------------------------------------------
 
      Next in queue is Daniel Berenbaum from MKM Partners. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  MKM Partners - Analyst    [118]
---------------------------------------------------------------------------------
 
      Hi, guys.  If we can come back to your comment that you're not seeing anything unusual, can you help me calibrate against normal seasonality?  Maybe my math is just off but I have that your October quarter is usually the strongest seasonal quarter.  But it seems like we're and I have an up 10% sequential number for normal seasonality and you're guiding off revenues but it seems like we're a bit light of what normal seasonality would be so can you just help me close that disconnect.  If we're not seeing anything unusual, then why is the quarter not seasonally as strong as you might expect it to be? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [119]
---------------------------------------------------------------------------------
 
      Tegra isn't growing enough to offset the decline in chip sets. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  MKM Partners - Analyst    [120]
---------------------------------------------------------------------------------
 
      So, that's it?  So, basically, can I not assume then that Tegra is growing enough to offset the chip set business?  Is it all just due to chip set business declining and if chip set business didn't decline you'd be up in the 10% range? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [121]
---------------------------------------------------------------------------------
 
      We surely would be a lot more.  We would grow a lot more. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  MKM Partners - Analyst    [122]
---------------------------------------------------------------------------------
 
      You would grow a lot more if the chip set business wasn't going away, okay.  Is there going to be anything left?  Should we model anything left of the chip set business than after the October quarter? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [123]
---------------------------------------------------------------------------------
 
      There's not much left after the October quarter. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  MKM Partners - Analyst    [124]
---------------------------------------------------------------------------------
 
      Okay, thanks and then I want to come back.  This question was asked and maybe I'll try to ask it a different way, when we look at what the OpEx model is over a long period of time, is there a way to think about where you want R&D and SG&A to be as a percentage of revenue?  Because it looks like OpEx has been creeping up a little bit as a percentage of revenue.  Should we expect it to creep down over the course of the next year? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [125]
---------------------------------------------------------------------------------
 
      Yes.  And the reason for that is because we like our -- I was trying to say it earlier.  We'd like our revenues to start contributing and the GPU business is of course growing quite nicely.  The SOC business is growing very fast but off a very small base.
  We had 0 business in Tegra practically a year ago and now it's a substantial business but even at a few 100 million dollars a year, you can't build and sustain a world-class SOC business.  At this level of play, if you want to build modern Android application processors, you've got to get that business up to $1 billion before R&D funds itself. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  MKM Partners - Analyst    [126]
---------------------------------------------------------------------------------
 
      So, then how long does that take? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [127]
---------------------------------------------------------------------------------
 
      Well I hope we can get there on a run rate basis some time next year. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  MKM Partners - Analyst    [128]
---------------------------------------------------------------------------------
 
      Okay.  Thank you. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [129]
---------------------------------------------------------------------------------
 
      We'll try to get there as soon as we can. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  MKM Partners - Analyst    [130]
---------------------------------------------------------------------------------
 
      Thank you. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [131]
---------------------------------------------------------------------------------
 
      Yes.  Thanks a lot. 
 
---------------------------------------------------------------------------------
 Operator    [132]
---------------------------------------------------------------------------------
 
      You have a question from Vivek Arya of Banc of America. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [133]
---------------------------------------------------------------------------------
 
      Thanks for taking my question.  What is your sense of sell-through on Android tablets because I think the initial response was not as good.  What is changing or can change for that segment to grow and compete to more effectively with Apple's iPad? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [134]
---------------------------------------------------------------------------------
 
      At some level, it's weird to put an injunction on a product that's not selling.  And so, it must be selling really well.  The early products, the early products had a clumsy launch and we already talked about that.  But the Android 3.1 and 3.2 are just fabulous and the Apps all followed and more and more Apps are showing up all the time.  These devices are getting better all the time.
  The Wi-Fi version came out and now they're at $399 and you've got thinner devices.  You have lighter devices and now you have 7-inch devices coming out.  You have the transformer from Asus Tech.  That's the power of an open platform like Android that you have all these great companies who are innovating around it and although it started out a little clumsy, it fixed itself very quickly.
  Now the Android devices are selling wonderfully.  I just saw the market share data and I thought it showed 30% and growing, and it looks like the Android tablets are a huge success. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [135]
---------------------------------------------------------------------------------
 
      And I think you were showing good progress on notebook GPUs.  What will it take to regain the Apple business back from AMD? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [136]
---------------------------------------------------------------------------------
 
      We have to build a great GPU that is on schedule when they want to use it.  Their rhythm is a little bit off the rhythm of the PC industry, and their cycle is a little bit off of cycle of the rest of the industry.  We have to make sure that we have the right GPU for them at the right time and we'll have a good shot. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [137]
---------------------------------------------------------------------------------
 
      So, as you look at your road map, do you think you are in sync with what they might need? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [138]
---------------------------------------------------------------------------------
 
      Well I don't have any future products to announced today. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [139]
---------------------------------------------------------------------------------
 
      Got it and just 1 last question.  I think this was asked in many different ways but if you look at operating margins, obviously you have all these new sales growth opportunities, but there was also the pressure on OpEx.  If you had to predict what an operating margin might do as we talk a year from now, do you think it would be sort of at similar levels as of today, higher or lower, any sense of that? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [140]
---------------------------------------------------------------------------------
 
      Both at its higher and the reason for that is because we like our top line to be growing faster than our investment.  This last year we had to invest in Tegra, and the Tegra investment is quite high as you can imagine.  We're building Android platforms and Windows 8 platforms and all of these new platforms require investment but we hope that our design wins will translate to revenues and I'm very bullish about Windows 8.
  I think it's going to be an amazing operating system.  Windows 8 tablets and Windows 8 clamshells that Tegra is going into I hope will translate into real growth for our Company in the second half of next year.  The answer to your question is we would like our operating margin to extend. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [141]
---------------------------------------------------------------------------------
 
      Got it and just lastly, as this new Ice Cream Sandwich release comes out from Android, do you think it puts more competitive pressure on you, because obviously, 1 of your competitors has been selected as the reference solution.  I think when you were selected as a reference solution with Honeycomb.  You obviously got a very strong head start.
  Do you see that same kind of situation develop where your competitor might be able to get that kind of head start or is the situation going to be different with this new release? 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [142]
---------------------------------------------------------------------------------
 
      We have lots of competition already and the 2, the only 2 other players that we see these days have been in the application processor business for, well since the beginning of Android, and so I don't know that they need a head start.  In terms of Google Ice Cream Sandwich, I don't have any comments on it.  If you have questions on Ice Cream Sandwich, you should ask Google but we have a great working relationship with Google.  We're working on Google Operating System tablets and phones at every phone Company and every tablet Company just about all over the world.  So, we're looking forward to the next version and we're expecting to be very successful with it. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [143]
---------------------------------------------------------------------------------
 
      Okay, thank you very much. 
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-founder, President, CEO    [144]
---------------------------------------------------------------------------------
 
      Okay.  Thanks you guys.  I'll look forward to talking to you guys at the next conference call. 
 
---------------------------------------------------------------------------------
 Operator    [145]
---------------------------------------------------------------------------------
 
      Thank you, Mr.  Huang.  Ladies and gentlemen, that concludes our conference.  You may now disconnect. 
 
@@ -1002,9 +698,7 @@ Operator    [145]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -1015,9 +709,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Thomson Reuters reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -1043,6 +735,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2019 Thomson Reuters. All Rights Reserved.
---------------------------------------------------------------------------------

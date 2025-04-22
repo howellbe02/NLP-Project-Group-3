@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q3 2022 NVIDIA Corp Earnings Call
 NOVEMBER 17, 2021 / 10:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Colette M. Kress
    NVIDIA Corporation - Executive VP & CFO
@@ -17,9 +15,7 @@ Corporate Participants
  * Simona Jankowski
    NVIDIA Corporation - VP of IR
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Vivek Arya
    BofA Securities, Research Division - Director
@@ -34,18 +30,13 @@ Conference Call Participiants
  * Christopher James Muse
    Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Good afternoon. My name is Saydie, and I will be your conference operator today. At this time, I would like to welcome everyone to the NVIDIA's third quarter earnings call. (Operator Instructions) Thank you.  
 Simona Jankowski, you may begin your conference.
 
---------------------------------------------------------------------------------
 Simona Jankowski,  NVIDIA Corporation - VP of IR    [2]
---------------------------------------------------------------------------------
 
           Thank you. Good afternoon, everyone, and welcome to NVIDIA's conference call for the third quarter of fiscal 2022. With me today from NVIDIA are Jensen Huang, President and Chief Executive Officer; and Colette Kress, Executive Vice President and Chief Financial Officer.  
 I'd like to remind you that our call is being webcast live on NVIDIA's Investor Relations website. The webcast will be available for replay until the conference call to discuss our financial results for the fourth quarter and fiscal year 2022. The content of today's call is NVIDIA's property. It can't be reproduced or transcribed without our prior written consent.  
@@ -53,9 +44,7 @@ During this call, we may make forward-looking statements based on current expect
 During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our CFO commentary, which is posted on our website.  
 With that, let me turn the call over to Colette.
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [3]
---------------------------------------------------------------------------------
 
           Thanks, Simona. Q3 was an outstanding quarter with revenue of $7.1 billion and year-on-year growth of 50%. We set records for total revenue as well as for gaming, data center and professional visualization.  
 Starting with gaming. Revenue of $3.2 billion was up 5% sequentially and up 42% from a year earlier. Demand was strong across the board. While we continue to increase desktop GPU supply, we believe channel inventories remain low.  
@@ -102,23 +91,16 @@ In closing, let me highlight upcoming events for the financial community. We wil
 With that, we will now open the call for questions. Operator, will you please poll today's questions?
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           (Operator Instructions) For our first question, we have Aaron Rakers from Wells Fargo.
 
---------------------------------------------------------------------------------
 Aaron Christopher Rakers,  Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Equity Analyst    [2]
---------------------------------------------------------------------------------
 
           Yes. Congratulations on the results. I guess I wanted to ask about Omniverse. Obviously, a lot of excitement around that. I guess the simple question is, Jensen, how do you define success in Omniverse as we look out over the next, let's call it, 12 months? And how do we think about the subscription license opportunity for Omniverse? I know you've talked about 40 million total 3D designers. I think that actually doubled what you talked about back in August. So I'm just curious of how we, as financial analysts, should start to think about that opportunity materializing?
 
---------------------------------------------------------------------------------
 Jensen Huang;Co-Founder, CEO, President & Director,   -     [3]
---------------------------------------------------------------------------------
 
           Yes. Omniverse's success will be defined by, number one, developer engagement, connections with developers around the world; two, applications being developed by enterprises; three, the connection of designers and creators among themselves. Those are the nearest term. And I would say that in my type of definition of success. 
 Near term also should be revenues. And Omniverse has real immediate applications as I demonstrated at the keynote. And I'll highlight a few of them right now. One of them, of course, is that it serves as a way to connect 3D and digital design world. Think of Adobe as a world. Think of Autodesk as a world because revenue is a world. These are design worlds in the sense that people are doing things in it, they're creating things in it, and it has its own database. 
@@ -133,22 +115,16 @@ And so those are the immediate tangible opportunities for us, and I demonstrated
 First of all is to do the [bracket]. Second is physics simulation because we're talking about things in a world that has to be believable so it has to obey the laws of physics. And then third is artificial intelligence, as I've demonstrated in several stages now. And all of it runs on top of an Omniverse computer that has to do not just AI, not just physics, not just computer graphics, but all of it. 
 And so what long term people -- why people are so excited about it is at the highest level, what it basically means is that long term, when we engage with Internet, which is largely 2D today, long term, every query would be 3D. And instead of just querying information, we would query and interact with people and avatars and things, places, and all of these things are in 3D. So hopefully, one of these days, that we will try to realize it as fast as we can. Every transaction that goes over the Internet touches a GPU. And today, that's a very small percentage, but hopefully, one of these days it will be a very, very high percentage. I hope that's helpful.
 
---------------------------------------------------------------------------------
 Operator    [4]
---------------------------------------------------------------------------------
 
           For our next question, we have Mark Lipacis from Jefferies. Mark?
 
---------------------------------------------------------------------------------
 Mark John Lipacis,  Jefferies LLC, Research Division - MD & Senior Equity Research Analyst    [5]
---------------------------------------------------------------------------------
 
           Jensen, it seems like every year, there seems to be a new set of demand drivers for your accelerated processing ecosystem. There's gaming, then neural networking and AI and the blockchain and the ray tracing. And then like 5 or 6 years ago, you guys showed a bunch of virtual reality demos, which were really exciting at your Analyst Day. Excitement died down. Now it seems to be resurfacing, particularly with Omniverse Avatar capability and Facebook shining light on the opportunities. 
 So the 2 questions from that are, how close is your Omniverse Avatar to morphing into like a mass market technology that everybody uses daily? You can talk about like -- you said that everybody is going to be a gamer, everybody going to be an Omniverse Avatar user. And maybe the bigger picture is, is it reasonable to think about a new killer app coming out every year? Is there a parallel that we should think about with previous computing markets that we could think about for the computing era that we're entering right now?
 
---------------------------------------------------------------------------------
 Jensen Huang;Co-Founder, CEO, President & Director,   -     [6]
---------------------------------------------------------------------------------
 
           I really appreciate that. Chips are enablers, but chips don't create markets. Software creates markets. I've explained over the years that accelerated computing is very different than general purpose computing. And the reason for that is because you can't just write a C compiler and compile quantum physics into a chip when it doesn't. You can't just compile showing your situation and have it distributed across multiple GPUs and multiple nodes and have it (inaudible). You just -- you can't do that for computer graphics. You can't do that for artificial intelligence. You can't do that for robotics. You can't do that for most of the interesting applications in the world. 
 And because we really went out of theme with GPUs, that people are saying that not because it's not true, it's abundantly clear that the amount in instructional parallels will then be squeezed out of a system is, although not 0, is incredibly hard. It's just incredibly hard. And there's another approach. And we've been advocating accelerated computing for some time, and now people really see the benefit of it. But it does require a lot of work. And the work basically says for every domain, for every application, we have -- for every application in a large domain ideally, you have to have a full stack. And so whenever you want to open a new market by accelerating those applications or the domain of applications, you have to come up with a new stack. 
@@ -162,22 +138,16 @@ And now -- then you asked the question, how quickly will we deploy this? I belie
 And so anyway, I think what you highlighted is, one, accelerating computing is a full-stack challenge; two, it takes software to open new markets. Chips won't open new markets. If you build another chip, you can steal somebody's share, but you can't open new markets. And it takes software to open new markets, and we have switched with software. And that's one of the reasons why we could engage such large market opportunity. 
 And then lastly, with respect to Omniverse, I believe it's a near-term opportunity that we've been working on for some 3, 4, 5 years.
 
---------------------------------------------------------------------------------
 Operator    [7]
---------------------------------------------------------------------------------
 
           For our next question, we have C.J. Muse from Evercore ISI.
 
---------------------------------------------------------------------------------
 Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [8]
---------------------------------------------------------------------------------
 
           Yes. And I guess, not an Omniverse question, but I guess, Jensen, I'd like your commitment that you will not use Omniverse to target the sell-side research industry. 
 But as my real question, can you speak to your data center visibility into 2022 and beyond? And within this outlook, can you talk to traditional cloud versus industry verticals? And then perhaps emerging opportunities like Omniverse and others. Would love to get a sense of kind of what you're seeing today. And then as part of that, how you're planning to secure foundry and other supply to support that growth.
 
---------------------------------------------------------------------------------
 Jensen Huang;Co-Founder, CEO, President & Director,   -     [9]
---------------------------------------------------------------------------------
 
           Thank you, C.J. First of all, we have secured guaranteed supply, very large amounts of it, quite a spectacular amount of it from the world's leading foundry and substrate in packaging and testing companies that are integral part of our supply chain. And so we have done that and feel very good about our supply situation, particularly starting in the second half of next year and going forward. 
 I think this whole last year was a wake-up call for everybody to be much more mindful about not taking the supply chain for granted. And we were fortunate to have such great partners. But nonetheless, we've secured this with our future. 
@@ -194,49 +164,35 @@ So back to your original question. I think this year has been quite a big year f
 And then finally, our brand-new workload, which is built on top of AI and graphics and simulation, which is Omniverse. And you saw the examples that I gave. These are real companies doing real work. And one of the areas that is -- has severe shortages around the world is customer support. Just genuine severe shortages all over the world. And we think the answer is Omniverse Avatar, and it runs in data centers. You could adapt Omniverse Avatar to do drive-throughs or retail check-out or customer service. And I've demonstrated that with Tokkio, a talking kiosk. You can use it for a teleoperated customer service, and we've demonstrated that with [Maxine]. We've demonstrated how you can use it even for videoconferencing. 
 And then lastly, we demonstrated how we can use Omniverse Avatar for robotics, and for example, to create a concierge, what we call DRIVE Concierge for your car, turning it into an intelligent, it's like your customer support, intelligent agent. That's why I think Omniverse Avatar is going to be a really exciting driver for enterprises next year. So next year, NVIDIA is going to be -- we're seeing up a pretty, pretty terrific year for [Omniverse].
 
---------------------------------------------------------------------------------
 Operator    [10]
---------------------------------------------------------------------------------
 
           For our next question, we have Stacy Rasgon from Bernstein Research.
 
---------------------------------------------------------------------------------
 Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [11]
---------------------------------------------------------------------------------
 
           I wanted to ask 2 of them on data center, both near term and then maybe a little longer term. On the near-term, Colette, you've suggested guidance into Q4 will be driven by data center and gaming. And you mentioned data center first. Does that mean that it's bigger? And if you could just help us like parse the contribution of each into Q4? 
 And then into next year, given the commentary for the last question. Again, it sounds like you've got like a very strong outlook for data center, both from hyperscale and enterprise. And if I look at sort of the implied guidance, we give our data center for you is probably likely to grow 50% year-over-year in this fiscal year. Would it be crazy to think given all those drivers that it could grow by a similar amount next year as well? Like how should we be thinking about that given all of the drivers that you've been laying out?
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [12]
---------------------------------------------------------------------------------
 
           Okay. Thanks, Stacy, for the question. Let's first focus in terms of our guidance for Q4 or statements that we made were, yes, about driven by revenue growth from data center and gaming sequentially. We could probably expect our data center to grow faster than our gaming probably both in terms of percentage-wise and absolute dollars. We also expect our key product to decline quarter-on-quarter to very negligible levels in Q4. So I hope that gives you a color on Q4. 
 Now in terms of next year, we'll certainly turn the corner into the new fiscal year. We certainly provide guidance one quarter out. We've given some great discussion here about the opportunities in front of us, opportunities with the hyperscales, the opportunities with the verticals, Omniverse is a full-stack opportunity in front of us. We are securing supply for next year not just for the current year in Q4 to allow us to really grow into so much of this opportunity going forward. But at this time, we're going to wait until next year to provide guidance.
 
---------------------------------------------------------------------------------
 Operator    [13]
---------------------------------------------------------------------------------
 
           For the next question, we have Vivek Arya from BofA Securities.
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Securities, Research Division - Director    [14]
---------------------------------------------------------------------------------
 
           Actually, I had 2 quick ones, Jensen. So Colette, you suggested the inventory purchase and supply agreements are up, I think, almost 68% year-on-year. Does that provide some directional correlation with how you are preparing for growth over the next 12 to 24 months? So that's one question. 
 And then the bigger question, Jensen, that I have for you is, where are we in the AI adoption cycle? What percentage of servers are accelerated in hyperscale and vertical industry today? And where can those ratios get to?
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [15]
---------------------------------------------------------------------------------
 
           Thanks for the question. So let's first start in terms of supply or our supply purchase agreements. You have noted that we are discussing that we have made payments towards some of those commitments. Not only are we procuring for what we need in the quarter, what we need next year. And again, we are planning for growth next year, so we have been planning that supply purchases, we are also doing long-term supply purchases. These are areas of capacity agreements and/or many of our different suppliers. 
 We made a payment within this quarter of approximately $1.6 billion out of total long-term capacity agreements of about $3.4 billion. So we still have more payments to make, and we will likely continue to be purchasing longer term to support our growth that we are planning for many years to come.
 
---------------------------------------------------------------------------------
 Jensen Huang;Co-Founder, CEO, President & Director,   -     [16]
---------------------------------------------------------------------------------
 
           Every single server will be GPU-accelerated some day. Today, of all the clouds and all the enterprise, less than 10%. That kind of gives you a sense of where you are. 
 In terms of the workloads, it's also consistent with that in the sense that a lot of the workloads still only run on GPUs, which is the reason why in order for us to grow, we have to be a full-stack company. And we have to go find applications. We don't have to find them, we have plenty of them. Focus on applications that require acceleration or benefits tremendously from acceleration that if they were to get a million x speedup, which sounds insane, but it's not. Mathematically, I can prove it to you. And historically, I can even demonstrate to you that in many, many areas, we have seen knowing their speedups and have completely revolutionized those industries. Computer graphics is, of course, one of them. Omniverse would not be possible without. 
@@ -247,35 +203,25 @@ One of the ones that I was very excited about and something that we've been work
 And then we see that with mechanical CAD and traditional CAD application. Now also jumping on to GPU acceleration. And again, very significant speedups. And so I'm super excited about the work that we're doing in each one of these domains because every time you do it, you open up a brand-new market. And customers who have never used them (inaudible), now can because ultimately people don't buy chips. They're trying to solve problems. 
 And without a full fact, without software expertise, we can't really commence the enabling technology, what the chip provides, and ultimately resolving the question for me.
 
---------------------------------------------------------------------------------
 Operator    [17]
---------------------------------------------------------------------------------
 
           Your final question comes from the line of Timothy Arcuri from UBS.
 
---------------------------------------------------------------------------------
 Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [18]
---------------------------------------------------------------------------------
 
           Colette, I had a question about gross margin. Are there any margin headwinds maybe on the wafer pricing side that we should sort of think about normalizing out because gross margin is pretty flat between fiscal Q4 to fiscal -- sorry, between fiscal Q2 and fiscal Q4. But I imagine that's kind of masking a strong underlying margin growth, especially as data center has been actually driving that growth. So I'm wondering if maybe there are some underlying factors that are sort of gaining gross margin.
 
---------------------------------------------------------------------------------
 Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [19]
---------------------------------------------------------------------------------
 
           Yes. So we have always been working on our gross margin and being able to absorb a lot of the cost changes along the way, architecture-to-architecture, year-to-year. So that's always baked in to our gross margins. 
 Our gross margins right now are largely stable. Our incremental revenue, for example, what we're expecting next quarter will likely align to our current gross margin levels that we finished in terms of Q3. Our largest driver always continues to be mix. We have a lot of different mix that has vision related to high-end AR and RTX solutions, for example, and the software that's embedded in solutions have allowed us to increase the gross margin.
 As we look forward, long term, software is sold separately. It can be another damper of gross margin increases in the future. But cost changes, cost increases have generally been a part of our gross margin for years.
 
---------------------------------------------------------------------------------
 Operator    [20]
---------------------------------------------------------------------------------
 
           I will now turn the call over back to Jensen Huang for closing remarks.
 
---------------------------------------------------------------------------------
 Jensen Huang;Co-Founder, CEO, President & Director,   -     [21]
---------------------------------------------------------------------------------
 
           Thank you. We had an outstanding quarter. Demand for NVIDIA AI is strong, with hyperscalers and cloud services deploying at scale and enterprises broadening adoption. We now count more than 25,000 companies that are using NVIDIA AI. And with NVIDIA AI Enterprise Software Suite, our collaboration with VMware and our collaboration with Equinix to place NVIDIA LaunchPads across the world, every enterprise has an easy on-ramp to NVIDIA AI. Gaming and pro viz are surging. RTX opportunity continues to expand with the growing markets of gamers, creators, designers and now, professionals building home workstations. 
 We are working hard to increase supply for the overwhelming demand this holiday season. Last week, GTC showcased the expanding universe of NVIDIA-accelerated computing. In combination with AI and data-center-scale computing, the model we pioneered is on the cusp of producing million x speedups that will revolutionize many important fields, already, AI, and upcoming, robotics, digital biology and what I hope, climate science. 
@@ -284,22 +230,16 @@ We also showed how software opens new growth opportunities for us, but the chips
 One of the major themes of this GTC was Omniverse, our simulation platform for virtual worlds and digital tools. Our body of work and expertise in graphics, physics simulation, AI, robotics, and full stack computing made Omniverse possible. 
 At GTC, we showed how Omniverse is used to reinvent collaborative design, customer service avatars and video conferences and digital twins of factories, processing plants and even entire cities. This is just the tip of the iceberg of what's to come. We look forward to updating you on our progress next quarter. Thank you.
 
---------------------------------------------------------------------------------
 Operator    [22]
---------------------------------------------------------------------------------
 
           I will now turn it over to Jensen for closing remarks.
 
---------------------------------------------------------------------------------
 Simona Jankowski,  NVIDIA Corporation - VP of IR    [23]
---------------------------------------------------------------------------------
 
           Well, I think we just heard the closing remarks. Thank you so much for joining us. We look forward to seeing everybody at the conferences that we have planned over the next 2 months, and I'm sure we'll talk before the end of next earnings. 
 Thanks again, everybody.
 
---------------------------------------------------------------------------------
 Operator    [24]
---------------------------------------------------------------------------------
 
           This concludes today's conference call. Thank you all for participating. You may now disconnect.
 
@@ -309,9 +249,7 @@ Operator    [24]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -322,9 +260,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -350,6 +286,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2021 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q3 2015 Alphabet Inc Earnings Call
 OCTOBER 22, 2015 / 8:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Ellen West
    Alphabet Inc. - VP of IR
@@ -17,9 +15,7 @@ Corporate Participants
  * Sundar Pichai
    Alphabet Inc. - CEO of Google Inc.
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Ken Sena
    Evercore ISI - Analyst
@@ -50,19 +46,14 @@ Conference Call Participiants
  * Heather Bellini
    Goldman Sachs - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Good day, ladies and gentlemen, and welcome to the Alphabet Inc. third-quarter 2015 earnings conference call.
 (Operator Instructions)
 As a reminder this call is being recorded. I would now like to introduce your host for today's conference, Ellen West, Vice President Investor Relations. Please go ahead.
 
---------------------------------------------------------------------------------
 Ellen West,  Alphabet Inc. - VP of IR    [2]
---------------------------------------------------------------------------------
 
           Thank you. Good afternoon, everyone, and welcome to Alphabet's conference call on Google's third-quarter 2015 earnings. With us today are Ruth Porat and Sundar Pichai.
 As you know, we distribute our earnings release through our investor relations website located at investor.google.com. Please refer to our IR website for our earnings releases as well as the supplementary slides that accompany the call. This call is also being webcast from investor.google.com. A replay of the call will be available on our website later today.
@@ -71,9 +62,7 @@ For more information, please refer to the risk factors discussed in our form 10-
 During this call we will present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release. The press release and an accompanying investor presentation are available on our website at investor.google.com.
 And now I'll turn the call over to Ruth.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [3]
---------------------------------------------------------------------------------
 
           Thanks, Ellen. We turned in a strong performance in the third quarter, notwithstanding continued meaningful currency headwinds. The key highlight this quarter was the substantial growth of our mobile search revenue, complemented by ongoing strong contributions from YouTube and our programmatic business.
 I will first give you a summary of the quarter followed by specific financial details, and conclude with comments regarding our upcoming move to segment reporting. Sundar will then review the business and product highlights of the quarter, after which we will take your questions.
@@ -102,9 +91,7 @@ Third, as to CapEx the vast majority to date, of course, has been to support Goo
 Fourth, our growing cash balance remains a powerful tool, giving us the flexibility to invest in the breadth of opportunities we have within Google and Other Bets, as well as to selectively pursue compelling new bets.
 I will now turn the call over to Sundar, who will go into more detail regarding our business trends and products.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [4]
---------------------------------------------------------------------------------
 
           Thanks, Ruth. I'm glad to be here with you all today to talk about the areas we are focused on, now and in the future at Google. There's a real sense of energy and focus throughout the Company and we are seeing momentum across our businesses.
 Products like Search, Android, Maps, Chrome and YouTube each have over 1 billion users already, and Google Play crossed that milestone this quarter, as well. But what's most exciting is that we are just beginning to scratch the surface.
@@ -138,32 +125,23 @@ Our momentum in the education space continues, as well, with more than 50 millio
 So, to wrap up, we have tremendous new opportunities in our new and existing businesses, we are really excited by the products and platforms that we are building for people everywhere in the world, and we are passionate about the transformative power of computing to improve people's lives in the years ahead.
 Thank you to everyone for your keen interest in our business. And thank you to all of the Googlers around the word for another great quarter. And with that, I will hand it back to Ruth.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [5]
---------------------------------------------------------------------------------
 
           Thank you, Sundar. And we will now take your questions.
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           (Operator Instructions)
 Mark Mahaney from RBC Capital Markets
 
---------------------------------------------------------------------------------
 Mark Mahaney,  RBC Capital Markets - Analyst    [2]
---------------------------------------------------------------------------------
 
           Great, thanks. Two questions. Could you talk about the sustainability of the mobile search revenue growth that you see there? And is that just really being driven by finally the gapping up of mobile search pricing versus desktop pricing, or is there something else going on?
 And then, Ruth, I was just trying to figure how you came up with that you're repurchase number, and I've been Googling that number a couple of times, I can see it's 26 to the e-18th of the square root of that. But outside of that, how did you come up with that particular amount of share buyback? Why not more? Why not less? Thanks.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [3]
---------------------------------------------------------------------------------
 
           Thanks, Mark. Starting on the sustainability of mobile revenue growth, as I said in my opening comments revenue growth really reflects continued improvement in ad formats and delivery. And that's on top of what's a really strong industry-wide global growth in mobile usage, as you know well.
 And then we regularly adjust the way we present ads. So, we expanded ad space in some queries with particularly high commercial intent to display more relevant, mobile-friendly ads. Our view is, just as we saw consumer behavior change on desktop, we are seeing the same on mobile. And as Sundar said, we continue to believe we are in very early innings here.
@@ -171,396 +149,274 @@ And then in terms of sizing, this is the way we approached it. If I take you bac
 But these opportunities also require investment. So, the focus of our team is on prioritizing these opportunities over a multi-year period. We look out, as we are modeling that out, a number of years. And then working with the Board we reviewed our outlook, we reviewed the opportunity set, and we concluded that layering in this action at this time complements what we view as a very disciplined budgeting process while still, very importantly, providing ample capacity to pursue the growth agenda.
 And then applying this framework, once we had come up with a size that we believed fits, and consistent with the way we do things around here, we decided to come up with some fun math, similar to the way we approached sizing the IPO. It sounds like you backed right into what that was. We do view it as the right action at the right time and it really is anchored in the framework.
 
---------------------------------------------------------------------------------
 Mark Mahaney,  RBC Capital Markets - Analyst    [4]
---------------------------------------------------------------------------------
 
           Thanks, Ruth.
 
---------------------------------------------------------------------------------
 Operator    [5]
---------------------------------------------------------------------------------
 
           Ross Sandler, Deutsche Bank.
 
---------------------------------------------------------------------------------
 Ross Sandler,  Deutsche Bank - Analyst    [6]
---------------------------------------------------------------------------------
 
           Thanks. I had one for Ruth and one for Sundar. Ruth, back to the mobile search question, the bear caseon Google has been the Company's ability, or lack thereof, to port the search business model from PC over to mobile. And you called out that mobile search is the key driver of acceleration in both the US and the UK. So, can you just give us a little bit more color around the volume trends you're seeing between desktop and mobile as you cross that 50% threshold that you talked about last quarter?
 And then, Sundar, on the platform side, it seems like every few years new companies crop up as the next big Android OEM. It looks like it's Huawei now. It's been other companies in the past. How do you plan on getting Android to a point where all these OEMs can build successful businesses on the back of it? And any update on when Google plans to rollout the Play store in China would be helpful. Thank you
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [7]
---------------------------------------------------------------------------------
 
           Starting with mobile and our outlook there, clearly, as I said, mobile search revenue is up significantly, and it was an important catalyst in the quarter. But the very important thing to note, as we discussed also last quarter, is that desktop remains a solid contributor. So, we continue to have healthy growth there.
 When we look, if you step back, over all Sites revenue we're firing on all cylinders. Really strong growth in mobile. Desktop's healthy and continuing to grow. And then you layer on top of it YouTube and some of the color that Sundar added there. That's really a continuation of what we talked about last quarter, as well.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [8]
---------------------------------------------------------------------------------
 
           On the platform side, we continue to see tremendous momentum overall on Android. In just over a year we've gone from 1 billion to 1.4 billion users. So, obviously that translates into huge opportunities for OEMs and that's what we are seeing. Especially, there are whole new markets opening up. There's the next billion users coming online in emerging markets, and businesses, enterprises, a whole opportunity for OEMs, as well. So, I think there's a lot of room ahead.
 
---------------------------------------------------------------------------------
 Operator    [9]
---------------------------------------------------------------------------------
 
           Carlos Kirjner, Bernstein.
 
---------------------------------------------------------------------------------
 Carlos Kirjner,  Sanford C. Bernstein & Co. - Analyst    [10]
---------------------------------------------------------------------------------
 
           Thank you. I have two questions, one for Sundar and one for Ruth. Sundar, in two parts -- if you take a three-year view what are the three main milestones you think you need to reach to be successful as Google's CEO? And what do you think would be the extent of your observable consequences of achieving these milestones?
 And, Ruth, in the last call you talked about the 70-20-10 framework. Can you help us understand what the 70-20-10 applies to. Is it related to operating expenses, how expenses and costs in the P&L, CapEx, R&D, management time. And is it an explicit constraint to the budgeting process? Or am I trying to read too much into something that's just a conceptual framework and a broad guideline? Thank you
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [11]
---------------------------------------------------------------------------------
 
           Thanks, Carlos. In terms of how I think about it, I think we are fortunate to have an incredibly broad mission statement. Organizing the world's information turns out to be something that has a lot of room ahead. We are still in the early days. Especially with mobile, I think you have a computing platform that's going to reach -- it's already reached -- half the world's population, or on its way to reach the entirety of the human population in about 5 to 10 years.
 So, want to stay focused on that, both from an information standpoint and a computing standpoint -- I think of them as two sides of the same coin -- and making sure we are building the right user experience for that. So, that's what I'm focused on.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [12]
---------------------------------------------------------------------------------
 
           And then on 70-20-10, it's intended to be instructive and it's intended to mirror the founders' vision and really capture how we devote our resources, which for us means how do we apply effort. For me, one of the many very important statements from the founders that explains this framework is when they said in the letter years ago and repeated since, incrementalism in technology leads to irrelevance, and thus innovation is critical.
 This mantra is really about pushing people to look at new areas, invest in newer areas, look for things that are adjacent -- the 20% - and even the unrelated big bets -- the 10%. It's not intended to be a specific guide to financial modeling -- I think with our move to segment reporting we look forward to giving you more information next quarter, which should be helpful there -- but directionally to talk about philosophically how do we think about our approach to the business.
 
---------------------------------------------------------------------------------
 Carlos Kirjner,  Sanford C. Bernstein & Co. - Analyst    [13]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Operator    [14]
---------------------------------------------------------------------------------
 
           Heather Bellini, Goldman Sachs.
 
---------------------------------------------------------------------------------
 Heather Bellini,  Goldman Sachs - Analyst    [15]
---------------------------------------------------------------------------------
 
           Great, thank you very much. This question is for Ruth. I was just wondering, given you're likely in the midst of 2016 business planning right now, can you share with us the way in which you're approaching budgeting versus maybe how it was done last year? And are there any specifics you can share with us in terms of how you're thinking about it? Thank you
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [16]
---------------------------------------------------------------------------------
 
           A couple of things. There's been a very strong foundation here on budgeting and the approach and setting an envelope and working very closely with business leaders on what that envelope should be. And we are in the midst of it, as I said last quarter. But emphasize, our priority remains revenue growth and that doesn't give us a pass on a rigorous approach to expense growth. That's where we're focused.
 I think, really, what was very encouraging for me is there's a framework, a very strong approach to financial planning and analysis, and really building on that to make sure we have reasonable but tight envelopes so that we can have the right conversations collectively, collaboratively with our business leaders to assess how we can look at optimizing all of our resources. And that's what it really comes down to. It's looking at how to manage the rate of growth of expenses while still supporting our growth initiatives. And we'll be going into more of that as we go through our segment reporting in the fourth quarter.
 
---------------------------------------------------------------------------------
 Heather Bellini,  Goldman Sachs - Analyst    [17]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Operator    [18]
---------------------------------------------------------------------------------
 
           Brian Nowak, Morgan Stanley.
 
---------------------------------------------------------------------------------
 Brian Nowak,  Morgan Stanley - Analyst    [19]
---------------------------------------------------------------------------------
 
           Thanks for taking my questions. I have one on YouTube. Could you just talk to some of the qualitative drivers that are really bringing more advertising dollars onto YouTube? And then I think last quarter you mentioned the top 100 advertisers' spend was up 60% year on year on YouTube. I wonder if you could update us on that.
 And the second one on search, it sounds like mobile is accelerating. Where are you now in the mobile versus desktop monetization gap? And, Sundar, how do you think about that long term? Do you see mobile being higher? Reaching equilibrium? How do you see that trending?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [20]
---------------------------------------------------------------------------------
 
           On the YouTube one, the shift to video is a profound medium shift, and especially in the context of mobile. And obviously users are following that. You're seeing in YouTube as elsewhere in mobile. So, advertisers are being increasingly conscious. They're being very responsive. So, we are seeing great traction there and we'll continue to see that. They are moving more of their traditional budgets to YouTube and that's where we're getting traction.
 On mobile search, to me increasingly we see, we already announced that over 50% of our searches are on mobile. Mobile gives us very unique opportunities in terms of better understanding users. And over time, as we use things like machine learning, I think we can make great strides. My long-term view on this is it is as compelling or, in fact, even better than desktop, but it will take us time to get there and we are going to be focused until we get there.
 
---------------------------------------------------------------------------------
 Brian Nowak,  Morgan Stanley - Analyst    [21]
---------------------------------------------------------------------------------
 
           Thanks.
 
---------------------------------------------------------------------------------
 Operator    [22]
---------------------------------------------------------------------------------
 
           Eric Sheridan, UBS.
 
---------------------------------------------------------------------------------
 Eric Sheridan,  UBS - Analyst    [23]
---------------------------------------------------------------------------------
 
           Thanks for taking the question. Maybe a big picture question with respect to media distribution, media consumption, and monetizing that usage across all the platforms that you distribute media. I'm curious about the various business models you've now put in front of consumers -- subscription versus advertising versus pay per unit like on Google Play -- how you think about the pros and cons of some of those distribution models, and how you think about the need to maybe source content yourself for media distribution. Thanks.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [24]
---------------------------------------------------------------------------------
 
           Thanks. To me, we want to stay focused on the user experience and we want to follow what users want. So, if you take something like YouTube, we expect most users to consume YouTube the way it has been, and advertising has been a strong part of providing that content for free to those users, and it's growing very well. But we also see a need for certain users in certain scenarios, be it music or gaming or for premium content, to experience it in a different way. And we want to make sure we do that. So, we don't have a prescriptive opinion on this as much as we will provide the right user experience and follow where it goes. And that applies to Google Play, as well.
 
---------------------------------------------------------------------------------
 Operator    [25]
---------------------------------------------------------------------------------
 
           Justin Post, Bank of America Merrill Lynch.
 
---------------------------------------------------------------------------------
 Justin Post,  BofA Merrill Lynch - Analyst    [26]
---------------------------------------------------------------------------------
 
           Thank you. Two things. Ruth, it really does seem like there's been a change in the management philosophy this year as far as expense discipline in Q2. Also have seen the disclosures and now you have the buyback announcement. Could you talk about the change there, if there has been one, and how you think about that.
 And then the second thing, we are pretty focused on the cloud over here. Google, we don't have a number, it's in your other revenues. But Amazon's probably $8 billion-plus run rate, Microsoft over $1.5 billion. Just wondering if you can give us any thoughts on your cloud strategy and how you're thinking about using those really strong data center assets. Thank you.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [27]
---------------------------------------------------------------------------------
 
           A couple of things. On expenses and expense management, and clearly a lot of the foundation here was laid some time ago. I think after a period of big expense build up, there was an appreciation that we needed to manage the cadence of spend. And that's what we're doing. Collectively we are locked arm in arm to make sure that there's resource prioritization. I think that's an important part of it. We have an extraordinary set of opportunities, not just within Google but across the Alphabet businesses, and we need to ensure that prioritization is a key part of all that we do.
 I would note that when you're looking at some of the expenses -- operating expenses, as an example -- when we look forward to the fourth quarter, in particular, given the hardware launches that we've done here, with the Nexus, Chromecast and Pixel launches, consistent with prior device launches, we would expect higher sales and marketing. And I realize I'm getting a little more specific than your question but I think it's very important to note that there are also certain patterns to some of these.
 Similarly with CapEx. CapEx has been a bit more muted here. And I indicated last quarter that we are in a bit of a digestion period. But when you look forward to 2016, we do see accelerated investment given the nature of the businesses that we are building up here. So, I want to also just make sure we keep things in perspective.
 I think it's been an extraordinary experience joining this team. I think with the move to Alphabet it gives us the opportunity to then provide some greater insight into the extraordinary operating performance within Google, and break out so you can see the investments that we are doing. And we're working very tightly as a senior team here as we make that next step into this new environment in Alphabet.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [28]
---------------------------------------------------------------------------------
 
           On the cloud side, as you observed, it's an exceptional opportunity, I think. It just reflects a secular shift. Every business in the world is going to run on cloud eventually. So, we view it as an amazing opportunity.
 we are uniquely qualified to do so. As you pointed out, we have tremendous experiences in running large-scale cloud services. And it's been only in the past two years in earnest we've been taking those assets and serving customers outside. For me, what's exciting is, as I look at new customer adoptions, we're seeing tremendous momentum. We are very competitive in each of those situations. And we are investing a lot and playing for the long term.
 
---------------------------------------------------------------------------------
 Operator    [29]
---------------------------------------------------------------------------------
 
           Douglas Anmuth, JPMorgan.
 
---------------------------------------------------------------------------------
 Douglas Anmuth,  JPMorgan - Analyst    [30]
---------------------------------------------------------------------------------
 
           Thanks for taking the question. Sundar, I wanted to ask about mobile. You talked about it being greater than 50% of queries. And wanted to ask if you have a view on when that will pass 50% of clicks. And then also your thoughts on what happens to desktop pricing and demand as that happens. How do you think about the tail on the desktop business as mobile just continues to take share? Thanks.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [31]
---------------------------------------------------------------------------------
 
           The interesting thing we are seeing is, when we talk about mobile, mobile as a computing paradigm is eventually going to blend with what we think of as desktop today, as well. So, overall it's a shift in a computing paradigm, so it's not just form factors. So, over time we see all of this as together.
 What matters to us is, as people evolve their computing paradigms, search transitions to that world. And we are the best source to provide that information. Along that line, I expect all the metrics to follow the trend. We only see all the right indicators. So, I think we are positioned for the long term well. I can't comment too much on the specifics beyond that.
 
---------------------------------------------------------------------------------
 Douglas Anmuth,  JPMorgan - Analyst    [32]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Operator    [33]
---------------------------------------------------------------------------------
 
           Ken Sena, Evercore.
 
---------------------------------------------------------------------------------
 Ken Sena,  Evercore ISI - Analyst    [34]
---------------------------------------------------------------------------------
 
           Thank you. I just have an ad format question, maybe just to follow up on Eric's. We noticed that there was an additional ad slot added on mobile. Can you just maybe talk through the decisioning on that. And if so, is there anything we should interpret as far as the other ad formats that have been used, too? Thank you.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [35]
---------------------------------------------------------------------------------
 
           Big picture, what we're doing is looking at ways to use the mobile screen space to be as useful as possible for users. This quarter we had some important changes. And we're always focused on innovation and we are growing in a growing market. But as we've said, we're looking at how consumer behavior is changing. And just as it did on desktop, we're seeing the same on mobile. And the notion of trying to make sure we are being as useful as possible for users is a key driver here and we will continue to innovate.
 
---------------------------------------------------------------------------------
 Ken Sena,  Evercore ISI - Analyst    [36]
---------------------------------------------------------------------------------
 
           And maybe just one follow-up, can you say anything, then, in terms of the success or the efficiency that you're seeing in terms of the text-based mobile ads versus more of the other structured data ones like product listing ads or hotel price ads, and so forth? Thanks.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [37]
---------------------------------------------------------------------------------
 
           There's probably not much to add there.
 
---------------------------------------------------------------------------------
 Ken Sena,  Evercore ISI - Analyst    [38]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Operator    [39]
---------------------------------------------------------------------------------
 
           Anthony DiClemente from Nomura.
 
---------------------------------------------------------------------------------
 Anthony DiClemente,  Nomura Securities - Analyst    [40]
---------------------------------------------------------------------------------
 
           Thanks a lot. I have two, one for Sundar and one for Ruth. Sundar, is ad blocking something that has a potential to have an impact on the business, either in the fourth quarter or longer term?
 And then, Ruth, in terms of M&A, just wondering if the buyback might indicate that the Company is becoming a bit more selective around large acquisitions than it's been in prior periods of the Company's lifecycle. Thanks.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [41]
---------------------------------------------------------------------------------
 
           Thanks, Anthony. On the ad blocking, it's not a new phenomenon. I think it's important to understand that ads today fund almost all the services which people use, including products like Google search, Google maps, many third-party products. For publishers it represents the majority of their revenues. And I think users are okay with the contract and we need to make sure it works well.
 It's also clear that there are areas where the ad experience is getting in the way. It affects performance. So, we as an industry need to collectively do all that better. So, we are going to work hard to do that. We want to make sure we transition areas like the mobile web to have better ad experiences. But overall I think we're used to this, we have seen this for a while, overwhelmingly the model works well and we expect that to continue.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [42]
---------------------------------------------------------------------------------
 
           In terms of your M&A question, and I talked about how did we think of sizing the return, I started with what's really most core to us, which is continuing to focus on the biggest problems and solving them at scale, and ensuring that we are investing in those. And, as I said, that's primarily defined by, obviously the opportunity, but how do we support the growth. That's about capital expenditure and about M&A. And those are really the anchor pillars in our capital framework. Then beyond that, there's working capital and a buffer and then the potential return of capital.
 We've talked about the fact that we have six products that have over 1 billion users. Three of those were through acquisitions -- YouTube, Android and Maps. That is not lost on us. And then you layer on top of that DoubleClick, that was also through acquisition.
 And at the time it wasn't clear. I'd say to everybody that those would end up being the incredibly powerful effective businesses for users that they are today. It remains a part of what we consider. The bar is high but I certainly wouldn't want you to read anything into it beyond what it is. It fits right within our framework. And, as I said, we view it as the right action at the right time.
 
---------------------------------------------------------------------------------
 Anthony DiClemente,  Nomura Securities - Analyst    [43]
---------------------------------------------------------------------------------
 
           Understood, thank you.
 
---------------------------------------------------------------------------------
 Operator    [44]
---------------------------------------------------------------------------------
 
           Paul Vogel from Barclays.
 
---------------------------------------------------------------------------------
 Paul Vogel,  Barclays Capital - Analyst    [45]
---------------------------------------------------------------------------------
 
           Great, thanks. Two questions, please. First, just when we think about search and deep linking, can you just quantify a little bit how important deep linking has been to either clicks or ROI or improvements in CPC on mobile?
 And then the second question, just as we think about the more transparency going forward in Q4, how should we think about businesses that currently are in the Other Bets line that may continue to grow? And what would be considered to move something from Other Bets into core Google. Thank you.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [46]
---------------------------------------------------------------------------------
 
           On the deep linking, I would view it as we're beginning to scratch the surface in terms of how we get at information within apps. What's been exciting to us, all early indications show that when we provide these deep links users respond to them the same way they've done with links to websites, and the model is working well. On the second thing, maybe you can.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [47]
---------------------------------------------------------------------------------
 
           Yes. Interesting in the way you've framed the question. Within Other Bets we have a pretty broad array of challenges, opportunities that are being tackled, as you know well, from life sciences to driverless cars to what we're doing in access and energy. And those we're funding. We've got a very rigorous disciplined approach to looking at the metrics against which they're performing and growing.
 But you've used the term -- when do they move into Google -- and I wouldn't assume that that's the plan. What we're really looking at is how do we continue to broaden the nature of issues that we are able to address.
 What we want with Alphabet is to be an extraordinary magnet, the best magnet for entrepreneurs, and to be an accelerant for their development, and to give them the kind of environment where they can continue to thrive, and therefore build great businesses that generate tremendous returns, as well, for our stakeholders on top of solving big problems. But that doesn't necessarily mean -- in fact, we are very much thinking they will continue to grow and be independent entities. So, say, a broader view of what is Alphabet.
 
---------------------------------------------------------------------------------
 Paul Vogel,  Barclays Capital - Analyst    [48]
---------------------------------------------------------------------------------
 
           Got it. So, just to be clear, it's not about that they're newer or smaller or growing; it's is just they're separate businesses that will grow on their own separate from the core Google
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [49]
---------------------------------------------------------------------------------
 
           Our view is that we are seeding them and they are growing and we are not predetermining what ends up happening. They're big opportunities and we're excited to be in a position where we can address them, and in a way that is an incredible magnet for great entrepreneurs.
 
---------------------------------------------------------------------------------
 Paul Vogel,  Barclays Capital - Analyst    [50]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Operator    [51]
---------------------------------------------------------------------------------
 
           Stephen Ju, Credit Suisse.
 
---------------------------------------------------------------------------------
 Stephen Ju,  Credit Suisse - Analyst    [52]
---------------------------------------------------------------------------------
 
           Sundar, I think it was on a conference call about three years ago when Larry articulated a vision of a simple and consistent consumer experience from Google. And the same for your advertising customers, as well. So, as this is your first conference call with investors, where do you think you are on that initiative today? Are you still new on the same path or do you plan to take that in a different direction in your new role?
 And, Ruth, despite the high growth of YouTube and Play, presumably, are your cost of goods sold, where the content costs of these two businesses live, it's not growing as rapidly So, will you give some color on where you might be driving leverage. Thanks.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [53]
---------------------------------------------------------------------------------
 
           On the first one, I think the vision that Larry articulated is a very compelling vision and it's still valid. To me, the way I think about it is mobile is a good forcing function, in some ways. It's a good constraint for us to focus and deliver against that vision. So, what I'm doing is, internally all our objectives are primarily focused on mobile and how, within the context of mobile, we get to a better, simpler and consistent experience for consumers and advertisers. That framework is how we are thinking about it and I think we are making solid progress.
 
---------------------------------------------------------------------------------
 Ruth Porat,  Alphabet Inc. - CFO    [54]
---------------------------------------------------------------------------------
 
           And then if you're focusing on the other cost of revenue line, the year-over-year and quarter-over-quarter growth was driven by ongoing data center operations, including depreciation -- that's in there, as well -- as well as content acquisition costs, as you said, primarily YouTube and Play. One thing to note as we look forward to the fourth quarter with the launch of Nexus, Chromecast and Pixel, it's worth noting that we do book the hardware costs in this line.
 
---------------------------------------------------------------------------------
 Stephen Ju,  Credit Suisse - Analyst    [55]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Operator    [56]
---------------------------------------------------------------------------------
 
           Mark May from Citi.
 
---------------------------------------------------------------------------------
 Mark May,  Citigroup - Analyst    [57]
---------------------------------------------------------------------------------
 
           Thanks. I had two questions that are interrelated around mobile apps. When you talk about the strength in mobile search, are you including also searches that are done on some of your mobile apps, like a search done on a maps app or on the mobile YouTube app?
 And then somewhat related is, you have, I think it's six apps, that have over 1 billion users globally. But some of these you're not really monetizing today, or very nascent stages. Can you talk about your efforts maybe to monetize some of these large and actively used apps, and maybe identify one or two where you're -- I guess this is for Sundar -- particularly excited about the opportunities. Thanks.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [58]
---------------------------------------------------------------------------------
 
           Thanks, Mark. On the first one, we are specifically talking about the mobile search experience on Google.com or the Google app. But we are seeing the same traction within Maps or YouTube. We are seeing mobile usage dramatically grow. And in that context people are searching, as well. So, it's across the board we are seeing strength.
 In terms of our apps which have scaled, obviously we take a very long-term view. Several of those apps today already play huge. For example, take Google Maps. It already plays a huge important role in making mobile search better, so these are interrelated.
 YouTube is obviously a big opportunity. Google Play is one. End even things like Gmail are playing a critical role in Google for Work and how we are driving big business opportunities, as well. And, by the way, because we are scaling all these apps over 1 billion users we are building the infrastructure, which is what will power our cloud platform externally, as well. So, in many ways these are all working for us.
 
---------------------------------------------------------------------------------
 Operator    [59]
---------------------------------------------------------------------------------
 
           Colin Sebastian from Robert W. Baird.
 
---------------------------------------------------------------------------------
 Colin Sebastian,  Robert W. Baird & Co. - Analyst    [60]
---------------------------------------------------------------------------------
 
           Great, thanks. I wanted to ask about two areas of the business mentioned on the call. One is machine learning. It's just coming up a lot more frequently as a topic. I wonder if you could mention more specifically the vision that you have for some of the core applications and how machine learning can make them more useful.
 And then just as a follow-up to the question on the Google Cloud, and specifically the infrastructure of the service layer, I wonder there if your strategy is more focused on price or if there are other ways that you can differentiate the service from the competition. Thank you.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO of Google Inc.    [61]
---------------------------------------------------------------------------------
 
           Machine learning is a core transformative way by which we are rethinking everything we are doing. We've been investing in this area for a while. We believe we are state-of-the-art here. And the progress, particularly in the last two years, has been pretty dramatic. So, we are thoughtfully applying it across all our products, be it search, be it ads, be it YouTube and Play. We're in early days but you will see us in a systematic manner think about how we can apply machine learning to all these areas.
 On Cloud, I think the right way to think about it over time, for a company or for a developer to build stuff on Cloud, they need not just basic things like compute and storage, they need a whole set of services on top of it. There is a lot in the stack. So, I think the way we will differentiate over time is, because we have built large services on top of our infrastructure, we understand all the layers which you need to build data applications. So, you will see us increasingly provide value-added services on top of compute and storage. That's the way I think we'll play this.
 
---------------------------------------------------------------------------------
 Operator    [62]
---------------------------------------------------------------------------------
 
           Thank you. That's all the time we have for questions. I would now like to turn the call back to Ellen West for any closing remarks.
 
---------------------------------------------------------------------------------
 Ellen West,  Alphabet Inc. - VP of IR    [63]
---------------------------------------------------------------------------------
 
           Great. Thanks, everyone, for joining us today. We look forward to speaking with you again on our fourth-quarter call. Thank you and have a good evening.
 
---------------------------------------------------------------------------------
 Operator    [64]
---------------------------------------------------------------------------------
 
           Ladies and gentlemen, thank you for participating in today's conference. This does conclude today's program. You may all disconnect. Everyone, have a great day.
 
@@ -570,9 +426,7 @@ Operator    [64]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -583,9 +437,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -611,6 +463,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

@@ -6,9 +6,7 @@ E D I T E D  V E R S I O N
 Q2 2025 NVIDIA Corp Earnings Call
 August 28, 2024 / 9:00PM UTC
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Stewart Stecker
    NVIDIA Corp - Senior Director, Investor Relations
@@ -17,9 +15,7 @@ Corporate Participants
  * Jensen Huang
    NVIDIA Corp - President, Chief Executive Officer, Director
 
-================================================================================
 Conference Call Participants
-================================================================================
 
  * Operator
    
@@ -42,16 +38,11 @@ Conference Call Participants
  * Aaron Rakers
    Wells Fargo Securities, LLC - Analyst
 
-================================================================================
 presentation
---------------------------------------------------------------------------------
 Operator,     [1]
---------------------------------------------------------------------------------
 Good afternoon. My name is Abby, and I will be your conference operator today. At this time, I would like to welcome everyone to NVIDIA's second-quarter earnings call. (Operator Instructions) Thank you.
 Mr. Stewart Stecker, you may begin.
---------------------------------------------------------------------------------
 Stewart Stecker, NVIDIA Corp - Senior Director, Investor Relations    [2]
---------------------------------------------------------------------------------
 Thank you. Good afternoon, everyone, and welcome to NVIDIA's conference call for the second quarter of fiscal 2025. With me today from NVIDIA are Jensen Huang, President and Chief Executive Officer; and Colette Kress, Executive Vice President and Chief Financial Officer.
 I would like to remind you that our call is being webcast live on NVIDIA's Investor Relations website. Our webcast will be available for replay after the conference call to discuss our financial results for the third quarter of fiscal 2025. The content of today's call is NVIDIA's property and cannot be reproduced or transcribed without prior written consent.
 During this call, we may make forward-looking statements based on current expectations. These are subject to a number of risks, significant risks, and uncertainties; and our actual results may differ materially. For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent Forms 10-K and 10-Q, and the reports that we may file on Form 8-K with the Securities and Exchange Commission.
@@ -59,9 +50,7 @@ All our statements are made as of today, August 28, 2024, based on information c
 During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our CFO commentary, which is posted on our website.
 Let me highlight an upcoming event for the financial community. We will be attending the Goldman Sachs Communacopia and Technology Conference on September 11t in San Francisco, where Jensen will participate in a keynote fireside chat. Our earnings call to discuss the results of our third quarter of fiscal 2025 is scheduled for Wednesday, November 20, 2024.
 With that, let me turn the call over to Colette.
---------------------------------------------------------------------------------
 Colette Kress, NVIDIA Corp - Executive Vice President, Chief Financial Officer    [3]
---------------------------------------------------------------------------------
 Thanks, Stewart. Q2 was another record quarter. Revenue of $30 billion was up 15% sequentially and up 122% year on year and well above our outlook of $28 billion.
 Starting with data center. Data center revenue of $26.3 billion was a record, up 16% sequentially and up 154% year on year, driven by strong demand for NVIDIA Hopper GPU computing and our networking platforms.
 Compute revenue grew more than 2.5x. Networking revenue grew more than 2x from the last year. Cloud service providers represented roughly 45% of our data center revenue, and more than 50% stem from the consumer, Internet, and enterprise companies.
@@ -106,35 +95,22 @@ For the full year, we expect gross margins to be in the mid-70% range. GAAP and 
 GAAP and non-GAAP other income and expenses are expected to be about $350 million, including gains and losses from non-affiliated investments and publicly held equity securities. GAAP and non-GAAP tax rates are expected to be 17%, plus or minus 1%, excluding any discrete items.
 Further financial details are included in the CFO commentary and other information available on our IR website. We are now going to open the call for questions. Operator, would you please help us and pull for questions?
 
-================================================================================
 q-and-a
---------------------------------------------------------------------------------
 Operator,     [1]
---------------------------------------------------------------------------------
 Thank you. (Operator Instructions) Vivek Arya, Bank of America Securities.
---------------------------------------------------------------------------------
 Vivek Arya, BofA Global Research - Analyst    [2]
---------------------------------------------------------------------------------
 Thanks for taking my question. Jensen, you mentioned in the prepared comments that there's a change in the Blackwell GPU mask. I'm curious, are there any other incremental changes in back-end packaging or anything else?
 And I think related, you suggested that you could ship several billion dollars of Blackwell in Q4 despite a change in the design. Is it because all these issues will be solved by then? Just help us size what is the overall impact of any changes in Blackwell timing, what that means to your revenue profile, and how are customers reacting to it?
---------------------------------------------------------------------------------
 Jensen Huang, NVIDIA Corp - President, Chief Executive Officer, Director    [3]
---------------------------------------------------------------------------------
 Yeah. Thanks, Vivek. The change to the mask is complete. There were no functional changes necessary.
 And so we're sampling functional samples of Blackwell, Grace Blackwell, in a variety of system configurations as we speak. There are something like a hundred different types of Blackwell-based systems that are built that were shown at Computex, and we're enabling our ecosystem to start sampling those. The functionality of Blackwell is as it is, and we expect to start production in Q4.
---------------------------------------------------------------------------------
 Operator,     [4]
---------------------------------------------------------------------------------
 Toshiya Hari, Goldman Sachs.
---------------------------------------------------------------------------------
 Toshiya Hari, Goldman Sachs Research - Analyst    [5]
---------------------------------------------------------------------------------
 Hi. Thank you so much for taking the question. Jensen, I had a relatively longer term question. As you may know, there's a pretty heated debate in the market on your customers and customers' customers' return on investment and what that means for the sustainability of CapEx going forward.
 Internally at NVIDIA, what are you guys watching? What's on your dashboard as you try to gauge customer return and how that impacts CapEx?
 And then a quick follow-up maybe for Colette. I think your sovereign AI number for the full year went up maybe a couple billion. What's driving the improved outlook and how should we think about fiscal '26? Thank you.
---------------------------------------------------------------------------------
 Stewart Stecker, NVIDIA Corp - Senior Director, Investor Relations    [6]
---------------------------------------------------------------------------------
 Thanks, Toshiya. First of all, when I said ship production in Q4, I mean shipping out. I don't mean starting to ship -- I mean, I don't mean starting production, but shipping out.
 On the longer-term question, let's take a step back. And you've heard me say that we're going through two simultaneous platform transitions at the same time. The first one is transitioning from accelerated computing to -- from general purpose computing to accelerated computing.
 And the reason for that is because CPU scaling has been known to be slowing for some time. And it is slow to a crawl, and yet the amount of computing demand continues to growth quite significantly. You could maybe even estimate it to be doubling every single year.
@@ -155,23 +131,15 @@ Of course, the number of generative AI startups is generating tens of billions o
 Enterprise AI, as Colette mentioned earlier, is starting. And you might have seen our announcement that the world's leading IT companies are joining us to take the NVIDIA enterprise platform to the world's enterprises. The companies that we're talking to, so many of them were just so incredibly excited to drive more productivity out of the company.
 And then general robotics, the big transformation last year as we are able to now learn physical AI from watching video and human demonstration and synthetic data generation, from reinforcement learning, from systems like Omniverse. We are now able to work with just about every robotics companies now to start thinking about -- start building general robotics.
 And so you can see that there are just so many different directions that generative AI is going. And so we're actually seeing the momentum of generative AI accelerating.
---------------------------------------------------------------------------------
 Colette Kress, NVIDIA Corp - Executive Vice President, Chief Financial Officer    [7]
---------------------------------------------------------------------------------
 And Toshiya, to answer your question regarding sovereign AI and our goals in terms of growth, in terms of revenue, it certainly is a unique and growing opportunity, something that surfaced with generative AI and the desires of countries around the world to have their own generative AI that would be able to incorporate their own language, incorporate their own culture, incorporate their own data in that country.
 So more and more excitement around these models and what they can be specific for those countries. So yes, we are seeing some growth opportunity in front of us.
---------------------------------------------------------------------------------
 Operator,     [8]
---------------------------------------------------------------------------------
 Joe Moore, Morgan Stanley.
---------------------------------------------------------------------------------
 Joe Moore, Morgan Stanley - Analyst    [9]
---------------------------------------------------------------------------------
 Great. Thank you. Jensen, in the press release, you talked about Blackwell anticipation being incredible, but it seems like Hopper demand is also really strong. I mean, you're guiding for a very strong quarter without Blackwell in October.
 So how long do you see coexisting strong demand for both? And can you talk about the transition to Blackwell? Do you see people intermixing clusters? Do you think most of the Blackwell activities, new clusters, just some sense of what that transition looks like?
---------------------------------------------------------------------------------
 Jensen Huang, NVIDIA Corp - President, Chief Executive Officer, Director    [10]
---------------------------------------------------------------------------------
 Yeah. Thanks, Joe. The demand for Hopper is really strong. And it's true, the demand for Blackwell is incredible. There's a couple of reasons for that.
 The first reason is, if you just look at the world's cloud service providers and the amount of GPU capacity they have available, it's basically none. And the reason for that is because they're either being deployed internally for accelerating their own workloads -- data processing, for example.
 Data processing, we hardly ever talk about it because it's mundane. It's not very cool because it doesn't generate a picture or generate words, but almost every single company in the world processes data in the background.
@@ -186,19 +154,13 @@ Of course, we also want to see our dreams come true. And all of the capabilities
 Of course, they want to be the world's best. They want to be the world's first. And although Blackwell will start shipping out in billions of dollars at the end of this year, the standing up of the capacity is still probably weeks and a month or so away.
 And so between now and then is a lot of generative AI market dynamic. And so everybody is just really in a hurry. It's either operational reasons that they need it. They need accelerated computing. They don't want to build any more general purpose computing infrastructure, even Hopper.
 Of course, H200 is state-of-the-art. Hopper, if you have a choice between building CPU infrastructure right now for business or Hopper infrastructure for business right now, that decision is relatively clear. And so I think people are just clamoring to transition the trillion dollars of established installed infrastructure to a modern infrastructure and Hopper's state-of-the-art.
---------------------------------------------------------------------------------
 Operator,     [11]
---------------------------------------------------------------------------------
 Matt Ramsay, TD Cowen
---------------------------------------------------------------------------------
 Matt Ramsay, TD Cowen - Analyst    [12]
---------------------------------------------------------------------------------
 Thank you very much. Good afternoon, everybody. I wanted to kind of circle back to an earlier question about the debate that investors are having about the ROI on all of this CapEx. And hopefully this question and the distinction will make some sense.
 But what I'm having discussions about is with the percentage of folks that you see that are spending all of this money and looking to push the frontier towards AGI convergence and, as you just said, a new plateau in capability -- and they're going to spend regardless to get to that level of capability because it opens up so many doors for the industry and for their company versus customers that are really, really focused today on CapEx versus ROI.
 I don't know if that distinction makes sense. I'm just trying to get a sense of how you're seeing the priorities of people that are putting the dollars on the ground on this new technology and what their priorities are their timeframes are for that investment. Thanks.
---------------------------------------------------------------------------------
 Jensen Huang, NVIDIA Corp - President, Chief Executive Officer, Director    [13]
---------------------------------------------------------------------------------
 Thanks, Matt. The people who are investing in NVIDIA infrastructure are getting returns on it right away. It's the best ROI computing infrastructure investment you can make today.
 So one way to think through it, probably the most -- the easiest way to think through it is just go back to first principles. You have a trillion dollars' worth of general purpose computing infrastructure. And the question is, do you want to build more of that or not?
 And for every billion dollars' worth of general purpose CPU-based infrastructure that you stand up, you probably rent it for less than a billion. And so, because it's commoditized, there's already a trillion dollars on the ground. What's the point of getting more?
@@ -208,19 +170,13 @@ The second thing is everything you stand up are going to get rented because so m
 And then the third reason is your own business. You want to either create the next frontier yourself or your own internet services benefit from a next-generation ad system or a next-generation recommender system or a next-generation search system. So for your own services, for your own stores, for your own user-generated content, social media platforms, for your own services, generative AI is also a fast ROI.
 And so there's a lot of ways you could think through it. But at the core, it's because it is the best computing infrastructure you could put in the ground today. The world of general-purpose computing is shifting to accelerated computing.
 The world of human-engineered software is moving to generative AI software. If you were to build infrastructure to modernize your cloud and your data centers, build it with accelerated computing and NVIDIA. That's the best way to do it.
---------------------------------------------------------------------------------
 Operator,     [14]
---------------------------------------------------------------------------------
 Timothy Arcuri, UBS.
---------------------------------------------------------------------------------
 Timothy Arcuri, UBS Equities - Analyst    [15]
---------------------------------------------------------------------------------
 Thanks a lot. I had a question on the shape of the revenue growth, both near and longer term. I know, Colette, you did increase OpEx for the year. And if I look at the increase in your purchase commitments and your supply obligations, that's also quite bullish.
 On the other hand, there's some school of thought that not that many customers really seem ready for liquid cooling. And I do recognize that some of these racks can be air cooled. But Jensen, is that something to consider on the shape of how Blackwell is going to ramp?
 And then I guess when you look beyond next year, which is obviously going to be a great year, and you look into '26, do you worry about any other gating factors, like say the power supply chain or at some point models start to get smaller? I'm just wondering if you can speak to that. Thanks.
---------------------------------------------------------------------------------
 Jensen Huang, NVIDIA Corp - President, Chief Executive Officer, Director    [16]
---------------------------------------------------------------------------------
 I'm going to work backwards. I really appreciate the question, Tim. So remember, the world is moving from general purpose computing to accelerated computing. And the world builds about a trillion dollars' worth of data centers. A trillion dollars' worth of data centers in a few years will be all accelerated computing.
 In the past, no GPUs are in data centers, just CPUs. In the future, every single data center will have GPUs. And the reason for that is very clear, because we need to accelerate workloads so that we can continue to be sustainable, continue to drive down the cost of computing so that when we do more computing, we don't experience computing inflation.
 Second, we need GPUs for a new computing model called generative AI that we can all acknowledge is going to be quite transformative to the future of computing. And so I think working backwards, the way to think about that is the next trillion dollars of the world's infrastructure will clearly be different than the last trillion. And it will be vastly accelerated.
@@ -231,53 +187,35 @@ And so imagine 144 GPUs connected in NVLink, and we're increasingly showing you 
 And so I think people are very comfortable deploying both. And so almost every CSP we're working with are deploying some of both. And so I'm pretty confident that we'll wrap it up just fine.
 Your second question out of the third is looking forward. Yeah, next year is going to be a great year. We expect to grow our data center business quite significantly next year. Blackwell is going to be a complete game changer for the industry. And Blackwell is going to carry into the following year.
 And as I mentioned earlier, working backwards from first principles, remember that computing is going through two platform transitions at the same time. And that's just really, really important to keep your mind focused on, which is general purpose computing is shifting to accelerated computing and human engineered software is going to transition to generative AI or artificial intelligence learned software. Okay?
---------------------------------------------------------------------------------
 Operator,     [17]
---------------------------------------------------------------------------------
 Stacy Rasgon, Bernstein Research.
---------------------------------------------------------------------------------
 Stacy Rasgon, Bernstein - Analyst    [18]
---------------------------------------------------------------------------------
 Hi guys. Thanks for taking my questions. I have two short questions to Colette. The first, several billion dollars of Blackwell revenue in Q4. Is that additive? You said you expected Hopper demand to strengthen in the second half. Does that mean Hopper strengthens Q3 to Q4 as well on top of Blackwell adding several billion dollars?
 And the second question on gross margins. If I have mid-70%s for the year -- depending on where I want to draw that, if I have 75% for the year, I'd be something like 71% to 72%. for Q4, somewhere in that range. Is that the kind of exit rate for gross margins that you're expecting?
 And how should we think about the drivers of gross margin evolution into next year as Blackwell ramps? And I mean, hopefully, I guess the yields and the inventory reserves and everything come up.
---------------------------------------------------------------------------------
 Colette Kress, NVIDIA Corp - Executive Vice President, Chief Financial Officer    [19]
---------------------------------------------------------------------------------
 Yeah, Stacy. Let's first take your question that you had about Hopper and Blackwell. So we believe our Hopper will continue to grow into the second half. We have many new products for Hopper, our existing products for Hopper, that we believe will start continuing to ramp in the next quarters, including our Q3 and those new products moving to Q4.
 So let's say Hopper, therefore, versus H1 is a growth opportunity for that. Additionally, we have the Blackwell on top of that, and the Blackwell starting ramping in Q4. So hope that helps you on those two pieces.
 Your second piece is in terms of on our gross margin. We provided gross margin for our Q3. We provided our gross margin on a non-GAAP at about 75%. We'll work with all the different transitions that we're going through, but we do believe we can do that 75% in Q3.
 We provided that we're still on track for the full year, also in the mid-70%s or approximately the 75%. So we're going to see some slight difference, possibly in Q4, again, with our transitions and the different cost structures that we have on our new product introductions.
 However, I'm not in the same number that you are there. We don't have exactly guidance, but I do believe you're lower than where we are.
---------------------------------------------------------------------------------
 Operator,     [20]
---------------------------------------------------------------------------------
 Ben Reitzes, Melius.
---------------------------------------------------------------------------------
 Ben Reitzes, Melius Research - Analyst    [21]
---------------------------------------------------------------------------------
 Yeah. Hey, thanks a lot for the question, Jensen and Colette. I wanted to ask about the geographies. There was the 10-Q that came out and the United States was down sequentially while several Asian geographies were up a lot sequentially. Just wondering what the dynamics are there.
 And obviously, China did very well. You mentioned it in your remarks. What are the puts and takes? And then I just wanted to clarify from Stacy's question if that means the sequential overall revenue growth rates for the company accelerate in the fourth quarter, given all those favorable revenue dynamics. Thanks.
---------------------------------------------------------------------------------
 Colette Kress, NVIDIA Corp - Executive Vice President, Chief Financial Officer    [22]
---------------------------------------------------------------------------------
 Let me talk about -- a bit in terms of our disclosure in terms of the 10-Q, a required disclosure and a choice of geographies. Very challenging sometimes to create that right disclosure as we have to come up with one key piece, pieces in terms of we have in terms of who we sell to and/or specifically who we invoice to.
 And so what you're seeing in terms of there is who we invoice. That's not necessarily where the product will eventually be and where it may even travel to the end customer. These are just moving to our OEMs, our ODMs, and our system integrators, for the most part, across our product portfolio.
 So what you're seeing there is sometimes just a shift in terms of who they are using to complete their full configuration before those things are going into the data center, going into notebooks, and those pieces of it. And that shift happens from time to time.
 But yes, our China number there -- our invoicing to China, keep in mind that is incorporating both gaming, also data center, also automotive in those numbers that we have.
 Going back to your statement regarding gross margin and also what we're seeing in terms of what we're looking at for Hopper and Blackwell in terms of revenue. Hopper will continue to grow in the second half. We'll continue to grow from what we are currently seeing.
 Determining that exact mix in each Q3 and Q4, we don't have here. We are not here to guide yet in terms of Q4. But we do see right now the demand expectations. We do see the visibility that there will be a growth opportunity in Q4. On top of that, we will have our Blackwell architecture.
---------------------------------------------------------------------------------
 Operator,     [23]
---------------------------------------------------------------------------------
 C.J. Muse, Cantor Fitzgerald.
---------------------------------------------------------------------------------
 C.J. Muse, Cantor Fitzgerald - Analyst    [24]
---------------------------------------------------------------------------------
 Yeah, good afternoon. Thank you for taking the question. You've embarked on a remarkable annual product cadence with challenges, only likely becoming more and more, given rising complexity and a radical limit advanced package world. So curious, if you take a step back, how does this backdrop alter your thinking around potentially greater vertical integration, supply chain partnerships, and then thinking through consequential impact to your margin profile? Thank you.
---------------------------------------------------------------------------------
 Jensen Huang, NVIDIA Corp - President, Chief Executive Officer, Director    [25]
---------------------------------------------------------------------------------
 Yeah, thanks. Let's see. I think the answer to your first question is that the reason why our velocity is so high is simultaneously because the complexity of the model is growing and we want to continue to drive its cost down. It's growing, so we want to increase its scale.
 And we believe that by continuing to scale the AI models, that will reach a level of extraordinary usefulness and that it would open up -- realize the next industrial revolution. We believe it. And so we're going to drive ourselves really hard to continue to go up that scale.
 We have the ability, fairly uniquely, to integrate -- to design an AI factory because we have all the parts. It's not possible to come up with a new AI factory every year unless you have all the parts. And so we have -- next year, we're going to ship a lot more CPUs than we've ever had in the history of our company, more GPUs, of course, but also NVLink switches, CX DPUs, ConnectX DPUs for East and West, Bluefield DPUs for North and South, and data and storage processing, to InfiniBand for supercomputing centers, to Ethernet, which is a brand new product for us, which is well on its way to becoming a multi-billion dollar business, to bring AI to Ethernet.
@@ -285,17 +223,11 @@ And so the fact that we could build -- we have access to all of this -- we have 
 And so it's not about who integrates it. We love the fact that our supply chain is disintegrated in the sense that we could service Quanta, Foxconn, HP, Dell, Lenovo, Supermicro. We used to be able to service ZT. They were recently purchased and so on and so forth.
 And so the number of ecosystem partners that we have, GIGABYTE, ASUS, the number of ecosystem partners that we have, that allows them to take our architecture, which all works, but integrate it in a bespoke way into all of the world's cloud service providers, enterprise data centers, The scale and reach necessary from our ODMs and our integrators -- integrator supply chain is vast and gigantic because the world is huge.
 And so that part, we don't want to do and we're not good at doing. But we know how to design the AI infrastructure, provide it the way that customers would like it, and let the ecosystem integrate it. Well, yeah. So anyways, that's the reason why.
---------------------------------------------------------------------------------
 Operator,     [26]
---------------------------------------------------------------------------------
 Aaron Rakers, Wells Fargo.
---------------------------------------------------------------------------------
 Aaron Rakers, Wells Fargo Securities, LLC - Analyst    [27]
---------------------------------------------------------------------------------
 Yeah, thanks for taking the question. I wanted to go back into the Blackwell product cycle. One of the questions that we tend to get asked is how you see the rack-scale system mix dynamic as you think about leveraging NVLink, you think about GB, NVL72, and how that go-to-market dynamic looks as far as the Blackwell product cycle. I guess, to put it simply, how do you see that mix of rack-scale systems as we start to think about the Blackwell cycle playing out?
---------------------------------------------------------------------------------
 Jensen Huang, NVIDIA Corp - President, Chief Executive Officer, Director    [28]
---------------------------------------------------------------------------------
 Yeah, Aaron. Thanks. The Blackwell rack system, it's designed and architected as a rack, but it's sold in disaggregated system components. We don't sell the whole rack. The reason for that is because everybody's rack is a little different, surprisingly.
 Some of them are OCP standards, some of them are not. Some of them are enterprise. The power limits for everybody could be a little different. Choice of CDUs, the choice of power bus bars, the configuration and integration into people's data centers, all different.
 So the way we designed it, we architected the whole rack. The software is going to work perfectly across the whole rack. And then we provide the system components. Like for example, the CPU and GPU compute board is then integrated into an MGX. It's a modular system architecture. MGX is completely ingenious.
@@ -305,13 +237,9 @@ Our customers hate that we do integration. The supply chain hates us doing integ
 There's a final design in, if you will. It's not quite as simple as shimmy into a data center. But that design fit in is really complicated.
 And so the design fit in, the installation, the bring up, the repair, repair and replace, that entire cycle is done all over the world. And we have a sprawling network of ODM and OEM partners that does this incredibly well.
 So integration is not the reason why we're doing racks. That's the anti-reason of doing it. We don't want to be an integrator. We want to be a technology provider.
---------------------------------------------------------------------------------
 Operator,     [29]
---------------------------------------------------------------------------------
 I will now turn the call back over to Jensen Huang for closing remarks.
---------------------------------------------------------------------------------
 Jensen Huang, NVIDIA Corp - President, Chief Executive Officer, Director    [30]
---------------------------------------------------------------------------------
 Thank you. Let me make a couple of comments that I made earlier again. Data centers worldwide are in full steam to modernize the entire computing stack with accelerated computing and generative AI. Hopper demand remains strong and the anticipation for Blackwell is incredible.
 Let me highlight the top five things of our company. Accelerated computing has reached a tipping point. CPU scaling slows. Developers must accelerate everything possible.
 Accelerated computing starts with CUDAx libraries. New libraries open new markets for NVIDIA. We released many new libraries, including CUDAx-accelerated Polars, Pandas, and Spark, the leading data science and data processing libraries; QVS for vector databases, this is incredibly hot right now; Arial and Shiona for 5G wireless base station, a whole suite of -- a whole world of data centers that we can go into now; Parabrix for gene sequencing. And AlphaFold2 for protein structure prediction is now CUDA accelerated.
@@ -326,9 +254,7 @@ Generative AI momentum is accelerating. Generative AI frontier model makers are 
 Chatbots, coding AIs, and image generators are growing fast; but it's just the tip of the iceberg. Internet services are deploying generative AI for large-scale recommenders, ad targeting, and search systems. AI startups are consuming tens of billions of dollars yearly of CSP's cloud capacity, and countries are recognizing the importance of AI and investing in sovereign AI infrastructure.
 And NVIDIA Omniverse is opening up the next era of AI, general robotics. And now, the enterprise AI wave has started and we're poised to help companies transform their businesses. The NVIDIA AI enterprise platform consists of NEMO, NIMS, NIM, agent blueprints, and AI Foundry that our ecosystem partners, the world-leading IT companies, use to help companies customize AI models and build bespoke AI applications.
 Enterprises can then deploy on NVIDIA AI Enterprise Runtime. And at $4,500 per GPU per year, NVIDIA AI Enterprise is an exceptional value for deploying AI anywhere. And for NVIDIA's software, TAM can be significant as the CUDA-compatible GPU install base grows from millions to tens of millions. And as Colette mentioned, NVIDIA software will exit the year at a $2 billion run rate. Thank you all for joining us today.
---------------------------------------------------------------------------------
 Operator,     [31]
---------------------------------------------------------------------------------
 And ladies and gentlemen, this concludes today's call, and we thank you for your participation. You may now disconnect.
 
 
@@ -336,9 +262,7 @@ And ladies and gentlemen, this concludes today's call, and we thank you for your
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 Preliminary Transcript: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -349,9 +273,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
 
 In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
@@ -359,6 +281,4 @@ In the conference calls upon which Summaries are based, companies may make proje
 LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
 
 THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2024 LSEG. All Rights Reserved.
---------------------------------------------------------------------------------

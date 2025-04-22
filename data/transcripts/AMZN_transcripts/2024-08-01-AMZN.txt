@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q2 2024 Amazon.com Inc Earnings Call
 AUGUST 01, 2024 / 9:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Brian Olsavsky
    Amazon.com Inc - Senior Vice President, Chief Financial Officer
@@ -17,9 +15,7 @@ Corporate Participants
  * Andrew Jassy
    Amazon.com Inc - President, Chief Executive Officer, Director
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * John Blackledge
    TD Cowen - Analyst
@@ -34,17 +30,12 @@ Conference Call Participiants
  * Douglas Till Anmuth
    JPMorgan Chase & Co - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Thank you for standing by. Good day, everyone, and welcome to the Amazon.com second quarter 2024 financial results teleconference. (Operator Instructions) Today's call is being recorded. And for opening remarks, I will be turning the call over to the Vice President of Investor Relations, Dave Fildes. Thank you, sir. Please go ahead.
 
---------------------------------------------------------------------------------
 Dave Fildes,  Amazon.com, Inc. - Director of IR    [2]
---------------------------------------------------------------------------------
 
           Hello, and welcome to our Q2 2024 financial results conference call. Joining us today to answer your questions is Andy Jassy, our CEO; and Brian Olsavsky, our CFO. As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results as well as metrics and commentary on the quarter.
 Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2023. Our comments and responses to your questions reflect management's views as of today, August 1, 2024 only, and will include forward-looking statements.
@@ -54,9 +45,7 @@ Our guidance incorporates the order trends that we've seen to date and what we b
 Our guidance assumes, among other things, that we don't conclude any additional business acquisitions, restructurings or legal settlements. It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance.
 And now I'll turn the call over to Andy.
 
---------------------------------------------------------------------------------
 Andrew Jassy,  Amazon.com Inc - President, Chief Executive Officer, Director    [3]
---------------------------------------------------------------------------------
 
           Thanks, Dave. Today, we're reporting $148 billion in revenue, up 11% year-over-year, excluding the impact from foreign exchange rates. Operating income was $14.7 billion, up 91% year-over-year and trailing 12-month free cash flow adjusted for equipment finance leases was $51.4 billion, up 664% or $44.7 billion year-over-year.
 As I think about what matters to customers long term and therefore to Amazon, there's a lot to like about what we're seeing. Starting with AWS, year-over-year revenue growth accelerated again from 17.2% in Q1 to 18.8% in Q2. We're continuing to see three macro trends drive AWS growth.
@@ -94,9 +83,7 @@ We've announced a distribution agreement with VRIO, who distributes DIRECTV Lati
 I could go on, but we'll stop here. There's a lot to feel optimistic about over the next several years, and the team collectively remains focused on continuing to invent and deliver for our customers in the business.
 With that, I'll turn it over to Brian for a financial update.
 
---------------------------------------------------------------------------------
 Brian Olsavsky,  Amazon.com Inc - Senior Vice President, Chief Financial Officer    [4]
---------------------------------------------------------------------------------
 
           Thanks, Andy. Let's start with our top line financial results. Worldwide revenue was $148 billion, an 11% increase year-over-year, excluding the impact of foreign exchange. This equates to a $1 billion headwind from foreign exchange in the quarter, which is about $300 million higher than we had anticipated in our Q2 guidance range.
 Worldwide operating income nearly doubled year-over-year to $14.7 billion, which was $700 million above the high end of our guidance range. Across all of our segments, we remain focused on managing costs in a way that allows us to continue innovating and investing in areas that we think can move the needle for our customers.
@@ -117,24 +104,17 @@ Additionally, in Q3, we also began to ramp up our capacity to handle Q4 holiday 
 With that, let's move on to your questions.
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           At this time, we will now open the call up for questions. (Operator Instructions) Eric Sheridan, Goldman Sachs.
 
---------------------------------------------------------------------------------
 Eric Sheridan,  Goldman Sachs Group, Inc. - Analyst    [2]
---------------------------------------------------------------------------------
 
           Maybe a two-parter on AWS. There's been a theme during the last couple of weeks of earnings of the potential to overinvest as opposed to underinvest in AI as a broad team. I'm curious, Andy, if you have a perspective on that in terms of thinking about elements of capitalizing on the theme longer term against the potential for basic cadence of investment on AWS as a segment?
 And the second part would be coming back to your comments on custom silicon. How do you feel about custom silicon both from a pace of investment? And then more broadly, how you think about it as a return profile on a pivot to more custom silicon in your portfolio over the medium to long term?
 
---------------------------------------------------------------------------------
 Andrew Jassy,  Amazon.com Inc - President, Chief Executive Officer, Director    [3]
---------------------------------------------------------------------------------
 
           Thanks, Eric. I'll take them in order. I think on the question about investment in AWS and on the AI side, I think where I'd start is, I think one of the least understood parts about AWS over the last 18 years has been what a massive logistics challenge it is to run that business.
 If you think about the fact that we have about 35 regions and think of a region as multiple -- a cluster of multiple data centers and about 110 availability zones, which is roughly equivalent to a data center, sometimes it includes multiple. And then if you think about having to land thousands and thousands of SKUs across the 200 AWS services in each of those availability zones at the right quantities, it's quite difficult. And if you end up actually with too little capacity, then you have service disruptions, which really nobody does because it means companies can't scale their applications.
@@ -146,22 +126,16 @@ And a lot of times, it's hard to get that price performance from existing player
 And we saw the same trend happening about five years ago in the accelerator space, in the GPU space, where the products are good, but there was really primarily one provider and supply was more scarce than what people wanted. And people -- our customers really want improved price performance all the time.
 And so that's why we went about building Trainium, which is our training chip and Inferentia, which is our inference chip, which we're on second versions of both of those. They will have very compelling relative price performance. And in a world where it's hard to get GPUs today, the supply is scarce and all the schedules continue to move over time, customers are quite excited and demanding at a high clip our custom silicon, and we're producing it as fast as we can. I think that's going to have very good return profile just like Graviton has and I think it will be another differentiating feature around AWS relative to others.
 
---------------------------------------------------------------------------------
 Operator    [4]
---------------------------------------------------------------------------------
 
           Brian Nowak, Morgan Stanley.
 
---------------------------------------------------------------------------------
 Brian Thomas Nowak,  Morgan Stanley - Analyst    [5]
---------------------------------------------------------------------------------
 
           I have two. So the first one I wanted to ask about in the second quarter, the retail gross margins that we're trying to do, the monkey math, look a little weaker than expected. Was there any extra pressure on retail gross margins because of discounting? Or is that where Kuiper is? Or sort of how do we think about some of the drivers of retail gross margins in the quarter at shipping?
 And the second one, Andy, in the past, you talked about cost to serve improvement and sort of getting the North America margins back to pre-pandemic levels. Can you just remind us again sort of the internal philosophy about executing on that? Is there a time line to deliver on that? Sort of how are you sort of balancing showing that profitability improvement over the next couple of years versus pressing on new investments like Kuiper and perhaps reinvesting some of those profits over the next couple of years?
 
---------------------------------------------------------------------------------
 Brian Olsavsky,  Amazon.com Inc - Senior Vice President, Chief Financial Officer    [6]
---------------------------------------------------------------------------------
 
           Brian, let me start with the first question on North America margins. So if you look at the segment operating margins, we did decrease 20 basis points sequentially from Q1 to Q2. I'll remind you that we have seen the annual step-up in stock-based compensation at the end of Q1 each year, and that added about $1.8 billion of stock-based comp expense in Q2 versus Q1. So that's impacting, to some extent, all three segments.
 But even with that stock-based comp step up, the stores part of the North America segment, increased the margin again last quarter. So we're continuing to see strong improvements in cost to serve as well as improvement in speed, added selection, better safety. So a lot of the key areas that we're hitting on are strong.
@@ -177,22 +151,16 @@ But as we work hard to make progress like we are on lowering our cost to serve, 
 I think the other thing, too, I would tell you is that I don't see it as being binary in any way, nor have I really ever seen it this way in the history of the company. I've been here 27 years. But we don't think of it as we can either be investing or we can be working on trying to take our costs to serve down. We believe we can do both.
 If you think about the examples you gave, the stores business and the Kuiper business are -- they're just different people working on those businesses. So our stores team is going to continue to work really hard on expanding selection and keeping prices low and speeding up our delivery times and driving our cost to serve down while our Kuiper team is working on how to figure out how to help the 400 million to 500 million households around the world who don't have broadband connectivity get that connectivity and allow them to do a lot of the things we take for granted today with broadband connectivity. So they're not going to be binary. We're going to work on them both at the same time.
 
---------------------------------------------------------------------------------
 Operator    [7]
---------------------------------------------------------------------------------
 
           Mark Mahaney, Evercore.
 
---------------------------------------------------------------------------------
 Mark Mahaney,  Evercore ISI - Analyst    [8]
---------------------------------------------------------------------------------
 
           I'll ask two questions. AWS, those three factors that are causing that kind of acceleration in Q2 and recovery in growth rates from a year ago, those sound sustainable? Is there any reason that we shouldn't see sort of ongoing acceleration at some level through the back half of the year?
 And secondly, I just want to ask about a small segment of pharmacy. It seems to me like at least anecdotally, I seem to lean more into marketing for that and survey work suggests to us that there's kind of greater consumer interest in that. Just talk about where that business is for you? And is it at a point where you feel like you move beyond early adoption and are leaning into kind of getting more mass Amazon customer adoption?
 
---------------------------------------------------------------------------------
 Andrew Jassy,  Amazon.com Inc - President, Chief Executive Officer, Director    [9]
---------------------------------------------------------------------------------
 
           On the AWS question, it's always hard to predict what the growth rates are going to be, and it's a relatively large business at $105 billion revenue run rate at this point. But I do think that we have seen the lion's share of the cost optimization happen.
 And I also do believe that pre-pandemic, we were on this March where most companies are trying to figure out how to modernize their infrastructure, which really means moving from on-premises to the cloud because they can save money and invent that more quickly and get better developer productivity.
@@ -205,90 +173,64 @@ On the Pharmacy side, I think you're right that you're seeing that business cont
 Customers love the customer experience of Amazon Pharmacy. And we especially, by the way, when you think about the experience and the speed and ease with which you can order versus walking into a pharmacy in a physical store, if you walk into pharmacies and cities today, it's a pretty tough experience with how much is locked behind cabinets where you have to press a button to get somebody to come out and open the cabinets for you and a lot of shop lifting going on in the stores. So the combination of what's happening in the physical world and how much improved we've made our pharmacy experience is driving a lot of customer resonance and buying behavior.
 I think also you see us continuing to expand there. We expanded our RxPass package and program to Medicare members and that program allows customers and members to be -- Prime members to be able to get up to 60 common medications for just $5 a month. And we continue to launch same-day delivery of medications to cities. We have them in eight cities, including Los Angeles and New York today with plans to expand to more than a dozen cities by the end of the year. So we're seeing a lot of growth there, and we're very optimistic about it.
 
---------------------------------------------------------------------------------
 Operator    [10]
---------------------------------------------------------------------------------
 
           Brent Thill, Jefferies.
 
---------------------------------------------------------------------------------
 Brent Thill,  Jefferies LLC - Analyst    [11]
---------------------------------------------------------------------------------
 
           On AWS, I'm curious if you had a backlog number you could share for the quarter. And I guess, Andy, when you think about getting the data state ready, I know AI today is early. But when you see most of these companies are having to move to public cloud, are you seeing a step-up in return to workloads moving to get ready for this data state even if they're not ready to adopt AI? What are you seeing in those sales motions?
 
---------------------------------------------------------------------------------
 Dave Fildes,  Amazon.com, Inc. - Director of IR    [12]
---------------------------------------------------------------------------------
 
           This is Dave. I'll just start off just to give you the backlog figure. So at the end of the second quarter, it was $156.6 billion. So that's up about 19% year-over-year.
 
---------------------------------------------------------------------------------
 Andrew Jassy,  Amazon.com Inc - President, Chief Executive Officer, Director    [13]
---------------------------------------------------------------------------------
 
           On the second part of your question, Brent, what I would say is that it's true in analytics, but it's even maybe more so true in AI, which is that it's quite difficult to be able to do AI effectively if your data is not organized in such a way that you can access that data and run the models on top of them and then build the application.
 So when we work with customers, and this is true both when we work directly with customers as well as when we work with systems integrator partners, everyone is in a hurry to get going on doing generative AI. And one of the first questions that we ask is show us where your data is, show us what your data lake looks like, show us how you're going to access that data.
 And there's very often work associated with getting your data in the right shape and in the right spot to be able to do generative AI. The -- fortunately, because so many companies have done the work to move to the cloud, there's a number of companies who are ready to take advantage of AI, and that's where we've seen a lot of the growth.
 But also, it's worth remembering that again, remember the 90% of the global IT spend being on premises, there are a lot of companies who have yet to move to a cloud, who will, and the ability to use AI more effectively is going to be one of the many drivers in doing so for them.
 
---------------------------------------------------------------------------------
 Operator    [14]
---------------------------------------------------------------------------------
 
           John Blackledge, Cowen.
 
---------------------------------------------------------------------------------
 John Blackledge,  TD Cowen - Analyst    [15]
---------------------------------------------------------------------------------
 
           Great. Two questions. First, the AWS op income margins were strong, again, mid-30% area. Just kind of what were the key drivers and how should we think about AWS margins in the back half of the year? And then the international op income margin stepped down a bit Q-over-Q. Just curious about that.
 
---------------------------------------------------------------------------------
 Brian Olsavsky,  Amazon.com Inc - Senior Vice President, Chief Financial Officer    [16]
---------------------------------------------------------------------------------
 
           Yeah. Thank you, John. Let me start with AWS profitability. So yeah, the margin is in the mid-30s percent range in Q2. It's up from the mid-20% range last year. So you're seeing the impact of a number of cost reductions that we've made and efficiencies we've driven in the business.
 There's also an adjustment that we made to the useful life of servers that happened in Q1. Talked about last quarter, that contributed about 200 basis points of margin year-over-year. So we continue to work on the cost structure. But again, as we've said in the past, these operating margin will fluctuate and be lumpy quarter-to-quarter. We are -- continue to work to build new products that attract new customers and work on our efficiencies.
 Second question was?
 
---------------------------------------------------------------------------------
 John Blackledge,  TD Cowen - Analyst    [17]
---------------------------------------------------------------------------------
 
           International segment margin.
 
---------------------------------------------------------------------------------
 Dave Fildes,  Amazon.com, Inc. - Director of IR    [18]
---------------------------------------------------------------------------------
 
           Yeah, this is Dave. Just real quick on that. You mentioned we're about $300 million profit for the quarter. That is up about 390 basis points year-on-year from a margin perspective. And as we talked about in the past, there's a number of countries that different stages of existence and maturity there. And so I think you're seeing continued progress, certainly on a year-over-year basis with both our established countries. So the UK, Germany and Japan in particular being a sizable contributors to that business, continued improvement and build out there. Similar to the factors we talked about with the US, focused on operational efficiency while expanding the customer experience.
 And then in the emerging countries, as we've said over the past several quarters, we launched about 10 countries over the last 7 years really focused on, again, expanding that customer experience, building out the Prime member benefits while building scalable solutions for customers. And so I think in both that established and emerging areas, seeing good progress year-over-year in working for further improvement there.
 
---------------------------------------------------------------------------------
 Operator    [19]
---------------------------------------------------------------------------------
 
           Doug Anmuth, JPMorgan.
 
---------------------------------------------------------------------------------
 Douglas Till Anmuth,  JPMorgan Chase & Co - Analyst    [20]
---------------------------------------------------------------------------------
 
           You factored in some macro indiscretionary pressures into your 2Q guide, especially in Europe, and I think you called out computers, electronics and maybe TVs in 2Q as well. Just curious, were the macro trends generally as you expected? Or did you see softening through the quarter? And kind of how does that influence your 3Q outlook? And then separately, Brian, can you help us quantify the incremental investment around Kuiper that you talked about?
 
---------------------------------------------------------------------------------
 Brian Olsavsky,  Amazon.com Inc - Senior Vice President, Chief Financial Officer    [21]
---------------------------------------------------------------------------------
 
           Yeah, sure. Thank you, Doug. The macro factors, if I step back, I think Andy discussed it earlier as well. We're seeing a lot of the same consumer trends that we have been talking about for the last year. Consumers being careful with their spend, trading down, looking for lower ASP products, looking for deals. That continued into Q2, and we expect it to continue into Q3. We're seeing signs of it continuing in Q3.
 The difference in Q2 was that, again, we had very strong unit volume growth. We actually slightly accelerated when you adjust for leap year in North America unit growth in Q2. So the drop in revenue sequentially -- revenue growth sequentially was tied to ASP and both continuation of existing trends, but also as we talked about growth in our everyday essentials business and categories.
 So while we think we are selling a number of higher ticket items certainly, and holding up well in the market itself, certainly not as strong as it's been in a normalized economy. And -- so lower ASP products are more of the mix right now. And we like that because, again, our speed allows us to deliver, especially everyday essentials, quickly, and we'd like to be in the consideration set for consumers on those items.
 I -- we're not going to quantify Kuiper today but thank you for your question.
 
---------------------------------------------------------------------------------
 Dave Fildes,  Amazon.com, Inc. - Director of IR    [22]
---------------------------------------------------------------------------------
 
           Thanks for joining us today on the call and for your questions. A replay will be available on our Investor Relations website for at least three months. We appreciate your interest in Amazon and look forward to talking with you again next quarter.
 
@@ -298,9 +240,7 @@ Dave Fildes,  Amazon.com, Inc. - Director of IR    [22]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -311,9 +251,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -339,6 +277,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2024 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q4 2022 Alphabet Inc Earnings Call
 FEBRUARY 02, 2023 / 9:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Sundar Pichai
    Alphabet Inc. - CEO & Director
@@ -19,9 +17,7 @@ Corporate Participants
  * Ruth M. Porat
    Alphabet Inc. - Senior VP & CFO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Eric James Sheridan
    Goldman Sachs Group, Inc., Research Division - Research Analyst
@@ -40,24 +36,17 @@ Conference Call Participiants
  * Douglas Till Anmuth
    JPMorgan Chase & Co, Research Division - MD
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 Welcome, everyone. Thank you for standing by for the Alphabet Fourth Quarter 2022 Earnings Conference Call. (Operator Instructions) I would now like to hand the conference over to your speaker today, Jim Friedland, Director of Investor Relations. Please go ahead.
 
---------------------------------------------------------------------------------
 James H. Friedland,  Alphabet Inc. - Director of IR    [2]
---------------------------------------------------------------------------------
 Thank you. Good afternoon, everyone, and welcome to Alphabet's Fourth Quarter 2022 Earnings Conference Call. With us today are Sundar Pichai, Philipp Schindler and Ruth Porat. Now I'll quickly cover the safe harbor.
 Some of the statements that we make today regarding our business, operations and financial performance may be considered forward-looking, and such statements involve a number of risks and uncertainties that could cause actual results to differ materially. For more information, please refer to the risk factors discussed in our Forms 10-K and 10-Q filed with the SEC, including our upcoming Form 10-K filing for the year ended December 31, 2022.
 During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of non-GAAP to GAAP measures is included in today's earnings press release, which is distributed and available to the public through our Investor Relations website located at abc.xyz/investor. Our comments will be on year-over-year comparisons unless we state otherwise.
 And now I'll turn the call over to Sundar.
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO & Director    [3]
---------------------------------------------------------------------------------
 Thank you, Jim, and good afternoon, everyone. It's clear that after a period of significant acceleration in digital spending during the pandemic, the macroeconomic climate has become more challenging. We continue to have an extraordinary business and provide immensely valuable services for people and our partners. For example, during the World Cup final on December 18, Google Search saw its highest query per second volume of all time. And beyond our advertising business, we have strong momentum in Cloud, YouTube subscriptions and hardware.
 However, our revenues this quarter were impacted by pullbacks in advertiser spend and the impact of foreign exchange. I'll focus on 2 major things today in a bit more detail, and then I'll give a shorter-than-usual quarterly snapshot from across our business. First, how we unlock the incredible opportunities AI enables for consumers, our partners and for our business; and second, how we focus our investments and make necessary decisions as a company to get there.
 First, the AI opportunity ahead. AI is the most profound technology we are working on today. Our talented researchers, infrastructure and technology make us extremely well positioned as AI reaches an inflection point. More than 6 years ago, I first spoke about Google being an AI-first company. Since then, we have been a leader in developing AI. In fact, our Transformer research project and our field-defining paper in 2017 as well as our path-breaking work in diffusion models are now the basis of many of the generative AI applications you're starting to see today.
@@ -79,9 +68,7 @@ As I mentioned, our suite of AI/ML solutions across verticals are a key differen
 In Workspace, the innovations mentioned earlier are helping drive new wins and expansions across geographies. In Other Bets, from Calico to Waymo, we are focused on investing sustainably across the portfolio and creating good businesses. Verily, for example, has recently honed its strategy and structure to more clearly focus its product development.
 To close, we are all standing on the cusp of an era of amazing opportunities. We are going to be bold, responsible and focused as we move into it. A healthy disregard for the impossible has been core to our company culture from the very beginning. When I look around Google today, I see that same spirit and energy driving our efforts. Thanks to our employees, our partners and people everywhere who use our services. I'm excited for what's next. Over to you, Philipp.
 
---------------------------------------------------------------------------------
 Philipp Schindler,  Google LLC - Senior VP & Chief Business Officer    [4]
---------------------------------------------------------------------------------
 Thanks, Sundar. Hello, everyone. It's good to be with you all. I'll start today with our Google Services performance in the fourth quarter and then dive deeper into our priority areas. Google Services revenues of $68 billion were down 2% year-on-year, negatively affected by sizable foreign exchange headwind. In Google advertising, Search and Other revenues were down 2% year-over-year, and YouTube Ads and Network had high single-digit revenue declines. Google Other revenues were up 8% year-over-year, with strong growth in YouTube, non-advertising and hardware revenues, offset by a decrease in Play revenues.
 I'll highlight 2 other factors that affected our Ads business in Q4. Ruth will provide more detail. In Search and Other, revenues grew moderately year-over-year, excluding the impact of FX, reflecting an increase in retail and travel, offset partially by a decline in finance. At the same time, we saw further pullback in spend by some advertisers in Search in Q4 versus Q3. In YouTube and Network, the year-over-year revenue declines were due to a broadening of pullbacks in advertiser spend in the fourth quarter.
 I'll now zoom out to share more broadly where we're investing and see clear opportunities for long-term growth. First, Google AI. It's important to recognize that our advertising business has obviously benefited over the past decade from the transition to mobile. More recently, we had outsized growth in advertising revenues during the pandemic, with 2022 advertising revenues $90 billion higher than in 2019. Going forward, we are focused on growing revenues on top of this higher base through AI-driven innovation.
@@ -103,9 +90,7 @@ I'll close with something I've said many times before. Our success is only possi
 On that note, a big thank you to our partners and customers for their ongoing collaboration and trust, and to Googlers for their energy, focus and dedication to helping our users, customers and partners succeed, especially through these tougher times.
 Ruth, over to you.
 
---------------------------------------------------------------------------------
 Ruth M. Porat,  Alphabet Inc. - Senior VP & CFO    [5]
---------------------------------------------------------------------------------
 Thank you, Philipp. For the full year 2022, Alphabet delivered revenues of $283 billion, up 10% versus 2021 and up 14% on a constant currency basis, adding $37 billion to revenues, excluding the impact of foreign exchange. I will briefly cover the main points of our fourth quarter results and then turn to our outlook to give you more context for Sundar's comments on how we're focused on investing for growth as well as on reengineering our cost base for long-term success.
 For the fourth quarter, our consolidated revenues were $76 billion, up 1% or up 7% in constant currency. Search remained the largest contributor to revenue growth on a constant currency basis. Our total cost of revenues was $35.3 billion, up 7%. Other cost of revenues of $22.4 billion were up 15%. The increase was driven by 2 factors. First, hardware costs due primarily to $1.2 billion in inventory-related charges, and secondarily, to strong unit sales. The charges reflect ongoing pricing pressures and changes in expected future inventory needs.
 Second, costs associated with data centers and other operations. Operating expenses were $22.5 billion, up 10%, reflecting an increase in R&D expenses, primarily driven by headcount growth, followed by an increase in G&A expenses, primarily reflecting an increase in charges related to accrued legal matters. These increases were partially offset by a decline in sales and marketing expenses primarily due to lower advertising and promotional spend. Operating income was $18.2 billion, down 17% versus last year, and our operating margin was 24%. Net income was $13.6 billion. 
@@ -125,173 +110,114 @@ Turning to CapEx. For 2023, we expect total CapEx to be generally in line with 2
 Finally, I will point you to our earnings release in which we noted that we adjusted the estimated useful lives of servers and certain network equipment starting in Q1 '23. We expect these changes will favorably impact our 2023 operating results by approximately $3.4 billion for assets and service as of year-end 2022. Thank you. Sundar, Philipp and I will now take your questions.
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 (Operator Instructions) And our first question comes from Brian Nowak with Morgan Stanley.
 
---------------------------------------------------------------------------------
 Brian Thomas Nowak,  Morgan Stanley, Research Division - Research Analyst    [2]
---------------------------------------------------------------------------------
 I have 2. The first one around AI and sort of the cost of AI. I appreciate all the color about all the AI tools that are to come. I guess, first question is, how should we think about the potential impact on CapEx, and the higher compute intensity of these AI tools to come potentially impacting margins over the next couple of years?
 And then the second one, Ruth, I really appreciate the conversation about long-term efforts underway to improve efficiency. How should we think about potential impacts of those efforts in '23 and in '24? Have you sort of run any sizes of what types of savings we could see roll through the P&L over that period?
 
---------------------------------------------------------------------------------
 Ruth M. Porat,  Alphabet Inc. - Senior VP & CFO    [3]
---------------------------------------------------------------------------------
 Thanks for the question. So starting on your question about AI and CapEx. As I think Sundar and Philipp both noted, AI is already incorporated in many of our products, products like Performance Max and Smart Bidding and Cloud, as Sundar said. It is more compute-intensive but also opens up many more services and products for our users, for creators, for advertisers.
 That being said, we're very focused on further optimizing the cost of compute, and that's across all elements, data center, servers and our supply chain. So we're continuing to invest with a keen lens on the return on that capital. And as I indicated in opening comments, when we look at CapEx for 2023, we do expect it's going to be generally in line with 2022 with an important mix shift. We're increasing our investments in technical infrastructure. And that's not just for AI. That's to support investments across Alphabet, in particular in Cloud as well. And at the same time, we're meaningfully decreasing our CapEx for office facilities.
 And then with respect to the overall efficiency opportunities, yes, very keen focus on the 3 areas that I noted, and one of the key elements of it is using AI and automation to improve productivity and efficiency of our technical infrastructure. We noted that we want to be focused and that we are focused on durable improvements to our expense base. And that's because if you go through the items, the work streams that we have in flight, they take longer to implement, execute. They're in process now, and they continue to build on themselves and continue to provide added upside as we go through time, which is why I indicated you would see more of an impact on 2024 than in 2023. But we're continuing to work through them.
 
---------------------------------------------------------------------------------
 Operator    [4]
---------------------------------------------------------------------------------
 And our next question comes from Michael Nathanson with Nathanson (sic) [MoffettNathanson].
 
---------------------------------------------------------------------------------
 Michael Brian Nathanson,  MoffettNathanson LLC - Co-Founder, Founding Partner & Senior Research Analyst    [5]
---------------------------------------------------------------------------------
 I have 2. For Sundar and Philipp, you both mentioned the NFL in your remarks and the opportunities it opens up. Can you comment and help us define what do you see is that longer-term opportunity? Why is it so critical to have the NFL? Is this the first of many sports deals to be had? So anything to just help us why this is so important to you.
 And then just, Philipp, you've said in the past about the scaling of monetization, YouTube Shorts. What are the sticky factors? What's taking time to really bring advertisers on? And what are some of the things you've seen in terms that you've solved to make this a more quickly monetizable product?
 
---------------------------------------------------------------------------------
 Philipp Schindler,  Google LLC - Senior VP & Chief Business Officer    [6]
---------------------------------------------------------------------------------
 Yes. Thank you so much for the question. We think there is a lot of great opportunities to differentiate the user and creator experience with our unique capabilities. It basically means that every YouTube viewer who is interested in the NFL can now have 1-click access to the full offering of Sunday Ticket as an add-on package on YouTube TV subscription and as a stand-alone offering on Primetime Channels. This will be the first time that Sunday Ticket is actually available a la carte for fans.
 On YouTube TV, we're building the ability for subscribers to, for example, watch multiple screens at once. And on YouTube CTV, we'll be adding new features specific to the Sunday Ticket experience like comments, chats, polls and so on. On the creator side, imagine all the innovative ways they can create with exclusive NFL content, behind-the-scenes event access and so on. And we're really excited to see what they'll do across long-form, shorts, live streams and more.
 On your second question, on the Shorts side, as I said earlier, viewership is growing rapidly, 50 billion-plus daily views, up from 30 billion last spring. We're still pleased with our continuing progress in monetization. Closing the gap between Shorts and long-form is a big priority for us, as is, of course, continuing to build a great creator and user experience, which we're paying a lot of attention to. As on Shorts are now available, it gives you a bit of a sign for the progress. We have video action, app discovery, Performance Max campaigns. And via product feed, Shorts are also shoppable.
 And again, we're the only destination where creators can produce all forms of content across multiple formats, across multiple screens and really with multiple ways to make a living. And Sundar shared just yesterday, we brought revenue sharing to Shorts via our YouTube Partner Program. Ultimately, our goal is to make YouTube the best place for Shorts and creators. And that's really what our focus is at the moment.
 
---------------------------------------------------------------------------------
 Operator    [7]
---------------------------------------------------------------------------------
 And our next question comes from Douglas Anmuth with JPMorgan.
 
---------------------------------------------------------------------------------
 Douglas Till Anmuth,  JPMorgan Chase & Co, Research Division - MD    [8]
---------------------------------------------------------------------------------
 One for Sundar and one for Ruth. For Sundar, can you just talk more about how you can bring the AI products to market with the principles and integrity that you talked about, and how you can do that without kind of sacrificing quality or trust along the way?
 And then, Ruth, clearly, the language around reengineering the cost structure in a durable way and everything that went along with it is different than what we've heard in the past. Is there any way at all to help us quantify how you're thinking about these efforts?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO & Director    [9]
---------------------------------------------------------------------------------
 Thanks, Doug. On the AI side, it is a really exciting time. I think we've been investing for a while, and it's clear that the market is ready. Consumers are interested in trying out new experiences. I think I feel comfortable with all the investments we have made in making sure we can develop AI responsibly. And we'll be careful. We'll be launching more as labs products in certain cases, beta features in certain cases and just slowly scaling up from there. Obviously, we need to make sure we are iterating in public, these models will keep getting better so the field is fast changing. The serving costs will need to be improved.
 So I view it as very, very early days, but we are committed to putting our experiences, both in terms of new products and experiences, actually bringing direct LLM experiences in Search, making APIs available for developers and enterprises and learn from there and iterate like we've always done. So I'm looking forward to it.
 
---------------------------------------------------------------------------------
 Ruth M. Porat,  Alphabet Inc. - Senior VP & CFO    [10]
---------------------------------------------------------------------------------
 And then on your second question, when we talk about being focused on delivering sustainable financial value, that obviously means that expense growth cannot be growing ahead of revenue growth. And we're focused on revenue upside as well as durable changes to the expense base to really ensure we have the capacity to invest in that growth. And clearly, the emphasis of revenue growth, there's a lot that's exciting ahead of us within Google Services, all of the AI advancements that are improving advertiser ROI and the search user experience and more broadly, as we've talked about across the key product areas.
 And then very importantly, on expense growth, we have a very strong commitment to -- we keep emphasizing durably reengineer our cost base, and that will benefit all of the segments across Alphabet. And the key components, slowing the pace of hiring as a starting point, product prioritization across Google, as Sundar said, is key. Improving economics in hardware as we focus intently on the Pixel line and cost structure, then using AI and automation to improve productivity for operational tasks as well as for the efficiency of our technical infrastructure, where we have a number of work streams. Managing our spend, as I said, with suppliers and vendors and then optimizing how and where we work, and you saw part of that with the real estate consolidation, given the slower headcount growth.
 All of those not only benefit Google Services but many of those similarly drive greater efficiency across Alphabet. And so as we've said, in Cloud, we remain very focused on the path to profitability. That's a revenue and margin driver. And then with Other Bets, we're similarly focused on investing sustainably. 
 And so to go back to it, it's the durable nature of change in some of the elements that I've talked about here where work is ongoing, you start to see impacting in '23 but to really get full year run rate and the benefit of it, there is work ongoing. And that's why we've emphasized this notion of it comes in and then really you see the run rate in '24.
 
---------------------------------------------------------------------------------
 Operator    [11]
---------------------------------------------------------------------------------
 Our next question is from Eric Sheridan with Goldman Sachs.
 
---------------------------------------------------------------------------------
 Eric James Sheridan,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [12]
---------------------------------------------------------------------------------
 Maybe 2, if I could. Sundar, for you, continuing on the AI theme, how do you think philosophically about capturing the opportunity set that you see in front of you, given all the investments you've made over the last 5-plus years that we've been talking about going back to a lot of Google I/Os versus potentially disrupting the user experience or the monetization arc in your existing product set and striking the right balance between the opportunity set and being disruptive to yourself when you think about looking forward over the next couple of years?
 And then, Ruth, maybe just following on some of the questions and debates on the cost structure. Obviously, Other Bets is an area where the losses continue to be sort of higher than what some of us think from the outside looking in. But then you showed some improvement in the losses in the Cloud division this quarter. How should we be thinking about the rationalization of the cost structure and aligning costs with opportunity sets across some of the divisions of Alphabet when you think for the medium to long term?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO & Director    [13]
---------------------------------------------------------------------------------
 Thanks, Eric. Look, I do think, first of all, we made such a foundational technology and we've been investing not just in terms of research but actually getting it all production scale-ready. We had already deployed. If you look at the impact, things like BERT and MUM have had on search quality, making search multimodal, driving the usage of products like Google Lens. I feel like we've been scaling up well.
 In Google Cloud today with Vertex AI, we'd already been bringing AI APIs to enterprises, and they're on a pretty healthy growth path. So we do see secular opportunities ahead, both in terms of putting these APIs out, making sure every developer, every organization in the world can use it. And as I said earlier, we are in very, very early days, and I think there's a lot of room ahead.
 In terms of Search too, now that we can integrate more direct LLM-type experiences in Search, I think it will help us expand and serve new types of use cases, generative use cases. And so I think I see this as a chance to rethink and reimagine and drive Search to solve more use cases for our users as well. So again, early days, you will see us be bold, put things out, get feedback and iterate and make things better.
 
---------------------------------------------------------------------------------
 Ruth M. Porat,  Alphabet Inc. - Senior VP & CFO    [14]
---------------------------------------------------------------------------------
 And then in terms of your question about Other Bets investment levels, so as we've talked about in prior calls, our goal for Other Bets is to use our deep technology investments to drive innovation with real potential for value creation. And at the same time, we are very focused on the overall pace of investment and the financial returns. And so what we're really looking at here are what are the opportunities for monetization and commercialization.
 As I've said on prior calls, there is no monolithic approach across the portfolio, but we are very focused on whether -- what's the pace of investment opportunities for monetization and commercialization. And just a bit more with respect to the DeepMind move, to be very clear, we consolidate in Other Bets into Google only when that bet supports products and services within Google or for Alphabet broadly. And you saw us do that some time ago when we moved Chronicle as an example into combining with our Cloud business and really the cybersecurity offering that is now in Cloud, and that was very effective.
 With AI, this is obviously an Alphabet strategic priority, and we see huge opportunity ahead, and DeepMind's research is core to that future across the product areas in the Alphabet portfolio. And so this reporting change reflects the strategic focus in DeepMind, the support of each one of our segments, and that's why I indicated that beginning Q1, DeepMind financials will be reported within our corporate cost segment.
 
---------------------------------------------------------------------------------
 Operator    [15]
---------------------------------------------------------------------------------
 Our next question is from Justin Post with Bank of America Merrill Lynch.
 
---------------------------------------------------------------------------------
 Justin Post,  BofA Securities, Research Division - MD    [16]
---------------------------------------------------------------------------------
 Just digging into Search kind of low single-digit growth ex FX. Can you talk about the pressures there, volume versus pricing or CPCs? What's really driving the slowdown? It's kind of almost back to '09 recession levels. Just think about that. And then any signs that we're near a bottom? Any stabilization in growth rates you can talk about or how your outlook is for '23 on that?
 
---------------------------------------------------------------------------------
 Ruth M. Porat,  Alphabet Inc. - Senior VP & CFO    [17]
---------------------------------------------------------------------------------
 So overall, as we've indicated, we remain very excited about all that we're doing in Search, the utility for all of us. And so that's why you've heard so many comments about the application of AI and what that means for the ongoing opportunity. You had a number of different questions in there. I think one was on volumes. In the 10-K that we'll be filing shortly, you'll see that for the full year 2022, CPCs were down 1% versus last year. And as we've talked about in prior quarters, the change in CPCs can reflect a number of different factors: geographic mix, property mix, all sorts of things.
 Clicks were up 10% in 2022, reflecting a number of factors, including increased engagement, primarily on mobile devices and improvements in ad formats. But I think overall, we're really excited about what we see ahead. We're not going to predict the global environment. We did say the challenging backdrop is ongoing, and you can see that but we're very focused on what we can control. And I think most important and what we're really excited about here is innovation to help advertisers overall and our cost reengineering that really gets us to align this long-term sustainable value creation.
 
---------------------------------------------------------------------------------
 Operator    [18]
---------------------------------------------------------------------------------
 Our next question is from Ross Sandler with Barclays.
 
---------------------------------------------------------------------------------
 Ross Adam Sandler,  Barclays Bank PLC, Research Division - MD of Americas Equity Research & Senior Internet Analyst    [19]
---------------------------------------------------------------------------------
 Just a question on the hardware business. Pixel's doing quite well, but it seems like there have been issues around other areas with this inventory write-down. So could maybe you guys just talk about, in your mind, the strategic importance of having the wide range of hardware products that you have in that segment as it relates to your overall AI initiatives?
 
---------------------------------------------------------------------------------
 Sundar Pichai,  Alphabet Inc. - CEO & Director    [20]
---------------------------------------------------------------------------------
 Thanks, Ross. First of all, very, very pleased with how Pixel has performed through a challenging macro environment. Look, I think our computing portfolio is incredibly important. It's what allows us to -- for us to invest and drive innovation forward. You have to put it all together as a product and ship it. And I think it ends up playing a very, very big role in guiding the ecosystem as well.
 And increasingly, I think users are thinking beyond phones and thinking through a holistic ecosystem. To give one example, us undertaking Pixel Watch and, as part of that, integrating Fitbit and bringing it to our ecosystem as well, partnering closely with Samsung on wearables. The combination is what has driven over a 300% increase in actives on Android watches ecosystem. So just to give you a context on that.
 So we are very thoughtful about how we are approaching this area. And as Ruth mentioned, across all these areas, too, we are working to drive greater focus and cost efficiencies in the portfolio. Obviously, we work through a challenging supply chain environment as well as a challenging environment on the demand side. And so we'll continue focusing on improving all of this in a durable way.
 
---------------------------------------------------------------------------------
 Operator    [21]
---------------------------------------------------------------------------------
 And our next question comes from Mark Mahaney with Evercore ISI.
 
---------------------------------------------------------------------------------
 Mark Stephen F. Mahaney,  Evercore ISI Institutional Equities, Research Division - Senior MD & Head of Internet Research    [22]
---------------------------------------------------------------------------------
 I'll just ask 1 question on, Ruth, you mentioned a couple of times getting Google Cloud to profitability. And just talk through how that gets done. You had almost 40% growth in Google Cloud. The operating loss level stayed about the same from '21 to '22, so the growth is there. What are the factors that need to be solved in order to get pretty nice profitability out of that segment sort of anywhere akin to what Azure and AWS have been able to show over the years?
 
---------------------------------------------------------------------------------
 Ruth M. Porat,  Alphabet Inc. - Senior VP & CFO    [23]
---------------------------------------------------------------------------------
 Thanks for the question. So as we've talked about on prior calls, with Google Cloud, we've really been investing ahead of our revenues, given the growth and the opportunity overall and the desire to ensure that we're equipped, able to support customers across segments around the globe. And so there's been meaningful investments to position ourselves to really have the momentum that the team has continued to deliver.
 That being said, they are, as both Sundar and I have noted, extremely focused on the path to profitability and every element of that. And some of the items that I noted that benefit Alphabet generally most certainly are relevant here for Cloud as well, everything from our efficiency with our technical infrastructure, which we're very excited about, all the efforts that they're doing there and more broadly.
 So this has been really to ensure, first and foremost, given the scale of the opportunity and the speed with which it's moving that we're positioned to be present with our customers, to provide them with the analytics, the skills, the capabilities that are needed to build for long-term growth. And we're at a position now where we've meaningfully closed the gap to profitability but still are working through as we continue to invest for growth while narrowing what this is on our march to profitability.
 
---------------------------------------------------------------------------------
 Operator    [24]
---------------------------------------------------------------------------------
 And our last question comes from Brent Thill with Jefferies.
 
---------------------------------------------------------------------------------
 Brent John Thill,  Jefferies LLC, Research Division - Equity Analyst    [25]
---------------------------------------------------------------------------------
 Ruth, can you give us a sense of what you're seeing in Q1? Is this year a little more seasonal than historic? Are you observing any different patterns just over 1 month into the year? Can you give us any color in terms of how you're framing this quarter?
 
---------------------------------------------------------------------------------
 Ruth M. Porat,  Alphabet Inc. - Senior VP & CFO    [26]
---------------------------------------------------------------------------------
 So I think as you know well, we don't tend to -- we don't provide exit run rates. What we try to do is give you the context within which we're approaching the overall business and the priorities that we have as we're looking at revenue upside and the growth levers there as well as how to reengineer our expense base to deliver attractive returns. So not really much to add to the comments that you've heard today, and we're continuing to execute across each one of the elements we discussed.
 
---------------------------------------------------------------------------------
 Operator    [27]
---------------------------------------------------------------------------------
 And that concludes our question-and-answer session for today. I'd like to turn the conference back over to Jim Friedland for any further remarks.
 
---------------------------------------------------------------------------------
 James H. Friedland,  Alphabet Inc. - Director of IR    [28]
---------------------------------------------------------------------------------
 Thanks, everyone, for joining us today. We look forward to speaking with you again on our first quarter 2023 call. Thank you, and have a good evening.
 
---------------------------------------------------------------------------------
 Operator    [29]
---------------------------------------------------------------------------------
 Thank you, everyone. This concludes today's conference call. Thank you for participating. You may now disconnect.
 
 
@@ -300,9 +226,7 @@ Thank you, everyone. This concludes today's conference call. Thank you for parti
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -313,9 +237,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -341,6 +263,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

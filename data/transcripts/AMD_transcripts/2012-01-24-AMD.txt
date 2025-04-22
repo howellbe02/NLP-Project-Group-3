@@ -6,18 +6,14 @@ E D I T E D   V E R S I O N
 Q4 2011 Advanced Micro Devices Inc Earnings Conference Call
 JANUARY 24, 2012 / 10:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Mark Papermaster
    Advanced Micro Devices, Inc. - SVP and CTO
  * Ruth Cotter
    Advanced Micro Devices, Inc. - VP of IR
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Patrick Wang
    Evercore Partners - Analyst
@@ -44,18 +40,13 @@ Conference Call Participiants
  * Sanjay Jadhav
    Nomura Asset Management - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
            Good afternoon.  My name is Huey and I'll be your conference operator for today.  At this time, I'd like to welcome everyone to AMD's fourth-quarter 2011 earnings conference call.  All lines have been placed in listen-only mode at this time.  After the speaker's remarks, you'll be invited to participate in the question-and-answer session.  As a reminder, this conference is being recorded today.
  I would now like to turn the conference over to Ms.  Ruth Cotter, Vice President of Investor Relations for AMD.  Please go ahead. 
 
---------------------------------------------------------------------------------
 Ruth Cotter,  Advanced Micro Devices, Inc. - VP of IR    [2]
---------------------------------------------------------------------------------
 
            Thank you.  And welcome to AMD's fourth quarter and year-end earnings conference call.  By now you should have had the opportunity to review a copy of our earnings release and the CFO commentary.  If you've not reviewed those documents, they can be found on AMD's website at quarterlyearnings.AMD.com.
  Participants on today's conference call are Rory Read, our President and Chief Executive Officer; Thomas Seifert, our Senior Vice President and Chief Financial Officer; and Mark Papermaster, our Senior Vice President and Chief Technology Officer.  This is a live call and will be replayed via webcast on AMD.com.  There will also be a telephone replay.  The number is 888-266-2081.  Outside of the United States, the number is 703-925-2533.  The access code for both is 1563304.  The telephone replay will be available for the next 10 days, starting later this evening.
@@ -65,9 +56,7 @@ Ruth Cotter,  Advanced Micro Devices, Inc. - VP of IR    [2]
  The semiconductor industry is generally volatile and market conditions are particularly difficult to forecast.  We encourage you to review our filings with the SEC, where we discuss the risk factors that could cause actual results to differ materially from our expectations.  You'll find detailed discussions about such risk factors in AMD's Quarterly Report on Form 10-Q for the quarter ended October 1, 2011.
  Now with that, I'd like to hand the call over to Rory.  Rory? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [3]
---------------------------------------------------------------------------------
 
            Thank you, Ruth.  2011 was an important year of change for AMD.  We took steps to optimize our business for today, and position the Company to seize the opportunities for tomorrow.  We made good progress, but no question, we have more work to do.
  First, we demonstrated that our innovation engine remains strong.  The tremendous success of our low power Brazos platform drove a 25% increase in mobile processor shipments and significant notebook share gains for the year.  Brazos is, in fact, the most successful platform in our AMD history.
@@ -91,9 +80,7 @@ Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [3]
  I believe AMD is uniquely positioned to take advantage of these key business trends.  AMD begins 2012 with a clear path forward.  We know where our opportunities lie and what we need to do to seize them.  Every AMD'er is focused on building an AMD that will deliver on its commitments, with innovative products that anticipate the needs of our customers and the fast-changing market.
  I look forward to providing more details of our strategy at our Analyst Day next week.  With that, I'll turn it over to Thomas, who will cover the financials for 2011 and the fourth quarter. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices, Inc. - SVP and CFO    [4]
---------------------------------------------------------------------------------
 
            Thank you, Rory.  2011 was a year of solid financial execution, combined with significant operational and strategic actions, designed to position AMD for success on the target markets.  We executed well to our 2011 financial model, while strengthening our balance sheet.  We implemented efficiencies across the Company's operations and reduced our headcount in the fourth quarter, which we expect will result in savings of over $200 million in operating expenses, most of which the Company expects to reinvest.  This reinvestment will fund initiatives designed to accelerate AMD's strategies for low-power, emerging markets, and the cloud.
  2011 highlights include a strengthened balance sheet with debt reduced to $2 billion, down by $200 million in principal value from a year ago; achievement of the following 2011 financial goals -- gross margin of 45%; positive non-GAAP operating income; and improved non-GAAP adjusted free cash flow to $528 million as compared to $355 million in 2010.
@@ -113,32 +100,23 @@ Thomas Seifert,  Advanced Micro Devices, Inc. - SVP and CFO    [4]
  Our continued focus on financial performance and operational efficiencies has paved the way to position AMD as a strong competitor in the computing space.  We're excited about our achievements to date, as well as our capabilities and our roadmaps.  We look forward to sharing our exciting plans with you at our Financial Analyst Day on February 2 at our Sunnyvale headquarter.
  With that, I'll turn back to Ruth. 
 
---------------------------------------------------------------------------------
 Ruth Cotter,  Advanced Micro Devices, Inc. - VP of IR    [5]
---------------------------------------------------------------------------------
 
            Thank you, Thomas.  And Huey, we'd now be open to you polling the audience, please, for questions.
 
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
      (Operator Instructions).  John Pitzer, Credit Suisse. 
 
---------------------------------------------------------------------------------
 John Pitzer,  Credit Suisse - Analyst    [2]
---------------------------------------------------------------------------------
 
      Yes, guys, congratulations on the good results.  I'm just kind of curious, Rory and Tom, when you look at the guidance you're giving for the first quarter, can you help us put that into context?  Is there an assumption that the hard disk drive issue in Thailand is negatively impacting Q1, and that's reflected?  Are there further share gains?
  And I'd be curious on the positive trend in servers, whether or not you'll make it three-for-three, as far as sequential growth.  Thanks. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [3]
---------------------------------------------------------------------------------
 
      Hey, thanks, John.  There is no doubt that the customer acceptance of our APU architecture is quite strong.  We've now shipped over 30 million of these APUs to date.  And we're seeing a strong uptake in terms of that architecture and what it means to the customer.  They are looking for a better experience.  I think that's a key reason why we've seen the momentum in our business and the ability to deliver on that.
  You know, our focus on execution around the APUs and around Llano is definitely paying off.  And I think as we move forward, we should be able to continue to build on that momentum.
@@ -147,54 +125,38 @@ Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [3]
  As it relates to server, that's two quarters in a row.  We're starting to see a steady improvement in this business and we want to build on that.  I think the acceptance of the Opteron 6200, with the new launches around our key partners like HP and Dell, are paying dividends.  And you're seeing that momentum translate into higher growth -- two quarters in a row.  We're going to work hard to make it three, and we're going to continue to work on delivering the kind of solution that makes a difference to the customer.
  Thomas, do you want to add anything? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices, Inc. - SVP and CFO    [4]
---------------------------------------------------------------------------------
 
      I think that's a fair balance.  The product momentum we have seen we expect to continue, as Rory explained.  And we will see some headwind out of the shortages in certain segments and channels.  Overall, it will lead to pretty much a seasonal expectation for us for the first quarter. 
 
---------------------------------------------------------------------------------
 John Pitzer,  Credit Suisse - Analyst    [5]
---------------------------------------------------------------------------------
 
      And then guys, as a quick follow-up, Thomas, just relative to the gross margin guidance, you referenced the ongoing negotiations with GLOBALFOUNDRIES.  Is that influencing the gross margin coming down a bit?  Or is that mainly just the revenue and mix?  And then I guess, how do those negotiations impact your longer-term view on the gross margin model? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices, Inc. - SVP and CFO    [6]
---------------------------------------------------------------------------------
 
      Yes.  A very good question.  So, first of all, let me help you build a bridge.  We see some tailwind, headwinds in there, let me start there, in the first quarter, just because of product mix and revenue being seasonally down.
  You know that in the fourth quarter, our game console licensing revenue helped us to exceed expectations.  So we'll see some headwinds from product mix in there in the first quarter.  And we see some tailwinds because of improving yields on the 32-nanometer side.  We think if you take the gives and takes, you're going to come out at 45%, pretty much.
  The negotiations with [GLOBALFOUNDRY] are making very good progress.  We're very pleased with the results we have been achieving.  And we think we approach the conclusion of those negotiations.  And, of course, as the guidance we provided today for the current [three] quarter also reflects, or is an assessment of where we are in there -- with the negotiations. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [7]
---------------------------------------------------------------------------------
 
      Yes, and I'd add, John, that I feel particularly positive about those negotiations going in the right direction.  I think the partnership that we're trying to build first around focusing around execution -- we've been maniacally focused with our partners at GF, IBM, PDF and AMD, all working together to address the execution challenges we had in third quarter.  And we've seen progress.
  As we move forward off of those successes in that partnership, I think the negotiations have moved forward well.  And we're trying to work to put in place the kind of agreements that would allow us to have a strong base for the next two years, to be able to deliver on our expectations and to move forward with a successful model, that allows us to meet those customer demands and deliver on our financial commitments.  So we're making very good progress there, John. 
 
---------------------------------------------------------------------------------
 John Pitzer,  Credit Suisse - Analyst    [8]
---------------------------------------------------------------------------------
 
      Thanks, guys. 
 
---------------------------------------------------------------------------------
 Operator    [9]
---------------------------------------------------------------------------------
 
      Glen Yeung, Citi. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [10]
---------------------------------------------------------------------------------
 
      Can you say whether or not your 32-nanometer yields are sufficiently good, whereby you are now actually meeting the demand you have for that product?  Or are you still a little bit short relative to demand? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [11]
---------------------------------------------------------------------------------
 
      So Glen, that's a very good question and focus.  We've been intensely focused on addressing this execution challenge.  And there's no doubt that this kind of focus is producing benefit.  Week in and week out, we've seen steady improvement from where we started the quarter and where we ended 3Q.
  We've actually increased our Llano 32-nanometer product delivery by 80% from the third quarter.  And now Llano makes up almost 60% of the mobile microprocessing revenue.  I think this is a good step in the right direction.  This gives us the momentum, and we were able to deliver in a more effective way on the customer demands.
@@ -202,347 +164,241 @@ Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [11]
  You're going to see us keep that focus, and it's our commitment to continue to improve that to deliver on every customer commitment.  Because building on that customer commitment, delivering on them, is the bedrock of developing long-term customer trust, which will fuel future growth.
  Thanks, Glen. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [12]
---------------------------------------------------------------------------------
 
      Maybe as a follow-up, just again on the server side, Intel is about to ramp up the Romley platform for them.  Do you think in the face of that, you can continue to grow the server business?  Or do you think we might see a temporary pause just as, again, as that new product from Intel ramps?  Or is there something specific about the nature of where you're gaining on server that you think you can continue to move forward with that? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [13]
---------------------------------------------------------------------------------
 
      Well, Glen, we've built on two steady -- two consistent quarters of improving growth.  I think that shows the beginnings of a strong foundation.  We've got to continue to build on that.  And with the launches of the HP products, the Dell products -- you know, HP has now launched the world's fastest dual socket database server.  And Dell achieved the world record for a power efficiency in the blade server space.
  Those are good data points that say there's the interest and the desire.  And when I look at, on a weekly basis, and I look at the pipeline of customer interest and demand, we're building on that week in and week out.
  Of course, with our relatively modest share position, our objective is to continue to build on this turnaround.  We're just at the very beginning of this.  And this is a long-term focus for us to build on quarter-in and quarter-out.  Sure, there will be new products introduced across the year and into next year.  And we'll do the same.
  But it's about building those relationships with the enterprise customers; understanding their needs; making sure that we're delivering those products consistently with the execution.  It's our focus to continue to build on that and move forward with these first two quarters of expanding growth.  Thanks, Glenn. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [14]
---------------------------------------------------------------------------------
 
      Great.  Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [15]
---------------------------------------------------------------------------------
 
      Vivek Arya, Bank of America. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [16]
---------------------------------------------------------------------------------
 
      Thanks for taking my question, Rory and Thomas.  I think you mentioned 32-nanometer yield improvement at GLOBALFOUNDRIES, but you took a substantial $200 million-plus impairment charge in Q4.  Can you help us understand why?
  And more importantly, how do you see the mix of CPU at GLOBALFOUNDRIES versus TSMC in the future, and what would be the cost implications? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices, Inc. - SVP and CFO    [17]
---------------------------------------------------------------------------------
 
      Yes, I take the valuation question first.  As you know, we began to account for our investment in GLOBALFOUNDRIES under the method of -- cost method of accounting last -- first quarter last year.  And at that time, the investment was determined to have a value of around $460 million.
  We, as a company, review our investment for impairment indicators regularly.  At the end of last quarter, we did this with GLOBALFOUNDRIES.  And based on certain indicators, their future growth outlook, they have changed the timeline on the new fab in Abu Dhabi; their business plans have changed and we reevaluated our investment in the company.
  It has decreased now down to $277 million and we impaired, for that very reason, the investment we have.  So that is not so much a statement about 32-nanometer yields at this point in time, but about the bigger picture and long-term growth outlook of GLOBALFOUNDRIES and how they have adjusted their plans. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [18]
---------------------------------------------------------------------------------
 
      And GLOBALFOUNDRIES versus TSMC? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [19]
---------------------------------------------------------------------------------
 
      We're going to continue to build on the strong relationships that we've been developing with GLOBALFOUNDRIES.  As we move forward, you're going to see us continue to expand on the execution focus that we have, and continue to build on the expansions in terms of the process node technology.
  What we're really focused on is making sure we have the execution capability and to be able to deliver that consistently.  Those foundry choices are all consistent with the financial objectives that we've created and the modeling that Thomas shared earlier. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [20]
---------------------------------------------------------------------------------
 
      All right.  And one quick follow-up, Rory, if I may. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [21]
---------------------------------------------------------------------------------
 
      Of course. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [22]
---------------------------------------------------------------------------------
 
      Some very good progress in servers, but I've seen the prepared remarks that you mentioned that there was some price declines, single digit server ASP declines.  Is that just a function of mix?  Or is there some other factor here? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [23]
---------------------------------------------------------------------------------
 
      Yes, I think that's really driven, Vivek, by the mix and in terms of some of the early implementations to make sure we got that in place.  As you're introducing a new product, we would expect to build off of that, and to see the mix change as we move through the yield cycles and as we move through the launch. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [24]
---------------------------------------------------------------------------------
 
      Got it.  Great.  Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [25]
---------------------------------------------------------------------------------
 
      Uche Orji, UBS. 
 
---------------------------------------------------------------------------------
 Steve Eliscu,  UBS - Analyst    [26]
---------------------------------------------------------------------------------
 
      Yes.  This is Steve Eliscu for Uche.  First question is on ultra-books -- or ultrathin notebooks.  Can you give us a sense of where you think exiting the year the percentage of notebook processors that would be for the ultrathin SKU? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [27]
---------------------------------------------------------------------------------
 
      You know, the movement to thin and light is nothing new.  Customers want mobility.  And the ideas of ultrathins is something that we're very focused on.  And if you think about it, with our APU strategy that I mentioned, with the next-generation product, Trinity APU, we already are well ahead of the pace last year when we set our record-setting year for design wins with the Trinity product in 2012.
  With that product, we can deliver ultrathins in the range of 17 millimeters.  And what's really important I think we have to all focus on is ultrathin and mobility.  The ability for computing to reach customers across the planet -- whether it's in high-gross markets, mature markets -- we want to deliver that kind of mobility solution with a great experience, great graphics, low power, in a thin mobile solution, and we want to do it at a mainstream price.
  That opens the door for this computing to a much broader portfolio.  And our objective at AMD is to deliver that kind of technology, that kind of experience into the sweet spot of the market.  And you're going to see us build on those design wins, record-setting in '11 with the original family set of APUs, and moving forward with Trinity already outpacing in creating the records. 
 
---------------------------------------------------------------------------------
 Mark Papermaster,  Advanced Micro Devices, Inc. - SVP and CTO    [28]
---------------------------------------------------------------------------------
 
      It's Mark, and I'll add that the improvements that we've made in Trinity in both our CPU and the GPU are really delivering outstanding results and performance per watt.  So as well for the ultrathins being able to hit the 17 millimeter low-profile, we're also getting a doubling of the performance per watt.  So it's an exciting application of our APU technology. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [29]
---------------------------------------------------------------------------------
 
      I think you'll see mobility continue to expand.  That's where we've strong growth in the market.  IDC, Gartner, Mercury, are all forecasting 2012 mobility to increase.  It looks like they're forecasting a better year than '11 and '12, looking stronger in the second half than the first half.  It doesn't matter.  What's most important to us is to understand the market and the customer needs, and deliver the technology at the price points that create this for everyone.  We want to create this kind of ultrathin type solution that can reach the masses -- everyone. 
 
---------------------------------------------------------------------------------
 Steve Eliscu,  UBS - Analyst    [30]
---------------------------------------------------------------------------------
 
      That's helpful.  Certainly would encourage to give us a goal as you get further along with Trinity.  (multiple speakers) 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [31]
---------------------------------------------------------------------------------
 
      Before you go on to the follow-up question, Steve, one of the things you might think about is coming to the Analyst Day next week, because we'll go into a little bit more detail around the strategy, what we're doing around convergence, around low-power, and kind of give you the view of where the whole thing goes.
  You know, we have to focus -- well, you should go onto the next question. 
 
---------------------------------------------------------------------------------
 Steve Eliscu,  UBS - Analyst    [32]
---------------------------------------------------------------------------------
 
      I look forward to it. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [33]
---------------------------------------------------------------------------------
 
      Because you're getting me going, Steve. 
 
---------------------------------------------------------------------------------
 Steve Eliscu,  UBS - Analyst    [34]
---------------------------------------------------------------------------------
 
      That's great.  On the server improvements that you've seen, historically, you've done well in high-performance computing, and I think you've indicated data center is an area that will drive some of the new growth.  Can you give us a sense as to the success you're having selling Opteron, the Interlagos into the data centers? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [35]
---------------------------------------------------------------------------------
 
      You know, I think server is another one of these key areas that we're seeing a change in the marketplace.  We're approaching an inflection point.  There's no doubt in my mind that we're seeing a breakdown in some of the proprietary control points that have dominated the market for years.
  And I think in the server space, based on what's happening in the cloud; what's happening around convergence; the types of workloads that are going to be driven through these mega data centers, these cloud data centers, the kinds of solutions that are going to be created going forward, are going to be tailored to very unique, almost server appliances, that allow us, in dense kinds of solutions, to introduce -- I don't know, disruptive, really disruptive server plays that allows us to win.
  You'll see us continue to focus in the high-performance computing market because that's always a forerunner of where next technology is going.  We've got a strong foothold there; continue to build on the database work, the traditional data center work that we're doing with the kinds of work around virtualization, and around certain workload segments where our type of architecture really plays.  And you'll see us get really aggressive around this disruptive play as we move forward.  It's another area I'm sure Mark wants to comment on. 
 
---------------------------------------------------------------------------------
 Mark Papermaster,  Advanced Micro Devices, Inc. - SVP and CTO    [36]
---------------------------------------------------------------------------------
 
      Well, you know, Rory, the investments that we're making in low-power and performance per watt that we talked about earlier in Trinity, are directly applicable to the server market.
  Our customers are telling us that our strategy, right, to double down in our roadmap as we're doing, and bring these improvements across the applications that they're focused on, and as well as the agility that we're going to bring to our SoC, in terms of bringing those solutions to market, are going to hit exactly the improvements that our customers are saying where they need focus on their markets, focus on their workloads and servers. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [37]
---------------------------------------------------------------------------------
 
      And Mark, you're -- and Mark is on a really important point about architecture.  The work that we're doing around our strategy and around architecture to give us the agility, the time to market, the kinds of reuse around IP, to give us the ability to tailor these solutions at the SoC level, at the server and platform level, these are some of the strategies that we want to cover in our Analyst Day next week.
  This is important stuff; this is important trends and strategies that allows us to really tackle this.  And this is what's going to be differentiated as we see these inflection points accelerate.  Because these trends are emerging now, but they're only going to accelerate.  And that's what we have to do in AMD -- understand the market, the customer -- not focus on the past, or the incumbent, or chasing someone, but understand where the market is going, the customers' needs.
  And as this inflection point occurs, what's the architecture to tackle it, and go get it. 
 
---------------------------------------------------------------------------------
 Ruth Cotter,  Advanced Micro Devices, Inc. - VP of IR    [38]
---------------------------------------------------------------------------------
 
      Great.  Operator, can we have the next question, please? 
 
---------------------------------------------------------------------------------
 Operator    [39]
---------------------------------------------------------------------------------
 
      Romit Shah, Nomura. 
 
---------------------------------------------------------------------------------
 Sanjay Jadhav,  Nomura Asset Management - Analyst    [40]
---------------------------------------------------------------------------------
 
      This is Sanjay Jadhav here for Romit Shah.  My first question is on renewals on ARM, which could potentially target by segment where [modules] is currently being shaped.  How do you think it will play out for you?  And if in any way you are planning to participate in renewals on ARM devices.  And I have a follow-up then. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [41]
---------------------------------------------------------------------------------
 
      Yes.  Sanjay, can you just ask the first part of the question?  I missed it, it was on Win8, was that what it was? 
 
---------------------------------------------------------------------------------
 Sanjay Jadhav,  Nomura Asset Management - Analyst    [42]
---------------------------------------------------------------------------------
 
      Yes, it was.  It's basically Windows and ARM.  And my question is we feel that Windows and ARM devices could potentially target the [PLI] segment where Brazos is currently being shipped.  And just want to understand your take on that. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [43]
---------------------------------------------------------------------------------
 
      Sure, Sanjay.  So our perspective is Win8 is an interesting and important launch of technology.  We think that it's going to drive interest and demand in the overall marketplace.  And as I mentioned earlier, with our APU strategy, we are going to be ready to participate in that in the traditional spaces, and the ultrathin spaces, and then move forward.
  I think you'll see architectures begin to dabble in that x86 space.  Remember, these are the 32-bit architectures at the beginning of these implementations.  Windows is performing really efficiently at the 64-bit level.  And while these are first forays into that space, we'll see some of that around this trend of convergence -- there's no doubt about it.
  But what we have to do is focus on creating the technical solutions with the APUs that are low-power; that are at the right price point; that delivers the full graphics experience, the long battery life, the quick startups, and the ability to have backward and forward compatibility.  That's an advantage and that allows us to continue to build on that.
  People talked about ultra low-power in the past and other things like that.  Those weren't as successful as we'd hoped, because they were a little bit under-powered or under-capable.  This trend will emerge.  We're ready to participate in Win8 and we're going to -- we're excitingly looking forward to its launch. 
 
---------------------------------------------------------------------------------
 Sanjay Jadhav,  Nomura Asset Management - Analyst    [44]
---------------------------------------------------------------------------------
 
      Okay, thanks.  And my second question is on desktop segment.  I remember from last call, it went down significantly because of shortage of 45-nanometer parts.  I was wondering where we are on that?  You mentioned that there were some issues resolved; but going forward, is that still tied to 32-nanometer yields?  Or we can see unconstrained supply of desktop parts going forward? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [45]
---------------------------------------------------------------------------------
 
      Yes, what we believe now is that as we exit the quarter, we had a little bit of a excursion around the 45-nanometer supply in the late part of the quarter.  Desktop is an important segment for us.  I think we're seeing more consistency in the execution.  As you have heard me mention earlier, we've increased our delivery around 32-nanometer Llano by 80% from third quarter, up 80% from the third quarter.
  That means that we're getting more efficient in terms of the yields.  We're not consuming the same number of wafers.  That allows us to [dress] the desktop space.  Without that conversion -- excursion, I think we're in a strong position there, but I believe that in 1Q, that you'll see us continue to rebound around desktop, desktop supply. 
 
---------------------------------------------------------------------------------
 Sanjay Jadhav,  Nomura Asset Management - Analyst    [46]
---------------------------------------------------------------------------------
 
      Okay, thanks. 
 
---------------------------------------------------------------------------------
 Operator    [47]
---------------------------------------------------------------------------------
 
      Jim Covello, Goldman Sachs. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [48]
---------------------------------------------------------------------------------
 
      Hey, Jim, are you there? 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [49]
---------------------------------------------------------------------------------
 
      Yes, I'm here.  Can you hear me? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [50]
---------------------------------------------------------------------------------
 
      Fire away.  I can hear you. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [51]
---------------------------------------------------------------------------------
 
      Yes, okay.  The question is sort of the direction of the CPU market over the course of the year.  Your competitor saw similar guidance as you did in the first quarter and then normal seasonality in the second quarter, and maybe a big pickup around the back half of the year; maybe even historically good pickup in the back half of the year, around some of the Windows 8 and ultra-book launches and things of that nature.
  Is that pretty consistent with how you would see the market?  Or would you see it any differently? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [52]
---------------------------------------------------------------------------------
 
      Well, first, as we look at it at the macro level, the macroeconomic environment on a global stage is a little bit unpredictable.  You can never really be 100% sure.  When we take a look at what we're hearing from our analysts around IDC, Gartner and Mercury, there's a general consensus that '12 looks a bit stronger than '11's; that the second half looks a little bit stronger than the first half.
  Our focus is around improving our execution.  That's the first step that we can create value in the firm, delivering our customer expectations.  We believe we're on the right track with the APU architecture and strategy.  And you're going to see us continue to evolve that.
  And I think what we're focusing in on is that customer, that execution, that architecture.  And what's key for us is to continue to build on the growth and that share focus quarter-in and quarter-out.  We'll be ready for what the market throws at us.  We're going to go based on what the general consensus is from the analysts around growth for '12.  I think '12 is a little bit better than '11, and it's a little bit stronger in the second half, based on what we see their forecast to be. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [53]
---------------------------------------------------------------------------------
 
      Okay.  And then if I could ask as my follow-up -- and I understand and applaud the focus on execution -- I guess, though, you can't execute in a vacuum and you have to think about the environment going on with your competitors.  And your competitor is just spending an unprecedented amount of CapEx and planning to bring on an unprecedented amount of leading-edge capacity.
  How do you think about that as it relates to pricing, as it relates to competing on new nodes, again, with your renewed focus on execution in mind? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [54]
---------------------------------------------------------------------------------
 
      We're going to cover this in a lot more detail at next week's Analyst Day out in California.  And I think that's important.  But as you think of the industry trends around consumerization, cloud, and convergence, there is no doubt as we've seen these kinds of inflection points in the industry, there is always a significant downward pressure in terms of the price points.
  So if you're dragging huge asset base along with you and there comes pressure into the market around those price points, that could put pressure into a business model.  Our focus is to create the kinds of APU processors that give the excellent performance, the excellent experience around our graphics IP, our video IP, our low-power solution, in a solution that we believe is very agile; one that we can apply across that.  And we can hit price points that are very comfortable for us.
  We think the emerging market and the entry -- and the high-growth markets around entry and mainstream will be the hottest segments, and I think that is playing to our hand.  We are going to emphasize this strategy.  We want to embrace this inflection point that's emerging.  We want to accelerate it, because shift happens when there's these inflection points. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices, Inc. - SVP and CFO    [55]
---------------------------------------------------------------------------------
 
      Yes, let me make one further comment.  You know, of course, we see the investment of our competitor, but the fabless ecosystem is not sitting still.  And if you look at the investments that are done under TSMC at a GLOBALFOUNDRIES and GLOBALFOUNDRIES and [Alliance's] level, then the numbers are very comparable.  GLOBALFOUNDRIES and the partnership model invest about $9 billion this year.  TSMC sits around $6 billion, if I recall the number correctly.  So this is in terms of scale and absolute numbers.  They're very comparable to what Intel is putting on the table. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [56]
---------------------------------------------------------------------------------
 
      Really helpful.  Thanks so much, good luck. 
 
---------------------------------------------------------------------------------
 Operator    [57]
---------------------------------------------------------------------------------
 
      JoAnne Feeney, Longbow Research. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [58]
---------------------------------------------------------------------------------
 
      Hi, JoAnne, are you there? 
 
---------------------------------------------------------------------------------
 JoAnne Feeney,  Longbow Research - Analyst    [59]
---------------------------------------------------------------------------------
 
      Yes.  Can you hear me now? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [60]
---------------------------------------------------------------------------------
 
      I can, JoAnne. 
 
---------------------------------------------------------------------------------
 JoAnne Feeney,  Longbow Research - Analyst    [61]
---------------------------------------------------------------------------------
 
      Okay sorry about that.  Trying to get into a little bit more detail on the server side.  One thing I'm curious about is if there's any change in mix between where you typically sell, which is at the higher end, the 4P or larger servers, and perhaps the more volume-oriented 2P segment with the Bulldozer traction you're having thus far, or if you anticipate such an exchange?  And if that might be also what's behind the ASP change that you talked about. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [62]
---------------------------------------------------------------------------------
 
      Well, I think what you're seeing in the beginning of the launch, obviously, we build on that strong foundation that we've had in the high-performance computing market, some of those long relationships that we've created there.  Now with the introduction of the ProLiant solutions from HP, and now with the Dell blade servers, the PowerEdge blade servers that we're introducing, now we're introducing a wider swath of product sets.  They're across multiple types of node solution.  We're further into the launch now, so you're getting a much wider spread in terms of the yield across the mix.
  I don't think we saw anything unusual for the first initial quarter and a half of this launch, in terms of mix.  I think you'll see us build on that as we move forward here in 1Q and 2Q, but nothing unusual in terms of that mix. 
 
---------------------------------------------------------------------------------
 JoAnne Feeney,  Longbow Research - Analyst    [63]
---------------------------------------------------------------------------------
 
      Okay.  That's real helpful, thanks.  And then on the notebook side, or more generally, 32 versus 45-nanometer side, so it sounds like a very nice increase in yields on 32-nanometer.  So what I'm curious about is, since 32-nanometer increased -- shipments increased so much in the fourth quarter, but overall computing revenue increased by far less, is that a sign that there is a pretty steep drop in 45-nanometer production?  And how does that then shape up for the transition from the fourth quarter to the first quarter? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [64]
---------------------------------------------------------------------------------
 
      Well, I think we're pretty pleased with the focus on execution, as I mentioned earlier in the call, in terms of that momentum across the APU space.  And then combine that with the server space, good progress there.
  The only part of the portfolio that was a little bit choppy was, as I mentioned earlier in my prepared remarks, were around the graphics space.  That was a little bit different and I thought that add-in board market was a little bit affected in December, based on that hard disc chop in the channel.  We are not dramatically affected by that because of -- more of our focus is on the execution side.
@@ -550,198 +406,136 @@ Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [64]
  So I'm not seeing anything, Joanne, in that mix that is terribly unique.  I think we're at a good point in terms of those crossover curves that we run, in terms of transition, and with the improved execution.  And I want to emphasize -- we've made real progress, but we're not finished with that.  And we need to continue to work every day with those tiger teams we've put in place; we're tracking the test vehicles through the lines to make sure that we're getting that consistent improvement.  Because that will reduce our consumption of wafers and give us far more flexibility in our supply chain.
  So while we've improved by 80% from the third quarter, we're not all the way there yet, and we need to keep that maniacal focus on execution this quarter and the rest of 2012.  That's the key to building initial value for our shareholders and partners. 
 
---------------------------------------------------------------------------------
 JoAnne Feeney,  Longbow Research - Analyst    [65]
---------------------------------------------------------------------------------
 
      So that improvement then, Rory, are you suggesting there's more yield improvements possible on that 32-nanometer line? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [66]
---------------------------------------------------------------------------------
 
      Absolutely.  And that's our objective and we're working on it week-in and week-out.  And we believe there's more of that for weeks and weeks to come. 
 
---------------------------------------------------------------------------------
 Mark Papermaster,  Advanced Micro Devices, Inc. - SVP and CTO    [67]
---------------------------------------------------------------------------------
 
      And those same techniques and practices that the teams -- the tiger teams applied on 32-nanometer, that momentum continues in the 28-nanometer.  So that poises us well going into the coming 2012. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [68]
---------------------------------------------------------------------------------
 
      Thanks, Joanne. 
 
---------------------------------------------------------------------------------
 JoAnne Feeney,  Longbow Research - Analyst    [69]
---------------------------------------------------------------------------------
 
      Thank you, guys. 
 
---------------------------------------------------------------------------------
 Operator    [70]
---------------------------------------------------------------------------------
 
      David Wong, Wells Fargo. 
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities - Analyst    [71]
---------------------------------------------------------------------------------
 
      Thank you very much.  Your Q1 guidance, your March quarter guidance, does it assume that desktop and Llano sales will be tracking demand?  Or does it actually incorporate some assumption of increasing supply, driving shipments above demand? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices, Inc. - SVP and CFO    [72]
---------------------------------------------------------------------------------
 
      I'm not sure that I completely understand your question. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [73]
---------------------------------------------------------------------------------
 
      Yes, can you run it back again, David? 
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities - Analyst    [74]
---------------------------------------------------------------------------------
 
      Yes.  Well, you had yield constraints in the December quarter.  You talked about how the 45-nanometer desktop was also -- was supply-constrained.  So therefore, your guidance for the March quarter, does that assume that the sequential growth or decline -- that the trend will be better than the normal demand trend?  Or are you actually tracking demand?  Are you actually going to -- is the pattern of your sales going to equal the normal demand trend? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices, Inc. - SVP and CFO    [75]
---------------------------------------------------------------------------------
 
      Well, I think it's fair to say from the improvements we have seen and our foundry partners that we are not going to be supply constrained in the first quarter. 
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities - Analyst    [76]
---------------------------------------------------------------------------------
 
      Great.  My other question was, do you anticipate when Trinity actually does start shipping, that Trinity will have better yields and better gross margins than Llano at the time that Trinity starts out? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices, Inc. - SVP and CFO    [77]
---------------------------------------------------------------------------------
 
      At the time that Llano started out, I assume.  Well, we are not going to give granular product-based gross margin, as you know, but I think the progress we have seen on Trinity is impressive.  And of course, all the learnings that have been done on 32-nanometer with the Llano product will be transferred to Trinity.  So the start-off base with Trinity is going to be significantly better from a yield perspective compared to where we were at Llano launch.  So that makes us quite optimistic looking forward. 
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities - Analyst    [78]
---------------------------------------------------------------------------------
 
      Great.  Thank you. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [79]
---------------------------------------------------------------------------------
 
      Thanks, David. 
 
---------------------------------------------------------------------------------
 Ruth Cotter,  Advanced Micro Devices, Inc. - VP of IR    [80]
---------------------------------------------------------------------------------
 
      Operator, we'll take two more callers, please. 
 
---------------------------------------------------------------------------------
 Operator    [81]
---------------------------------------------------------------------------------
 
      Understood.  Next questioner in queue is Patrick Wang, with Evercore Partners.  Your line is open. 
 
---------------------------------------------------------------------------------
 Patrick Wang,  Evercore Partners - Analyst    [82]
---------------------------------------------------------------------------------
 
      Thanks for letting me ask the question.  The first one for Thomas, I want to go back to, I guess, John's early question about the wafer supply agreement.  Can you talk about when the current agreement expires, how that's impacting your gross margins and when you think the new one needs to be in place? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices, Inc. - SVP and CFO    [83]
---------------------------------------------------------------------------------
 
      Well, there is not a -- good question -- just not a real firm timeline in place.  And there's also not a black-and-white date of when it's going to end and when the new one is going to start, and it will have a black-and-white impact on our business model.
  We have been working together with our partners in a very productive manner.  We have achieved significant progress.  We are pleased with the approach.  And as we said in my prepared remarks, we are really close to coming to a conclusion.  And of course, the guidance we've provided for the current quarter, as I said before, is an assessment of the progress we have been making in those negotiations. 
 
---------------------------------------------------------------------------------
 Patrick Wang,  Evercore Partners - Analyst    [84]
---------------------------------------------------------------------------------
 
      Okay.  Got you.  So I guess, stay tuned for that.  And then, I guess, Rory, I want to follow-up on servers a bit here.  Clearly, you're seeing some momentum, a couple quarters of growth.  I guess a couple parts -- first off, where are you seeing that initial design traction?  Second, do you expect server ASPs to increase now that you're getting parts out there to your customers?
  And then lastly, there's been a lot of chatter out there and a lot of activity in nontraditional server design, lots of guys doing designs on ARM and things like that.  Can you offer your thoughts on that as well?  Thanks. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [85]
---------------------------------------------------------------------------------
 
      Not a problem.  From a server perspective, as I commented earlier, the initial momentum is driven around our success in the high-performance computing market.  We see always a very early uptake in terms of our key partners in those segments.
  Then you go and focus with the launches around HP and Dell in terms of their server market, more of the traditional space around virtualization and around business workloads.  We're seeing good pipeline activity there around the launch and the trend looks solid.
  ASPs, obviously, we'll work always to try and improve our mix.  That's in our best interest.  The demand is out there.  And with our relatively modest share position, there's a lot of opportunity for us to attack.  So I think we're off to a good start, but this is just the beginning of a long-term focus on server to build on that.
  And then, of course, I think in a disruptive play, maybe Mark wants to add a comment on some of the thoughts that we have in that disruptive space. 
 
---------------------------------------------------------------------------------
 Mark Papermaster,  Advanced Micro Devices, Inc. - SVP and CTO    [86]
---------------------------------------------------------------------------------
 
      Sure.  In building on my comment earlier, our focus on low-power, our focus on leveraging our CPU and our GPU IP, plays dead-on in terms of what we see as disruptive opportunity in the server market space -- targeting workloads; targeting problems our customers have where they need more efficiency, and our IP can directly attack it.  So we are very focused on this area.  And in fact, next week at our Financial Analyst Day, we'll be providing additional color. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [87]
---------------------------------------------------------------------------------
 
      And remember, there is clearly a series of inflection points that are beginning to emerge that are going to drive this space for the next three, five, seven years, whether it's server or client.  That cloud impact, that power, that convergence, consumerization -- these trends are just beginning to start to accelerate.  And they're over a long period of time.
  We want to embrace those changes, want to embrace that transition.  And we believe that the work that we can do in this disruptive space that we'll cover next week will be very interesting.  But clearly, we've got good business now in high performance.  We're making some good progress in terms of traditional data center workloads.  And then we want to go in and embrace and attack this disruptive opportunity, Patrick. 
 
---------------------------------------------------------------------------------
 Patrick Wang,  Evercore Partners - Analyst    [88]
---------------------------------------------------------------------------------
 
      Got you.  I guess one of the key things I'm looking forward to is just an update on that FSA I/O.  So look forward to seeing you guys next week.  Thanks. 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [89]
---------------------------------------------------------------------------------
 
      Yes, no worries.  We'll see you there. 
 
---------------------------------------------------------------------------------
 Operator    [90]
---------------------------------------------------------------------------------
 
      Thank you.  And we have time for one final question, Kevin Cassidy with Stifel Nicolaus.  Please go ahead, your line is open. 
 
---------------------------------------------------------------------------------
 Kevin Cassidy,  Stifel Nicolaus - Analyst    [91]
---------------------------------------------------------------------------------
 
      Thanks for taking my question.  On the GPU weakness that you saw in notebooks, do you think any of that is related to APU?  And do you think GPU -- discrete GPU adoption is declining? 
 
---------------------------------------------------------------------------------
 Rory Read,  Advanced Micro Devices, Inc. - President and CEO    [92]
---------------------------------------------------------------------------------
 
      You know, it's interesting.  As I commented earlier, Kevin, we finished the year the way we started the year.  We finished the year with the fastest GPU product on the planet.  And I think it's kind of amazing -- the 7970 Radeon HD board is industry leadership.  It really is.  Our focus around driving industry leadership at the discrete GPU level is not going to change.  And our focus on using that IP and technology and our APUs is spot-on.  We want to continue to build on that momentum and drive forward.
  There's lots of forecast out there.  The trend on discrete over time with APUs, and with the way we're going to embed that, the trend has to trend down over a period of time.  But this is a good market, a market we continue to protect and attack to win, moving forward.
  I think the kind of chop that we saw the end of the quarter was really a little bit around the channel space and the kinds of pressure that we saw in the channel around some of the hard disk issues.  While we have a relatively balanced business across the space, and we've been very able to focus on execution to drive that revenue consistently a quarter, we did see a little bit of that chop.
  But no; no doubt, Kevin, we see this as a very attractive market.  We see this as a market that we can use the IP across the space, and again, finish the year the way we started -- the world's fastest -- the fastest -- graphics engine on the planet -- on the planet.  Thanks, Kevin. 
 
---------------------------------------------------------------------------------
 Kevin Cassidy,  Stifel Nicolaus - Analyst    [93]
---------------------------------------------------------------------------------
 
      Okay.  Thank you. 
 
---------------------------------------------------------------------------------
 Ruth Cotter,  Advanced Micro Devices, Inc. - VP of IR    [94]
---------------------------------------------------------------------------------
 
      Operator, that concludes our call.  We'd like to thank everyone for participating today, and we look forward to you joining us on the 2nd of February for our Financial Analyst Day.  Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [95]
---------------------------------------------------------------------------------
 
      Thank you.  Again, ladies and gentlemen, this does conclude today's program.  Thank you for your participation and have a wonderful day.  Attendees, you may disconnect at this time.
 
@@ -752,9 +546,7 @@ Operator    [95]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -765,9 +557,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -793,6 +583,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q3 2023 Microsoft Corp Earnings Call
 APRIL 25, 2023 / 9:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Brett Iversen
    Microsoft Corporation - General Manager of IR
@@ -17,9 +15,7 @@ Corporate Participants
  * Amy E. Hood
    Microsoft Corporation - Executive VP & CFO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Karl Emil Keirstead
    UBS Investment Bank, Research Division - Analyst
@@ -38,25 +34,18 @@ Conference Call Participiants
  * Rishi Nitya Jaluria
    RBC Capital Markets, Research Division - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 Greetings, and welcome to the Microsoft Fiscal Year 2023 Third Quarter Earnings Conference Call. (Operator Instructions) As a reminder, this conference is being recorded. I would now like to turn the conference over to your host, Brett Iversen, Vice President of Investor Relations. Please go ahead.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corporation - General Manager of IR    [2]
---------------------------------------------------------------------------------
 Good afternoon, and thank you for joining us today. On the call with me are Satya Nadella, Chairman and Chief Executive Officer; Amy Hood, Chief Financial Officer; Alice Jolla, Chief Accounting Officer; and Keith Dolliver, Deputy General Counsel. On the Microsoft Investor Relations website, you can find our earnings press release and financial summary slide deck, which is intended to supplement our prepared remarks during today's call and provides the reconciliation of differences between GAAP and non-GAAP financial measures. Additionally, new this quarter, more detailed outlook slides will be available on the Microsoft Investor Relations website when we provide outlook commentary on today's call.
 On this call, we will discuss certain non-GAAP items. The non-GAAP financial measures provided should not be considered as a substitute for or superior to the measures of financial performance prepared in accordance with GAAP. They are included as additional clarifying items to aid investors in further understanding the company's third quarter performance in addition to the impact these items and events have on the financial results.
 All growth comparisons we make on the call today relate to the corresponding period of last year, unless otherwise noted. We will also provide growth rates in constant currency when available as a framework for assessing how our underlying businesses performed, excluding the effect of foreign currency rate fluctuations. Where growth rates are the same in constant currency, we will refer to the growth rate only.
 We will post our prepared remarks to our website immediately following the call until the complete transcript is available. Today's call is being webcast live and recorded. If you ask a question, it will be included in our live transmission, in the transcript and in any future use of the recording. You can replay the call and view the transcript on the Microsoft Investor Relations website. 
 During this call, we'll be making forward-looking statements, which are predictions, projections or other statements about future events. These statements are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could materially differ because of factors discussed in today's earnings press release, in the comments made during this conference call and in the Risk Factors section of our Form 10-K, Forms 10-Q and other reports and filings with the Securities and Exchange Commission. We do not undertake any duty to update any forward-looking statement. And with that, I'll turn the call over to Satya.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [3]
---------------------------------------------------------------------------------
 Thank you very much, Brett. The Microsoft Cloud delivered over $28 billion in quarterly revenue, up 22% and 25% in constant currency, demonstrating our continued leadership across the tech stack. We continue to focus on 3 priorities: first, helping customers use the breadth and depth of the Microsoft Cloud to get the most value out of their digital spend; second, investing to lead in the new AI wave across our solution areas and expanding our TAM; and third, driving operating leverage, aligning our cost structure with our revenue growth. 
 Now I'll highlight examples of our progress, starting with infrastructure. Azure took share as customers continue to choose our ubiquitous computing fabric from cloud to edge, especially as every application becomes AI-powered. We have the most powerful AI infrastructure and is being used by our partner, OpenAI, as well as NVIDIA and leading AI start-ups like Adept and Inflection to train large models. 
 Our Azure OpenAI service brings together advanced models, including ChatGPT and GPT-4 with the enterprise capabilities of Azure. From Coursera and Grammarly to Mercedes-Benz and Shell, we now have more than 2,500 Azure OpenAI service customers, up 10x quarter-over-quarter. 
@@ -91,9 +80,7 @@ Now on to gaming. We are rapidly executing on our ambition to be the first choic
 Our revenue from subscriptions reached nearly $1 billion this quarter. This quarter, we also brought PC Game Pass to 40 new countries, nearly doubling the number of markets we are available. Great content remains the flywheel behind our growth. We have now surpassed 500 million lifetime unique users across our first-party titles and have never been more excited about our pipeline of games, including the fourth quarter launches of Minecraft Legends and Redfall. 
 In closing, we are focused on continuing to raise the bar on our operational excellence and performance as we innovate to help our customers maximize the value of their existing technology investments and thrive in the new era of AI. In a few weeks' time, we'll hold our Build conference, where we will share how we are building the most powerful AI platform for developers and I encourage you to tune in. I could not be more energized about the opportunities ahead. And with that, let me turn it over to Amy.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [4]
---------------------------------------------------------------------------------
 Thank you, Satya, and good afternoon, everyone. Our third quarter revenue was $52.9 billion, up 7% and 10% in constant currency. Earnings per share was $2.45 and increased 10% and 14% in constant currency. Our results exceeded expectations, driven by focused execution from our sales teams and partners. 
 In our commercial business, revenue was up 19% in constant currency. We saw better-than-expected renewal strength, including across Microsoft 365, which also benefited Windows commercial given the higher in-period revenue recognition. In Office 365 stand-alone products, we saw improvement in new business growth, while growth trends in EMS and Windows commercial stand-alone products remain consistent with Q2.
 In Azure, customers continue to exercise some caution as optimization and new workload trends from the prior quarter continued as expected. In our consumer business, PC demand was a bit better than we expected, particularly in the commercial segment, which benefited Windows OEM and Surface even as channel inventory levels remain elevated, which negatively impacted results. Advertising spend landed in line with our expectations.
@@ -140,214 +127,139 @@ We will continue to invest in our cloud infrastructure, particularly AI-related 
 As a team, we are continually focused on pivoting our resources aggressively to the future as we execute at a high level in the moment to deliver value to our customers. That balance has enabled the company to successfully lead across a number of platform shifts over a number of decades. Therefore, we are committed to leading the AI platform wave and making the investments to support it. 
 With that, let's go to Q&A. Brett?
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corporation - General Manager of IR    [5]
---------------------------------------------------------------------------------
 Thanks, Amy. We'll now move over to Q&A. (Operator Instructions) Joe, can you please repeat your instructions?
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 (Operator Instructions) Our first question comes from the line of Keith Weiss with Morgan Stanley.
 
---------------------------------------------------------------------------------
 Keith Weiss,  Morgan Stanley, Research Division - Equity Analyst    [2]
---------------------------------------------------------------------------------
 Congratulations on really a fantastic set of results in what we all know to be a still difficult environment out there. I think it really illustrates Microsoft's advantages and a lot of these technology innovations that you guys have been talking about. 
 I wanted to ask you a question that I get probably more often than anything else and one that I frankly don't have a good answer to, and that's around the OpenAI partnership and particularly the accounting for that partnership. So I was hoping you could give us a little bit of color about how -- whether or not revenue is flowing from OpenAI into Microsoft on the CapEx side of the equation, whether there's any impact. Just give us a better understanding of how the accounting around that relationship is working.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [3]
---------------------------------------------------------------------------------
 Thanks, Keith. In some ways, let me start by saying, it's a great partnership. We're proud to have worked together for a number of years, leading to some of the announcements that you've heard us make more recently. And we talked about the foundation of our partnership campaign that when we both are successful, the other benefits. When we grow, it helps them; and when they grow, it helps us.
 But specifically to your question on how does it show up, it's easiest, in this situation, to think about them as a customer of ours, like any other customer who would use the Azure infrastructure and our Azure AI services in service of supporting their end customers. And so when they do that, like any other customer who has a commercial relationship with us, we recognize revenue on that behalf. That's probably the simplest frame, Keith, that I hope is helpful.
 
---------------------------------------------------------------------------------
 Keith Weiss,  Morgan Stanley, Research Division - Equity Analyst    [4]
---------------------------------------------------------------------------------
 Yes, that's super helpful. I appreciate that.
 
---------------------------------------------------------------------------------
 Operator    [5]
---------------------------------------------------------------------------------
 Our next question comes from the line of Mark Moerdler with Bernstein Research.
 
---------------------------------------------------------------------------------
 Mark L. Moerdler,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Research  Analyst    [6]
---------------------------------------------------------------------------------
 Congratulations on the quarter and the guidance. I'd like to drill into Azure, and more specifically, Azure IaaS/PaaS consumption. IaaS/PaaS consumption has really stepped down recently, and it's important to understand the macro versus -- macro and optimization that will rebound, whether it's going to rebound quickly or is there a more fundamental issue. 
 In other words, is it simply purely macro and everyone is stepping back a little bit and they're going to hit the pedal as soon as this comes back? Or is there something more fundamental that is drawing -- driving corporate, maybe, to step back and that, that slowdown could sustain even when the IT spending rebounds?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [7]
---------------------------------------------------------------------------------
 Thanks, Mark, for the question. Maybe I'll make 3 comments. And it's also important, I think to distinguish between what I'd say, macro or absolute performance and relative performance, because I think that's perhaps a good way to think about how we manage our business. 
 First is optimizations do continue. In fact, we are focused on it. We incent our people to help our customers with optimization because we believe, in the long run, that's the best way to secure the loyalty and long-term contracts with customers when they know that they can count on a cloud provider like us to help them continuously optimize their workload. That's sort of the fundamental benefit of public cloud, and we are taking every opportunity to prove that out with customers in real-time.
 The second thing I'd say is we do have new workloads started, because if you think about it, during the pandemic, it was all about new workloads and scaling workloads. But prepandemic, there was a balance between optimizations and new workloads. So what we're seeing now is the new workloads start in addition to highly intense optimization [givens] that we have. 
 The third is perhaps more of a relative statement. Because of some of the work we've done in AI even in the last couple of quarters, we are now seeing conversations we never had, whether it's coming through you and just OpenAI's API, right, if you think about the consumer tech companies that are all spinning, essentially, i.e. the readers, because they have gone to OpenAI and are using their API. These were not customers of Azure at all. 
 Second, even Azure OpenAI API customers are all new, and the workload conversations, whether it's B2C conversations in financial services or drug discovery on another side, these are all new workloads that we really were not in the game in the past, whereas we now are. So those are the 3 comments that I'd make, both in terms of absolute macro, but more importantly, I think, what is our relative market position and how it's being changed.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [8]
---------------------------------------------------------------------------------
 Mark, maybe the one thing I would add to those comments is we've been through almost a year where that pivot that Satya talked about from we're starting tons of new workloads, and we'll call that the pandemic time, to this transition post, and we're coming to, really, the anniversary of that starting. And so to talk to you point, we're continuing to set optimization. 
 But at some point, workloads just can't be optimized much further. And when you start to anniversary that, you do see that it gets a little bit easier in terms of the comps year-over-year. And so you even see that in a little bit of our guidance, some of that impact from a year-over-year basis.
 
---------------------------------------------------------------------------------
 Mark L. Moerdler,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Research  Analyst    [9]
---------------------------------------------------------------------------------
 That was incredibly helpful. I really do appreciate. And again, congratulations on what's happening.
 
---------------------------------------------------------------------------------
 Operator    [10]
---------------------------------------------------------------------------------
 Your next question comes from the line of Brent Thill with Jefferies.
 
---------------------------------------------------------------------------------
 Brent John Thill,  Jefferies LLC, Research Division - Equity Analyst    [11]
---------------------------------------------------------------------------------
 On Copilot monetization, can you just give us a sense of how much shows up, where we're going to see it in, and ultimately, is there a simple price lift that you think you can get through Copilot, say, 10%, 20%, 30% above where you saw the regular components of the Suite? Or is it too hard to factor in?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [12]
---------------------------------------------------------------------------------
 Overall, we do plan to monetize a separate set of meters across all of the tech stack, whether they're consumption meters or per user subscriptions. The Copilot that's priced and it is there is GitHub Copilot. That's a good example of incrementally how we monetize the prices that are there out there and others are to be priced because they're in 3D mode. But you can expect us to do what we've done with GitHub Copilot pretty much across the board.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [13]
---------------------------------------------------------------------------------
 Yes, Brent, the best way of thinking about this is when we believe we're adding a lot of value, and frankly, that's what the Copilots are doing and some productivity improvement, you can expect that we will have list price for those and you'll be able to look at that as we get to release, and to Satya's point, GitHub Copilot is a great example.
 
---------------------------------------------------------------------------------
 Operator    [14]
---------------------------------------------------------------------------------
 Our next question comes from the line of Raimo Lenschow with Barclays.
 
---------------------------------------------------------------------------------
 Raimo Lenschow,  Barclays Bank PLC, Research Division - MD & Analyst    [15]
---------------------------------------------------------------------------------
 Congrats from me as well. Just staying on the AI theme and more thinking about the gross margin impact on Azure. Can you just -- Satya, can you maybe, a little -- talk a little bit about, like, how you see the cost of compute for AI workloads versus kind of the classic workloads? And how do you think that will evolve over time?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [16]
---------------------------------------------------------------------------------
 Yes, a couple of things. One is clearly the accelerated compute is what gets used to drive AI. And the thing that we are very, very focused on is to make sure that we get it very efficient in the usage of those resources. If you think about sort of what a hyperscaler does, it's not just rack-and-stack sort of hardware. They use software to optimize the performance of a given workload and, in fact, heterogeneous workloads and a given set of hardware.
 And so we have many knobs that will continuously -- continue to drive optimization across it. And you see it even in the -- even for a given generation of a large model, where we started them through the cost footprint to where we end in the cost footprint in a period of a quarter changes. So you can expect us to do what we have done over the decade plus with the public cloud to bring the benefits of, I would say, continuous optimization of our COGS to a diverse set of workloads.
 The other thing I'd mention is that there are workloads now. Like, one of the reasons why we got together with OpenAI primarily was we came out and said, this type of workload, whether it's a training or an insurance workload, is going to be much more generally relevant for us, not just in the context of AI. And so you can see us apply it in other contexts as well.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [17]
---------------------------------------------------------------------------------
 And remember, we talked a bit about this when we talked about the new Edge and the new Bing with analysts. And I think one of the important things to keep in mind, which Satya is pointing to, is that it's not really just the cost of Azure and the ability to optimize across the Azure workloads. 
 It's that, really, even our first-party workloads and apps that are built, right, are built on the same platform, and we're able, because we are a hyperscaler and because we have a large commercial cloud first-party as well as consumer apps like Bing that are first party, we're able to take advantage of that and GPU utilization, AI services utilization across the stack. And so it's not just sort of where Satya wanted even a broader benefit of being a hyperscaler.
 
---------------------------------------------------------------------------------
 Operator    [18]
---------------------------------------------------------------------------------
 Our next question comes from the line of Keith Bachman with BMO.
 
---------------------------------------------------------------------------------
 Keith Frances Bachman,  BMO Capital Markets Equity Research - MD &  Senior Software & IT Services Analyst    [19]
---------------------------------------------------------------------------------
 Amy, I wanted to address this up to you, if I could. On your prepared remarks, you commented that you thought that operating expense growth would be lower. I was hoping to just maybe flesh that out with some broader comments. 
 Could you talk about how you see any kind of directional color on how you see gross margins evolving, given mix and particularly supporting generative AI and/or any other comments that might help shape our thinking as we begin to look at the operating margin for the next fiscal year?
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [20]
---------------------------------------------------------------------------------
 Thanks, Keith. It's probably a good opportunity to explain a bit about how I think about where we are, which is -- if you look at all of the businesses we're in and we look about our competitiveness in those businesses. And this is where Satya started to comment a bit about our relative performance versus absolute. And I'll tell you that the energy and focus we put right now is on relative performance and share gains.
 Right now, we have the largest commercial cloud with increasing commitments by customers with new workloads, new TAM opportunities that you're talking about, with customers. And our focus is going to be and will be on continuing to take a growing share of that while we continue to focus on our customers' success and getting a ton of value out of what we are selling, whether that's the E5 product, the Microsoft 365, whether that's Windows 365 to help, maybe it's on compute costs and PC cost, whether it's working across the Azure stack.
 And so with that opportunity, plus in our consumer business, the largest number of active devices we've had in Windows that are still being used more being able to focus on Edge share and Bing share and gaming, bringing it to the PC as well across to mobile, these are the opportunities that we focus on as we think about next year.
 And so if we feel like, and I do, that we are well positioned to continue to take share in so many key places, then I'd say, great, and we want to be able to focus on investing in AI, which I talked about, will increase COGS growth, but we're committed to making sure we have healthy profitability by keeping operating expenses low.
 And so what, really, this past year has been about, but really what Q3 starts to show is our willingness to pivot to the future to make sure we can keep all those commitments that Satya listed. So while I know that's not giving specificity, it is, in fact, how we think about long-term success, in being well positioned in big markets, taking share in those markets, committing to make sure we're going to lead this wave, staying focused on gross margin improvements where we can. Some of them will come in AI over time, given our commitment to the build-out. We will charge for those AI capabilities and then ultimately will deliver operating profit.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [21]
---------------------------------------------------------------------------------
 Yes. I mean, just to add to it, during these periods of transition, the way I think, as shareholders, you may want to look at is what's the opportunity set ahead. We have a differentiated play to go after that opportunity set, which we believe we have. Both the opportunity set in terms of TAM is bigger, and our differentiation at the very start of a cycle, we feel we have a good lead and we have differentiated offerings up and down the stack.
 And so therefore, that's the sort of approach we're going to take, which is how do we maximize the return of that starting position for you all as shareholders long term. That's sort of where we look at it. And we'll manage the P&L, carefully driving operating leverage in a disciplined way, but not being shy of investing where we need to invest in order to grab the long-term opportunity. And so obviously, we will see share gains first, usage first, then GM, then op inc, right, like a classic P&L flow. But we feel good about our position.
 
---------------------------------------------------------------------------------
 Operator    [22]
---------------------------------------------------------------------------------
 Our next question comes from the line of Karl Keirstead with UBS.
 
---------------------------------------------------------------------------------
 Karl Emil Keirstead,  UBS Investment Bank, Research Division - Analyst    [23]
---------------------------------------------------------------------------------
 We've had a lot of questions on AI and Azure, so maybe just to round it out. Just on the Office 365 business, Amy. 16% constant currency guide for June, not really seeing much seat degradation despite obviously a tight labor market, so it's proven to be very resilient. Could you just unpack the sensitivity to that head count reduction, given that across your customer base, at least slower rate of hiring, just given that this is an enormous seat-based business? It doesn't seem to be showing up. Maybe you could just help us understand what's driving that continued seat growth and how durable that is?
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [24]
---------------------------------------------------------------------------------
 Thanks, Karl. I think I would step back and say we have seen, I mean, the Office 365 suite but broadly, the Microsoft 365 suite adds a ton of value for users. And so if you think about the users and all the global base, we've been able to add users, which you continue to see. 
 We still have, in the frontline scenario at an SMB, opportunity to continue to grow. And in the enterprise, where we are a basic productivity tool, the labor market is still tight in most places, and we continue to see customers committed to the value they're getting.
 And so I -- this is not something that -- I think our focus has really been on continuing to get healthy renewals, continue to add new products at renewal where it makes sense to save customers money and increase value. And so I think that's the story of the resilience you're seeing. And of course, we did have a good E5 quarter, which you're starting to see and it helps on ARPU.
 
---------------------------------------------------------------------------------
 Operator    [25]
---------------------------------------------------------------------------------
 The next question comes from the line of Rishi Jaluria with RBC.
 
---------------------------------------------------------------------------------
 Rishi Nitya Jaluria,  RBC Capital Markets, Research Division - Analyst    [26]
---------------------------------------------------------------------------------
 Wonderful. Nice to see continued resilience in the business. I wanted to get back to the topic of AI, but think maybe a little bit longer term. What -- how are you thinking about the potential for regulation around AI, some of the concerns around data and customer privacy and governance? And what do you think you can do to maybe quell some of those fears that governments and customers and organizations have around that?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [27]
---------------------------------------------------------------------------------
 Yes. Thanks, Rishi, for the question. So overall, we've taken the approach that we are not waiting for regulation to show up. We are taking an approach where the unintended consequences of any new technology is something that from day 1, we think about as first class and build into our engineering process, all the safeguards. So for example, in 2016 is when we put out the AI principles, we translated the AI principles into a set of internal standards that then are further translated into an implementation process that then we hold ourselves to internal audit essentially.
 So that's the framework we have. We have a Chief AI Officer who is sort of responsible for both thinking of what the standards are and then the people who even help us internally audit our following of the process. And so we feel very, very good in terms of us being able to create trust in the systems we put out there. And so we will obviously engage with any regulation that comes up in any jurisdiction. But quite honestly, we think that the more there is any form of trust as a differentiated position in AI, I think we stand to gain from that.
 
---------------------------------------------------------------------------------
 Operator    [28]
---------------------------------------------------------------------------------
 And our last question will come from the line of Michael Turrin with Wells Fargo.
 
---------------------------------------------------------------------------------
 Michael James Turrin,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [29]
---------------------------------------------------------------------------------
 Great. I appreciate you squeezing me in. I want to ask a question on the consolidation play that Microsoft is positioned for,  given that's something we hear clearly top of mind for IT decision-makers currently. You have clear plays there across security infrastructure apps and other areas. So it would just be great to hear your view on the Microsoft consolidation playbook in the current environment, and if there are certain areas you're particularly focused on or seeing more traction around.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [30]
---------------------------------------------------------------------------------
 Yes, I mean, I'll start and Amy, you can add. I think Amy referenced earlier in the context of Microsoft 365 and Office 365, fundamentally, what we are focused on is making sure that the customers are able to derive the value out of our offerings, right, whether it's the Microsoft 365 suite value, which is significant, whether it's E3 or E5. And we want to make sure that our -- they're getting deployed, they're getting used and that's obviously going to lead to our share gains in many cases. Same thing in security. That's a place where this quarter, you saw some good results from us.
 And same on up and down the stack across Azure, right? So when you think about AI, the anatomy of an AI application is not just an AI model. In fact, ChatGPT itself is a great example. ChatGPT, for example, uses Cosmos DB as their core database. And so therefore, we want to make sure that our services, that they are competitive, get used together, whether it's at the IaaS layer, the PaaS layer or at the SaaS layer.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [31]
---------------------------------------------------------------------------------
 And maybe 1 thing I would add, Michael, is that I know the question is consolidation, but another aspect of that is that some of the new business process automation work that's going to get done, whether that's the Dynamics workload that we've talked about, it also will benefit from having the AI services available on Azure, from having the core at Azure capabilities as well as, as well as actually some front-end stuff that people are buying in Microsoft 365 to close these loops in a new way.
 And so I think maybe it's not the traditional definition of consolidation. But when people look and say, what vendor adds a lot of value and has the tools that we need and, in many instances, already own to be able to do this business process work. I think we have a great, great value and, frankly, probably leading tools in almost every vertical.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corporation - General Manager of IR    [32]
---------------------------------------------------------------------------------
 Thank you, Michael. That wraps up the Q&A portion of today's earnings call. Thank you for joining us today, and we look forward to speaking with all of you soon.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [33]
---------------------------------------------------------------------------------
 Thank you, all.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [34]
---------------------------------------------------------------------------------
 Thank you.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corporation - General Manager of IR    [35]
---------------------------------------------------------------------------------
 Thanks so much.
 
---------------------------------------------------------------------------------
 Operator    [36]
---------------------------------------------------------------------------------
 This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation.
 
 
@@ -356,9 +268,7 @@ This concludes today's conference. You may disconnect your lines at this time. T
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -369,9 +279,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -397,6 +305,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

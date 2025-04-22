@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q2 2024 Micron Technology Inc Earnings Call
 MARCH 20, 2024 / 8:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Satya Kumar
     - 
@@ -17,9 +15,7 @@ Corporate Participants
  * Sanjay Mehrotra
    Micron Technology, Inc. - CEO, President & Director
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Christopher Brett Danely
    Citigroup Inc., Research Division - MD & Analyst
@@ -36,16 +32,11 @@ Conference Call Participiants
  * Christopher James Muse
    Cantor Fitzgerald & Co., Research Division - Senior MD & Semiconductor Research Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 Thank you for standing by, and welcome to Micron's Second Quarter 2024 Financial Call. (Operator Instructions) As a reminder, today's program is being recorded. And now I'd like to introduce your host for today's program, Satya Kumar, Corporate Vice President, Investor Relations and Treasurer. Please go ahead, sir.
 
---------------------------------------------------------------------------------
 Satya Kumar,   -     [2]
---------------------------------------------------------------------------------
 Thank you, and welcome to Micron Technology's Fiscal Second Quarter 2024 Financial Conference Call. On the call with me today are Sanjay Mehrotra, our President and CEO; and Mark Murphy, our CFO. 
 Today's call is being webcast from our Investor Relations site at investors.micron.com, including audio and slides. In addition, the press release detailing our quarterly results has been posted on the website along with the prepared remarks for this call. 
 Today's discussion of financial results is being presented on a non-GAAP financial basis, unless otherwise specified. A reconciliation of GAAP to non-GAAP financial measures can be found on our website. We encourage you to visit our website at micron.com throughout the quarter for the most current information on the company, including information on financial conferences that we may be attending. You can also follow us on X, @MicronTech. 
@@ -53,9 +44,7 @@ As a reminder, the matters we are discussing today include forward-looking state
 Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. We are under no duty to update any of the forward-looking statements to conform these statements to actual results. 
 I will now turn the call over to Sanjay.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [3]
---------------------------------------------------------------------------------
 Thank you, Satya. Good afternoon, everyone. I'm pleased to report that Micron delivered fiscal Q2 revenue, gross margin and EPS well above the high end of guidance. Micron has returned to profitability and delivered positive operating margin a quarter ahead of expectations. I would like to thank all our Micron global team members for their dedication and excellent execution that made this result possible. 
 Micron drove robust price increases as the supply-demand balance tightened. This improvement in market conditions was due to a confluence of factors, including strong AI server demand, a healthier demand environment in most end markets and supply reductions across the industry. 
 AI server demand is driving rapid growth in HBM, DDR5 and data center SSDs, which is tightening leading-edge supply availability for DRAM and NAND. This is resulting in a positive ripple effect on pricing across all memory and storage end markets. We expect DRAM and NAND pricing levels to increase further throughout calendar year 2024 and expect record revenue and much improved profitability now in fiscal year 2025. 
@@ -101,9 +90,7 @@ Finally, as we consider these demand and technology trends, we are carefully pla
 On potential U.S. expansion plans, we have assumed CHIPS grants in our CapEx plans for fiscal 2024. Our planned Idaho and New York projects require Micron to receive the combination of sufficient CHIPS grants, investment tax credits and local incentives to address the cost difference compared to overseas expansion. 
 I will now turn it over to Mark for our financial results and outlook.
 
---------------------------------------------------------------------------------
 Mark J. Murphy,  Micron Technology, Inc. - Executive VP & CFO    [4]
---------------------------------------------------------------------------------
 Thanks, Sanjay, and good afternoon, everyone. Micron delivered strong results in fiscal Q2 with revenue, gross margin and EPS well above the high end of the guidance ranges provided in our last earnings call. Much improved market conditions, along with the team's excellent execution on pricing, products and operations, drove the strong financial results. 
 Total fiscal Q2 revenue was $5.8 billion, up 23% sequentially and up 58% year-over-year. Fiscal Q2 DRAM revenue was approximately $4.2 billion, representing 71% of total revenue. DRAM revenue increased 21% sequentially with bit shipments increasing by a low single-digit percentage and prices increasing by high teens. 
 Fiscal Q2 NAND revenue was approximately $1.6 billion, representing 27% of Micron's total revenue. NAND revenue increased 27% sequentially with bit shipments decreasing by a low single-digit percentage and prices increasing by over 30%. 
@@ -130,59 +117,38 @@ In closing, with a significantly improved supply-demand balance in the industry,
 We remain disciplined with our investments in supply growth and focused on driving efficiency across the company. We expect positive free cash flow for the second half of fiscal 2024 and project record revenue in fiscal 2025. 
 I will now turn it back over to Sanjay.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [5]
---------------------------------------------------------------------------------
 Thank you, Mark. 
 (technical difficulty)
 
---------------------------------------------------------------------------------
 Operator    [6]
---------------------------------------------------------------------------------
 Ladies and gentlemen, please remain on your line. Your program will resume momentarily.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [7]
---------------------------------------------------------------------------------
 Can you hear us?
 
---------------------------------------------------------------------------------
 Operator    [8]
---------------------------------------------------------------------------------
 Yes. Welcome back. Ladies and gentlemen, we will resume.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [9]
---------------------------------------------------------------------------------
 Yes. We apologize for the technical difficulty here. But operator, if we can go ahead and start the Q&A section, please.
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 (Operator Instructions) And our first question comes from the line of Toshiya Hari from Goldman Sachs.
 
---------------------------------------------------------------------------------
 Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [2]
---------------------------------------------------------------------------------
 Can you guys hear me okay?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [3]
---------------------------------------------------------------------------------
 Yes, we can.
 
---------------------------------------------------------------------------------
 Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [4]
---------------------------------------------------------------------------------
 Okay. Great. Sanjay, on HBM, you mentioned that you continue to expect your market position in '25 or at some point in '25 to be similar to be in line with your overall position in DRAM. Given your revenue outlook for '24, that seems to imply, I don't know, a quadrupling or quintupling of your business in HBM year-to-year. 
 I guess part one, am I thinking about the trajectory accurately? And then part two, how should -- what does that mean for your CapEx over the next 12, 18 months and more importantly, your wafer capacity? You mentioned fiscal year '24, you're down low double digits. Is your wafer capacity likely to be down again in fiscal '25?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [5]
---------------------------------------------------------------------------------
 So HBM3E, first of all, it's a great product, as I mentioned, well received by our customers, high performance and 30% lower power than any other product that's out there. So of course, it has strong demand. 
 And as we have highlighted, we are sold out for our calendar year '24 supply, and our calendar year '25 supply is also mostly -- vast majority is already allocated. We are -- we have just begun production shipments, and these will continue to increase through the course of calendar year '24 as well as continue to increase through calendar year '25. 
 We are continuing to work on increasing our capacity and making good progress with respect to capacity as well as overall yield and quality. So certainly, in calendar year '25 versus calendar year '24, given that we are just starting our production here now will certainly be a significant growth over our calendar year '24 numbers. 
@@ -192,20 +158,14 @@ Regarding the wafer capacity by end of this fiscal year, we have said low double
 And our CapEx in '25 where in fiscal '25 will be higher than fiscal '24. WFE will be higher as well. And of course, construction CapEx related to the greenfield that is required for the second half of the decade will contribute to some of the CapEx increase in fiscal '25. But some of those details we'll provide you as we get closer to fiscal year '25. 
 So most important thing is that we will manage our wafer capacity technology transitions to really maintain our bit share. That is part of our strategy to have stable bit share even with increasing penetration of HBM. And again, just keep in mind that our overall framework of our CapEx being 35% of our revenue across the cycle still applies.
 
---------------------------------------------------------------------------------
 Operator    [6]
---------------------------------------------------------------------------------
 And our next question comes from the line of Aaron Rakers from Wells Fargo.
 
---------------------------------------------------------------------------------
 Aaron Christopher Rakers,  Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Equity Analyst    [7]
---------------------------------------------------------------------------------
 Yes. I guess 2 real quick ones. One, I just want to understand or maybe appreciate the context of the accretive nature of the HBM3. I know in the prepared remarks, I think or in the slide deck, it notes that you'll be accretive gross margin from HBM in the current quarter. 
 And then I know you talked a little bit about PCs and smartphones. I'm curious of what you're seeing in terms of traditional server demand and whether or not your forecast assumes any improvement of shipments in that end market.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [8]
---------------------------------------------------------------------------------
 So with respect to the accretive nature of HBM, look, HBM carries a higher cost, but it also carries a significantly higher pricing because it brings such great value in the applications in terms of its performance and power. And we are executing well. Our yield ramp is going well as well according to plan. 
 And therefore, we are pleased that in this quarter, when we have begun our production shipments, we will be having it accretive to our gross margins in the quarter. And of course, this momentum will continue to build in the quarters ahead. 
 And regarding the second part of your question on traditional server demand, so yes, we do see that in calendar '25, traditional server demand will grow modestly. And of course, it's coming after significant decline in server unit sales in calendar '23. 
@@ -214,49 +174,35 @@ And I may have said '25 here. I just want to clarify that I'm talking about 2024
 And we are actually seeing strong demand for both our DRAM products and NAND products in server. And actually, we are shifting some of our portfolio towards the higher mix solutions, HBM being one of them, high-density DIMMs being another one that's in strong demand for server applications and then data center SSDs. 
 All of this is -- we are seeing healthy demand drivers. And just remember, we had said that for memory and storage, customer inventories in data center market will be largely normalized in first half of '24. And we are seeing the market play out just as we had predicted several quarters ago.
 
---------------------------------------------------------------------------------
 Operator    [9]
---------------------------------------------------------------------------------
 And our next question comes from the line of CJ Muse from Cantor Fitzgerald.
 
---------------------------------------------------------------------------------
 Christopher James Muse,  Cantor Fitzgerald & Co., Research Division - Senior MD & Semiconductor Research Analyst    [10]
---------------------------------------------------------------------------------
 I guess, Sanjay, I would love to hear your thoughts around wafer movement from Big 3 to HBM and what impact that's having on the supply-demand outlook for DDR5 and sort of any context around customer engagement and longer-term projects. 
 And then, Mark, on the gross margin side, you've talked about the inventory previously written down now behind us. Can you walk through the moving parts that should dictate what we're seeing gross margins throughout the remainder of calendar '24?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [11]
---------------------------------------------------------------------------------
 So on your question regarding wafer shift to HBM, as we have highlighted that HBM3E needs 3x more wafers than -- nearly 3x more wafers than DDR5 in the same technology node of the same capacity to produce the same bits. So this is, of course, highly silicon-intensive technology. And this factor of 3 as a trade ratio between HBM and D5 is really common across the industry. 
 So what -- and HBM demand is increasing rapidly. You see all the recent announcements that are only showing you that even greater attach rate of HBM to the latest GPU solutions that were just announced earlier this week, 192 gigabyte in the Blackwell platforms versus 144 gigabytes. And of course, this is a phenomenon that's occurring across the board. Even today, I think Broadcom talked about how HBM content is going to further increase. 
 So HBM is in a high demand growth phase, and this demand growth will continue in terms of bits, in terms of revenue over the course of foreseeable future. And this is putting tremendous pressure on the non-HBM supply. 
 The trade ratio of 3:1, increasing demand in HBM, increased profitability of HBM is putting a non-HBM part of the memory in tight supply. This is why we say that leading-edge nodes are in very tight supply. And as a result, we would fully expect that D5 as well as other DDR products will improve in their profitability picture as well, given they're very much tight supply there. 
 And of course, HBM being in a strong position, when you look at the LTAs, we have talked to you about our supply already being locked up for '24 and '25. And this then increases our confidence in our D5 as well as LP5, LTA positions with the customers.
 
---------------------------------------------------------------------------------
 Mark J. Murphy,  Micron Technology, Inc. - Executive VP & CFO    [12]
---------------------------------------------------------------------------------
 CJ, it's Mark. On the gross margin side, as you mentioned, it's been a tough year plus, 1.5 years on a lot of timing differences. Difficult to gauge cost downs and gross margin progression, underutilization (inaudible), lower node transitions, structural capacity reduction and so forth that were contributing to weaker cost downs. 
 And as you mentioned, the lower -- the written down inventories finally cleared in the second quarter. It was a bit of a headwind actually in the sense that it was less of a benefit than the first quarter. So -- but still, nonetheless, it was a favorable benefit that we will not get in the third quarter. 
 And then the period costs also reduced from first to second quarter. So we're now under $50 million on period costs related to underutilization. As I mentioned in my comments, at some -- that's legacy-related capacity now only, and that would continue going forward. 
 So now we see more normal conditions on cost downs and related margin effects. We see node transitions occurring. Those are positive. The underutilization effects are fading away, as we mentioned. We're getting volume leverage and the associated absorption and then just the business being able to focus on efficiency. So as we mentioned before, we're now in the front end would expect mid- to high single-digit cost downs as normal. 
 I think that as you look forward, and Sanjay alluded to this, you will begin to see the costs related to HBM weigh on our cost down performance. Now it's a good trade, of course, because the mix is favorable, the price is higher on those products. So it's an accretive margin trade, but that will impact the cost downs.
 
---------------------------------------------------------------------------------
 Operator    [13]
---------------------------------------------------------------------------------
 And our next question comes from the line of Timothy Arcuri from UBS.
 
---------------------------------------------------------------------------------
 Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [14]
---------------------------------------------------------------------------------
 Sanjay, I had a question just around the tenor of the discussions that you're having with your customers. I mean the industry is bigger this year in terms of bits. It sounds like mostly due to a higher baseline coming off last year. But it sounds like supply hasn't really increased to match that higher bits this year. So the balance has gotten even tighter over the past 3 months. 
 So how has that changed the dynamics of your discussions with your customers? I know you had a $600 million prepay last quarter. Did you get any prepays this quarter? Are you talking about new sort of contract structures with customers where they maybe fund some of your CapEx? Can you kind of talk about all that?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [15]
---------------------------------------------------------------------------------
 So just keep in mind that in fiscal year '24 or calendar '24 versus '23, the shipments will increase substantially. And as you noted, I mean, the year-over-year increase in shipments will be substantial. 
 And as you noted, the supply is very tight. Supply is tight due to the factors that we have discussed before. Due to the downturn that the industry experienced last year, CapEx cuts were made, utilization cuts were made, structural shift from traditional older nodes to newer nodes of equipment was made in order to support the leading-edge nodes. And that resulted in a structural reduction in wafer capacity in the industry as well. 
 And then there is the HBM factor, the trade ratio 3:1 that I have discussed today. All of this has contributed to a very tight supply situation. And as I noted earlier in my remarks, non-HBM supply is tight. So some of our discussions with customers, particularly with respect to HBM, when we talk about that HBM is sold out, those type of contracts have both pricing as well as volumes as well as other stricter terms baked in as part of our LTAs. 
@@ -264,77 +210,51 @@ And 2024 volume as well as pricing is all locked up. 2025, as I mentioned, the v
 Keep in mind, this has never happened before, right, that we are talking about 2025, and we are sitting in CQ1, and we already have so much discussion around supply and pricing for 2025 getting locked up here as we speak. 
 And of course, this is then, as I said earlier, impacting our -- in a positive way, our discussions with non-HBM part of the market with other customers. And so, I mean, this overall tight supply environment bodes well for our ability to manage the pricing increases as well as keep an eye on demand-supply balance and remain extremely disciplined in driving the growth of our business in revenue and profits while continuing to execute our strategy of maintaining stable bit share. So leading edge is very tight, and we are continuing to work on maximizing our output, which means leading edge is running at full utilization at this point.
 
---------------------------------------------------------------------------------
 Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [16]
---------------------------------------------------------------------------------
 Great. But I guess that means that there were no prepays this quarter, correct?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [17]
---------------------------------------------------------------------------------
 Well, we have not commented on that. We have not provided any color on that.
 
---------------------------------------------------------------------------------
 Operator    [18]
---------------------------------------------------------------------------------
 And our next question comes from the line of Joseph Moore from Morgan Stanley.
 
---------------------------------------------------------------------------------
 Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [19]
---------------------------------------------------------------------------------
 The 128 gig that you talked about getting qualified, it seems like that's a pretty important market in AI. And you guys are approaching it monolithically where I know your competitor has used this packed approach. Can you talk about the reception to that, and you spoke of several hundred million. How big do you think that opportunity could be?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [20]
---------------------------------------------------------------------------------
 As I said, I mean, in my prepared remarks, that this product has very strong customer pull. This really offers significantly improved latency as well as energy efficiency. And this is simply due to the architecture that we chose to pursue fully focusing on what is ultimately important to our customers. 
 This mono die architecture just gives you -- versus a stacked architecture gives you the benefit of more simplified interconnect, which results in power efficiency as well as greater performance advantage. So yes, I mean, we are seeing strong reception to this product. And this will -- we have said that this will have a meaningful revenue this fiscal quarter for us and several hundred million dollars of revenue in our fiscal 2024. So clearly on a strong growth rate. 
 And our goal, again, would be to continue to manage the mix of our business across our portfolio in a prudent fashion so that we continue to shift the mix of our products towards more profitable parts of the business, particularly like data centers, solutions, including these high-capacity DIMMs that we just discussed as -- HBM, data center, SSD. So all of this really just shows you that how we are continuing to deliver successfully on strengthening our product portfolio and targeted -- targeting it towards increasing the mix of our business towards more profitable parts of the market.
 
---------------------------------------------------------------------------------
 Operator    [21]
---------------------------------------------------------------------------------
 And our next question comes from the line of Brian Chin from Stifel.
 
---------------------------------------------------------------------------------
 Brian Edward Chin,  Stifel, Nicolaus & Company, Incorporated, Research Division - Associate    [22]
---------------------------------------------------------------------------------
 Great. Congratulations on the results. I guess it is sort of an extrapolation question. But if HBM worth 20% of Micron DRAM revenue, and you have said that, again, at some point next year, you think on a bit basis, it could be equivalent to your market share, that HBM were 20% of Micron DRAM revenue as opposed to a much lower percentage today. Could you maybe help quantify how accretive to gross margins as that richer mix would represent?
 
---------------------------------------------------------------------------------
 Mark J. Murphy,  Micron Technology, Inc. - Executive VP & CFO    [23]
---------------------------------------------------------------------------------
 Yes. Brian, it's Mark. We won't break it out specifically, but maybe just to give you a sense of the trajectory of gross margins. The increase from first quarter of 1% to 20% in the second quarter was dominantly price. And obviously, a lot of other things going on, but the dominant feature of that increase was price. 
 Likewise, in the 20% second quarter actuals to the 26.5% guide, price remains the largest contributor. And offsetting part of that is, of course, what CJ mentioned on the benefit of those lower cost inventories fade away. So -- but price is still the largest factor. 
 But (inaudible) begins to come in are both a resumption of cost downs. And then we're starting to see some favorable mix effects for the products that Sanjay talked about, including HBM. And then as we move into the fourth quarter, where we would expect a margin increase comparable to the levels that we saw second to third quarter. That becomes more balanced between price effects and product mix effects and cost downs. And most notably, HBM begins to become more material. And that would then proceed into '25. 
 As we look in '25, we see continued pricing strength in '25. We see favorable product mixes -- product mix in '25. And then our cost downs, excluding the HBM effects, we expect to have good cost down, all contributing to margin expansion.
 
---------------------------------------------------------------------------------
 Operator    [24]
---------------------------------------------------------------------------------
 And for our last question for today comes from the line of Chris Danely from Citi.
 
---------------------------------------------------------------------------------
 Christopher Brett Danely,  Citigroup Inc., Research Division - MD & Analyst    [25]
---------------------------------------------------------------------------------
 I guess just another multipart question on margins like everybody else. So you mentioned that there's still some underutilization charges related to legacy manufacturing capacity. When do those go away? 
 And then as a follow-up to all these HBM margin questions. Can you just talk about the gross margin arc of your HBM products as more competition and capacity comes on to the market? Like when would the gross margins peak and then start to decline as Samsung starts to increase capacity, your capacity goes up, all that stuff?
 
---------------------------------------------------------------------------------
 Mark J. Murphy,  Micron Technology, Inc. - Executive VP & CFO    [26]
---------------------------------------------------------------------------------
 I'll deal with the first question. On the underutilization charges, Chris, they went from, I think it was 1 65 in the first quarter down to under $50 million in the second quarter. We believe they'll stay at low levels well below 50 for the foreseeable future. So we'll no longer comment on those. And again, as I mentioned in my comments, they're related to the legacy capacity.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [27]
---------------------------------------------------------------------------------
 And regarding your question on gross margin projections for HBM, so we are not going to do that here. We are totally focused on increasing our production capability and bringing in 2025 a bit share for HBM to be in line with our DRAM share. 
 And of course, this will bring about greater profitability opportunities, but we are really not projecting pricing of HBM here in the future. But clearly, HBM brings tremendous value in the applications. You are seeing these new platforms that are hungry for more HBM, and HBM has been in shortage, and we have talked about our '24 and '25 supply being spoken for. 
 So all of that, I think, bodes well for high revenue growth and highly profitable HBM business for us. And of course, we will stay extremely focused on maintaining discipline, maintaining our CapEx discipline and maintaining our share target discipline for HBM and really staying very disciplined on overall supply growth being in line with our DRAM share for the whole DRAM part of our business. So I think these will be key as we continue to look ahead at our execution and driving our opportunities forward.
 
---------------------------------------------------------------------------------
 Operator    [28]
---------------------------------------------------------------------------------
 This does conclude the question-and-answer session as well as today's program. Thank you, ladies and gentlemen, for your participation. You may now disconnect. Good day.
 
 
@@ -343,9 +263,7 @@ This does conclude the question-and-answer session as well as today's program. T
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -356,9 +274,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -384,6 +300,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2024 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

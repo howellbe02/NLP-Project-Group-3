@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q1 2022 Microsoft Corp Earnings Call
 OCTOBER 26, 2021 / 9:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Brett Iversen
    Microsoft Corporation - General Manager of IR
@@ -17,9 +15,7 @@ Corporate Participants
  * Amy E. Hood
    Microsoft Corporation - Executive VP & CFO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Bradley Hartwell Sills
    BofA Securities, Research Division - VP
@@ -38,18 +34,13 @@ Conference Call Participiants
  * Keith Weiss
    Morgan Stanley, Research Division - Equity Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           Greetings, and welcome to the Microsoft Fiscal Year 2022 First Quarter Earnings Conference Call. (Operator Instructions) As a reminder, this conference is being recorded. 
 It is now my pleasure to introduce your host, Brett Iversen, General Manager in Investor Relations. Thank you. You may begin.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corporation - General Manager of IR    [2]
---------------------------------------------------------------------------------
 
           Good afternoon, and thank you for joining us today. On the call with me are Satya Nadella, Chairman and Chief Executive Officer; Amy Hood, Chief Financial Officer; Alice Jolla, Chief Accounting Officer; and Keith Dolliver, Deputy General Counsel.
 On the Microsoft Investor Relations website, you can find our earnings press release and financial summary slide deck, which is intended to supplement our prepared remarks during today's call and provides the reconciliation of differences between GAAP and non-GAAP financial measures. Unless otherwise specified, we will refer to non-GAAP metrics on the call. The non-GAAP financial measures provided should not be considered as a substitute for or superior to the measures of financial performance prepared in accordance with GAAP. They are included as additional clarifying items to aid investors in further understanding the company's first quarter performance, in addition to the impact these items and events have on the financial results.
@@ -57,9 +48,7 @@ All growth comparisons we make on the call today relate to the corresponding per
 During this call, we will be making forward-looking statements, which are predictions, projections or other statements about future events. These statements are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could materially differ because of factors discussed in today's earnings press release, in the comments made during this conference call and in the Risk Factors section of our Form 10-K, Forms 10-Q and other reports and filings with the Securities and Exchange Commission. We do not undertake any duty to update any forward-looking statement.
 And with that, I'll turn the call over to Satya.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [3]
---------------------------------------------------------------------------------
 
           Thank you, Brett. We're off to a fast start in fiscal 2022 with Microsoft Cloud quarterly revenue surpassing $20 billion for the first time, up 36% year-over-year. The case for digital transformation has never been more urgent or more clear. Digital technology is a deflationary force in an inflationary economy. Businesses, small and large, can improve productivity and the affordability of their products and services by building tech intensity. The Microsoft Cloud delivers the end-to-end platforms and tools organizations need to navigate this time of transition and change.
 Now I'll highlight examples of our innovation and momentum, starting with Azure. Every organization will need a distributed computing fabric across the cloud and the edge to rapidly build, manage and deploy applications anywhere. We are building Azure as the world's computer, with more data center regions than any other provider, delivering fast access to cloud services, while addressing critical data residency requirements. And we are partnering with mobile operators, from AT&T and Verizon in the United States, to TelefÃ³nica and BT in Europe, Telstra and Singtel in Asia Pacific, as they embrace new business models and bring ultra-low latency compute power and storage to the network and the enterprise edge.
@@ -87,9 +76,7 @@ We're also bringing xCloud gaming to the console for the first time, enabling Xb
 In closing, we have the most diversified set of digital businesses, and we are innovating to expand our opportunity across the entire portfolio to help our customers in this new era. Next week, we'll hold our flagship Ignite Conference, where we will share the next chapter of Microsoft Cloud from the Metaverse, to large-scale AI, from hybrid work, to hybrid infrastructure. I couldn't be more optimistic about the opportunities ahead.
 With that, I'll hand it over to Amy.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [4]
---------------------------------------------------------------------------------
 
           Thank you, Satya, and good afternoon, everyone. Our first quarter revenue was $45.3 billion, up 22% and 20% in constant currency. Earnings per share was $2.27 and increased 25% and 23% in constant currency when adjusted for a net tax benefit of $3.3 billion related to the transfer of intangible properties this quarter.
 Our sales teams and partners delivered a strong start to the fiscal year. In our commercial business, customers continued to choose the Microsoft Cloud. We again saw healthy growth in our Azure consumption-based business and increased usage across products, such as Teams and Power Platform, as Satya reflected in his comments. In our on-premises business, annuity performance in Office and Server benefited from a greater-than-expected mix of contracts with higher in-period revenue recognition. And in LinkedIn, the Talent Solutions business continued to benefit from an improved job market.
@@ -122,158 +109,109 @@ Now back to company guidance. We expect COGS of $17 billion to $17.2 billion and
 In closing, we are off to a strong start in FY '22, with tremendous opportunity to drive sustained long-term revenue growth. We remain focused on growing high-value usage across our differentiated Microsoft Cloud offerings and delivering exciting new consumer experiences with Windows 11, Surface and our Xbox gaming platform as we enter the holiday season. Our consistent approach to investing for these and other future opportunities while continuing to deliver solid operating performance will drive strong results throughout FY '22 and beyond.
 Now Brett, let's go to Q&A.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corporation - General Manager of IR    [5]
---------------------------------------------------------------------------------
 
           Thanks, Amy. We'll now move over to Q&A. (Operator Instructions) Operator, can you please repeat your instructions?
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
           (Operator Instructions) Our first question comes from Keith Weiss with Morgan Stanley.
 
---------------------------------------------------------------------------------
 Keith Weiss,  Morgan Stanley, Research Division - Equity Analyst    [2]
---------------------------------------------------------------------------------
 
           Congratulations on another remarkable quarter. Satya, I was hoping you could talk a little bit about the edge computing opportunity, something that you started off your remarks with and also something that we're hearing a lot of chatter about within the investor community and within the technology community. Can you talk to us about how you think about sizing that opportunity in terms of the programmable edge? And maybe help us understand the Microsoft architectural approach versus perhaps some of the competitors coming into the marketplace from the CDN perspective, who are talking about the competitive differentiation by having a more of a last-mile solution. Can you help us kind of understand the differentiation in those approaches?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [3]
---------------------------------------------------------------------------------
 
           Thank you so much, Keith. And a great question because we've always, as you know, Keith, architected Azure for the distributed computing fabric to remain distributed. In other words, when we talked about hybrid computing even 5 years ago, the idea was always that we will always have a cloud, and then we will have a distributed cloud infrastructure for application deployment. So that when we think about cloud plus edge, we even put even the multi-cloud control plane in there, right? So whether it is what's happening with, say, 5G and how naturally compute will go to where data is getting generated, with low-latency access to a factory floor, to a hospital, to cities where you want to play xCloud gaming, that's sort of one phenomena.
 The other is just literally treating every cloud, whether it's the on-premise data center or it's the other public cloud and our public cloud and being able to use Azure Arc and its control plane to ease the deployment across all clouds. That's another thing that we are seeing. So when I think about what is going to be key in such a distributed world, is having that full suite of application infrastructure, right, all the way from the management and security control plane, something like Azure Active Directory managing the security principles and identities or -- and to management control planes like Azure Arc. And so we feel well positioned for it. And I think that the multi-cloud, multi-edge world is sort of really how we build Azure in the first place. And I think we're still very early in all of that playing out, but we feel well positioned.
 
---------------------------------------------------------------------------------
 Operator    [4]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Brent Thill with Jefferies.
 
---------------------------------------------------------------------------------
 Brent John Thill,  Jefferies LLC, Research Division - Equity Analyst    [5]
---------------------------------------------------------------------------------
 
           Amy, commercial bookings up 14% is impressive, but it's slowed down from last quarter's 25% against a more difficult comp. I think you had mentioned some color around Azure and the size and duration. Can you just -- maybe anything else you would call out there and realize it's come off the tough comps?
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [6]
---------------------------------------------------------------------------------
 
           Thanks, Brent. Yes. I think the important thing, when you think about bookings performance, is to talk about what happened before you get to those volatiles from the large Azure commitments that create some of the tough comparables that we're talking about. And that's really the opportunity to execute against selling the Microsoft [Cloud] day-to-day, right, which is Dynamics, Microsoft Cloud, GitHub and the broader universe. Our execution on that was actually quite good. Very good renewals, very good recapture rates, very good add-ons, meaning you sell outside of the normal pattern, and so I feel very good. It's very consistent execution, to your point, Brent, this quarter versus others on that front.
 And then, to your point, it's sort of important not to time some of these larger, long-dated Azure contracts. That's where the volatility is. The day-to-day execution of Azure commitments, actually, was very consistent. The volatility comes with some of the bigger things. And with a lot of them in Q4, less on a comparable basis in Q1, and that happens from time to time.
 
---------------------------------------------------------------------------------
 Operator    [7]
---------------------------------------------------------------------------------
 
           Our next question is coming from Karl Keirstead with UBS.
 
---------------------------------------------------------------------------------
 Karl Emil Keirstead,  UBS Investment Bank, Research Division - Analyst    [8]
---------------------------------------------------------------------------------
 
           Amy, heading into this Q1 release, I would say there was a higher-than-normal level of worry from investors about your Windows PC segments in light of all of the unit shipment and supply chain issues, and yet you put up a Windows OEM number that blew away your guidance. And your guidance for the Windows OEM business in December was also, I think, way above what people are modeling. So I guess, in essence, how did you dodge that bullet? Amy, maybe you could unpack that OEM performance for us and your view into the second half of the fiscal year.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [9]
---------------------------------------------------------------------------------
 
           Thanks, Karl. I want to start by saying and repeating something that Satya, I think, was careful to include in his remarks. And it is the central nature of the PC, to really the nature of both hybrid work and fundamentally about getting jobs done. And I think the central role it's played, we've talked about, I think, now for a number of quarters. And I think the reality of that continues to exist and I think become more real for people as we talk about what hybrid's going to look like and continue to learn what hybrid is going to look like. And to that end, PCs -- the market grew this quarter, and it was constrained by supply. 
 I believe Q2 will also be a strong demand quarter that is constrained by supply. But even with that, we see a growing market. And then particularly, in both Q1 and Q2, we see a strong demand in the commercial segment. And I think that ties directly back to some of Satya's comments about the central nature of the device. Then, of course, we do get some benefit, Karl, because revenue per license is higher in commercial than it is in the broad market. Those things together, which is a growing market, strong Windows performance within that market, in commercial in particular, and then the resulting higher revenue per license results in I think a very strong position in Q1 and Q2.
 
---------------------------------------------------------------------------------
 Karl Emil Keirstead,  UBS Investment Bank, Research Division - Analyst    [10]
---------------------------------------------------------------------------------
 
           Got it. Congrats on that result, Amy.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [11]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Operator    [12]
---------------------------------------------------------------------------------
 
           Our next question is coming from the line of Mark Moerdler with Bernstein Research.
 
---------------------------------------------------------------------------------
 Mark L. Moerdler,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Research  Analyst    [13]
---------------------------------------------------------------------------------
 
           Satya, Amy, congratulations on the really strong quarter. With inflation, at least in the U.S., increasing and likely to further accelerate due to government spending, Amy, how do you think this increasing inflation will impact your customers and your business? And Satya, in your remarks, you discussed how digital is deflationary in an inflationary world. Can you give more color on how the shift to cloud and digital will offset inflationary pressure beyond purely pricing?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [14]
---------------------------------------------------------------------------------
 
           Yes. Maybe I'll just start and then, Amy, you can add to it. I mean in an inflationary environment, the first place any business should go to is how to really ensure that they're able to get productivity gains and even dealing with constraints. For example, if you have supply chain constraints, one of the things you want to do is run your factories at the efficient frontier. That means things like digital-twin simulation are the ones where you're going to make sure that every production run has the least amount of wastage.
 So I think any which way you look, whether it's in the knowledge worker, first-line worker, whether it's actually digital twins and simulation, all of those things are going to be the best way for any company to deal with inflationary pressure so that they can, in fact, have the best productivity and thereby the best ability to be able to meet aggregate demand out there. So that's why we are very, very excited about sort of making sure our software products are available to our business customers all around to be able to manage through this inflationary environment. And I'll let Amy add to that.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [15]
---------------------------------------------------------------------------------
 
           Yes. Thanks, Satya. And I think, really, Satya got to the heart, Mark, of where I tend to go when you think about -- when you see the intensity of customers across industries and across geographies wanting to adopt digital technology for many of the reasons Satya just explained, and there's numerous scenarios across, I think, most industries. That acceleration, of course, regardless, frankly, of the overall environment, is a place where we feel like we offer the best portfolio at the Microsoft Cloud and with our industry clouds to make that doable with a very fast time-to-value. 
 And so our ability to execute against that, regardless of the spend environment, means we've got the right portfolio and a high value to customer that's deployable quickly, that can get them results when they need it. And I think that's reflected in most of the surveys that really point to preference for our cloud to help customers do that. So while -- of course, it's hard to predict what any quarter or second half will do, the things I believe to be sustainable are a push to digital, a push to clouds that help customers get value quickly and us being a trusted adviser and partner to help that happen.
 
---------------------------------------------------------------------------------
 Mark L. Moerdler,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Research  Analyst    [16]
---------------------------------------------------------------------------------
 
           Congrats again.
 
---------------------------------------------------------------------------------
 Operator    [17]
---------------------------------------------------------------------------------
 
           Our next question is coming from the line of Kash Rangan with Goldman Sachs.
 
---------------------------------------------------------------------------------
 Kasthuri Gopalan Rangan,  Goldman Sachs Group, Inc., Research Division - Analyst    [18]
---------------------------------------------------------------------------------
 
           You gave us great useful perspective on inflation. Curious if you can expand your thoughts, Satya and Amy, on the labor shortage we're seeing in the tech market, how you're dealing with that. And also, a, little bit more of a deeper perspective on supply chain and how does Microsoft get visibility? Considering that you're growing your cloud business and your CapEx commitments seem to be quite impressive. How much visibility do you have into component availability and your ability to ramp up your CapEx?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [19]
---------------------------------------------------------------------------------
 
           Thanks, Kash, for the questions. So on the labor market, maybe I'll start. Amy, you can add to this. All up, the first place where we are very, very focused on is to making sure that, with LinkedIn, we are doing everything to help everyone find their best economic opportunity. And when Ryan Roslansky, who's the CEO of LinkedIn, talks about the great reshuffle, I think along with the hybrid work change, there is a real question everybody is asking, not only where and how they work, but why they work. And so to be able to make sure that we can help them find the opportunity that they are looking for is, I think, the most critical work that we can be doing.
 The second side to this though is also to take the productivity of the people, whether they're on the front lines and the first-line workers or the knowledge workers or even software developers, and making sure that they have the best tools, whether it's the GitHub, Harness and Visual Studio Code for people who are developers, or whether it is Power Apps or whether it is the Office 365 and then Microsoft 365 tooling to help them be most productive. That's, I think, the thing that we are very, very focused on because key to dealing with labor shortages is productivity gains. And that, plus the work we're doing in LinkedIn, is where we are focused on. So with that, Amy, I'll hand it over to you.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [20]
---------------------------------------------------------------------------------
 
           Thanks, Satya. And Kash, as you probably noted, I did talk about, this quarter, we did add a year-over-year 14% head count growth. And I think that's important because when you talk about how, what and why, we do remain focused on being a great employer, to have people achieve those goals and be able to achieve them here.
 Secondly, you asked some good questions about the supply chain impact and specifically around data center given our spend this quarter, and my guidance is it should be similar next. A lot of that, Kash, is long lead time. So we do have good understanding of lead times required to meet the capacity and signals that we're seeing. I think we did a good job managing that. It's not to say we're not impacted. Multiple suppliers are important to be able to manage through that. And I feel the team has done a very good job.
 In terms of specific impacts, I noted it in some of my remarks. I do think demand will exceed supply in PCs and Surface for us this quarter, particularly in premium devices and consoles for Xbox. And another bit of -- another challenge I noted will just be we'll just need to watch the advertising market through the quarter because, obviously, their willingness to spend is entirely connected to their supply as well.
 
---------------------------------------------------------------------------------
 Operator    [21]
---------------------------------------------------------------------------------
 
           Our next question comes from the line of Raimo Lenschow with Barclays.
 
---------------------------------------------------------------------------------
 Raimo Lenschow,  Barclays Bank PLC, Research Division - MD & Analyst    [22]
---------------------------------------------------------------------------------
 
           Could you speak a little bit to your -- in your remarks, you talked a lot more about the hybrid cloud and how Server & Tools is actually seeing a lot of benefits from that. What are you seeing on the client side about that dynamic in terms of people moving to the cloud and kind of workloads migrating over there and hence, there's less Server & Tools versus actually kind of that being a net benefit for you? It seems like the pendulum is swinging in the other direction for you. Some help there would be helpful.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [23]
---------------------------------------------------------------------------------
 
           Maybe I can talk a bit to sort of what we are seeing. Let's take the most, I would say, the classic model of lift, shift and modernize motions, which is, I think, at the core of hybrid cloud. That's still in -- still early innings. Every day, I wake up to talk to customers who are planning out that motion and making sure that they're able to modernize their entire application portfolio in various ways. So that's obviously still very, very strong.
 The interesting thing for us, even in that context, is even in the height of our success in the client server era, we really were never a Tier 1 company, whereas now, we are in the sense that you take all the SAP workloads that are running on Azure, which I talked about, or other Tier 1 workloads that are migrating, whether it's HPC or transactional database workloads. So that's the other thing which is happening is real production workloads moving over.
@@ -281,77 +219,53 @@ And then on the data estate, that's the place where perhaps we're seeing signifi
 The other side of this is what's happening with dev tools, right, when you start having your CI/CD to your cloud, then modern new applications and the agility with which you build, so with GitHub, VS Code becoming essentially default for any modern dev shop in the enterprise or otherwise, that's the other thing that we see. But perhaps more than anything else, the interesting circuit for us is what happens with Teams, right? With Teams, you suddenly now have a new platform in which applications get hosted, whether it's developed by the enterprise or by a third party, and I referenced that in my remarks.
 And those applications, in many cases, get built on our cloud, use things like Azure DB, use things like Power Platform. And so the reinforcing and compounding side of Teams, to Power Apps, to Dynamics, to Azure is probably one of the most unique things we are seeing in terms of new applications getting built. And then there is the cloud plus edge, which I referenced in the answer to the first question, which is in a multi-cloud, multi-edge world, you still need a control plane that manages all that complexity. And that's where something like Azure Arc and GitHub become the 2 standards. You develop in one place, you deploy in one place, and then you propagate to every cloud that you want to deploy in.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [24]
---------------------------------------------------------------------------------
 
           And Raimo, just maybe to add -- yes, you may have been asking also just about the nature of some of the comments I was making about on-prem server results. And it really points to hybrid strength. That's the way I tend to think about it. And whether that's the fact that people are committed to Windows and SQL Server when they run that in Azure or whether they run it in a multi-cloud environment, it's a commitment to the platform. And so I just wanted to make that probably more clear as one of the drivers of our server products and cloud KPI execution this quarter.
 
---------------------------------------------------------------------------------
 Operator    [25]
---------------------------------------------------------------------------------
 
           Our next question comes from Brad Reback with Stifel.
 
---------------------------------------------------------------------------------
 Brad Robert Reback,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD & Senior Equity Research Analyst    [26]
---------------------------------------------------------------------------------
 
           So recently, several of your Tier 1 SIs has talked about having trouble hiring fast enough to keep up with demand. And clearly, your results sort of speak to that. But as we look going forward, have you seen any early indications that customers are potentially having to slow down the pace with which they move to your commercial cloud?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [27]
---------------------------------------------------------------------------------
 
           I mean I would sort of point to Amy's guide for the next quarter. As far as we are sort of looking at, is the demand across the entire stack is pretty robust. And obviously, what happens in the labor market, whether it's in the tech labor market or any other labor market, will ultimately be something that we will all be subject to.
 But the thing at least about the software businesses are, in order to deal with a lot of other constraints, whether they are labor shortages or supply shortages, deploying digital tech is one way to sort of really overcome them. So that's sort of what we see. Clearly, I think in the tech sector today, there is more structural demand than perhaps supply all around. But we like that position because at some level, we just want to make sure that we have the most competitive products out there. And as long as we continue to do so, I think we'll be fine.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [28]
---------------------------------------------------------------------------------
 
           Yes. And I do think, frankly, Brad, just the signals we're seeing on consumption and usage, I would say, customers are doing a good job of figuring out the priority list that delivers value to them as Satya's saying. I do know, obviously, that the labor market has a real impact. And I think that's also why you're seeing investments being made by us in particular into training and skilling, making deployment easier, making time-to-value faster, really having a documentation that makes getting started and trials far more accessible. And so when you talk about adding productivity, it's also an investment we at Microsoft need to make into making our products easier and really terrific to get going on so that you're not constrained in the ways that you're talking about.
 
---------------------------------------------------------------------------------
 Operator    [29]
---------------------------------------------------------------------------------
 
           Our final question comes from Brad Sills with Bank of America.
 
---------------------------------------------------------------------------------
 Bradley Hartwell Sills,  BofA Securities, Research Division - VP    [30]
---------------------------------------------------------------------------------
 
           Congratulations on a real nice quarter here. Satya, I wanted to ask about comments you made earlier in the call around investments coming and new releases coming for some of the industry clouds, financial services, manufacturing. How do we -- how should we view this? Should we think of the Azure business results kind of driven increasingly by these industry cloud-type solutions away from horizontal-type projects like ERP, database? That's obviously been there, but is this an incremental opportunity that's coming that we should be thinking about?
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [31]
---------------------------------------------------------------------------------
 
           Yes. Thank you for the question. Absolutely. We think of the Microsoft Cloud, which includes Azure, it includes Dynamics 365, it includes Microsoft 365, it includes things like Power Platform, it includes even GitHub and VS Code. So that's why we keep stressing the full modern tech stack that makes up Microsoft Cloud. And then with the industry cloud, we add value on top of that, which is specific, whether it's in retail, whether it's manufacturing, obviously, in health care. And our pending Nuance acquisition will even add further to that.
 So obviously, we are very, very focused on, first of all, not any just one piece, which we -- each one of those has to be competitive on their own. It's the coming together of the Microsoft Cloud. And then the industry cloud adds further value on top of it. So yes, I think ultimately, our competitiveness comes because of all of those layers integrated and delivering that time-to-value for our customers while maintaining openness in each layer and competitiveness in each layer.
 
---------------------------------------------------------------------------------
 Brett Iversen,  Microsoft Corporation - General Manager of IR    [32]
---------------------------------------------------------------------------------
 
           That wraps up the Q&A portion of today's call. Thank you for joining us today, and we look forward to speaking with all of you soon.
 
---------------------------------------------------------------------------------
 Amy E. Hood,  Microsoft Corporation - Executive VP & CFO    [33]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Satya Nadella,  Microsoft Corporation - Chairman & CEO    [34]
---------------------------------------------------------------------------------
 
           Thank you.
 
---------------------------------------------------------------------------------
 Operator    [35]
---------------------------------------------------------------------------------
 
           Ladies and gentlemen, this does conclude today's teleconference. Once again, we thank you for your participation, and you may disconnect your lines at this time.
 
@@ -361,9 +275,7 @@ Operator    [35]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -374,9 +286,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -402,6 +312,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2021 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

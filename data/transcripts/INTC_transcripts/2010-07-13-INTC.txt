@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q2 2010 Intel Corporation Earnings Conference Call
 JULY 13, 2010 / 9:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Stacy Smith
    Intel Corporation - CFO
@@ -17,9 +15,7 @@ Corporate Participants
  * Paul Otellini
    Intel Corporation - President & CEO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Uche Orji
    UBS - Analyst
@@ -56,25 +52,18 @@ Conference Call Participiants
  * Kevin Cassidy
    Stifel Nicolaus - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
            Good day, ladies and gentlemen.  Welcome to the Q2 2010 Intel Corporation earnings conference call.  I will be your coordinator for today.  All lines have been placed on mute to prevent any background noise.  After the speakers' remarks, there will be a question-and-answer session.  (Operator Instructions).  As a reminder, this conference is being recorded for replay purposes.  I would now like to turn the presentation over to your host for today's call, Mr.  Kevin Sellers, VP of Investor Relations.  Please proceed, sir. 
 
---------------------------------------------------------------------------------
 Kevin Sellers,  Intel Corporation - VP of IR    [2]
---------------------------------------------------------------------------------
 
            Thank you, Chastity, and welcome, everyone, to Intel's second-quarter 2010 earnings conference call.  I'm joined today by Paul Otellini, our President and CEO, and Stacy Smith, our Chief Financial Officer.  A few important items before we begin.  We've posted our earnings release, CFO commentary and updated financial statements to our investor website, INTC.com for anyone who still [needs] access to that information.  Also, if during this call we use any non-GAAP financial measures or references we will post the appropriate GAAP financial reconciliations to our website, INTC.com.  Following some brief prepared remarks from both Paul and Stacy we'll take questions.
  As we begin let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it and as such, does include risks and uncertainties.  Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially.  I also want to remind you of our annual Intel developers forum scheduled for September 13th through the 15th in San Francisco and hope to see many of you there.  For information on this event please visit our website or contact Intel investor relations directly.
  With that let me now hand it over to Paul. 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [3]
---------------------------------------------------------------------------------
 
            Thanks, Kevin.  In Q2 Intel posted its best quarterly results ever, as the economies of the world continue to reflect renewed economic momentum.  Intel growth continues to run ahead of economic growth, reflecting what we believe is a fundamental shift driven by internet adoption.  Our second quarter was up 5% from Q1 versus a seasonal norm of down 2%.  In addition to continuing year-over-year growth in the Consumer segments this quarter we benefited from a broad-based return of the Enterprise and Small Business segments.  Our server business had a record quarter, showing strong sequential unit growth and strength from customers opting for richer configurations that drove an improved mix within the server category.  The return on investment that our new server offerings deliver is extremely compelling and is major reason for the strong demand we are experiencing.  One example of the surging demand for servers is in the IP Data Center segment, which grew 170% over Q2 of last year.  As internet traffic continues boom the cloud build out is accelerating in order to keep pace.
  In addition to servers we also saw companies, including small businesses, refreshing their PCs.  Like servers, this, too, was broad-based and was an important driver of improving product mix within our PC business last quarter.  Our Atom business also performed very well, growing 16% sequentially.  Two important drivers were responsible.  First, there was an inventory correction in Q1 that is now normalized.  And second, we introduced dual core versions of Atom, which helped drive incremental demand and improve our mix within the Atom category.  Since launching the Atom processor two years ago we've shipped approximately 75 million Atoms and we still expect the industry to ship around 40 million netbooks this year.
@@ -83,9 +72,7 @@ Paul Otellini,  Intel Corporation - President & CEO    [3]
  In closing I want to mention our upcoming product family code named Sandy Bridge.  Last quarter I mentioned that we were broadening sampling this product to our customers.  I am more excited about Sandy Bridge than I have been in any product that the Company has launched in a number of years.  Due to the very strong reception of Sandy Bridge we have accelerated our 32-nanometer factory ramp and have raised our CapEx guidance to enable us to meet the anticipated demand.  We look forward to seeing many of you at our September IBF conference in San Francisco, where we will share more details about this new architecture.
  With that let me turn the meeting over to Stacy. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [4]
---------------------------------------------------------------------------------
 
            Thanks, Paul.  A leadership product portfolio across servers, notebooks, netbooks and desktops, coupled with our best-ever platform unit costs and a growing PC and server end market, led to our best-ever results.  Revenue, gross margin, operating profit and earnings per share were all records.  Revenue of $10.8 billion was up 34% from a year ago and gross margin of 67% was up four points from the first quarter.  Operating profit rose to $4 billion, and as a percent of revenue reached 37%.The improvements we have made in our productivity can be seen in revenue per employee of $134,000, also our best ever.  Our financial results in the second quarter were a result of a strong product mix with the continued ramp of our new 32-nanometer products.  Micro processor unit sales increased slightly above seasonal and average selling prices for micro processors were up slightly quarter on quarter.
  All geographies performed better than normal seasonal patterns.  The Server Market segment was particularly strong, with customer demand for a new product leading to a richer mix.  The Data Center group achieved revenue of $2.1 billion and operating profit of $1.1 billion, which was the first time operating profit exceeded $1 billion in this segment.  Second-quarter gross margin of 67% was higher than our expectation, due to higher platform revenue and better-than-expected costs.  The factory network delivered our lowest-ever platform costs, while accelerating the 32-nanometer process technology ramp, as customers continue to demand a richer mix of our latest generation microprocessors.
@@ -93,674 +80,451 @@ Stacy Smith,  Intel Corporation - CFO    [4]
  At our May investor day meeting we reviewed how we have transformed the Company's cost structure.  The second quarter demonstrates the powerful financial results the can be generated when leadership products and a world-class cost structure are coupled with a overall healthy end market.  Our business was strong in the first half and our forecast for the rest of the year is that the second half is seasonally stronger and that the strength of our product portfolio and our cost structure will allow us to achieve our most profitable year ever.
  With that, let me turn it back over to Kevin. 
 
---------------------------------------------------------------------------------
 Kevin Sellers,  Intel Corporation - VP of IR    [5]
---------------------------------------------------------------------------------
 
            Okay, thanks, Paul and Stacy.  We'll now move to Q&A and as has been our practice we'd like to ask each participant to have one -- to limit themselves to one question and then one follow up, if you have one.  So, Chastity, please introduce our first questioner.
 
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
      Thank you.  (Operator Instructions).  Our first question comes from the line of Uche Orji with UBS. 
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [2]
---------------------------------------------------------------------------------
 
      Thank you very much.  Paul, let me just start out by asking you about the comments you made about distribution and inventory channel given all the currency upheaval.  Have we seen any pick up now, especially in Europe, which has been quite a concern for some people?  Any commentary as to how you see things tracking now into third quarter within the distribution channel for inventory? 
 
---------------------------------------------------------------------------------
 Kevin Sellers,  Intel Corporation - VP of IR    [3]
---------------------------------------------------------------------------------
 
      Well, so far, so good.  We gave guidance to a very robust third quarter.  As Stacy said, it was basically seasonal or just slightly below the midpoint of seasonality.  We don't see any inventory issues out there.  The prices in Europe, obviously on a Euro basis, would be up slightly, but what we're seeing is people are altering configurations as they fee up the cash to build these machines.  Distributors principally build the machines to order.  Some SKUs are less memory configuration, some are taking discreet graphics out just to try to keep the price points constant in the channel and at retail. 
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [4]
---------------------------------------------------------------------------------
 
      All right, just one follow up.  On the Atom, one of the questions that's been around, if you look at tablet PCs now starting to take off and whether that will (inaudible) netbooks, just as you look at this category and look at it vis-a-vis netbooks two questions here.  How do you see the net impact and how do you see the positioning of Atom within this category? 
 
---------------------------------------------------------------------------------
 Kevin Sellers,  Intel Corporation - VP of IR    [5]
---------------------------------------------------------------------------------
 
      Well, I think we're in the early stages of tables, obviously.  There's just one really shipping in volume today.  At this point my view really hasn't changed in the last quarter or so.  I think this is an additive category of computing, much like netbooks were an additive category (inaudible).  Hey, Chastity, we've got some [feedback] out there.  I'll restart -- hey, Chastity, are you there? 
 
---------------------------------------------------------------------------------
 Operator    [6]
---------------------------------------------------------------------------------
 
      Yes, sir, I'm actually showing that it's coming from the participant's line on our end. 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [7]
---------------------------------------------------------------------------------
 
      All right, looks like it's gone now. 
 
---------------------------------------------------------------------------------
 Kevin Sellers,  Intel Corporation - VP of IR    [8]
---------------------------------------------------------------------------------
 
      We'll keep going. 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [9]
---------------------------------------------------------------------------------
 
      I'm sorry, Uche, let me start again. 
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [10]
---------------------------------------------------------------------------------
 
      Sure. 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [11]
---------------------------------------------------------------------------------
 
      I haven't changed my view on tablets in the last three or four months since the launch of the iPad.  I think they are an additive category to the market, much like we saw netbooks being additive.  Netbooks, in fact, had a higher potential to cannibalize and they didn't.  I don't see tablets cannabilizing the PC market.  I think people use it as a -- for different kinds of reasons.  In terms of Intel participating in the table market we remain very optimistic about this.  At COMPUTEX last month there were over 30 varieties of tablets shown based upon Atom configurations.  The advantage of, obviously, Intel in this segment is you can run a number of operating systems.  You can run Windows, you can run Android, you can run Chrome and you can run Mego or the other versions of Lenix.  So we feel pretty good about our opportunity to participate in the growth as it happens. 
 
---------------------------------------------------------------------------------
 Kevin Sellers,  Intel Corporation - VP of IR    [12]
---------------------------------------------------------------------------------
 
      Thanks, Uchi.  Chastity, we'll take the next question. 
 
---------------------------------------------------------------------------------
 Operator    [13]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Ross Seymore with Deutsche Bank. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [14]
---------------------------------------------------------------------------------
 
      Yes, congrats on the strong results.  One question on the inventory in your own balance sheets.  It was up about 12% sequentially, can you give us a little color on units versus dollars? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [15]
---------------------------------------------------------------------------------
 
      Sure.  This is Stacy, I'll be happy to.  It was both.  We got some units in place on 32-nanometer, that was our strategy.  It's also, as we're seeing those first wafers coming out of the first couple of factories on 32-nanometer it tends to be just a little bit more expensive inventory.  So both units and dollars -- dollars per unit were up and dollars were up some.  If I just talk about inventory now as we go forward, the inventory that we have in place is appropriate relative to where we are in the 32-nanometer ramp and relative to how we see demand in the second half and I expect it to flatten out as we get into the second half of this year.  It should be pretty flat in the third quarter as we go forward. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [16]
---------------------------------------------------------------------------------
 
      Okay, and then one follow up on the pricing side specific to the server side.  With the Data Center group up as strongly as it was and the (inaudible) and the ex shipping I would think that pricing could have been up 8%, 10% in that segment.  Is that mix dynamic, is my assumption on that correct and am I in the ballpark on the pricing side? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [17]
---------------------------------------------------------------------------------
 
      Yes, it's a level of granularity we're not going to go through.  We definitely saw the mix better in servers and that led to an ASP-positive impact.  And then we also saw that server as a percent of the total business was higher.  They had a very good quarter and so we saw a little bit of mix just based on more server shipments relative to everything else.  Those two things both led to the mix good news we saw in the quarter. 
 
---------------------------------------------------------------------------------
 Operator    [18]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of John Pitzer with Credit Suisse. 
 
---------------------------------------------------------------------------------
 John Pitzer,  Credit Suisse - Analyst    [19]
---------------------------------------------------------------------------------
 
      Yes, congratulations, guys.  Maybe a follow up on the ASP question.  Stacy, you've been guiding future growth margin most of the year under the assumption of normal price declines.  I'm kind of curious when you look at the 67% guidance for September then the full-year guidance of 66%, are you expecting normal historical price declines, or do you think you'll continue to see the positive mix that you've seen in the first couple quarters? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [20]
---------------------------------------------------------------------------------
 
      Well, I think you can really see that in the fact that from last quarter I came up from 64% to 66% for the year and almost all of that is associated with the impact I just talked about.  It's just a richer mix of products than I was expecting.  The other think I'll point you to is, in my Q2 to Q3 margin walk, which I can go through for you if you want, ASP isn't one of the drivers so you can get a sense that I'm not expecting it to be a big driver as we go into the third quarter. 
 
---------------------------------------------------------------------------------
 John Pitzer,  Credit Suisse - Analyst    [21]
---------------------------------------------------------------------------------
 
      And as my follow up, Paul, as you think about second half revenue being seasonal and your product portfolio, be kind of curious if you break it down to three big buckets; client versus server, consumer versus corporate and then a desktop, notebook Atom bucket.  Which one of those, can you talk a little bit about what you expect to be better than seasonal, maybe, or are you expecting any seasonal softness anywhere? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [22]
---------------------------------------------------------------------------------
 
      I'm -- we're not planning for any seasonal softness and when I told you were endorsing 20% as a planning number, it's hard to find any softness in a 20% year-on-year number, right?  Let me try and give some granularity, though.  Clearly we've said for some time and we showed you at the analyst meeting that something like 70% is consumer on a worldwide basis and some of that's small business built into that.  I don't see that shifting, so I think that level of participation in the Consumer segments will be reflected and will be seasonal first half versus second half.  I don't see a change there.  I think it will continue to be driven by notebooks and I think servers will continue to be strong, if I had to guess at this point in time.  I see no reason not to.  There's two trends inside the serve movement.  One is the capacity needs coming off the internet data center buildout and I gave you some data on that as part of my commentary.  The other is the return on investment that you can in enterprise data centers by swapping out old versus new equipment in terms of both capacity and power savings, electricity cost savings.  I thing those are very big drivers this year that are going to be overlaid on top of this.
  The last comment I'd make on you question was on Atom, which is I really don't see the -- I gave you my number for the year for netbooks.  I don't see that part of the Atom business taking off much higher than it already is.  It's good year-on-year growth.  I think the growth in Atom over the course of -- the new growth in Atom this year is going to be in embedded and in products like the Google TV products that were launched last month.  We didn't talk about that in the last conference call because it wasn't announced yet, but I can tell you that a number of companies are now moving towards production on Atom-based television, set-top boxes, DVD players and so forth around that particular construct and to me that is one of the bigger things to watch for the holiday season is those products break market and see what happens. 
 
---------------------------------------------------------------------------------
 Operator    [23]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question come from the line of Gus Richard with Piper Jaffray. 
 
---------------------------------------------------------------------------------
 Gus Richard,  Piper Jaffray - Analyst    [24]
---------------------------------------------------------------------------------
 
      Yes, congratulations on a good quarter.  Could you talk a little bit about the -- you said that you saw strength regionally everywhere, were there any areas, like Europe, that was weak or Brazil or China that was particularly strong? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [25]
---------------------------------------------------------------------------------
 
      Well, we -- every geography was up above our seasonal norm, right, at least in terms of Intel revenue.  We don't have all the sales out data yet, we've got two months of it, but the trend so far that are on a year-on-year basis everything was up, and in particular on the commercial or enterprise side of the business.  In terms of China, it was a little slow going early in the quarter and it got good towards the end.  Similar in Europe.  We had the volcano in the beginning and currency disturbances and volatility in the middle and things settled down in both geographies by the end of the quarter.  The net was year over year everything was nicely up. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [26]
---------------------------------------------------------------------------------
 
      If I may add, you can see it in the results.  We saw particular strength in the Enterprise segment and if you look at the geographic breakdown you see that Americas and Europe were both the best in terms of seasonality and that's just because they have -- a larger component of those markets are large companies in Enterprise segment so that -- the Enterprise strength really helped drive those results. 
 
---------------------------------------------------------------------------------
 Gus Richard,  Piper Jaffray - Analyst    [27]
---------------------------------------------------------------------------------
 
      Okay.  And then on the Enterprise segment you are definitely beginning to see the beginning uptake of a corporate upgrade cycle with an Enterprise upgrade cycle on the client side? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [28]
---------------------------------------------------------------------------------
 
      It appears that way.  We knew for some time that this phenomena had to happen, that the machines were just costing more to keep on the books than they were worth in terms of out-of-warranty and repairs and those kinds of things, and the desire of -- the strong desire to upgrade to Win 7.  So I think now that corporations have some breathing room in the economy and their budgets you're starting to see those machines that are four and five years old get refreshed.  I can't comment on the rate of refresh.  My sense is you're going to see one year every year for the next couple years, but that will be an accelerant. 
 
---------------------------------------------------------------------------------
 Operator    [29]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Glenn Yeung with Citi. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citi - Analyst    [30]
---------------------------------------------------------------------------------
 
      Thanks.  Either Paul or Stacy, if we talk to, for example, the notebook ODMs about their outlook for the third quarter they're talking about a below-seasonal forecast and you guys are below but just slightly.  Any way to reconcile the difference in those two views?  Is it perhaps what you're seeing in corporate relative to what they may be building? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [31]
---------------------------------------------------------------------------------
 
      Well, what I'll tell you is our number is what we're comfortable with giving publicly.  This is the data that we have inside the Company and data from our backlog and what our customers are asking us for.  So I don't know that any of the -- our customers have yet commented publicly on the third quarter, they'll do that when they do earnings and no one's announced yet.  So I don't know that there's an anomaly at this point. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citi - Analyst    [32]
---------------------------------------------------------------------------------
 
      Okay, fair enough, thanks for that.  And then second question really revolves around 32-nanometer.  You make the point that you're accelerating it, but maybe a sense.  First of all, obviously I think it's faster than you expectations, what do you expect mix of 32-nanometer to be relative to your prior expectations in the second half of the year, and then what will the mix be relative to the first half of the year? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [33]
---------------------------------------------------------------------------------
 
      Well, it depends on how prior you want to go, right?  We are building more 32 in the second half than we had planned, say, six months ago, but we're also building more 45 in the second half than we planned six months ago.  The net result is that we have more 45 longer than we first thought, even though 32 is going faster and bigger than we first thought.  The basic answer here is that the market's bigger than we had first done planning on the year. 
 
---------------------------------------------------------------------------------
 Operator    [34]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from Christopher Danely with JPMorgan. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan - Analyst    [35]
---------------------------------------------------------------------------------
 
      Hey, thanks, guys, a question for Stacy.  So, Stacy, you told us that inventory would be up this quarter, was it up any more than you originally thought it would be and what does that mean for your utilization rates in the second half of the year?  Are they going stay flat or go up or go down? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [36]
---------------------------------------------------------------------------------
 
      No, inventory's up on the order of what I expected in the second quarter and I -- as we showed at the investor meeting, we're in the range where we're kind of in the sweet spot of loading.  The factory's are nicely loaded, we're getting a great cost out of them, we have the ability to do a bit of upside.  As Paul said in his written remarks, the place where we're accelerating a bit here is getting some more 32-nanometer capacity in place in the second half in anticipation of the demand for Sandy Bridge based on what we're hearing from the customers as they get to kick the tires of the product line.  So I think we're healthy from a utilization standpoint and I'm comfortable with where we are from an inventory standpoint in the second quarter. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan - Analyst    [37]
---------------------------------------------------------------------------------
 
      Great.  And if things do end up slowing down in the second half of the year what would the reaction be from you guys.  Would you start to hit the brakes or would you just treat it as a temporary anomaly and maybe keep the utilization rates flat?  I think the best way to answer that question is to look at what happened when we got hit by the massive downturn of 2009.  When that hit the supply chain across the industry reacted very quickly -- much more quickly than they had in prior cycles.  We took aggressive action to reduce the loading in our factories, to not put inventory in place, and then we took advantage of that to roll forward some of the capacity we had on 45 to offset some of the investment that we knew we had to make on 32, which drove a great capital efficiency number.  So I'd expect if you get into the case where we get hit with another big recessionary scenario like we saw last year the reaction would be very similar to that. 
 
---------------------------------------------------------------------------------
 Operator    [38]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of David Wong with Wells Fargo. 
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo - Analyst    [39]
---------------------------------------------------------------------------------
 
      Thank you very much.  Paul, you mentioned that you were very excited about Sandy Bridge and this was one of the reasons for accelerating 32-nanometers.  Does this mean that you're planning to bring out Sandy Bridge earlier than scheduled and when might we expect to see first launches of systems that have Sandy Bridge in them? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [40]
---------------------------------------------------------------------------------
 
      Well, we'll talk more about the product in a lot of detail at IBF in a couple of months.  In terms of product granularity I really don't want to get more granular than we have been, which is that we will ship Sandy Bridge for revenue this year, late this year. 
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo - Analyst    [41]
---------------------------------------------------------------------------------
 
      Great, thanks, and further on the CapEx question.  When you have higher CapEx this year does that represent a pull-in from 2011, reducing what might otherwise been spent in 2011, or is it just extra spending? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [42]
---------------------------------------------------------------------------------
 
      Yes, that's the right way to think about it, although we haven't put a forecast out for 2011 yet so you don't know how to do the plus or minus to that.  But to just piggyback on what Paul said, based on what we're hearing on Sandy Bridge we're now anticipating a faster ramp of the product so some of the capital that I thought we could spend in the first half of next year we're going to put in place now so that we can ramp the product out of the chute faster than we anticipated.  So it should be plus this year and a bit of a minus the next year. 
 
---------------------------------------------------------------------------------
 Operator    [43]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Jim Covello with Goldman Sachs. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [44]
---------------------------------------------------------------------------------
 
      Great, thanks very much for taking the question, guys, and congratulations on the terrific results.  Paul, you mentioned both in Europe and China some hesitation at the beginning of the quarter and then things returned to more normal levels at the end of quarter, how much of that do you think was normal seasonal trend versus macro disruption and do you see -- what kind of seasonal terms on a shorter-term basis do you see during the third quarter? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [45]
---------------------------------------------------------------------------------
 
      It's hard to tell, Jim.  My sense is that -- you had two different things going -- you had three things going on.  In Europe you had the volcano and then the debt crisis and in China mid quarter you had the change in the housing stance, which dampened down GDP a bit.  I think all those are being worked through now.  To me if you through that, through the lens of that smoke, what you see is computers are important independent of the economy cycle.  It happened all last year, to the surprise of many, and it's happening now and the difference now is that corporations are buying in addition to consumers.  Computers are fundamental to people's lives now a days. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [46]
---------------------------------------------------------------------------------
 
      And then if I -- for my follow up, if I could ask.  Relative to the enterprise strength do you have any way of estimating, at all, how much of that is share gain versus overall market strength? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [47]
---------------------------------------------------------------------------------
 
      Not for a week or so, but my sense is it's principally the market growing year on year so much faster and then Intel taking perhaps a slightly -- a larger share.  But the bulk of it is market growth.  Remember a year ago on servers it was still pretty dark. 
 
---------------------------------------------------------------------------------
 Operator    [48]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Tim Luke with Barclays Capital. 
 
---------------------------------------------------------------------------------
 Tim Luke,  Barclays Capital - Analyst    [49]
---------------------------------------------------------------------------------
 
      Thanks so much.  Paul, I was wondering, after (inaudible) such a strong quarter with the chip sets being lower sequentially while guiding, obviously, fairly close to normal seasonal going forward, the chip set in the past have been -- for the PC area seen as a leading indicator, could you just give some commentary with respect to that and how you might expect to see that going forward?  And after such a big first half people might have thought you might have a slightly less-than-seasonal second half but clearly you're saying we don't really expect that and what's you guess on that? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [50]
---------------------------------------------------------------------------------
 
      Well, we had a very robust Q1 on chip sets.  In the second quarter it was very good.  Our chip set shipments in Q2 always run -- not always -- normally run ahead of our microprocessors because of the cycle for back to school.  That happens this quarter, as well, but even inside that I don't see any cutting back.  There's some -- each OEM has their own strategy, Tim.  Some are accelerating the use of ocean because they want to lower costs, some are accelerating the use of air because they want flexibility, and that as it all integrates we don't see a chip set bump in either direction as a leading indicator here this time, it's mostly normal. 
 
---------------------------------------------------------------------------------
 Tim Luke,  Barclays Capital - Analyst    [51]
---------------------------------------------------------------------------------
 
      As a follow up then, it seems there's a lot of focus on the inventory you see and you're saying it's much lower in the channel.  On had it's at 86 days, which is at the upper end of the normal range.  Last quarter you said part of that was refracted in just more 32-nanometer in the inventory bank on hand.  Can you just comment on that and why it is that this appears to be the upper end of your normal level, Stacy?  Thanks a lot. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [52]
---------------------------------------------------------------------------------
 
      Sure.  It's normal for us as we go through as significant of transition as we're going through on 32-nanometer products to have -- to put some inventory in place in advance of those ramps and in particular as we look into the demand of the second half.  So just to maybe help you a little bit in terms of how to think about it, if you go back to mid 2008, which was the last highest when we were going through the 45-nanometer transition, we had a similar amount of inventory in place.  Our business levels at that time -- so Q2 of 2008 -- was like $1.3 billion less than our billion -- than our business levels today.  So when you look at it in that context it says we're still running pretty healthy appropriate level of inventory given the 32-nanometer transition and the level of demand that we're seeing. 
 
---------------------------------------------------------------------------------
 Operator    [53]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Craig Berger with FBR Capital Markets. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR Capital Markets - Analyst    [54]
---------------------------------------------------------------------------------
 
      Hey, guys, congratulations on the extremely strong results.  I guess my first question is on the sustainability of your gross margins.  When I talk to people out there, your investors, they say how sustainable are these margins and why and I know you recently increased your normal range to 55% to 65% and now you're guiding ahead of that, so how do we think out the sustainability here?  Thanks. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [55]
---------------------------------------------------------------------------------
 
      I think we shared a lot back in May about the transformation that we've gone through in our cost structure, our capital efficiency, the improvements we've made in some of our memory businesses, overall cost per unit, that data still is what I stand behind.  I think we have moved the gross margin range for the Company up.  We're at a period of time right now because of our specific product mix that we're a bit above that.  You tend to have a few quarters above, you'll have some that are below, but as we look across the rest of this year we're at 67% in Q2.  I'm forecasting 67% for Q3 and frankly I'd expect to be in that range in the fourth quarter, as well.  When you do that math that's how you get to 66% for the year. 
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR Capital Markets - Analyst    [56]
---------------------------------------------------------------------------------
 
      The follow-up question is that Europe has been running at about seven -- was running at about $7 billion a year in rev, in the downturn it feel to $5 billion.  It's only going to do about $5 billion, $5.5 billion this year if you run rate it.  Is a macro correction already baked into that European consumption number?  In your opinion could there actually be upside opportunities there?  How much risk to forward demand deterioration could we see? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [57]
---------------------------------------------------------------------------------
 
      Yes, it's really important.  You're not looking at consumption there, what you're looking at is our billings and you've seen a couple of cyclar shifts in Europe that is causing the billings number to decline, which you have to keep separate from the overall consumption market.  One is the shift to notebooks means that more of the product is being built outside of Europe and imported in, so that's one of the big drivers and that's probably the largest.  The second is that the multi-nationals are taking some share against the smaller players and, again, that's as they build, in many cases, outside of Europe and then import their product into Europe.  So you have to separate that from the strength of the end market. 
 
---------------------------------------------------------------------------------
 Operator    [58]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Mark Lipacis with Morgan Stanley. 
 
---------------------------------------------------------------------------------
 Mark Lipacis,  Morgan Stanley - Analyst    [59]
---------------------------------------------------------------------------------
 
      Thanks for taking my question.  First question, correct me if I'm wrong, my understanding is that historically when you guys went through a process node transition you'd build inventory of older products and then switched over and that often translated into risk and maybe some inventory write-downs and this time it seems like you guys are building inventories of the newer products.  So I guess my question is, is my -- was my recollection of history wrong, or is there something different with you business process that's enabled you to do this? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [60]
---------------------------------------------------------------------------------
 
      No, you're not wrong but it's -- there's two shoes to this story.  So the first is, we do try to build a little bit of inventory on the older products in advance of the process technology ramp and then based on how fast we're now ramping the new products and across a very wide range of different price points and different products within a product family we also try to get some inventory in place on the new stuff.  So we do both. 
 
---------------------------------------------------------------------------------
 Mark Lipacis,  Morgan Stanley - Analyst    [61]
---------------------------------------------------------------------------------
 
      Okay, fair enough.  The follow up is, if I look over time on the microprocessor ASP, the erosion, you guys followed something like 6% annual ASP erosion, the one time you bucked that trend, I think, was when you introduced Centrino where you could argue you were delivering more functionality so you could take the price up.  Is there -- are you guys of the opinion that you take yourself off that 6% annual ASP erosion, are your products coming out with accelerated functionality, be it power -- better power or some -- or processing capabilities that can take you off that 6% ASP erosion?  Thanks. 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [62]
---------------------------------------------------------------------------------
 
      Well, you're right, it really is all about mix at the end of the day and to some extent Centrino was about up mixing to mobile in the early days.  What you're seeing now, we're very, very happy with the launch, ramp and product acceptance in the market of the core I357 series that launched in January.  That has become the mainstream of desktops and notebooks now and that brand momentum is really give -- is part of the lift you see in terms of selling up from Pentium or Celeron.  I think that as we move into the second half and into next year it's the same kind of thing.  We will continue to use technology -- feature-driven technology to put platform ingredients together that we think will command a premium and when that happens it's good for Intel and it's good for our customers and ultimately good for the buyers of the technology. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [63]
---------------------------------------------------------------------------------
 
      If I may just add.  As we showed -- as we've shown you several times it becomes really important to start looking at ASP and margin per segment of the business.  And what we're seeing right now is t hat in the high-end segment of the business we're doing really well.  We're getting paid for that -- those features.  I think if you think about our business over a long period of time what you've seen is that emerging markets have grown more quickly than the rest of the business.  The consumer market has grown to be a very large percentage of our business and so over time there's that mix effect that does bring pricing down.  So the key for us is to be able to bifurcate our cost structure so that in each of those segments of the business we can deliver a very compelling product margin and I think you're really seeing that play out right now in our business.  We've got strong features at the high end and we've got a great cost structure for emerging markets and for the less feature-driven consumer segment of the market and that all helps us achieve a 67% gross margin in the second quarter. 
 
---------------------------------------------------------------------------------
 Operator    [64]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Stacy Rasgon with Sanford Bernstein. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford Bernstein - Analyst    [65]
---------------------------------------------------------------------------------
 
      Hi, guys, thanks for taking my question.  [As I take a look] at gross margin guidance for Q3 it looked to be on -- mostly on higher revenue, which was offset by more of your inventory write-offs from Sandy Bridge.  Just given what you said about what looks to be, hopefully, a building enterprise recovery into the second half would it be out of line to maybe even see the potential for some further mix-related upside to gross margins in the back half?  It doesn't look like you're guiding anything like that. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [66]
---------------------------------------------------------------------------------
 
      Yes, let me just walk you through the Q3 gross margin and I'll also give you a little color commentary on Q4 so you can get a sense of what [I'm believing] for that.  But as you said, as we go from Q2 to Q3 based on the midpoint of the revenue guidance that we just set we'd expect about half-a-point of gross margin associated with higher platform revenue.  That's offset by about a point of inventory write-offs for the Sandy Bridge product that's being built prior to qualification for sale.  That's normal what we see in these product transitions.  And then there's another half-a-point of relatively small items and just in an environment where our factories are running pretty full, where demand looks good and we don't have a lot of reserves and those kinds of things you tend to see a lot of small things.  That'll give me another half-a-point of gross margin in my forecast and that's what keeps me flat at 67%.  Could it be higher, sure.  I'd be kind of foolish to say it couldn't based on the miss that we had in Q2, but based on everything we know and the fact that Q3 tends to be a seasonally-stronger consumer quarter I think we're in the right space.  And we'd have to have a pretty significant revenue miss based on ASP for the gross margin to be higher and likewise, if the markets fall apart on us it could be a little bit lower.  But this is our best information at this time. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford Bernstein - Analyst    [67]
---------------------------------------------------------------------------------
 
      Got it.  No, that's helpful.  Go ahead, I'm sorry. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [68]
---------------------------------------------------------------------------------
 
      Well, I was going to take you to Q4 if you want. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford Bernstein - Analyst    [69]
---------------------------------------------------------------------------------
 
      Yes, please, please do. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [70]
---------------------------------------------------------------------------------
 
      Okay.  So just-- I'll do the traditional puts and takes as I go into Q4.  Again, I'd expect it to be a seasonally-higher revenue quarter, so that's going to give me a little bit of a tailwind to gross margin.  Assuming the qualification goes well for Sandy Bridge, which our history says is likely, we'll have some write-off good news in Q4 because we'll be selling some of that material because it's been disqualified for sale.  And then I have a bit of an offset to that based on an increase in unit cost and I'll take you back to what I showed in May at the investor meeting.  If you recall I showed a unit cost graph by quarter and it showed a little bit of an uptick in Q4 and then more of an uptick in Q1 and Q2 due the next big 32-nanometer factory coming on line.  It's a very large factory with a high wafer capacity.  The first wafers that come out of that factory are pretty expensive so that gives me a bit of a mix up in cost.  That's normal.  If you look at our history every two years we see that.  As we're pulling in 32-nanometer I'm now expecting that cost impact to be a little more in Q4 and probably a bit less in Q1 and Q2, so that gives me a bit of a tailwind to gross margin.  When I net all that out I think i'm in kind of the same range as I was in Q2 actuals and my projection for Q3 I think I'm still in that basic range. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford Bernstein - Analyst    [71]
---------------------------------------------------------------------------------
 
      That's helpful, thank you very much. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [72]
---------------------------------------------------------------------------------
 
      Sure. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford Bernstein - Analyst    [73]
---------------------------------------------------------------------------------
 
      For my follow up I think to follow on that into 2011, just if you could give us a little more color on the 22-nanometer start-up cost.  To my recollection I believe those start to hit in the first half of 2011?  Is that -- number one, is that correct?  Secondly, can you give us some feeling for the amount of magnitude or basis points of margin impact that that could have over the -- maybe the first half of 2011? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [74]
---------------------------------------------------------------------------------
 
      Sure.  Actually I'll -- as opposed to taking time on the call why don't you just -- if you go back to the investor meeting materials that still is my prediction of the shape of start-up costs and we actually broke it out by quarter for you so you can get a sense of our best guess.  It hasn't changed.  And you're right, at a basic level I'd expect it to start kicking in and accelerating in the first half of next year.  It's peak in Q2 and then it comes down from there. 
 
---------------------------------------------------------------------------------
 Operator    [75]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Doug Freedman with Gleacher & Company. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Gleacher & Company - Analyst    [76]
---------------------------------------------------------------------------------
 
      Great.  Thanks so much for taking my question, guys, and congrats, again.  Can you talk a little bit about what the uptick in server might mean the enterprise market and if you've seen in the past history when server strength was so strong is there sort of a follow-through where the client will -- the enterprise will start spending more on clients later? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [77]
---------------------------------------------------------------------------------
 
      You're right, that has been the pattern in the past.  It was the big enterprise apps that drove the server upgrade and that drove, ultimately, a client upgrade.  I don't think it's going to -- it normally works that way -- it broadly works that way anymore, Doug.  My sense is now so many of the apps in the enterprise are web-based that once you put the infrastructure in that's not what drives it.  What drives it is the new operating system on the client that will chan -- that will drive an upgrade.  A new class of applications where people are putting some of the cloud-based apps inside the enterprise.  And a new phenomena that wasn't really true in the last couple rounds of these things, which is the return on investment thesis around the energy and space savings and that is really new.  So I guess in the aggregate I don't see that pattern being -- it probably exists but it's probably not the driver. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Gleacher & Company - Analyst    [78]
---------------------------------------------------------------------------------
 
      All right, great.  And if I could go back a little bit to the flexibility in the business model.  I know there've been a few questions on this topic but, Stacy, can you focus in on -- with these numbers that you're putting up is it safe to assume that your profit-sharing plan is going to be at a record high level (LAUGHTER) as gross flows into the next year that that comes down to a more nominal level? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [79]
---------------------------------------------------------------------------------
 
      Well, it'll seem anemic to those of you that work in the financial services business (LAUGHTER).  Yes, if you look at the spending increase that we've now put out for the year, the largest single component of that is revenue and profit dependent and it just has our view of the year as just kind of improved quarter by quarter.  It's more than half of the annual increase and is really driving that spending increase from what we thought. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Gleacher & Company - Analyst    [80]
---------------------------------------------------------------------------------
 
      And it applies to all employees?  It's not management-driven set of dollars? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [81]
---------------------------------------------------------------------------------
 
      Right.  Every employee participates in that plan and it's solely based on our earnings performance and so as our view of the year improves -- our earnings performance plus the metrics that we have -- but as our view of the year improves then it pulls a few more dollars there. 
 
---------------------------------------------------------------------------------
 Operator    [82]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Sumit Dhanda with Banc of America-Merrill Lynch. 
 
---------------------------------------------------------------------------------
 Sumit Dhanda,  Banc of America-Merrill Lynch - Analyst    [83]
---------------------------------------------------------------------------------
 
      Yes, hi, a couple questions.  Stacy, the ASPs again benefiting you in the second quarter, you're clearly not expecting a benefit in the second half of the year, but is there the potential that you continue to see a tailwind as is more maturation into the transition to the core base platforms, or is most of that benefit now reflected in your mix of processors? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [84]
---------------------------------------------------------------------------------
 
      The -- yes, so I'd be foolish to say there's no possibility given how my view of the year has changed just over the last two quarters.  I think when we started the year we were at 61%.  We're at 67%, that's just a phenomenal gross margin for us.  It's an all-time record, it says that we're doing a lot of things right from a cost standpoint and the market's participating along with us.  Could we be a little bit better then, could I be under calling it?  I could, but my prediction is that ASP's not a big driver one way or the other as we go into the third quarter so you should take from that I'm not anticipating a big movement up or down.  And Q3 does tend to be seasonally stronger in the consumer segment of the business and so you can do the math on that. 
 
---------------------------------------------------------------------------------
 Sumit Dhanda,  Banc of America-Merrill Lynch - Analyst    [85]
---------------------------------------------------------------------------------
 
      Okay, but I guess the question specifically as how far along are you in terms of the benefit from the transition to the core platform because that seems to have surprised you consistently over the last two or three quarters? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [86]
---------------------------------------------------------------------------------
 
      As you kind of asking where are we in 32-nanometer in terms of bringing out the different products? 
 
---------------------------------------------------------------------------------
 Sumit Dhanda,  Banc of America-Merrill Lynch - Analyst    [87]
---------------------------------------------------------------------------------
 
      Exactly. 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [88]
---------------------------------------------------------------------------------
 
      I'll probably kick that one over to Paul. 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [89]
---------------------------------------------------------------------------------
 
      It's still pretty much in the core family, we just -- we are shipping some Pentiums on 32-nanometers now.  Most of the server products are on 32, but we won't take it down into the Pentium and Celeron until either late this year or early next year and, of course, the Atom products are on 32. 
 
---------------------------------------------------------------------------------
 Operator    [90]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Alex Gauna with JMP Securities. 
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [91]
---------------------------------------------------------------------------------
 
      First off, congratulations, you just crushed it, nice job.  Wonder if I could start by asking if you could characterize maybe how far into the core eye upgrade cycle are you?  And you just touched on 32-nanometer and where it's going, but how far into the conversion process are we from your perspective? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [92]
---------------------------------------------------------------------------------
 
      I'm sorry, the conversion of our old core to our new core? 
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [93]
---------------------------------------------------------------------------------
 
      Well, in terms of driving sales right now, are we benefiting from the mix being less that 50%, getting towards 50%? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [94]
---------------------------------------------------------------------------------
 
      Well, the premium part of our product line, the old core products, [core duo] and those kinds of things and now the core I357, is in the -- it's not the majority of our units.  It was -- we have margins in excess of what Stacy's been talking about.  So they tene -- I won't give you the exact number but it tends to be slightly less than 50% and then we fill in the mix with other products in terms of price points, from Atom to Celeron to Pentium.  And it's not so much a -- of course we satisfy all the available demand from the top.  You naturally do that, so we believe we're satisfying demand.  We are seeing a mix up, which is based upon the goodness of the products and the feature sets, and that's what I -- that's what we talked about last quarter and it's part of the news this quarter.  We anticipate a similar kind of embracing of Sandy Bridge when that product comes out to keep that mix fairly rich. 
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [95]
---------------------------------------------------------------------------------
 
      Okay.  And you touched upon emerging markets, you ability to serve, I believe, lower price points in emerging markets and I was wondering if you could talk about maybe the appetite of the ability for you to upsell in some of those markets? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [96]
---------------------------------------------------------------------------------
 
      Well, there's no monolithic market.  If you look at China in the Tier one and somebody said now the Tier two cities the markets there are as sophisticated in mix and purchasing knowledge as you get in the United States or Western Europe or even Japan.  It's when you get out into the places the econ -- the incomes are more constrained, in Tier three, four, five, six cities in China, that you start seeing that phenomena and what we've done there is we've worked with our customers and with the distributor channel to produce product.  We've done versions of Atom-based motherboards where the Atom chip is soldered on the motherboard so it becomes a very affordable unit of computing that meets those price points.  So it really -- there really is not a China market per se.  The China market, if I looked at the east coast cities, is probably a richer mix than we sell in Manhattan. 
 
---------------------------------------------------------------------------------
 Kevin Sellers,  Intel Corporation - VP of IR    [97]
---------------------------------------------------------------------------------
 
      Hey, Chastity, we're going to take two more questions, if we could. 
 
---------------------------------------------------------------------------------
 Operator    [98]
---------------------------------------------------------------------------------
 
      Certainly, sir.  Your next question comes from the line Kevin Cassidy with Stifel Nicolaus. 
 
---------------------------------------------------------------------------------
 Kevin Cassidy,  Stifel Nicolaus - Analyst    [99]
---------------------------------------------------------------------------------
 
      Thanks for taking my question.  I guess along those lines of Atom chips you had mentioned netbooks you think will ship about 40 million this year and I'm wondering what is your percentage outside of the netbooks for Atom?  You had mentioned Google TV, when do you think that'll become a significant portion of the Atom revenue? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [100]
---------------------------------------------------------------------------------
 
      I think it's -- the non-netbook Atoms start moving the needle next year.  There'll be products out this year, both in tablets and handsets and Google TV kinds of products, consumer electronic kind of products.  The embedded -- actually our growth in embedded Atom was significant this quarter but it was still a fairly small number as embedded designs take two years to get designed in and then they run for three or four years.  So all these things start coming to flush out that family in terms of revenue, I think, in higher volume next year. 
 
---------------------------------------------------------------------------------
 Kevin Cassidy,  Stifel Nicolaus - Analyst    [101]
---------------------------------------------------------------------------------
 
      Okay, thanks, and maybe just one other completely different topic.  IM Flash, any decisions there on the CapEx spending? 
 
---------------------------------------------------------------------------------
 Stacy Smith,  Intel Corporation - CFO    [102]
---------------------------------------------------------------------------------
 
      No.  As we've articulated before on the call we're doing a couple of things.  One is we're continuing to drive the financial performance of the business.  I think they executed great in the second quarter.  We have processing (inaudible) leadership, we've got a great cost structure.  The market seems pretty benign right now so all of those things is helpful.  We're making a little money in the business as opposed to losing money, that's nice.  And then we're taking a cautious view to the capacity addition.  We're going to have to make the decision on our participation in Singapore some time this year.  We haven't made it yet and we continue to analyze it and look at it fairly cautiously. 
 
---------------------------------------------------------------------------------
 Kevin Cassidy,  Stifel Nicolaus - Analyst    [103]
---------------------------------------------------------------------------------
 
      Okay, thank you.  Congratulations. 
 
---------------------------------------------------------------------------------
 Operator    [104]
---------------------------------------------------------------------------------
 
      Thank you.  Our next question comes from the line of Daniel Berenbaum with Auriga USA. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  Auriga USA - Analyst    [105]
---------------------------------------------------------------------------------
 
      Hi, guys, thanks for sneaking me in there.  Just to follow up a little bit on mix.  It looks right now Data Center is about 20% of sales, do you think that as the server cycle plays out and as Nehalem continues penetration there do you have a target you think that Data Center could go to 25% of sales or do you have some mix number in mind? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [106]
---------------------------------------------------------------------------------
 
      Well, I have a mix number in mind, I'm not prepared to share it.  (LAUGHTER) But to some extent we don't look at it that way.  I know you guys do because that's the easiest way to driver the math, but we look at it as what is rate of growth of internet traffic, what is the rate of growth of replacement and try to maximize that server number for the obvious reasons.  And what that is is a percent of the client revenue, it's really not something -- as I said, the earlier question came to me early it's not something that really is relevant any more.  I think they're independent decisions. 
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  Auriga USA - Analyst    [107]
---------------------------------------------------------------------------------
 
      Well then let me maybe rephrase that.  What do you think the growth rate of the Data Center is over the next year, year-and-a-half versus client? 
 
---------------------------------------------------------------------------------
 Paul Otellini,  Intel Corporation - President & CEO    [108]
---------------------------------------------------------------------------------
 
      I'm comfortable saying I think we're strong double digit and I don't think I want to go more granular than that.  But I gave you one really interesting fact in my commentary; 170% year-on-year growth in internet Data Center Veyance.  Those are the ones that go into the Google's, Facebook's, Amazon's, that kind of -- MSN, those kind of things.  That stuff is growing like a hose and as people do more picture serving and more video serving that's going to continue to grow.  So to some extent you've got that triple-digit growth in the internet data centers and then you have to model out the ROI for corporations doing the upgrade versus capacity needs. 
 
---------------------------------------------------------------------------------
 Kevin Sellers,  Intel Corporation - VP of IR    [109]
---------------------------------------------------------------------------------
 
      Okay, thank you, all, for joining our call today.  As a reminder, our quiet period for the third quarter will begin at the close of business on Friday, August 27th, and our third-quarter earnings conference call is scheduled for Tuesday, October 12, 2010.  Thank you and good night. 
 
---------------------------------------------------------------------------------
 Operator    [110]
---------------------------------------------------------------------------------
 
      thank you for your participation on today's conference.  This concludes the presentation.  You may now disconnect.  Have a great day.
 
@@ -771,9 +535,7 @@ Operator    [110]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -784,9 +546,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Thomson Reuters reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -812,6 +572,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2019 Thomson Reuters. All Rights Reserved.
---------------------------------------------------------------------------------

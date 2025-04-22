@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q1 2022 Micron Technology Inc Earnings Call
 DECEMBER 20, 2021 / 9:30PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * David A. Zinsner
    Micron Technology, Inc. - Executive VP & CFO
@@ -17,9 +15,7 @@ Corporate Participants
  * Farhan Ahmad
    Micron Technology, Inc. - Senior Director of IR
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Toshiya Hari
    Goldman Sachs Group, Inc., Research Division - MD
@@ -38,25 +34,18 @@ Conference Call Participiants
  * John William Pitzer
    Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 Hello. Thank you for standing by, and welcome to Micron's First Quarter 2022 Financial Call. (Operator Instructions) Please be advised that today's conference may be recorded. (Operator Instructions) I would now like to hand the conference over to your speaker today, Farhan Ahmad, Vice President of Investor Relations. Please go ahead.
 
---------------------------------------------------------------------------------
 Farhan Ahmad,  Micron Technology, Inc. - Senior Director of IR    [2]
---------------------------------------------------------------------------------
 Thank you, and welcome to Micron Technology's Fiscal First Quarter 2022 Financial Conference Call. On the call with me today are Sanjay Mehrotra, President and CEO; and Dave Zinsner, Chief Financial Officer. Today's call will be approximately 60 minutes in length. This call, including the audio and slides, is also being webcast from our Investor Relations website at investors.micron.com. 
 In addition, our website contains the earnings press release and the prepared remarks filed a short while ago. Today's discussion of financial results will be presented on a non-GAAP financial basis, unless otherwise specified. A reconciliation of GAAP to non-GAAP financial measures may be found on our website. As a reminder, a webcast replay will be available on our website later today. We encourage you to monitor our website at micron.com throughout the quarter for the most current information on the company, including information on the various financial conferences that we will be attending. You can follow us on Twitter,  @MicronTech.
 As a reminder, the matters we will be discussing today include forward-looking statements. These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from the statements made today. We refer you to the documents we filed with the SEC, specifically our most recent Form 10-K and 10-Q for a discussion of risks that may affect our future results. 
 Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. We are under no duty to update any of the forward-looking statements after today's date to conform these statements to actual results. 
 I will now turn the call over to Sanjay.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [3]
---------------------------------------------------------------------------------
 Thank you, Farhan. Good afternoon, everyone. 
 Micron delivered outstanding results in fiscal Q1, achieving strong year-over-year revenue growth and solid profitability. Our strong start to the year and our product portfolio momentum keep us on track to deliver record revenue and robust profitability in fiscal 2022. We are rapidly ramping our industry-leading 1-alpha DRAM and 176-layer NAND products and achieving excellent yields, and these products are now shipping across our major end markets. 
 We achieved significant product advancements and customer wins, including launching our first DDR5 solution, introducing our vertically integrated Gen4 NVMe data center SSD, validating the world's first low-power DDR5X with MediaTek and shipping our GDDR6 for AMD's Radeon RX 6000 graphics card. The secular demand for memory and storage, along with Micron's focus on building our technology and product leadership and deepening our customer relationships, continues to strongly position us to create significant shareholder value in fiscal year '22 and beyond. 
@@ -87,9 +76,7 @@ Turning to capital expenditures. We expect fiscal year '22 CapEx in the range of
 We recently announced our intent to invest more than $150 billion globally over the next decade in leading-edge memory manufacturing and R&D. As part of our commitment to investing in R&D, we announced plans to establish a state-of-the-art memory design center in Atlanta. These announcements reflect our confidence in persistent long-term demand growth for memory and storage and our ability to generate returns on these investments. We look forward to working with governments around the world, including in the U.S., as we consider sites to support future expansion. 
 I will now turn it over to Dave.
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Micron Technology, Inc. - Executive VP & CFO    [4]
---------------------------------------------------------------------------------
 Thanks, Sanjay. 
 Micron delivered outstanding results to start the fiscal year with revenue, margin and EPS all coming in within our guidance ranges while also generating healthy free cash flow. Total FQ1 revenue was approximately $7.7 billion, down 7% quarter-over-quarter and up 33% year-over-year. The sequential revenue decline was predominantly attributable to weakness related to non-memory component shortages at our customers, as Sanjay discussed earlier. 
 FQ1 DRAM revenue was $5.6 billion, representing 73% of total revenue. DRAM revenue declined 8% quarter-over-quarter and was up 38% year-over-year. Sequentially, bit shipments declined in the mid-single-digit percentage range, while ASPs declined in the lower single-digit percentage range. 
@@ -109,9 +96,7 @@ With all these factors in mind, our non-GAAP guidance for FQ2 is as follows. We 
 In closing, our business is delivering strong cross-cycle performance, revenue growth has significantly outpaced the broader semiconductor industry, gross margins have averaged over 40% and operating margins have averaged around 30%. The strong product and technology momentum and Micron's solid execution give us confidence that we can sustain solid financial performance in the future. 
 I'll now turn it back to Sanjay.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [5]
---------------------------------------------------------------------------------
 Thank you, Dave. 
 Micron's culture has played a significant role in driving our strong results. Our vision to transform how the world uses information to enrich life for all, serves both as an inspiration for our team and as a foundation for everything we do. 
 Earlier this month, we released Micron's 2021 DEI report entitled For All, which highlights significant accomplishments across the 6 DEI commitments that we introduced last year. These accomplishments include achieving comprehensive global pay equity as well as increasing representation of underrepresented groups among new college graduate hires by 7%. We also publicly disclosed consolidated equal employment opportunity or EE01 data for the first time. This report is available on our website. 
@@ -120,254 +105,163 @@ It is a truly exciting time in the industry. Our business is robust and growing,
 We'll now open for questions.
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 (Operator Instructions) Our first question comes from C.J. Muse with Evercore.
 
---------------------------------------------------------------------------------
 Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [2]
---------------------------------------------------------------------------------
 I guess first question would be around more depth from you on kind of the current supply-demand environment as this cycle is really different from any other cycle. Obviously, in the last quarter, we've seen PC kitting issues. Now that appears to be largely resolved. You've talked about shortages in auto. Curious how you're thinking about kind of normal seasonality, if at all, into first half and middle part of 2022, where you're seeing ongoing tightness and how we should interpret that in terms of the sequential bit growth into the second half of fiscal '22 and beyond in calendar '22?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [3]
---------------------------------------------------------------------------------
 Thank you, C.J. So happy holidays to you, too, and to all our listeners on the call. With respect to the demand trends, we -- as we said, we see second half to be strong bit growth supported by the easing of shortages across our customer base. These shortages that our customers have experienced have constrained demand for us. And of course, their end demand trends have been strong. So as the supply chain shortages ease during the course of 2022, that will be a tailwind for demand for us, for memory and storage products. 
 And of course, there is some aspect of seasonality, as you know, in the current quarter, particularly in some segments that are more consumer-oriented parts of our business. So second half, yes, there will be a stronger seasonality aspect as well. Then is the product cycles of our customers. New products in data center with new processors, with new architectures that are enabled with more memory channels, more cores in those processor, more AI and big data workloads driving greater demand for memory and storage in the -- during calendar year '22. We expect calendar year '22 to be a strong year for data center demand.
 5G, with respect to smartphones continues to drive strong content increases as well as, of course, more 5G phones are being sold. And automotive, we talked about some of the trends of new vehicles that will have more content. And certainly, EVs with more than 140 gigabytes of DRAM and some EVs having a terabyte of NAND content, this is the trend that's starting to build up as well. So overall, the devices have more content. 
 And actually, in automotive, if you think about it, we have 90 million automobiles versus servers at about 15 million. So 6x of automobiles with increasing content. So of course, this will be a strong demand driver, not just for 2022. I mean, beyond that as well. So the demand trends are secular here in nature. And of course, we work closely with our customers, and we understand how they are looking at their own demand rolling out through calendar '22. So demand trends are strong. We expect healthy demand supply environment in calendar year '22. On the supply side, of course, it has been disciplined CapEx. And as we have highlighted, we expect DRAM to be in mid-teens to high teens in terms of year-over-year supply growth and NAND approximately 30%. 
 And of course, on the supply side, the CapEx has been disciplined by the suppliers, but also equipment constraints, the long lead time that is there. That, too, gives us confidence regarding calendar year '22 supply outlook. So overall, we believe we are well positioned to deliver a strong second half based on all the demand aspects as well as supply aspects that I just described here as well as a strong profitability for calendar -- record fiscal year '22 revenue and robust profitability.
 
---------------------------------------------------------------------------------
 Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [4]
---------------------------------------------------------------------------------
 That's very helpful. As a quick follow-up, Dave, can you speak to the cost side? You highlighted expectations for strong front-end cost down. We're curious how are you thinking about normalization of COVID-related expenses? And how should we be thinking about any mix shifts in your product portfolio in calendar '22?
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Micron Technology, Inc. - Executive VP & CFO    [5]
---------------------------------------------------------------------------------
 Sure. Thanks, C.J. and happy holidays as well. Let me join, Sanjay, in telling everybody happy holidays. Yes. So from a cost perspective -- let me just step back a little bit on the margin front because I think it's worth touching on it just for a second. So we delivered very strong gross margins, as you saw in the first quarter, 47%, right in line with where we thought we'd be. Just keep in mind that just a year ago, our gross margins were just a little bit over 30%. So this is a pretty significant improvement in the gross margins. And of course, some of that obviously comes from pricing, but it also comes from a good cost discipline and the beginnings of the ramp of 1-alpha and 176-layer that we saw last year and into this year. 
 As we look into the second quarter, we do expect to continue to see a tailwind from cost reductions associated with both 176-layer and 1-alpha node, and that should continue through the year. Also, as Sanjay mentioned, we have a lot of product calls ahead of us for this year that will improve the mix of our business into high-value solutions, and so we also expect that to be beneficial. The question -- the root of your question is these costs that we're seeing in terms of COVID mitigation and some inflationary pressure. Those are likely to continue through the year. Hard to say when they abate, but we do expect that they will continue through the year. 
 But other than that, the other areas that -- where we have good control over, I think we're executing very well in terms of delivering good cost reductions. And at these levels of profitability, the ROI for us, ROIC for us from a business perspective is quite high. So we're in a good -- what I think is a really good place.
 
---------------------------------------------------------------------------------
 Operator    [6]
---------------------------------------------------------------------------------
 Our next question comes from Vivek Arya with Bank of America.
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [7]
---------------------------------------------------------------------------------
 You mentioned, Sanjay, that you are starting to see PC customers less constrained from a component perspective. I'm curious, is that a near term? Or is that an expectation of second half of fiscal year '22 comment? So when do you expect your shipments to PC customers has to start to improve?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [8]
---------------------------------------------------------------------------------
 So the comment is relative to what we saw 3 months ago. And as we had highlighted in our earnings call -- last earnings call, we have seen that certain PC customers had their supply chain challenges, making it hard for them to get all non-memory components, thereby limiting their production of PCs, even though their end demand of PCs was still strong. So yes, compared to that, what we have seen is that their inventory adjustment that was as a result of their non-component shortages, is now largely behind them, and we are certainly seeing recovery of demand on the PC front compared to the levels that existed 3 months ago. 
 And overall, as I noted that for calendar year '22, we expect total PC unit sales to be similar to calendar year '21 level. So PC, we expect will be recovering for us in terms of demand as we go forward here in calendar year '22.
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [9]
---------------------------------------------------------------------------------
 Right. Very helpful. And for my follow-up, Sanjay, you mentioned 75% of your revenues are now based on these long-term agreements. What kind of assumptions goes into that? Are these take-or-pay arrangements, just given the cyclical nature of the industry, how fixed or dependable are these contracts from a price or volume or margin perspective?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [10]
---------------------------------------------------------------------------------
 So again, I would like to remind you that about 4 years ago, 5 years ago, we used to have about 10% of our revenue based on these LTAs. And today, we have more than 75% of our revenue based on LTAs. What the LTAs have done is bring us closer to the customer and really enable us to have a much closer dialogue on their planning, their forecast and enables us to plan our supply and the mix of supply appropriately as well. 
 These LTAs are nonbinding in nature, but they do help build greater visibility, greater transparency. And over the long haul, build greater trust and accountability between us and partners because value of memory is just continuing to increase. And there is sentiment of, of course, wanting to make sure that there is sufficient supply of memory available to our customers. So we work closely with them, and it helps us decide our product portfolio as well and manage our overall product portfolio and the mix of the product. 
 So these agreements are volume-targeted agreements. They're not generally based on pricing, but they do help us as well as our customers plan our business far better and give us greater visibility. And again, these have been worked on, improved upon over the course of last few years, and we continue to look forward to continuing to strengthen these LTAs going forward as well.
 
---------------------------------------------------------------------------------
 Operator    [11]
---------------------------------------------------------------------------------
 Our next question comes from John Pitzer with Credit Suisse.
 
---------------------------------------------------------------------------------
 John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [12]
---------------------------------------------------------------------------------
 Congratulations on the solid results. Sanjay, I want to go back to your expectation for industry bit demand growth for DRAM in calendar year '22 of mid- to high teens. While that's in line with kind of your long-term view for bit demand, it would be a relatively big deceleration from this year despite the fact that it sounds like you've got a lot of good tailwinds next year, whether it be PC mix improving, smartphone mix and units improving or new architectural shifts on the server side that are going to significantly increase DRAM density per server. And so I'm kind of curious, when you look at that expectation for next year, is that being gated by what you and your peers can supply to the industry? Is it being gated by your view of demand? Is it being gated by components outside of your control?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [13]
---------------------------------------------------------------------------------
 So I think you're right to note that certainly, supply is limited. As I highlighted earlier, CapEx in the industry has been disciplined. And of course, as you know, that exiting 2020, there was inventory in the industry. Supplier inventories are at lean levels as well. And of course, in terms of supply growth, given the various aspects of supply chain shortages across all industries that have been discussed, equipment today has long lead time as well. 
 So overall, when you really look at calendar year '22, overall supply is rather limited. And of course, demand trends are strong. What I would like to highlight is that you really have to look at long-term CAGR. The long-term CAGR on DRAM of mid-teens to high teens is really driving strong growth, and it is there because of all of the demand trends we have discussed. 
 And so you can't just look at 1 year, you have to continue to look at longer-term trends. These are secular trends in nature, driving more demand for memory and storage. And of course, what we have provided here is our estimation regarding the bit growth. This is what we expect, and we'll continue to monitor this. Essentially, we expect a healthy industry demand supply environment in calendar year '22, particularly on the side of DRAM. 
 And I think, again, it's -- my supply comments are based on some of the CapEx that we have ourselves said is -- in DRAM is guided down, but also by our other suppliers in -- other suppliers of DRAM in the industry.
 
---------------------------------------------------------------------------------
 John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [14]
---------------------------------------------------------------------------------
 That's helpful. And then Dave, as a quick follow-up just on the OpEx line, both this quarter and last quarter, you sort of characterized fiscal year '22 as an investment year, but you kind of came in at the low end of OpEx for the fiscal first quarter. Were there any sort of pandemic issues that are preventing you from investing at the rate you want? And as you think about the balance sheet of the fiscal year, how do we think about linearity of OpEx? And what are the 2 or 3 big buckets of incremental spend?
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Micron Technology, Inc. - Executive VP & CFO    [15]
---------------------------------------------------------------------------------
 Yes. So it's right to note that there's a little bit of tightness in the labor market, which, of course, it makes it challenging. But I'd say the biggest single contributor of the OpEx this quarter -- in the first fiscal quarter was just lower R&D expenses and -- related to prequalification expenses. And those can be a little lumpy and sometimes, you just fall over the transom between the first and second quarter of a year. And so it just turns out that they didn't hit in the first quarter, but we feel very confident that they will hit in the second quarter. And we will really spend in absolute terms for the year at the same level as we were predicting last quarter. It's more of a timing situation. 
 So we'll have this kind of step-up in OpEx for the second fiscal quarter. And then it's a much lower sequential rate of growth in the third and fourth fiscal quarter that will get us to roughly, call it, 15% for R&D and SG&A will be a bit below that. But overall, we drive the number we're expecting.
 
---------------------------------------------------------------------------------
 Operator    [16]
---------------------------------------------------------------------------------
 Our next question comes from Timothy Arcuri with UBS.
 
---------------------------------------------------------------------------------
 Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [17]
---------------------------------------------------------------------------------
 Dave, my first question is for you. Can you walk us through the impact from the Lehi sale? I think there were some underloading charges and there was maybe like $100 million a quarter worth of OpEx. So can you sort of bridge that for us as it relates to Lehi between the fiscal Q1 results and the fiscal Q2 guidance?
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Micron Technology, Inc. - Executive VP & CFO    [18]
---------------------------------------------------------------------------------
 Sure. So we had about $100 million of revenue in the first fiscal quarter related to wafer sales. It was somewhat accelerated because we closed at the end of October. That's a little bit higher than we've actually been running for the last couple of quarters. So that does actually go away in the second quarter. On the margin front, it was actually pretty close towards the corporate average. We -- normally, that's lower, but we moved the assets to a held-for-sale status, I think, at the end of the second fiscal quarter of last year. And so that discontinued the depreciation expense there. And so we saw margins generally -- relatively similar levels once you kind of factor that in. 
 So a lot of the underloading got somewhat removed over the course of the third and fourth fiscal quarter -- or let's call it, the fourth -- first fiscal quarter, such that it won't have a meaningful impact to gross margins in the second fiscal quarter.
 
---------------------------------------------------------------------------------
 Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [19]
---------------------------------------------------------------------------------
 Got it. And then, Sanjay, for you, just back on the topic of long-term agreements with your customers. Obviously, there's been quite a change in the tenor of sort of how you engage with them. And my question is sort of where do you see this all heading? I mean when you talk to your customers, they're very, very concerned about procuring DRAM at a reasonable price. So for example, do you envision a scenario where maybe you can get them to prepay you for bits?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [20]
---------------------------------------------------------------------------------
 As we highlighted, I mean, our discussions with our customers and LTAs are more around the requirements of supply. And of course, these lead to closer discussion in terms of understanding their product portfolio, their road map and how our road map gets defined and how our portfolio fits in with their requirements. So as I mentioned earlier, I mean, these discussions, these relationships with our customers have continued to evolve over the course of last few years, taking us from yes, that 10% LTAs to now 75% LTAs. 
 But they're also continuing to evolve in terms of the relationship that is based on value as well. So of course, we will continue to look for opportunities, as I mentioned earlier, to strengthen these LTAs in the future as well. And I would just like to highlight that we are in this good position with the customers in terms of gaining greater visibility to their requirements and being able to drive these LTAs through a lot of good work that our team has done here. The sales teams, our business unit teams and, of course, supported by strong technology, product portfolio and supply chain execution that just gives these customers and other partners the confidence in engaging in these LTA discussions with us.
 
---------------------------------------------------------------------------------
 Operator    [21]
---------------------------------------------------------------------------------
 Our next question comes from Mehdi Hosseini with SIG.
 
---------------------------------------------------------------------------------
 Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [22]
---------------------------------------------------------------------------------
 Yes. Sanjay, my first question is for you. I was wondering if you have any thoughts as to how you see the mix of DDR5 as a percentage of overall server DRAM trending throughout 2022. And I have a follow-up for David.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [23]
---------------------------------------------------------------------------------
 So with respect to 2022, they have the new processors that are able to use DDR5 get rolled out into the marketplace that will drive adoption of DDR5 in the server space as well. As we noted, in the PC space, DDR5 adoption has already started, and we have begun to ship DDR5 product. DDR5 currently is in high demand. Actually, supply there is limited for DDR5 in the industry. So when I look at PC as well as for server, we expect that DDR5 will be ramping up first in PC. And as the processors with DDR5, new processors become available in the industry. We particularly see that ramping up later in calendar year '22.
 I expect that we will be exiting calendar year '22 with approximately 20% the mix of DDR -- I'm sorry, with approximately 20% of the mix of DRAM in compute space, at approximately 20% there, okay?
 
---------------------------------------------------------------------------------
 Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [24]
---------------------------------------------------------------------------------
 Got it.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [25]
---------------------------------------------------------------------------------
 And so a stronger ramp in the second half versus the first half because, again, as those new processors ramp up into production with our customers that will drive a ramp of DDR5 in the second half in the server space. And in PC, as I mentioned, it's happening all throughout calendar year '22.
 
---------------------------------------------------------------------------------
 Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [26]
---------------------------------------------------------------------------------
 Got it. And for David, I'm just trying to better understand the supply-demand environment. And when I look at your guide -- revenue guide and what you reported for DRAM and NAND ASP, seems to me the underlying assumption is based on moderate decline in blended prices. And I'm not asking you for a guide, but is that a fair observation?
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Micron Technology, Inc. - Executive VP & CFO    [27]
---------------------------------------------------------------------------------
 For second fiscal quarter, you're talking, Mehdi?
 
---------------------------------------------------------------------------------
 Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [28]
---------------------------------------------------------------------------------
 Yes. Yes.
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Micron Technology, Inc. - Executive VP & CFO    [29]
---------------------------------------------------------------------------------
 Yes. So obviously, we can't comment on pricing on a forward-looking basis. I would just reiterate Sanjay's comments that we see a healthy supply/demand dynamic for the fiscal year for both DRAM and NAND, and we continue to ramp 176-layer and 1-alpha, which gives us a good cost structure going forward. We're going to continue to drive the mix. All of those assumptions are built into our margin guidance. Of course, there's a high and a low to that margin assumption based on how things can play out.
 
---------------------------------------------------------------------------------
 Operator    [30]
---------------------------------------------------------------------------------
 Our next question comes from Joe Moore with Morgan Stanley.
 
---------------------------------------------------------------------------------
 Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [31]
---------------------------------------------------------------------------------
 I wonder if you could talk about the role of sort of just-in-case philosophy that you talked about a couple of quarters ago. Clearly, you're comfortable with your customer inventory levels now. But how are they feeling? And do you expect there to be a higher level of inventory on a sustained basis from here?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [32]
---------------------------------------------------------------------------------
 So inventory strategy is clearly varying from customers to customers. And some definitely, given what pandemic introduced in terms of supply chain shortages, are looking at strategically higher level of inventory. Some may also be doing it for geopolitical considerations. So we don't really yet see customers going back to pre-pandemic levels, but the strategy around inventory does vary from customer to customer. And overall, as I said, for -- on an industry-wide level, while there may be some pockets of some customers carrying extra inventory overall, given the current environment, customer inventory levels are in a decent shape. 
 And just look at us, Micron itself is also, in our own manufacturing, we are holding a lot more inventory of raw materials just to make sure that our supply chain has assuredness with respect to our ability to supply our customers. And our operations planning just in the current environment of -- is somewhat higher uncertainty on the geopolitical front as well as pandemic-related front is operating with greater levels of inventory -- with non-memory components inventory. And similarly, customers have similar approach as well in terms of managing their inventory.
 
---------------------------------------------------------------------------------
 Operator    [33]
---------------------------------------------------------------------------------
 Our next question comes from Toshiya Hari with Goldman Sachs.
 
---------------------------------------------------------------------------------
 Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [34]
---------------------------------------------------------------------------------
 I guess my first one is on the supply side. Sanjay, you talked about constraints in the equipment space a couple of times. Are you actually seeing delays or sort of decommits from your suppliers at all? I guess you've maintained your full year CapEx guidance, so perhaps not, but I just wanted to clarify that. And then my part 2 of my supply question, were there any -- was there any impact from the earthquake in Taiwan in the quarter, whether it be from a bit perspective or in terms of your ability to reduce costs?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [35]
---------------------------------------------------------------------------------
 So our procurement team and our supply chain team works closely with equipment suppliers in terms of long-term planning and securing of slots for equipment. And we continue to drive that. And yes, we have, of course, seen lengthening lead times, but those have also been factored in, in terms of our overall planning. And as I mentioned, I mean, we are really seeing a lot more collaboration with these suppliers in terms of driving our own demand -- timing of equipment. 
 So no, I would not say that we have seen any pushouts versus our own expectations. But again, those expectations of equipment delivery are built based on our collaboration with the suppliers and with the visibility that we have provided and with a lot of good planning work between us and our suppliers. And your second part of your question, I forgot. Now, what was the second part of the question? Can you please repeat that?
 
---------------------------------------------------------------------------------
 Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [36]
---------------------------------------------------------------------------------
 Earthquake in Taiwan, any impact to bit shipments in the quarter or cost downs?
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [37]
---------------------------------------------------------------------------------
 So the earthquake in Taiwan, at the time of the earthquake, certainly did reduce some of our bit production. By end of the quarter, our impact to our overall output was meaningfully reduced.
 
---------------------------------------------------------------------------------
 Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [38]
---------------------------------------------------------------------------------
 Got it. And then as a follow-up, I wanted to ask about your business in automotive and industrial. You talked about the 2 businesses or the 2 end markets combining for more than 10% of your overall revenue. In a fairly normal environment, whatever that is, both in automotive and industrial, how are you thinking about the sustainable growth rate in those 2 end markets? You threw out a couple of growth rate numbers for the quarter, but curious how you're thinking about both auto and industrial on a cross-cycle basis.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [39]
---------------------------------------------------------------------------------
 Yes, auto and industrial certainly will be high-growth drivers for us across the cycle. I spoke to all the demand drivers in the automotive market. Micron is clearly an automotive leader in this space. And we said that auto and industrial combined, over 10%. If you look at automotive itself, our share of the market is somewhere mid-single digits. And this share, we would expect to continue to grow based on all our experience in this market, our share leadership, the high quality we provide and increasing demand for memory and storage content in these markets. 
 And of course, industrial is also growing for us with 5G enabling tremendous demand in the industrial segment with industrial IoT, different market -- drones with surveillance, equipment, with automation in the factories. All of this is tending to drive greater demand as well. So we expect solid growth in both of these markets. We expect the -- overall, if you look at DRAM content CAGR in the automotive market, that's approximately 40% over the course of next 3 years, NAND CAGR in the automotive power kit, above 50% as well over the course of next 3 years. 
 So this really has legs in terms of sustainable growth. And again, we are well positioned in these markets, and we expect our percentage of revenue in this market to continue to increase over the course of next several years.
 
---------------------------------------------------------------------------------
 Operator    [40]
---------------------------------------------------------------------------------
 Our next question comes from Shannon Cross of Cross Research.
 
---------------------------------------------------------------------------------
 Shannon Siemsen Cross,  Cross Research LLC - Co-Founder, Principal & Analyst    [41]
---------------------------------------------------------------------------------
 I have one and then a follow-up. I realize it's early in what's going on with regard to the current variants. But I'm wondering if you've seen any impact from it? And also given you are the first company, at least that I cover that has had to provide guidance in light of some of the changes, I'm curious how you approach thinking about the variant. And then I have a follow-up.
 
---------------------------------------------------------------------------------
 Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [42]
---------------------------------------------------------------------------------
 So first of all, with respect to our focus on the business, with respect to our people and Micron has been proactive all throughout the pandemic in taking actions to protect the safety of our team members, whether it is managing strict protocols with our operations -- on-site operations with respect to masking, physical distancing as well as vaccination. And so -- and of course, as a result of that, we have been successful in continuing to run our operations all throughout the pandemic. And despite various industry-wide challenges on supply, we have been overall, generally quite good in terms of our ability to support our customers. 
 With respect to the Omicron, of course, we will continue our stringent focus on safety of our team members as well as continuing to run our operations. We will not let our guard down in this regard and of course, continue to monitor all the trends and developments here. I would like to point out that even with Delta, all our operations continued to run well. And of course, as you saw, the demand for our products continued to be strong as well. 
 And of course, we saw in some parts of the business, higher demand as a result of COVID for certain periods of time, whereas other parts may have had lower demand for certain periods of time as well. So of course, we will continue to monitor the trend. And to the extent that Omicron has any impact on the macroeconomic environment, of course, that might impact some of our business. However, you have seen that we have been extremely adaptive. We have been extremely agile, and we will continue to do so.
 
---------------------------------------------------------------------------------
 Shannon Siemsen Cross,  Cross Research LLC - Co-Founder, Principal & Analyst    [43]
---------------------------------------------------------------------------------
 Okay. And then I'm just curious, you mentioned higher OpEx, obviously, in fiscal 2022. And that would be accelerating the road map. I'm wondering if you can elaborate a little bit on what we can expect. And is that more sort of a 2023 comment in terms of road map benefit?
 
---------------------------------------------------------------------------------
 David A. Zinsner,  Micron Technology, Inc. - Executive VP & CFO    [44]
---------------------------------------------------------------------------------
 Well, you're already seeing a lot of the benefit. We'll have a lot of good products coming out through 2022, which were the benefit of the investments that we made in prior years. It's -- to a large extent, it's a continuation of the progression of our products in all markets. Obviously, there's more that we have to do in the SSD front to fully capture all of the opportunity from an NVMe perspective. So there's going to be investment there. 
 There's obviously the next set of process technologies, which will include continued investment in EUV for the 1-gamma that Sanjay mentioned. So lots of different products that we think will be necessary to address the whole market plus continued investment on the process technology side to keep our pace in terms of a leadership position and cost leadership position.
 
---------------------------------------------------------------------------------
 Operator    [45]
---------------------------------------------------------------------------------
 Thank you. And that concludes our Q&A session. Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.
 
 
@@ -376,9 +270,7 @@ Thank you. And that concludes our Q&A session. Ladies and gentlemen, this conclu
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -389,9 +281,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -417,6 +307,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

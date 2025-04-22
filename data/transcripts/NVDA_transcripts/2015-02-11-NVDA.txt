@@ -6,18 +6,14 @@ E D I T E D   V E R S I O N
 Q4 2015 NVIDIA Corp Earnings Call
 FEBRUARY 11, 2015 / 10:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Jen-Hsun Huang
    NVIDIA Corporation - Co-Founder, President & CEO
  * Colette Kress
    NVIDIA Corporation - EVP & CFO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Matt Ramsay
    Canaccord Genuity - Analyst
@@ -44,18 +40,13 @@ Conference Call Participiants
  * Christopher Rolland
    FBR & Co. - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 Good afternoon. My name is George and I will be your conference operator today. At this time, I would like to welcome everyone to the NVIDIA financial results conference call.
 (Operator Instructions)
 As a reminder this conference is being recorded Wednesday, February 11, 2015. I will now turn the call over to Ms. Colette Kress, Executive Vice President and Chief Financial Officer with NVIDIA. Ms. Kress, you may begin your conference.
 
---------------------------------------------------------------------------------
 Colette Kress,  NVIDIA Corporation - EVP & CFO    [2]
---------------------------------------------------------------------------------
 Thank you. Good afternoon everyone, and welcome to NVIDIA's conference call for the fourth quarter of fiscal 2015. With us on the call today from NVIDIA is Jen-Hsun Huang, President and Chief Executive Officer.
 I'd also like to introduce Arnab Chanda, who joined us last week as the Head of Investor Relations. Arnab and [Raj] will closely work to support the investment community.
 I'd like to remind you today's call is being webcast live on NVIDIA's Investor Relations website. It is also being recorded. You can hear a replay by telephone until February 18, 2015.
@@ -102,22 +93,15 @@ In summary, we are pleased with our record revenue for the quarter and the full 
 This concludes our remarks, and we will now turn it back to the operator for questions. Please be sure to limit your questions to one, with one follow-up. Operator?
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 (Operator Instructions)
 Ross Seymore, Deutsche Bank.
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [2]
---------------------------------------------------------------------------------
 (Technical difficulty) on the strong results and guidance. I guess the first question, Jen-Hsun, one for you on the Tegra side of the business. I know that can be inherently lumpy in how it operates, but can you talk about what you envision the biggest drivers in fiscal 2016 will be to get that business on a growth trajectory versus the year-over-year drop that it's currently running at?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [3]
---------------------------------------------------------------------------------
 Ross, first of all, thanks. Our strategy for Tegra is to focus on automotive, gaming, and wherever opportunities arise in OEMs, we surely well entertain it. But our fundamental focus is automotive and gaming. And, you already heard Colette say that our automotive business nearly doubled year over year, our gaming business is really strong, and we have some exciting things that we'd love to share with you in the near future.
 Those are our two focuses for Tegra. And if you look at the opportunities that we are pursuing, in the area of automotive, obviously more and more cars are becoming computerized cars, and at CES, we announced a brand new platform called DRIVE. And DRIVE is basically a mobile super chip, a mobile supercomputer, with a ton of software on top, and it provides for three basic functionalities.
 The first is a very advanced digital cockpit. You know that we are incredibly good at computer graphics, and the things that we can do in the car, with more and more displays showing up in the car, is pretty wonderful.
@@ -126,15 +110,11 @@ And the third is using a technology called deep learning that has been revolutio
 In the area of mobile, the gaming -- in the area of mobile gaming, the gaming market, as you know, is huge and is growing quite rapidly internationally. It's about a $70 billion business now. We know that mobile cloud is probably one of the most important disruptions in the history of computing. And yet, there's really no computer gaming architecture that serves mobile cloud very well.
 And that's what SHIELD is all about, to create the platform that allows mobile cloud to bring gaming to a lot more people. And we think that by doing so, we will be able to engage a much, much larger part of the overall gaming market than just PC gaming. So our Tegra business model is about focusing on automotive and gaming.
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [4]
---------------------------------------------------------------------------------
 Great, thank you. I guess as my follow-up, a bigger-picture question for the GPU side of the equation. You talked about the GeForce business being up 38% year over year, and GPUs, as an entirety, were up 13%.
 Is there any color you can provide just into the size of the buckets within your GPU segment so we can get a little more granular on how we model those very disparate growth rates? Whether it's the four segments you break out in your segment definition in the CFO commentary, or any other color you give, that would be helpful. Thank you.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [5]
---------------------------------------------------------------------------------
 We serve four markets: gaming, automotive, enterprise graphics, and high-performance computing and cloud computing. Those are the four major segments that we -- four major markets that we serve.
 GPUs serve gaming, enterprise graphics, and cloud. Gaming, as we said earlier, has grown, as you mentioned, 38% year over year.
 Our enterprise graphics business, the workstation business, is relatively flattish. However, our enterprise virtualized graphics platform, called GRID, about doubled year over year. And our Tesla business, which is our accelerated computing business, about doubled year over year.
@@ -142,24 +122,16 @@ The PC OEM business declined. The PC OEM business represents, I would say, low-t
 Obviously the PC OEM business, representing [umpteen percent] of our overall GPU business, represents a substantially lower part of its profits because the gross margins at OEMs tends to be much lower. But nonetheless, it declined year over year.
 So looking at those segments, then, gaming grew, enterprise grew, cloud computing and high-performance computing grew, OEM business, PC OEM business declined from a low umpteen percent level. Okay?
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [6]
---------------------------------------------------------------------------------
 Great, thank you very much.
 
---------------------------------------------------------------------------------
 Operator    [7]
---------------------------------------------------------------------------------
 Vivek Arya, Bank of America Merrill Lynch.
 
---------------------------------------------------------------------------------
 Shankar Iyer,  BofA Merrill Lynch - Analyst    [8]
---------------------------------------------------------------------------------
 Hi, this is [Shankar] on behalf of Vivek. Just a follow-up on that GPU [baked-on]. Could you give color on what's the -- based on the guidance you're giving for Q1, how do the individual segments kind of play out?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [9]
---------------------------------------------------------------------------------
 Sure. We guided seasonally down. And of course, as usual, we will see how it turns out.
 But if you look at the position of each one of our platforms, our position in gaming is very strong. The gaming market, globally, is quite robust. We are still seeing gaming growth all around the world, and the production value of games is increasing all the time. And, whenever the production value of a game increases, it requires more GPU performance.
 For the very first time in history, a game console has come out that uses essentially a PC architecture and its performance is substantially higher than the average PC performance. And so, as a result, we see a lot of adoption to our higher-end GPUs, and that's good.
@@ -169,40 +141,28 @@ GRID, another part of our GPU business, is all about enterprise virtualization. 
 That platform is growing nicely. A year ago we had about 400 trials. Today, we have well over 1,000; and recently, the most -- the largest enterprise virtualization company in the world, VMware, has integrated GRID into vSphere and it has gone to production.
 And so, we are seeing quite a bit of momentum from that production release. So these platforms are all growing nicely, and I expect this year to help drive our growth.
 
---------------------------------------------------------------------------------
 Shankar Iyer,  BofA Merrill Lynch - Analyst    [10]
---------------------------------------------------------------------------------
 Great. So I just have a follow-up on the autos business. I know you talked about different products and features that you have been working on and those seem to be, kind of, maybe a high-end side of auto.
 But can you talk about the products that you have for the mid and low end? Because, it looks like that might be the area where the scale is. And also talk about how you plan to increase the gross margin for autos business, because it looks like it is in the low-30%s, if I just back out all the numbers based on all your reported numbers.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [11]
---------------------------------------------------------------------------------
 Well, the answer to the second question I know better than the answer to the first, so I'll just answer that one first. The way to increase our gross margins is just to continue to innovate and increase the amount of value added that we bring. And if you recall, a long time ago, a long time ago meaning about 10 years ago, NVIDIA's gross margins was 30%-some odd, and over time, we made the platform more and more software-rich. Today, our gross margins are surely much, much higher than 35%.
 And so, my expectation is to do the same on the NVIDIA DRIVE platform. It is intensely software-rich. I think somebody said that, today, a car is about 10% software, but soon the car will be about 80% software, and I think that's right. I think that's right.
 In the future, with electric cars, you have, obviously, still very sophisticated drivetrain and such, but the car is going to be largely a computer with software. And that's where we can add an enormous amount of value, and that's what DRIVE is all about, adding value through a very powerful processor, of course. But, most of the capabilities I described, from the digital cockpit to surround vision to deep learning, is all about software. It's all the software that runs on top of TX1, so that is number one.
 Your question about high-end versus mid-range, I believe that more and more of the car's value will be delivered through software, and if you have to deliver it through software, then the processor underneath it is obviously more and more important. And, my expectation is that great computing platforms will extend well into mid-range and into the low-end part of the marketplace.
 And that is a belief, and just as I believed a long time ago that the car is going to be one of our most sophisticated computers, which is obviously, at this point, coming true, my sense is that it's going to continue to go down that path. And, we are going to see a lot more computation capability inside a car. To the point where I actually believe that every car will have a good processor, the high-end cars will have many good processors.
 
---------------------------------------------------------------------------------
 Shankar Iyer,  BofA Merrill Lynch - Analyst    [12]
---------------------------------------------------------------------------------
 Okay, thank you.
 
---------------------------------------------------------------------------------
 Operator    [13]
---------------------------------------------------------------------------------
 Matt Ramsay, Canaccord Genuity.
 
---------------------------------------------------------------------------------
 Matt Ramsay,  Canaccord Genuity - Analyst    [14]
---------------------------------------------------------------------------------
 I think the first one, Jen-Hsun, you made some interesting comments earlier about the need for, I guess, a fully virtualized mobile gaming experience. I assume you're meaning across desktop, tablets, smartphone, cloud, et cetera.
 One of the things that strikes me is, obviously there is the suit going on between yourselves and Qualcomm, Samsung, et cetera, and your market share within the mobile graphics business, when you think about smartphones, is fairly small from a hardware perspective. So, do you see that changing dramatically going forward? And if not, do you see the gaming mobile device market bifurcating from the traditional smartphone market going forward?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [15]
---------------------------------------------------------------------------------
 Yes, Matt, thanks a lot for that question. First of all, mobile is much more than phones. Mobile is a fundamentally new way of designing computers. And, I believe that mobile will impact almost every segment of computing as we know it.
 It'll impact refrigerators, that's not a phone. It will impact drones, that's not a phone. It will impact earrings, that's not a phone. It will impact watches, that's not a phone. It will impact game consoles, that is not a phone. It will impact cars, and that's not a phone.
 I think mobile is going to be important in all kinds of computing devices. When I say mobile, that's what I mean. I don't mean mobile as in the mobile phone. Mobile technology is really important.
@@ -210,102 +170,66 @@ I also believe that mobile cloud, in combination, is one of the most powerful co
 And yet, no one has yet created a game platform around mobile cloud, the technology of mobile cloud, the power of mobile cloud, the architecture of mobile cloud. So, that we can extend gaming not to tens of millions of game console users, but billions of users. I think that that's the great opportunity.
 And I don't have anything to announce today, but that's what we are trying to endeavor. So I appreciate you asking that question. I think it's going to be a really big opportunity for us.
 
---------------------------------------------------------------------------------
 Matt Ramsay,  Canaccord Genuity - Analyst    [16]
---------------------------------------------------------------------------------
 Thank you for that perspective. As a follow-up, this one for Colette, obviously you guys have done a great job in returning cash to shareholders and announced a new plan for the next fiscal year. Maybe as the last fiscal year ends, maybe you could update us on your onshore and offshore cash balances, if you could, and any perspectives on the difference in cash flow onshore and offshore? Thanks.
 
---------------------------------------------------------------------------------
 Colette Kress,  NVIDIA Corporation - EVP & CFO    [17]
---------------------------------------------------------------------------------
 Again, we are looking at a cash balance lower than where we ended at fiscal year 2014 due to our $1 billion return through shareholders, but also the increase in cash flow. Nothing has materially changed in terms of our cash flow from international and our cash flow in the US. So again, the majority of our cash flow tends to arrive from international overall operations.
 We have about the same mix of overall US cash versus international cash, a little lower than where we ended at the end of fiscal year 2014. But we feel very confident with our overall capital return program for fiscal year 2016 and the overall cash flow prospect. So, I think we are well-aligned there.
 
---------------------------------------------------------------------------------
 Matt Ramsay,  Canaccord Genuity - Analyst    [18]
---------------------------------------------------------------------------------
 All right, thank you very much.
 
---------------------------------------------------------------------------------
 Operator    [19]
---------------------------------------------------------------------------------
 David Wong, Wells Fargo.
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities, LLC - Analyst    [20]
---------------------------------------------------------------------------------
 Could you give us some idea of what percentage of Tegra is now automotive? And just a clarification, when you say that automotive infotainment more than doubled year over year, do you mean all automotive, is there some other segment than infotainment, or --?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [21]
---------------------------------------------------------------------------------
 Most of our automotive today is infotainment. Some of -- more people are starting to do to what Audi has done with their really amazing virtual cockpit, where infotainment and digital clusters merged into one. And, digital clusters is much harder than infotainment.
 And so, with Tegra, with our automotive platform, we are able to deeply merge the two. And so, you'll see some more examples of that in the future.
 But initially, it's largely infotainment, some amount of digital clusters, if that's your question. And between automotive and SHIELD, our gaming platform, that represents the vast majority of Tegra now.
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities, LLC - Analyst    [22]
---------------------------------------------------------------------------------
 Okay, great. And you also mentioned Tesla more than doubled from an already substantial base. Can you give us some idea of the size of Tesla today?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [23]
---------------------------------------------------------------------------------
 Tesla is several hundred million dollars -- it's multiple hundred million dollars now.
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities, LLC - Analyst    [24]
---------------------------------------------------------------------------------
 On a quarterly basis?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [25]
---------------------------------------------------------------------------------
 On an annual basis.
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities, LLC - Analyst    [26]
---------------------------------------------------------------------------------
 Okay, great. Thank you.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [27]
---------------------------------------------------------------------------------
 And it grew, nearly doubled year over year.
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities, LLC - Analyst    [28]
---------------------------------------------------------------------------------
 Great.
 
---------------------------------------------------------------------------------
 Operator    [29]
---------------------------------------------------------------------------------
 Christopher Rolland, FBR Capital Markets.
 
---------------------------------------------------------------------------------
 Christopher Rolland,  FBR & Co. - Analyst    [30]
---------------------------------------------------------------------------------
 Can you guys talk a little bit about your eventual move to 20 nanometers? And, seems like you guys are saying on 28 for perhaps a bit longer than you have prior nodes. And if you are staying here for longer, is it safe to assume that you can get some gross margin uplift year over year?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [31]
---------------------------------------------------------------------------------
 Well, let's see, we're always moving to the next node. Tegra X1, the mobile super chip that we announced at CES, is 20 nanometer. And so, we are always moving forward.
 But, the equation is much more complicated than that. And, the reason for that is because we have the ability, because of the fact that we architect and innovate from architecture all the way to software, we have the ability to improve our performance and efficiency and features on all of those dimensions.
 We can improve at the architectural level, using the same process; we can innovate at the design level, using the same process and same architecture. We can innovate at the process level; we can innovate at the software level. We can innovate at the algorithm level. And because we control all of that, we have the ability to move the needle forward in multiple dimensions.
 And so, if you look at Maxwell, Maxwell is an unbelievable energy-efficient processor. And because of the energy efficiency of Maxwell, not only did we make all of GeForce higher performance, lower power, quieter, we were also able to take that GPU, just a few months later, and put it into a Tegra X1. And, the performance is really quite shocking.
 And so, we could innovate on multiple levels as a company, that's one of the benefits. But overall, we are moving forward, all the time, in process technology.
 
---------------------------------------------------------------------------------
 Christopher Rolland,  FBR & Co. - Analyst    [32]
---------------------------------------------------------------------------------
 Okay, great. And then, also at CES, love the automated driving stuff. But, I was little confused on the way that you are positioning yourself in that market, particularly you against, or either with, Mobileye.
 I talked to one person, they say you are going head to head, I talked to another person, they say you are partnering. And, I talked to another person at the booth who said that you guys are really enabling third parties to go after Mobileye. So, how do we think about yourself positioning yourself in that market? Are you really going after them there?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [33]
---------------------------------------------------------------------------------
 I appreciate that question. I think it's a great question, and the answer is actually really simple. We are in two different things.
 We make two different things, and so we are very complementary. Mobileye, think of it as a computer vision signal processor ISP, if you will. It's connected to the camera, and they do wonderful work in computer vision in that area.
 The DRIVE platform is a computing platform. Just as a phone has an ISP as well as the application processor, in this case we are the application processor, if you will. This application processor has been designed to be incredible in the three areas that I talked about: digital cockpit, surround vision, and deep-learning based computer vision.
@@ -313,24 +237,16 @@ And so many of the customers, in fact most of the customers that I know, where t
 But even if you're able to detect images and objects, you still need to do something to process that information. And we could do it -- we could reconstruct the surround environment, we still have the drive to infotainment and the digital cluster, and of course, we could apply higher-level deep-learning algorithms to figure out what to do with the objects that you detect.
 And so, I see ourselves very, very complementary, and of course, because we are a general purpose processor and it's 1 teraflops of computing, we can do a lot of things for computer vision. And that's probably where people are questioning the overlap. But from where I see it, we are very complementary.
 
---------------------------------------------------------------------------------
 Christopher Rolland,  FBR & Co. - Analyst    [34]
---------------------------------------------------------------------------------
 Great, thanks.
 
---------------------------------------------------------------------------------
 Operator    [35]
---------------------------------------------------------------------------------
 Blayne Curtis, Barclays.
 
---------------------------------------------------------------------------------
 Blayne Curtis,  Barclays Capital - Analyst    [36]
---------------------------------------------------------------------------------
 Jen-Hsun, just want to follow up on -- in terms of the auto opportunity, just how you see your dollar content progressing, you're talking about selling modules, multiple processors, and then, more importantly, monetizing the software. And then, if you could talk about some of the timing here, I think the auto OEMs have become a little quicker. Where are you today in terms of the generation of products you're selling, Tegra 3 or K1, and when could you see some of these more advanced systems actually hitting revenue?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [37]
---------------------------------------------------------------------------------
 Yes, I really appreciate the question. You're exactly right, the dynamics are that more and more of the value of a car is going to have to go into its computing, the hearts and soul of its computing platform. And our expectation is about a computer car, and the software capabilities we can bring to bear, over mechanical, electronic type of widgety things is going to grow substantially.
 Second, the fact of the matter is you can't spend five years designing your car anymore. Consumer electronics moves way too fast. People's expectations are set by what they have in their phones.
 And so, you've got to move faster, and the most progressive car companies are moving at the speed of light now. They've taken their design cycle from five to three, and I think I'm seeing them move down to two, potentially one. And so, this is going to be a brand new automotive industry.
@@ -338,36 +254,24 @@ And, the third thing that you mentioned is the content. Well, if you think about
 Some are one computer, some are many computers, and we are a computer company. We are a visual computing company. We are software rich. All of the applications that I mentioned, the capabilities I mentioned, are all software, we provide the entire BSP. We're one of the few companies in the automotive industry that can provide literally end-to-end solutions.
 And, that's what DRIVE is about. DRIVE is a computer platform, software and all, and we provide capabilities across the board. So, I see the car, long term, as quite a large opportunity for us, not a chip opportunity. Because, we are not a chip company anymore.
 
---------------------------------------------------------------------------------
 Blayne Curtis,  Barclays Capital - Analyst    [38]
---------------------------------------------------------------------------------
 Thanks, and just for Colette quickly, on gross margin, I think you mentioned gaming as the tailwind for gross margin. Is that more a function of just Maxwell and pricing, or are you actually seeing gaming not down as much seasonally? And then, as you look out the rest of the year, how should we think of that tailwind?
 
---------------------------------------------------------------------------------
 Colette Kress,  NVIDIA Corporation - EVP & CFO    [39]
---------------------------------------------------------------------------------
 So our gross margin guidance is just for Q1. We do see seasonal effects as we usually go from Q4 to Q1.
 We believe gaming is still a driver, just due to the mix of the type that we are selling into the market. And, we've also talked about accelerated computing and cloud also as a driver of our guidance in Q1.
 
---------------------------------------------------------------------------------
 Blayne Curtis,  Barclays Capital - Analyst    [40]
---------------------------------------------------------------------------------
 Okay, thank you.
 
---------------------------------------------------------------------------------
 Operator    [41]
---------------------------------------------------------------------------------
 Harlan Sur, JPMorgan.
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [42]
---------------------------------------------------------------------------------
 Good afternoon, and great job on the quarterly execution. Maxwell is driving a solid SAM expansion into the notebook market. I think you guys started to see that in Q3, with that segment up 2X, year over year.
 Customer gaming mobile platforms are pretty visible during the holiday season, so I apologize if I missed this, but how much did the notebook gaming business grow for you guys in Q4? And maybe Jen-Hsun, if you can just help us quantify where the attach rates could go and how much this expands your GPU gaming opportunity?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [43]
---------------------------------------------------------------------------------
 Maxwell made it possible -- first of all, the background. Maxwell made it possible for the very first time the ability to put a high-end GPU in a laptop and deliver a desktop-quality experience. So you can now get a laptop with a GeForce in it and run AAA titles at 1080p and at quality levels and frame rates higher than the state-of-the-art game consoles. That's pretty amazing.
 You can now just have a nice and thin laptop, and it's better than a game console. It's better that a game console. And so, people are quite excited about that; Maxwell made that possible.
 We see the business growing well over 100% per year at the moment, simply because it's off of a small base. This has been an underserved part of the market for some time. We really welcome just about every company in the world, laptop company in the world, into this opportunity, from Asus to MSI to Gigabyte, recently even HP came into this.
@@ -375,67 +279,45 @@ And I say, even, because of course, HP is largely focused on enterprises, and ye
 And so where do I see the attach? I guess I don't think about attach anymore. And the reason for that is because PC OEM business is not really our focus, in the sense that it's already a low umpteen part of our business. The way we think about that business is that's really a gaming business.
 And how big can it be, really is a function of how many gamers are there in the world. And I think the numbers are actually quite substantial, are really quite substantial. So, I see this as a growth opportunity for some time.
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [44]
---------------------------------------------------------------------------------
 Thanks for that, Jen-Hsun. And then, Colette, nice job on your part and on the team's part on the OpEx discipline in Q4 and here in Q1. How should we think about the OpEx trajectory for the remainder of the year?
 
---------------------------------------------------------------------------------
 Colette Kress,  NVIDIA Corporation - EVP & CFO    [45]
---------------------------------------------------------------------------------
 We really just are here to focus on our Q1 guidance and what we can see at this time. When we get further into the year, we will talk about the full year.
 But again, we do just want to balance our Q1 with the investments that we need to make, with again, looking at the efficiencies across the org and what we can do. So, I think that's a consistent theme, and you've seen us play that out in fiscal year 2015, and our guidance for Q1 is about that same.
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [46]
---------------------------------------------------------------------------------
 Great, thank you.
 
---------------------------------------------------------------------------------
 Operator    [47]
---------------------------------------------------------------------------------
 Sanjay Chaurasia, Nomura.
 
---------------------------------------------------------------------------------
 Sanjay Chaurasia,  Nomura Securities Intl - Analyst    [48]
---------------------------------------------------------------------------------
 One question on your GRID GPUs. My impression was that you were very excited about the upcoming VMware release, and it has G8, obviously. I was just wondering if you -- does it give you better visibility in terms of upcoming deployments?
 And, do you see that all the challenges that remain for the customers that were trialing GRID, they are ready to deploy that, or you see there are some missing pieces still? I just wanted to get some color on that. Thanks.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [49]
---------------------------------------------------------------------------------
 Well, with VMware's integration, we are now able to engage probably some 80% of the world's enterprises. Just about anybody who has virtualized their enterprise has done so with VMware's technology. And so, I think that this is a really big deal, and if you look at our trials, we went from about 400 last year at this time, to well over 1,000 this year at this time. Our revenues doubled. My sense is that there is no reason for that pace to slow.
 And we'll see how it turns out, but I would think that my intuition would be kind of like yours, that if anything, it ought to accelerate. But there is really -- the most important thing about enterprise virtualization all the way to the client is to have deep integration with VMware, and we've done that, and they've done a great job. They've been a great partner.
 
---------------------------------------------------------------------------------
 Sanjay Chaurasia,  Nomura Securities Intl - Analyst    [50]
---------------------------------------------------------------------------------
 As a follow-up, Jen-Hsun, you guys indicated some large project wins with cloud service provider on Tesla side. Could you give us some color on what exactly is the use case? You did talk about deep learning and image processing. Just wanted to understand a little bit if you could give us more color?
 And, where exactly are you on that ramp? Is that kind of a lumpy deployment that you saw, or is that something very early in the ramp, and we could continue to see that grow?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [51]
---------------------------------------------------------------------------------
 A lot of these projects are quite confidential, but I'll highlight two that have been public. Baidu announced that they built a supercomputer based on Tesla for deep learning, and it's used for natural language processing, translations in real time from language-to-language image recognition.
 Another one that was public, I just saw yesterday, and this is actually quite a monumental event. The event is for the very first time, for the very first time in history, a computer is able to understand images better than humans. This is a milestone event in the development of neuronets, the development of computer vision, and it was announced by Microsoft yesterday.
 The best human has the ability to detect and make errors on about 5.1% of the time, or recognize 95% of the images that they are presented. For the very first time in history, a computer is now able to recognize over 95%, better than a human. That, I think, is really quite a record. We will remember this day for a long time and look back on it. And, they also said that their deep neuronets were trained using NVIDIA GPUs. And so you could see that these are a couple of the examples and they were public about it. In the coming event, there is a GTC coming up, it is on March 15? 17, I'm sorry, March 17, our annual GPU Technology Conference. This year we are going to highlight deep learning and computer vision.
 I really, really encourage people who love computer technology to come and see some of the largest computer companies and most influential computer designers in the world talk about using GPUs in these areas. It's just a huge event. And, this is going to be the largest GTC we have ever held, it's right here in San Jose, and this could be the Mecca for deep learning.
 
---------------------------------------------------------------------------------
 Operator    [52]
---------------------------------------------------------------------------------
 Rajvindra Gill, Needham.
 
---------------------------------------------------------------------------------
 Rajvindra Gill,  Needham & Company - Analyst    [53]
---------------------------------------------------------------------------------
 Thanks, and congrats on great results as well. Could you just talk a little bit about your transition to a platform company? You definitely, over the last few years, have transformed from a component supplier to more of a platform-based business, where you're getting higher margins.
 I'm just wondering where we are in that development cycle? And, how do you look at the overall business model over the next three to five years for the Company?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [54]
---------------------------------------------------------------------------------
 I really appreciate the question. First of all, if you look at our Company 10 years ago, 10 years ago we were 100% PC OEMs, largely. Maybe it wasn't 100% but it was close. And now, we are less than -- we're only umpteen percent, substantially less than 20%.
 And so, the Company has been transitioning to this new model with our own platforms, largely software, and they serve four vertical markets. These four vertical markets have a characteristic that really, really benefits from great visual computing technology. And those four vertical markets, as I've mentioned, is gaming, it's automotive, it's enterprise graphics, and it's high-performance computing and cloud computing.
 And our PC OEM business is continuing to decline because PCs have largely become good enough and it's fragmented. Most people use their PCs for information access, for working. And some people use them for gaming, and so for those gaming markets we serve those, but for most of the generic and mainstream PCs, we've largely been out of those for some time.
@@ -443,15 +325,11 @@ And so, if you look at our business, it's now really focused on serving the thes
 If you extracted out the PC OEM business and just looked at those four segments, our gaming business, I think somebody mentioned, was growing at over 30%. Our automotive business has doubled. Our Tesla cloud computing business has doubled. And in enterprise computing, our GRID business has doubled year over year.
 And so those value-added highly differentiated platforms are really growing nicely. And it's more than making up for the decline of our PC OEM business, which as a result, our margins also increase. And so, now you're starting to see the dynamics of the business, and it basically works like that.
 
---------------------------------------------------------------------------------
 Rajvindra Gill,  Needham & Company - Analyst    [55]
---------------------------------------------------------------------------------
 Very good, and last question for me with respect to GRID. I was wondering if you could maybe update us on the design engagements with GRID in 2014 relative to, say, 2013? And as you continue on this trajectory, can you talk a little bit about how the enterprises are beginning to realize the leverage that a cloud-based visual computing architecture enables?
 And when do think -- because the installed base is very large, as you mentioned. And do you think this year will be the inflection point, or are we already past the inflection point, and you think we're going to start to see more acceleration of this cloud-based visual system?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [56]
---------------------------------------------------------------------------------
 Let me break that question down into a couple of pieces. One, the number of OEM platforms that we were designed into, that we were designed into, was about 50 last year, and it's almost 100 this year. About 50 this time last year, about 100 at this time. The number of trials we have, last year, was about 400, and the number of trials we have, here, is about 1,000 plus.
 And the difference, and I think the difference going forward for this coming year, when we stand here and look at this coming year backwards, I believe that what we are going to see is because of our, now completed integration with both VMware and Citrix, and the fact that every single enterprise OEM has now adopted GRID, and that GRID is making its way through just about every enterprise -- every company in the world, as they get to be familiarized with them, I believe this year could be a very important year for GRID.
 Now, the second question that you asked is where are some of the things that people found are benefits of GRID? And I would say that there are several. The first one, the very first one, is of course, mobility. Mobility as in the sense that you can now access your PC applications from anywhere you happen to be, on any device you happen to be on.
@@ -463,77 +341,51 @@ Another one, because of flexible workforces, this is now in Europe, large car co
 There are all kinds of anecdotal stuff. IT departments of colleges -- college is a perfect example, another example. They have a large number of computers, but the computer per square meter is very, very low because, as you know, that colleges are very large in campus.
 And then, also, the people come and go. They only stay for a couple, two, three years, by definition. And so, in that particular case, putting all of the workstations in the data center has tremendous benefits to the IT department. So, I hope that answers your question.
 
---------------------------------------------------------------------------------
 Rajvindra Gill,  Needham & Company - Analyst    [57]
---------------------------------------------------------------------------------
 No, it did, thank you, and exciting stuff. Thanks.
 
---------------------------------------------------------------------------------
 Operator    [58]
---------------------------------------------------------------------------------
 Steven Chin, UBS.
 
---------------------------------------------------------------------------------
 Steven Chin,  UBS - Analyst    [59]
---------------------------------------------------------------------------------
 Jen-Hsun, if I could first ask about the gaming business in terms of PCs. In fiscal Q4, can you talk a little bit more about, geographically, how demand was across the developed markets as well as the emerging markets?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [60]
---------------------------------------------------------------------------------
 Yes, Steven, our largest market is China. As you know, as you probably could guess, GeForce is the largest game platform in China, and the reason for that is because it's a market that historically hasn't had access to game consoles.
 It's still extremely important, extremely expensive, consoles are, and of course, most of the titles are from the West, and most of the titles that people enjoy in China tends to be multi-player. It tends to be role-playing games, tends to be Internet-based games. And so, China still remains our largest market.
 The fastest growing market is probably Southeast Asia. These developing countries, developing markets, excuse me, developing markets, when they get to a certain point in their computer history and Internet history, all of a sudden the gaming market booms. And in that area, Southeast Asia, we know now the economies have become sufficiently vibrant because of the outpouring of opportunities from China.
 Those local regional economies have now become quite large and quite vibrant. And, we are seeing the same thing now, as we saw five years ago, in China, we're seeing the same developments in Southeast Asia.
 So, I would say that Southeast Asia is probably the fourth largest region, but it's the fastest growing region by far. And then, of course the US and Europe, both quite vibrant.
 
---------------------------------------------------------------------------------
 Operator    [61]
---------------------------------------------------------------------------------
 Alex Gauna, JMP Securities.
 
---------------------------------------------------------------------------------
 Alex Gauna,  JMP Securities - Analyst    [62]
---------------------------------------------------------------------------------
 Congratulations on the great quarter and year. I was wondering, Jen-Hsun, if you could update us on what is going on in the licensing front, perhaps comment on if it's getting to the point where it might provide a tailwind to gross margins this year, or if not this year, when? Thanks.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [63]
---------------------------------------------------------------------------------
 Well, our licensing discussions are ongoing and quite rigorous. And the thing that is, of course, very important to note is that we are unquestionably the world leader in visual computing. And we have created so much of modern computer graphics, it's almost hard to even make a list of it anymore.
 Fundamentally, from the invention of the GPU to modern general-purpose computing GPUs, like CUDA and others. The type of work that we are doing is obviously pioneering, and it's very important to many markets. We're open to licensing technology to companies who would like to exercise their own design and build their differentiated products, but protecting our IP is extremely important to our Company.
 We are in discussions. Of course, the most public discussion is the one with Samsung and Qualcomm. And we're looking forward to some of the developments that will be happening in just a few more months. And so, I look forward to reporting on the developments in that area in the next several quarters.
 
---------------------------------------------------------------------------------
 Colette Kress,  NVIDIA Corporation - EVP & CFO    [64]
---------------------------------------------------------------------------------
 Operator, we are going to take one more question.
 
---------------------------------------------------------------------------------
 Operator    [65]
---------------------------------------------------------------------------------
 Ian Ing, MKM Partners.
 
---------------------------------------------------------------------------------
 Ian Ing,  MKM Partners - Analyst    [66]
---------------------------------------------------------------------------------
 Yes, thanks, could you talk about your foundry strategy little bit? TSMC, good supplier but not considered the best FinFET out there. Would you consider diversification being something you would evaluate?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, President & CEO    [67]
---------------------------------------------------------------------------------
 Well first of all, TSMC is a fabulous supplier. And number two, their FinFET technology is excellent. And, we've been evaluating it and we -- of course, we do test chips, and our test-chip technology is incredibly rigorous and we take it very, very seriously.
 This comes from the years of learning that and working with advanced-process node and fast-process ramps, we take it incredibly seriously. So, we've been working with TSMC on FinFET now for a couple of years, and so we have quite a bit of confidence in their ability to deliver amazing FinFET transistors.
 I guess, with respect to that, we always look to look at all foundries, and TSMC remains our most strategic, of course, and they're going to continue to be a very, very important partner for us for the foreseeable future.
 
---------------------------------------------------------------------------------
 Colette Kress,  NVIDIA Corporation - EVP & CFO    [68]
---------------------------------------------------------------------------------
 Operator, I think this is the end of our call. And to all that joined us, I thank you, and we'll see you next quarter.
 
---------------------------------------------------------------------------------
 Operator    [69]
---------------------------------------------------------------------------------
 Ladies and gentlemen, that does conclude the conference call for today. We thank you for your participation and ask that you please disconnect your line.
 
 
@@ -542,9 +394,7 @@ Ladies and gentlemen, that does conclude the conference call for today. We thank
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -555,9 +405,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Refinitiv reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -583,6 +431,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2023 Refinitiv. All Rights Reserved.
---------------------------------------------------------------------------------

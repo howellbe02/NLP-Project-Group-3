@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q1 2013 NVIDIA Corporation Earnings Conference Call
 MAY 11, 2012 / 12:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Christopher Evenden
    NVIDIA Corporation - Senior Director, IR
@@ -17,9 +15,7 @@ Corporate Participants
  * Jen-Hsun Huang
    NVIDIA Corporation - President, CEO
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Uche Orji
    UBS - Analyst
@@ -50,16 +46,11 @@ Conference Call Participiants
  * Romit Shah
    Nomura Securities - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 Good morning. My name is Ashley and I'll be your Conference Operator today. At this time, I would like to welcome everyone to the NVIDIA financial results conference call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. (Operator Instructions). Thank you. Mr. Christopher Evenden, Senior Director of Investor Relations, you may begin your conference.
 
---------------------------------------------------------------------------------
 Christopher Evenden,  NVIDIA Corporation - Senior Director, IR    [2]
---------------------------------------------------------------------------------
 Thanks, Ashley. Good morning and welcome NVIDIA's conference call on the first quarter of fiscal 2013 results. With me on the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer, and Karen Burns, Interim Chief Financial Officer. After our prepared remarks we will open up the call to a question-and-answer session. Please limit yourself to one initial question with one follow-up.
 Before we begin, I'd like to remind you that today's call is being Webcast live on NVIDIA's Investor Relations website and is also being recorded. A replay of the conference call will be available via telephone until May 15, 2012. And the Webcast will be available for replay until our conference call to discuss our financial results for our second quarter of fiscal 2013. The content of today's conference call is NVIDIA's property and cannot be reproduced or transcribed without our prior written consent.
 During the course of this call, we may make forward-looking statements based on current expectations. These forward-looking statements are subject to a number of significant risks and uncertainties, and our actual results may differ materially. For a discussion of factors that could affect our future financial results and Business, please refer to the disclosure in today's Earnings Release, our Form 10-K for the fiscal year ended January 29, 2012, and the reports we may file from time to time on Form 8-K, filed with the Securities and Exchange Commission.
@@ -78,9 +69,7 @@ Microsoft itself has made some important recent announcements about Windows on A
 Before handing things over to Karen, I'd like to remind everyone that our annual GPU Technology Conference takes place next week. We're bringing together several thousand scientists, engineers and academics together to share, learn and network. Jen-Hsun will be presenting a major keynote at 10.30 AM on May 15. And it's well worth listening online if you can't be there in person. We'll also have keynotes from a Princeton researcher using GPUs to model collective behavior. And the leader of a team competing for the Lunar X-PRIZE. Many of the best minds in computing will be there. Finally, I want to highlight our annual Investor Day on May 24. If you'd like to attend, please email me, or visit our Website at NVIDIA.com/IR to register.
 Now, over to Karen.
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [3]
---------------------------------------------------------------------------------
 Thanks, Chris.
 Revenue was at the high end of our outlook at $924.9 million, on the strength of our new Kepler GPUs we launched in the quarter, as well as from strong performances in our Notebook and Tegra businesses. GAAP gross margin for the quarter was 50.1%. Non-GAAP was 50.4%. Both at the high end of our outlook. Again, on the strength of our new Kepler GPUs and desktop and notebook. Our GAAP and non-GAAP gross margins were 1.3 and 2.1 percentage points lower than the prior quarter, respectively. Largely due to the impact of 28-nanometer supply shortages we experienced for our new Kepler products.
 GAAP OpEx was $390.5 million, non-GAAP was $348 million. Both slightly above our outlook. The quarter-on-quarter increase was largely attributable to planned hiring and related infrastructure spending to support our strategic businesses. As well as the impact of the payroll FICA tax reset that affects every first quarter. These results contributed to a GAAP net income of $60.4 million for the quarter, or $0.10 per diluted share. And non-GAAP net income of $97.5 million or $0.16 per diluted share. Both slightly above the midpoint of our expectations.
@@ -88,515 +77,320 @@ Revenue results by business segment were as follows. Our GPU business was down 6
 For GAAP, our outlook for the second quarter is as follows. Revenue of $990 million to $1.05 billion. Gross margin of 51.2%, plus or minus 1 percentage point. OpEx of approximately $418 million. Our GAAP OpEx outlook for Q2 includes a one-time charge related to our corporate donation to Stanford Hospital of $25 million, payable over a 10-year period. We approximate our tax rate for the quarter at 20%, plus or minus 1 percentage point.
 For non-GAAP, we expect the following differences from our GAAP outlook. Gross margin of 51.5%, plus or minus 1 percentage point. OpEx of approximately $354 million, which excludes the $25 million one-time charge related to our contribution to Stanford, as well as stock-based compensation and certain other charges related to acquisitions. Outlook for the second-quarter depreciation and amortization are expected in the range of $55 million to $57 million. And capital expenditures of $35 million to $45 million. Diluted shares are expected to be approximately 628 million.
 
---------------------------------------------------------------------------------
 Christopher Evenden,  NVIDIA Corporation - Senior Director, IR    [4]
---------------------------------------------------------------------------------
 Thanks, Karen. That concludes our prepared remarks. We'll now take questions. Ashley?
 
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 (Operator Instructions). Ross Seymore of Deutsche Bank.
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [2]
---------------------------------------------------------------------------------
 Congrats on the strong quarter and guide. Just looking for the forward guidance. What are your segments doing specifically between the three main segments of your business?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [3]
---------------------------------------------------------------------------------
 Well, I guess they're all up.
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [4]
---------------------------------------------------------------------------------
 Are there any specific drivers --? I thought you were done. Go ahead.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [5]
---------------------------------------------------------------------------------
 We're expecting them to be all up. Supply is still constrained and our manufacturer is working their hearts out to catch up to our demand. But at the moment demand still continues to exceed supply. And we expect that to happen throughout the year, as Chris was saying earlier. But Kepler's a fantastic GPU. This is arguably the best we've ever made, and we've made some pretty fantastic GPUs over the years. And we're just in the process of rolling out Kepler into each and every one of our businesses, starting with desktop. There's still many, many segments within desktop that we're expecting to transition into Kepler throughout the year and throughout next year. There's notebook, that's in the process of rolling out now. We started shipping this last quarter and that explains the big jump-up. And we're expecting another jump-up this coming quarter.
 But Kepler is our GPU that goes into GeForce and Quadro and Tesla. This upcoming week at GTC, I'd love to tell you about some of the new ideas around GPUs. Kepler is the core of many of our businesses. When our GPU architecture is incredibly successful, you could see it drive all of our businesses for several years. So, my guess is that this will do, again, the same. And of course, Tegra 3 is ramping, as we talked about before. Although we don't have LTE at the moment, LTE is predominantly a US-centric phenomenon. Outside of the United States, the big super phone upgrade is quad core. Tegra 3 is the world's first quad core, and it's even a special quad core at that, with 4-PLUS-1. It's got NVIDIA's branded graphics and all of our style of doing wonderful graphics and the video games, and the content really shows. So, Tegra 3 is the next major upgrade for super phones in Europe and in China and elsewhere. Then towards the end of the year we hope to bring Tegra 3 with LTE phones to the United States.
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [6]
---------------------------------------------------------------------------------
 I guess as my one follow-up, on that 28-nanometer shortage side of things, do you expect the solution to that problem to be more yield-driven by your primary supplier? I think in the past you've talked about looking to potentially diversify to additional foundries. So would the supply coming on from those potential suppliers fix the problem, as well?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [7]
---------------------------------------------------------------------------------
 Yields of 28 are probably the best of any new node that TSMC has ever done. They've done a great job with 28. And I think that it also explains the demand on their 28. It's yielding wonderfully at this point in its ramp. The performance is fabulous. The efficiency, energy efficiency is terrific. So I think it explains the reason why the demand is so great for this particular node. I think the increased supply will have to come from increased capacity. We're short now, and every chip that they can come out of their fab is being shipped instantaneously. We've reduced cycle time dramatically between us and our customers and we're trying to get the products to market as quickly as possible. So, I expect us to be supply constrained from wafers, at the wafers level, and we'll continue that way throughout the end of the year.
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [8]
---------------------------------------------------------------------------------
 Great. Thank you.
 
---------------------------------------------------------------------------------
 Operator    [9]
---------------------------------------------------------------------------------
 Daniel Berenbaum with MKM Partners.
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  MKM Partners - Analyst    [10]
---------------------------------------------------------------------------------
 Maybe just a follow-up on Ross's question a little bit. So your 28-nanometer yields are good. And we've heard this from some of your peers as well, who are also constrained by TSMC supply. Was the problem that the customers of Taiwan Semi just didn't give bullish enough forecasts so that TSMC didn't add sufficient capacity? Or was there a misunderstanding in the planning process? Or can you maybe help us understand a little bit of the dynamic that's going on between you and your supplier?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [11]
---------------------------------------------------------------------------------
 I think clearly there just isn't enough capacity. We've expected a really, really successful Kepler launch. And the reason for that is because we've known for some time that Kepler is going to be a fantastic GPU. We've had big plans for Kepler. We invested last year rather aggressively on the various designs of Kepler and all of the capabilities that people are starting to learn about Kepler and there are many more to come. We made those investments because we expected to be able to grow the market, and there's every evidence that we're growing the market. There's just not enough capacity. The planning process, when we think about these new nodes, it just simply needs to be better. I don't think there's any way around that. In combination between us and TSMC, we under-planned for the supply of 28-nanometer and we need to fix that in the future.
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  MKM Partners - Analyst    [12]
---------------------------------------------------------------------------------
 So is this something that can simply be fixed by better planning or is there really a more structural change where TSMC is the only option at 28 nanometer, at least for some period of time? And getting to 20-nanometer will clearly have a lead among the other foundries at 20-nanometers? Is that a structural change where you're seeing potentially lower margins because you're much more tied to just the one supplier?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [13]
---------------------------------------------------------------------------------
 I don't know that it's a structural change in the sense that if TSMC and ourselves were to have properly planned for this ramp, we wouldn't be shorting our customers so severely at the moment. If we can make plenty of high-end GPUs like Kepler's, our margins would be fine. So, it's really a shortage of supply that is causing our margins to be compressed at the moment. But we expect that to be cured as we go through the year. In terms of planning and building capacity, that's something that only TSMC can decide. And ultimately the industry will sort itself out.
 
---------------------------------------------------------------------------------
 Daniel Berenbaum,  MKM Partners - Analyst    [14]
---------------------------------------------------------------------------------
 Okay. Great. Thanks very much.
 
---------------------------------------------------------------------------------
 Operator    [15]
---------------------------------------------------------------------------------
 Harlan Sur with JPMorgan.
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [16]
---------------------------------------------------------------------------------
 How much did the Tegra business grow in the first quarter? I know you were expecting it to grow at least 50%. And I'm assuming Tegra's going to contribute to the growth in the July quarter. Is the growth there going to be more driven by customers ramping new smartphones or new tablets or a combination of both? And then I have a follow-up.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [17]
---------------------------------------------------------------------------------
 Tegra grew 50% or more, as we expected, this last quarter, and we're expecting it to grow again this coming quarter. We launched the first phone in one region. The first phone was HTC's 1X and the region was in Europe. Now it's expanding in Europe and we're expecting to go through more regions with HTC. There are many other Tegra 3 phones that are teed up and coming to market. So, we're expecting the phone segment of Tegra 3 to continue to grow. There's also tablets. Tablets are doing very well for us. It represents about half of the overall demand at the moment. And there's some pretty exciting tablets that are about to come out throughout this year that we're working on. One particularly is, of course, Windows on ARM, and the enthusiasm behind it is growing every day. It's a fantastic tablet and I can't wait to show it to you. I think the answer to your question is yes to both. We're expecting to see growth in both tablets as well as phones.
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [18]
---------------------------------------------------------------------------------
 Great, thanks for the detail. And then obviously you mentioned in your prepared remarks about under-shipping demand in both the desktop and notebook segments in Q1. Can you just quantify roughly dollar-wise how much more revenue you could have shipped in Q1? And, given obviously the constraints here in Q2, what the rough dollar impact on July sales could be, as well. Thank you.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [19]
---------------------------------------------------------------------------------
 We haven't broken it out, but it's a lot.
 
---------------------------------------------------------------------------------
 Harlan Sur,  JPMorgan - Analyst    [20]
---------------------------------------------------------------------------------
 Thanks, Jen-Hsun.
 
---------------------------------------------------------------------------------
 Operator    [21]
---------------------------------------------------------------------------------
 C.J. Muse with Barclays.
 
---------------------------------------------------------------------------------
 C.J. Muse,  Barclays Capital - Analyst    [22]
---------------------------------------------------------------------------------
 First question, trying to understand both the impact of the shortage of 28-nanometer, but also you guys moving from good die to full wafer pricing. How should we think about the impact to gross margins today and literally through the year?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [23]
---------------------------------------------------------------------------------
 When we don't have enough of our premium products, then that will hurt our margins the most. So, I think at the moment it's safe to say that supply is what's constraining, what's holding our margins back. As supply improves, and yields will be improving throughout the year, I think we have every chance and every possibility of delivering great margins again. I think the number one issue for us right now is just to make sure that we have enough supply of Kepler GPUs. And if that comes through, the margins will take care of itself.
 
---------------------------------------------------------------------------------
 C.J. Muse,  Barclays Capital - Analyst    [24]
---------------------------------------------------------------------------------
 That's helpful. And as my follow-up, can you talk about the attach rates with Ivy Bridge ramping? You usually talk about design wins. Would love to get some color there.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [25]
---------------------------------------------------------------------------------
 We expect to gain share in Ivy Bridge. And we expect Ivy Bridge to likely be the best node, if you will, best processor platform that we've ever participated in. Primarily the reason for that is because Kepler is such an energy-efficient GPU. And the performance and the energy efficiency of the performance is just the best in the world, and I think that people are recognizing that. Ivy Bridge hasn't really changed anything, from our perspective. The market structure seems to be consistent, as it was before. Consumer demand continues to be quite high. And consumers -- one of the most important applications for it is video games, and video games still prefer to have GeForce. So, I think all of those dynamics are still consistent.
 OEMs still would like to have ways to differentiate their products. And adding the GeForce processor has been one of the best ways to differentiate and create a premium segment, and it remains that way. So, whether it's thinner notebooks or Ivy Bridge, I don't think that that's really changed the dynamics. We're expecting attach rates to be quite healthy and consistent with past.
 
---------------------------------------------------------------------------------
 C.J. Muse,  Barclays Capital - Analyst    [26]
---------------------------------------------------------------------------------
 Thank you.
 
---------------------------------------------------------------------------------
 Operator    [27]
---------------------------------------------------------------------------------
 David Wong with Wells Fargo.
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities - Analyst    [28]
---------------------------------------------------------------------------------
 When you talked about yields on 28-nanometers being so good at the moment, so as you do ramp Kepler and it matures somewhat, do you expect to get higher gross margins of this than prior generation 40-nanometer chips? And also, are the shortages you're seeing on 28-nanometers translating into any upward pressure on wafer prices? Or have you got pricing locked in for the Kepler generation?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [29]
---------------------------------------------------------------------------------
 The second question I lost a couple of bits. What did he say?
 
---------------------------------------------------------------------------------
 Christopher Evenden,  NVIDIA Corporation - Senior Director, IR    [30]
---------------------------------------------------------------------------------
 Because supply is short, are wafer prices going to go up, or are prices locked in?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [31]
---------------------------------------------------------------------------------
 I think the second question I have a better answer on. We have an understanding about wafer prices from TSMC. And we negotiate with them and we now both understand where the pricing is. So I don't expect pricing increase and I surely hope it doesn't happen.
 With respect to margins, the reason why margins are great on Kepler is because it's a really efficient GPU. It's higher performance, it's lower power and for every performance level, it's also very efficient in terms of die size. And if that's the case, then our margins would lift.
 It is the most efficient architecture we've ever done. And certainly relative to Fermi, our last generation GPU, Kepler is much more efficient. As you know, efficiency drives productivity, and in this particular case productivity is margins. So, I expect that the more Kepler we ship, the higher our margins would lift. Really, the big focus for us is just to continue to ship as many Keplers as we can.
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities - Analyst    [32]
---------------------------------------------------------------------------------
 That's great. And also on Tegra 3 you said it's roughly 50/50 smartphones and tablets. Given your current design wins, again, as the year progresses, do you expect that to stay 50/50 or is it going to be more skewed towards either smartphones or tablets?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [33]
---------------------------------------------------------------------------------
 Windows on ARM is going to be the big variable on that. At the moment it's running 50/50, about. And throughout the next quarter, my expectation is that phones would exceed tablets. But towards the end of the year, latter half of the year, the question is how does Windows on ARM do. So, that's the biggest lever and we can report on that a little bit later.
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities - Analyst    [34]
---------------------------------------------------------------------------------
 Thanks very much.
 
---------------------------------------------------------------------------------
 Operator    [35]
---------------------------------------------------------------------------------
 Brendan Furlong with Miller Tabak.
 
---------------------------------------------------------------------------------
 Brendan Furlong,  Miller Tabak & Co. - Analyst    [36]
---------------------------------------------------------------------------------
 A follow-on on the handset business, if you could. Just maybe as the year progresses here, give us some indications on your baseband business and particularly the LTE part of that. Thank you.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [37]
---------------------------------------------------------------------------------
 We're really targeting the superphone segment of the marketplace. When you look at the superphone segment of the marketplace, call it 100-million-plus units a year, or so, that part of the marketplace really is shared by, from a merchant semiconductor perspective, two players. Our focus, because we didn't start from the modem business, we really focused on computing and graphics, we focused on segments of the marketplace where LTE isn't necessary at the moment or it's just not ready for LTE. So, Europe, Asia, basically everywhere outside of United States has been our primary focus. Towards the end of this year, starting in Q3-ish, we're working with LTE vendors, LTE partners to bring Tegra 3 and LTE phones to the rest of the markets. So, our primary focus at the moment is outside of United States. In the second half of the United States we'll bring LTE and Tegra devices into the United States.
 
---------------------------------------------------------------------------------
 Brendan Furlong,  Miller Tabak & Co. - Analyst    [38]
---------------------------------------------------------------------------------
 Excellent. My second question would be on the consumer side. If you could give any indication on what the royalty portion of that is in the quarter. Thank you.
 
---------------------------------------------------------------------------------
 Christopher Evenden,  NVIDIA Corporation - Senior Director, IR    [39]
---------------------------------------------------------------------------------
 You're talking about Sony there, Brendan?
 
---------------------------------------------------------------------------------
 Brendan Furlong,  Miller Tabak & Co. - Analyst    [40]
---------------------------------------------------------------------------------
 Yes.
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [41]
---------------------------------------------------------------------------------
 We don't disclose that.
 
---------------------------------------------------------------------------------
 Christopher Evenden,  NVIDIA Corporation - Senior Director, IR    [42]
---------------------------------------------------------------------------------
 Yes, we don't break it out.
 
---------------------------------------------------------------------------------
 Brendan Furlong,  Miller Tabak & Co. - Analyst    [43]
---------------------------------------------------------------------------------
 Okay. Thank you.
 
---------------------------------------------------------------------------------
 Operator    [44]
---------------------------------------------------------------------------------
 Romit Shah with Nomura.
 
---------------------------------------------------------------------------------
 Romit Shah,  Nomura Securities - Analyst    [45]
---------------------------------------------------------------------------------
 Jen-Hsun, if you look at the PC guys that reported in April, they guided up a few percent, which was certainly better than seasonal. My question is on your consumer GPU business. How much of the strength are you seeing is really driven by the channel restocking versus some of the share gains you've outlined with Kepler?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [46]
---------------------------------------------------------------------------------
 There's really two factors that's driving our growth, and one is 28-nanometer supply. There's just more of it than last quarter. I would say last quarter was not a typical quarter for us. I would characterize last quarter as a difficult quarter. It was completely supply-constrained and this coming quarter we're still supply-constrained. And although it's a significant growth quarter, it's still difficult from our perspective. And the supply is still far short of demand.
 The second part of our growth comes from Tegra 3's ramp. We're really fortunate with Tegra 3 to have chosen an enhanced version of the 40-nanometer process. This is a technology called LPG and we're the only one in the world using it. It is a balance between high performance as well as extremely low power. TSMC did a fabulous job with us on that, and I really appreciate it because now we can support Tegra 3's ramp without consuming more than 28-nanometer wafers that we can allocate to Kepler. So I think the answer is quite simply more supply, and more supply of 28-nanometer and Tegra 3's ramp that's contributed to the growth.
 
---------------------------------------------------------------------------------
 Romit Shah,  Nomura Securities - Analyst    [47]
---------------------------------------------------------------------------------
 All right. Thanks for that. My follow-up is on the cash balance. If you consider how the stock performed during the quarter and how much cash you generated on your balance sheet, if the cash balance is about 40% of your total market cap. My question is, are you managing or do you plan to manage the cash to a certain level, considering the valuation? What are your thoughts around doing a share repurchase program or instituting a dividend?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [48]
---------------------------------------------------------------------------------
 We don't have anything to announce today and that's a topic that we have with the Board on a regular basis. But we don't anything to announce today.
 
---------------------------------------------------------------------------------
 Karen Burns,  NVIDIA Corporation - Interim CFO    [49]
---------------------------------------------------------------------------------
 Just if I may, I'd like to give a little more clarity on the previous question from Brendan. On CPB, the royalties were flat and embedded, as you know in our CFO commentary, is down. So if directionally that helps you. Thanks.
 
---------------------------------------------------------------------------------
 Operator    [50]
---------------------------------------------------------------------------------
 Ambrish Srivastava, BMO.
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [51]
---------------------------------------------------------------------------------
 Jen-Hsun, I had actually two questions for you. The first one was, we were all in a room all day yesterday at a small company in Santa Clara. And there was a lot of talk about the structural advantage that Intel has going down in nodes. So just wanted your perspective since you too are one of the fabless companies that uses leading-edge technology and always the first.
 The follow-up to that, related to that, as we go down in nodes, and some of the fabless companies have talked about going down in 20-nanometer and what does that do to potentially margin or OpEx headwinds. So what is your perspective on both those topics? Thanks.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [52]
---------------------------------------------------------------------------------
 I think our partner for advanced nodes is doing quite a nice job, I think. And I expect TSMC to continue to be able to advance their capabilities on an ongoing basis. There's nothing that would suggest that TSMC doesn't have the scale or the capabilities to do so. They're manufacturing an enormous number of wafers, by anyone's standards. So I think the availability of leading-edge wafers is not something that I'm overly concerned about.
 In terms of process technology, it's also important to recognize that CPUs' needs for process technology and SOC's needs for process technology is similar, but not the same. And TSMC's leadership in density is something that can't be ignored. People always talk about one dimension of the semiconductor process, which is the transistor, but the metallization is increasingly, especially for SOCs, by far the most important variable. I think that we just need to be careful not to drink too much marketing bath water when we think about the technology variable, because it's so complicated and SOCs are very different than CPUs.
 Let's see, the second is margins. Our job is to make sure that we continue to create efficient architectures that are highly valued. I think that if we continue to do and create GPUs like Kepler, I think we're going to be doing just fine.
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [53]
---------------------------------------------------------------------------------
 Thanks.
 
---------------------------------------------------------------------------------
 Operator    [54]
---------------------------------------------------------------------------------
 Doug Freedman with RBC Capital Markets.
 
---------------------------------------------------------------------------------
 Doug Freedman,  RBC Capital Markets - Analyst    [55]
---------------------------------------------------------------------------------
 Could you help us understand the dependency on 28-nanometer. What percent of your mix is it now and at what point do you think we'll cross over, say, the 50% of your output coming from 28? And I have a follow-up.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [56]
---------------------------------------------------------------------------------
 I think we're expecting it to be about 30% this coming quarter. We'd like it to be a lot more.
 
---------------------------------------------------------------------------------
 Doug Freedman,  RBC Capital Markets - Analyst    [57]
---------------------------------------------------------------------------------
 And can you give us any idea when you think you can reach 50%?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [58]
---------------------------------------------------------------------------------
 This coming quarter is about 30%, is my estimate. Next quarter will be more than that, and the quarter after that will be even more than that. So, hopefully we cross 50% as soon as possible. We would like to cross that as soon as possible.
 
---------------------------------------------------------------------------------
 Doug Freedman,  RBC Capital Markets - Analyst    [59]
---------------------------------------------------------------------------------
 My follow-up is really an add-on to the previous question. And that relates to the efficiency that you're gaining at the advanced nodes. I share your commentary that there isn't much risk of development of advanced process technology. I think the question comes into the economic advantage that the advanced technology is going to deliver. Are you getting the cost reduction? Clearly 28 appears to be delivering that. Is the forecast for the next node going to give you an equal cost to benefit ratio? Or are you starting to see a slowing of benefit as we go to these advanced nodes because they are so complex?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [60]
---------------------------------------------------------------------------------
 By the way, every node is complex. This is a conversation that we have at every node. And we take every node seriously and there's no evidence that anyone is becoming increasingly complacent. I think these are typical conversations to have. With respect to efficiency or productivity of each node, we will go into the node when it delivers value for the products that we need to create. So if it makes no sense to go to a new node, we wait until it makes sense to go to a new node. There isn't anything that -- nobody is in automatic cruise control. We look at each node carefully with TSMC and we try to adjust each node if we can improve it for our products and otherwise. And then based on those analyses, we decide which products and when should go into the new nodes.
 It just simply needs to be analyzed. There's nothing that suggests that the next node is going to be unproductive. If it's unproductive, it won't get used, and so my expectation is that it will be productive.
 
---------------------------------------------------------------------------------
 Doug Freedman,  RBC Capital Markets - Analyst    [61]
---------------------------------------------------------------------------------
 Great. Thanks for that color.
 
---------------------------------------------------------------------------------
 Operator    [62]
---------------------------------------------------------------------------------
 Uche Orji with UBS.
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [63]
---------------------------------------------------------------------------------
 Jen-Hsun, first of all, congratulations on the numbers. Just real quick, as we look at the gross margin issues, can you talk about -- because one of the areas you've highlighted in the past is PSB, and the future opportunities that brings. What are the gross margin drivers going down the line? I'm talking about looking at other areas, if you can talk specifically on PSBs.
 And also on Tegra, as these constraints happen across the group, I know Qualcomm talked about it, do you see yourself increasingly gaining share going down the line on Tegra 3? That's my first question, please.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [64]
---------------------------------------------------------------------------------
 Okay. First, I'll answer the question backwards. The answer is yes, we're gaining share. And the reason for that is because we were a very small player before, and as a discrete application processor, provider, we've gained quite a bit of share. If you look at their market, our competitor's business around discrete application processors, I think that you'll find that our share is growing quite rapidly. So, my expectation is that, as we grow throughout the year, that we're doing so because we're growing share. Number one.
 Number two, PSB's gross margins are healthy and slightly improving. And the reason for that is because we continue to add more value to the high end of the visual computing market. Digital content creation is a growing market and more and more of design is moving to digital forms. This is an area that we are world leaders at and this is an area that we continue to add a lot of value to the industry on. As we increase value to the marketplace, we're rewarded with higher margins. Our focus is to make sure that PSB, where we have extremely high share already, that we continue to help grow the market. And that's one of the focus next week of GTC. If you all have a chance to either tune in or come even down to GTC, you're going to find some really fantastic work being done around the world by our partners and content developers who are using our technology to create wonderful assets, and create wonderful things, and discovery of new science.
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [65]
---------------------------------------------------------------------------------
 Let me just ask a second question. Can you give us any updates on Windows on ARM, as well as the efforts in terms of timing and products coming, especially as Intel is making a big push in that category as well on the tablet front? So any commentary on development on the PC form factor and tablets and Windows 8 and regards timing, that would be helpful. That's one question.
 And then, two, Kepler, it's been said that you will need Kepler in volume to be able to increase discrete attach rates in ultrabooks. Any commentary as to the attach rate in ultrabooks, in general, and how much of that is going to be Kepler and how much of that will be your current products. That will be helpful. Thank you.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [66]
---------------------------------------------------------------------------------
 Windows 8 tablets and Windows RT tablets are very different things. Windows 8 X86 tablets and Windows on ARM tablets are very different things. As Microsoft goes to market, people will understand why we're so enthusiastic about Windows on ARM. They're just very different things. I'll let Microsoft tell you about their plans, but I'm very enthusiastic about it. I think it makes a lot of sense for enterprise. Anybody who has a large part of their work around Windows would really benefit from Windows on ARM tablets. And all the Windows on ARM devices, range of devices that we'll be following after that.
 We've shipped about 1,000, maybe more than 1,000 Tegra Windows on ARM -- or Microsoft has shipped more than 1,000 Tegra Windows on ARM tablets for software developers. And that number is growing very rapidly. So, we're working very closely with them to march to market with an exciting product as quickly as we can.
 Ultrabook -- we see no difference between an ultrabook and a PC. It's a thinner PC, but PCs have been getting thinner. And there's plenty of room from a thermal or mechanical or electrical perspective to support a GPU. The reason why people put GPUs in their notebooks is because it helps them deliver a premium device. It also enables consumers the ability to enjoy multimedia better. So I don't see any difference relative to attach rates when it comes to ultrabooks.
 And then with respect to Kepler, Kepler is our primary focus for next generation notebooks and we're trying to build as much as we can. The more that our supply catches up to demand, the more our customers can ship Kepler GPUs. Everybody is really, really anxious to get more and so we need to just make more.
 
---------------------------------------------------------------------------------
 Uche Orji,  UBS - Analyst    [67]
---------------------------------------------------------------------------------
 Terrific. Thank you very much.
 
---------------------------------------------------------------------------------
 Operator    [68]
---------------------------------------------------------------------------------
 Suji De Silva with ThinkEquity.
 
---------------------------------------------------------------------------------
 Christopher Evenden,  NVIDIA Corporation - Senior Director, IR    [69]
---------------------------------------------------------------------------------
 Suji, are you there? Can we go to the next caller?
 
---------------------------------------------------------------------------------
 Operator    [70]
---------------------------------------------------------------------------------
 Daniel Gelbtuch with Cantor.
 
---------------------------------------------------------------------------------
 Daniel Gelbtuch,  Cantor Fitzgerald - Analyst    [71]
---------------------------------------------------------------------------------
 Congratulations on a very good guide and results. Just digging a little deeper into Tegra, I was just wondering if you could compare and contrast how Tegra really, not only from a efficiency perspective, how it compares with the current status quo in the market. Number one.
 And number two, with regard to SDR, or software defined radios in Icera, how do you think that changes the landscape for LTE next year and beyond?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [72]
---------------------------------------------------------------------------------
 Tegra 3 is the world's first quad core processor and it's not only quad core, as you might know. It has a really energy efficiency dual core, as well. So, not only does it deliver higher performance, it's also more energy efficient than the status quo. And of course, with all NVIDIA products, the graphics and the video games are just so much better. I think, based on the demand and the reception in the marketplace for the first Tegra 3 phone, I think it's safe to say that Tegra 3 is really the standard by which everything is being compared. Number one.
 Number two. Software defined radio, there's no question that SDR allows us to deliver a much smaller and efficient and cost-efficient modem. And with LTE it is very clear that the die size is smaller. The energy efficiency is excellent. And that's really going to help especially with capacity being so constrained, having a very small modem and very small LTE modem is going to be a big differentiator for us. Not only will we be able to make more of integrated versions of application processors and LTE modems, we'll also be able to bring more cost-effective solutions to the marketplace. We're really, really gunning for that and running as hard as we can.
 
---------------------------------------------------------------------------------
 Daniel Gelbtuch,  Cantor Fitzgerald - Analyst    [73]
---------------------------------------------------------------------------------
 Is it fair to say that once you get this integration of SDR rolling, this would be perhaps the first time that the current incumbent in the AP space is going to be seeing some serious -- a real competitor?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [74]
---------------------------------------------------------------------------------
 The incumbent is a really good company and they're very competitive. This is new for us and we still have a lot to learn, and we're learning as fast as we can. But the Icera SDR modem is really revolutionary. And when we can combine that -- and there's every evidence it works great. We're shipping phones now. People said that we couldn't get that modem to market. People said that we couldn't get voice to work, but obviously, all wrong. We're now certified on LTE and we're in the process of getting products to market. These are all barriers that we have to overcome. But we're ticking it off one at a time and I'm cautious but very enthusiastic about the technology we're bringing to the market.
 
---------------------------------------------------------------------------------
 Daniel Gelbtuch,  Cantor Fitzgerald - Analyst    [75]
---------------------------------------------------------------------------------
 All right. Thank you very much.
 
---------------------------------------------------------------------------------
 Operator    [76]
---------------------------------------------------------------------------------
 Suji De Silva with ThinkEquity.
 
---------------------------------------------------------------------------------
 Suji De Silva,  ThinkEquity - Analyst    [77]
---------------------------------------------------------------------------------
 Sorry about that. First question, Jen-Hsun, on this Kepler architecture and the energy efficiency of it, as you describe it. How do you monetize that? Is that a smaller die or is that a value proposition that customers pay for or just allows you to get guys to upgrade?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [78]
---------------------------------------------------------------------------------
 Absolutely both. Absolutely both. Kepler is the most energy efficient. It's also the most die size efficient GPU we've ever made. The performance per watt and the performance per millimeter are both the best that we've ever done. It was a huge drive for our Company to transform ourselves in just about every single dimension, from architecture to design to implementation to software. We pulled everything together for Kepler.
 When you're more energy efficient, at any level of power that the system can provide will be higher performance. If the system can provide 300 watts, we're higher performance. If the system can provide for only 10 watts, we're higher performance. If the system can provide 1 watt in the future, we'll be higher performance. So energy efficiency is very important. And, of course, at any price point in the marketplace, if we are efficient with respect to die size, that can only help our gross margins. Whatever gross margins we had at the Fermi generation, so long as market dynamics remain similar, I expect our gross margins to be higher than the Fermi generation, wherever that happens to be. That explains why I'm so impatient to get Kepler in the lineup and why we need so much more Kepler supply from TSMC.
 
---------------------------------------------------------------------------------
 Suji De Silva,  ThinkEquity - Analyst    [79]
---------------------------------------------------------------------------------
 Understood. My other question, Jen-Hsun, is in January you had a Microsoft representative in CES and you asked him how Microsoft would avoid confusion as Windows on ARM came out. You may defer this question to Microsoft. But what's your update on that thought as we look ahead to Microsoft tablets?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [80]
---------------------------------------------------------------------------------
 I think you guys are going to really like the answer. They've been very thoughtful about the segmentation of the Windows, the next Windows generation. There are different customers with different needs. I think you're going to find their answer rather thoughtful. I'm very pleased with where they ended up. And I think it's going to really, really, really help the positioning of the Windows on ARM tablets, because they're very different than X86. It's a new product category. I think you're going to find that they're really desirable and they're going to bring a lot of value to the marketplace.
 For people who wear Windows, and Office is still a very central part of their digital experience, I think you're going to find that this is really the best tablet on the planet.
 
---------------------------------------------------------------------------------
 Suji De Silva,  ThinkEquity - Analyst    [81]
---------------------------------------------------------------------------------
 Okay. Thanks, guys.
 
---------------------------------------------------------------------------------
 Operator    [82]
---------------------------------------------------------------------------------
 Rajiv Gill with Needham & Company.
 
---------------------------------------------------------------------------------
 Rajiv Gill,  Needham & Company - Analyst    [83]
---------------------------------------------------------------------------------
 Thanks and congrats again on good results and guidance. The question I have is on Tegra. Just wondering if you could update us on the annual guidance that you had given us at the start of the year. Any changes to that, any additional color.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [84]
---------------------------------------------------------------------------------
 Thank you. No change to that. No additional color. The three growth drivers for Tegra are, one, phone design wins. And, two, because we've successfully reduced the cost of tablets, we're starting to reach price points of Android tablets that are really resonating with the market.
 And of course the Android tablets are just getting better and better all the time. Tegra 3 Android tablets are really delightful. There's a whole bunch of new tablets that are coming starting now and towards the end of the year.
 The third driver is Windows on ARM. That's coming together really nicely and I think that people are going to be quite delighted by it. Those are really the three primary drivers and they all three remain drivers at the moment.
 
---------------------------------------------------------------------------------
 Rajiv Gill,  Needham & Company - Analyst    [85]
---------------------------------------------------------------------------------
 Maybe just a question on the OpEx. The OpEx went up about 7% sequentially. Looks like it's being guided up again. So now we're at the high end of your OpEx range. How should we look at the OpEx throughout this year? Will we go past that range? How do you think we should look at it next year? And along those same lines, are we starting to get a return on investment on the Icera?
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [86]
---------------------------------------------------------------------------------
 We are going to do the best we can to stay at the guidance level that we provided previously. If some of the new initiatives in our Company starts to gain traction, we'll increase the level of investment to take that to market. But we'll play that as we go. But at the moment our current plan is to stay as close as we can to the guidance that we provided before.
 
---------------------------------------------------------------------------------
 Rajiv Gill,  Needham & Company - Analyst    [87]
---------------------------------------------------------------------------------
 Thank you.
 
---------------------------------------------------------------------------------
 Operator    [88]
---------------------------------------------------------------------------------
 Craig Berger with FBR Capital Markets.
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR & Co. - Analyst    [89]
---------------------------------------------------------------------------------
 Can you help us understand the impact Kepler is having on GPU ASPs and what ASPs did in desktop and notebook in the first quarter? And then I have a follow up. Thanks.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [90]
---------------------------------------------------------------------------------
 Because Kepler comes in through the performance segment and the enthusiast segment, it naturally lifts ASPs. The more we ship, the higher our ASPs will be. Kepler ASPs are higher than Fermi ASPs, because they target the premium segments. Kepler margins are better than Fermi margins because they're in the enthusiast segment and the performance segments. Also because they're so much more energy efficient and so much more die size efficient.
 I think the simple answer is we need a lot more Keplers. The demand for Kepler is really, really high in desktops, in notebooks. The gamers come out and refresh their PCs once every few years. And on all accounts Kepler has been a complete home run. It's pulling people out to refresh their PCs. And PC gaming is really vibrant right now. I think those factors are really driving Kepler. So the more we can build, the higher ASPs we will be, and surely the much higher margins we will be.
 
---------------------------------------------------------------------------------
 Craig Berger,  FBR & Co. - Analyst    [91]
---------------------------------------------------------------------------------
 As the follow-up, can you update us on your CFO search? And then, really, I wanted to ask again on the OpEx, I know it was just asked but can you just reiterate what was your guidance? You said you might spend more. Is that more than you're spending now? More than your guidance? And what's the time line there? Because from my perspective, you did better on revenues, you did better on gross margins, and my model is still challenged because of the OpEx. And so that's disappointing.
 
---------------------------------------------------------------------------------
 Jen-Hsun Huang,  NVIDIA Corporation - President, CEO    [92]
---------------------------------------------------------------------------------
 The guidance that we gave you on OpEx is exactly the guidance we gave you on OpEx. So, we just provided the guidance and that's what it was. And that's what we're planning. With respect to -- what was the first point? CFO search? I think my CFO's doing fabulously. She's doing a fantastic job with the business. We're looking and if there's a world-class CFO that we fall in love with, certainly we'll consider. But Karen's doing a fabulous job.
 
---------------------------------------------------------------------------------
 Christopher Evenden,  NVIDIA Corporation - Senior Director, IR    [93]
---------------------------------------------------------------------------------
 Ashley, can we just have one more question and then finish then?
 
---------------------------------------------------------------------------------
 Operator    [94]
---------------------------------------------------------------------------------
 At this time, there are no further questions.
 
---------------------------------------------------------------------------------
 Christopher Evenden,  NVIDIA Corporation - Senior Director, IR    [95]
---------------------------------------------------------------------------------
 All right. Thanks, Ashley. Thanks everyone for listening in and we look forward to talking to you soon about our second-quarter results.
 
---------------------------------------------------------------------------------
 Operator    [96]
---------------------------------------------------------------------------------
 That concludes today's conference. Thank you for your participation. You may now disconnect.
 
 
@@ -606,9 +400,7 @@ That concludes today's conference. Thank you for your participation. You may now
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -619,9 +411,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Thomson Reuters reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -647,6 +437,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2019 Thomson Reuters. All Rights Reserved.
---------------------------------------------------------------------------------

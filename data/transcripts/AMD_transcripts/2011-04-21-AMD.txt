@@ -6,9 +6,7 @@ E D I T E D   V E R S I O N
 Q1 2011 Advanced Micro Devices Inc Earnings Conference Call
 APRIL 21, 2011 / 9:00PM GMT
 
-================================================================================
 Corporate Participants
-================================================================================
 
  * Thomas Seifert
    Advanced Micro Devices - Interim CEO, SVP, CFO
@@ -17,9 +15,7 @@ Corporate Participants
  * Rick Bergman
    Advanced Micro Devices - SVP, General Manager Product Group
 
-================================================================================
 Conference Call Participiants
-================================================================================
 
  * Doug Freedman
    Gleacher & Company - Analyst
@@ -52,17 +48,12 @@ Conference Call Participiants
  * Glen Yeung
    Citigroup - Analyst
 
-================================================================================
 Presentation
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
            Good afternoon.  My name is Hughey, and I will be your conference operator for today.  At this time, I would like to welcome everyone to AMD's first-quarter 2011 earnings conference call.  (Operator Instructions).  As a reminder, this conference is being recorded today.  I would now like to turn the conference over to Ms.  Ruth Cotter, Vice President of Investor Relations for AMD.  Please go ahead. 
 
---------------------------------------------------------------------------------
 Ruth Cotter,  Advanced Micro Devices - IR    [2]
---------------------------------------------------------------------------------
 
            Thank you, Hughey, and welcome to AMD's first-quarter earnings conference call.  Participants on today's conference call are Thomas Seifert, our Chief Financial Officer and Interim CEO, and Rick Bergman, Senior Vice President and General Manager of AMD's Product Group.
  This is a live call and will be replayed via webcast on AMD.com.  There will also be a telephone replay.  The number is 888-266-2081.  Outside of the United States, the number is 703-925-2533.  The access code for both is 1522169.  The telephone replay will be available for the next 10 days, starting later this evening.
@@ -72,9 +63,7 @@ Ruth Cotter,  Advanced Micro Devices - IR    [2]
  We encourage you to review our filings with the SEC where we discuss the risk factors that could cause actual results to differ materially from expectations.  You'll find detailed discussions about such risk factors in our most recent SEC filing, AMD's annual report on Form 10-K for the quarter ended December 25, 2010.
  With that, I'd like to hand the call over to Thomas. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [3]
---------------------------------------------------------------------------------
 
            Thank you, Ruth.
  AMD's performance in the first quarter of 2011 was solid.  We launched the first of our revolutionary AMD Fusion APU platforms based on our low-power process processors, and we are pleased to report excellent OEM adoption and sellthrough to end users.
@@ -99,762 +88,521 @@ Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [3]
  To close, we know we have the best IP portfolio in the processor business, and with our new Fusion APUs and Bulldozer on the way, we have our strongest product portfolio in the Company's history and we have a business model tuned for agility and profitability.  I would like to thank our employees for their continued dedication, creativity, and commitment to delivering on our commitments.
  Before we turn it back to Ruth for the Q&A, I would like to make a brief comment on the state of the CEO search at AMD.  The Board is very happy with the interest we have received, and is actively interviewing candidates.  We are pleased with our progress to date.  Ruth? 
 
---------------------------------------------------------------------------------
 Ruth Cotter,  Advanced Micro Devices - IR    [4]
---------------------------------------------------------------------------------
 
            Hughey, we'd be very happy for you to poll the audience for questions now, please.
 
 
 
-================================================================================
 Questions and Answers
---------------------------------------------------------------------------------
 Operator    [1]
---------------------------------------------------------------------------------
 
      (Operator Instructions).  JoAnne Feeney, Longbow Research. 
 
---------------------------------------------------------------------------------
 JoAnne Feeney,  Longbow Research - Analyst    [2]
---------------------------------------------------------------------------------
 
      Congrats on a nice solid quarter.  I have a question about your interpretation of the aggregate situation in light of the results of your competitor.  Did it cause you to change your assessment of sort of the global PC environment?  Did their results sort of match your views?  Is this purely a timing issue between you and Intel, or perhaps you could give us a sense of your visibility to the second half, given what we are hearing regarding the global PC situation. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [3]
---------------------------------------------------------------------------------
 
      Very good questions.  I think I said in the last couple of calls that our expectation was around 11% for PC growth for this year, and to be very honest, at this point in time we don't see a reason to deviate very much from that opinion.  And actually, data is moving more towards the few we had on the market for some time now.  You can discuss whether it's now 10.5% or 10.7% or 11%, but we don't see any reason to deviate from that expectation for this year. 
 
---------------------------------------------------------------------------------
 JoAnne Feeney,  Longbow Research - Analyst    [4]
---------------------------------------------------------------------------------
 
      Then, perhaps as a follow-up, on Llano, where we understand the volume is coming in the third quarter, one question that comes up a lot is how compelling to the consumer will your advantage in graphics be?  I'm just wondering if you could fill us in on your efforts with the OEMs and other resellers to help them understand the difference in graphics and whether they're able to translate that to customers, in your view. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [5]
---------------------------------------------------------------------------------
 
      Rick, do you want to take that question? 
 
---------------------------------------------------------------------------------
 Rick Bergman,  Advanced Micro Devices - SVP, General Manager Product Group    [6]
---------------------------------------------------------------------------------
 
      Sure.  Just to be clear, the volume is actually coming in Q2.  So, that certainly when we expect to ramp to production and have platforms launch on Llano.
  I think the best answer to your question is the success we've seen with our Brazos platform.  It was just fantastic success in Q1, and our OEMs are now really on board with bringing a better, more compelling, higher performance solution with Llano, and to a certain degree, we hear the reception around that great visual graphics video experience even from our competitor and how important that is in the marketplace, so we think we're right on target with our value proposition. 
 
---------------------------------------------------------------------------------
 JoAnne Feeney,  Longbow Research - Analyst    [7]
---------------------------------------------------------------------------------
 
      Great, thanks.  And maybe you could elaborate on Brazos.  Where are you seeing the greatest success?  Is it Tier 1 players?  Is it white box?  Is it most mostly notebook?  Are there some desktop activities? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [8]
---------------------------------------------------------------------------------
 
      To be very honest, what excites us the most is that we see the success across the board.  We have seen very strong OEM adoption across the whole customer portfolio.  We have seen great traction in the embedded segment and also now in emerging markets in the white books arena. 
 
---------------------------------------------------------------------------------
 Operator    [9]
---------------------------------------------------------------------------------
 
      Glen Yeung, Citi. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [10]
---------------------------------------------------------------------------------
 
      Thomas, I think I heard you say that half of your notebook shipments in the quarter were Brazos.  So I guess the first point is, is that accurate?  But if it is, then when we think about second quarter, what proportion of your notebook sales do you think will be a combination of Brazos and Llano, and what are the implications of that for gross margin and ASPs? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [11]
---------------------------------------------------------------------------------
 
      Very good question.  So, you heard right.  50% was the share we had in the first quarter.
  I think the implication for gross margin in the second quarter are that the gross margin is going to be up quarter over quarter.  And we will see a balanced impact on ASP performance because, as you know, while highly margin accretive, Brazos should set a lower price point, and we have to see how the mix is going to balance itself out.  Flat is today a very good assumption, but with gross margins moving upwards. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [12]
---------------------------------------------------------------------------------
 
      Interesting.  That's great.  And then, I wanted to ask another question, which is you sort of talked about some progress you're making -- or some growth you saw, sorry, in emerging markets.  I wonder if you could address what you're seeing in the corporate market, just from an industry perspective, and then perhaps more importantly, how do you feel AMD is doing in the corporate market and whether or not these new products, do you think, will help your chances? 
 
---------------------------------------------------------------------------------
 Rick Bergman,  Advanced Micro Devices - SVP, General Manager Product Group    [13]
---------------------------------------------------------------------------------
 
      Certainly, [Hans].  This is Rick again.  Obviously, we have much greater success in the consumer market, and that's to a certain degree our focus.  However, the value proposition on Llano is strong, as an example, in the corporate market as well.  Certainly video playback, video conferencing, all those factors are becoming more and more important in the corporate environment.
  In addition, of course, as we're seeing, consumer devices and notebooks and desktops and so on are increasingly being also used in the commercial marketplace.  Certainly in SMB, but even in enterprise now, they are adopting those consumer platforms. 
 
---------------------------------------------------------------------------------
 Glen Yeung,  Citigroup - Analyst    [14]
---------------------------------------------------------------------------------
 
      Actually, one last quick one, if I might.  Just with respect to Bulldozer, I know you guys have deployed some field application engineers into the market, and I'm wondering if you could give me a sense of what the initial response has been as you sort of prep the market for Bulldozer. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [15]
---------------------------------------------------------------------------------
 
      So the first feedback is very positive and welcoming.  People appreciate, of course, that we have the significantly higher visibility in the marketplace now in terms of feet on the street, but also in terms of trying to get mind share.  The product is exciting.  On a platform level, as I said before, the value proposition is exciting, especially for cloud and virtualization applications, and that allows us to be optimistic for the second half. 
 
---------------------------------------------------------------------------------
 Operator    [16]
---------------------------------------------------------------------------------
 
      John Pitzer, Credit Suisse. 
 
---------------------------------------------------------------------------------
 John Pitzer,  Credit Suisse - Analyst    [17]
---------------------------------------------------------------------------------
 
      Yes, guys, thanks for taking my question.  Tom, can you talk a little bit about what the ASP trends were in the quarter in the core client business?  And I guess, given that the server continues to be an area of weakness, I was wondering if you can help me understand the relative size of servers in the revenue line and the profit line, and what you think the trend will look like going into the second quarter?  And I guess more importantly, at what point will Bulldozer start to be a positive impact?  Is it really a this-year event or do we have to start thinking about 2012?  Thanks. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [18]
---------------------------------------------------------------------------------
 
      I'm not going to get more granular in terms of the revenue lines.  But I think it's fair to say that we pretty much -- I think we stabilized market share in the first quarter on the server segment, and we will see Bulldozer impact in terms of revenue in the second half.  As already said, we would start to ship product in the summer, and that means that we see revenue in the third and, of course, in the fourth quarter. 
 
---------------------------------------------------------------------------------
 John Pitzer,  Credit Suisse - Analyst    [19]
---------------------------------------------------------------------------------
 
      And then, I guess, Thomas, this is my follow-up.  On the graphics side, you guys have done a great job on the market-share side over the last several quarters.  How do you see that trending going forward?  And I guess with kind of the APU coming out, is there any change in your view of sort of discrete attach rates on the client side?  Thank you. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [20]
---------------------------------------------------------------------------------
 
      Yes, very good.  So you know, of course we are really proud that we are able to keep this technology lead.
  Moving forward, we have climbed to a high level on the market-share side.  The focus is now to make sure that profitability moves in the right corner, too.  I think that is going to be the focus moving forward.
  For this year, we expect attach rates not to change.  There are early research indications that in the first quarter, it might have even gone up, which is also partly reflected in our strong mobile GPU shipments.  Moving forward, we'll see that at least at the low end of the graphics stack, there will be some replacement because, especially on our side, the APU performance is really compelling.  But for this year, attach rates seem to be holding up or maybe even ticking up slightly. 
 
---------------------------------------------------------------------------------
 Rick Bergman,  Advanced Micro Devices - SVP, General Manager Product Group    [21]
---------------------------------------------------------------------------------
 
      Just to elaborate a little more on that.  Obviously, our Llano processors have truly discrete level graphics performance, so in some cases, the market just won't need to add an additional GPU.
  But on other platforms out there, certainly if you're buying a $600, $700 notebook, you want the latest and greatest GPU architecture, which today is defined by DX11 solutions, and so in that case, you're going to have to add discrete graphics.  So that's actually pulling up the attach rate on the other platforms.  So, for the summer of 2011, we see it as basically staying the same. 
 
---------------------------------------------------------------------------------
 Operator    [22]
---------------------------------------------------------------------------------
 
      Tim Luke, Barclays Capital. 
 
---------------------------------------------------------------------------------
 Tim Luke,  Barclays Capital - Analyst    [23]
---------------------------------------------------------------------------------
 
      Just to clarify, Thomas.  When you suggest down -- flat to down slightly, is that down one or two percentage points?  Is that how we should think about it?  And when you articulate that you believe the gross margin will be improved in the calendar second quarter, is that sort of 100 basis points?  Is that how we should think about that?  And just -- well, perhaps you could just tackle those two. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [24]
---------------------------------------------------------------------------------
 
      Good question.  So the box we would draw around a flat to slightly down is zero to minus 5%, Robert.  It's the right range.  And I think you're very much on target with your gross margin expectation.  We think it's going to be up around 100 basis points. 
 
---------------------------------------------------------------------------------
 Tim Luke,  Barclays Capital - Analyst    [25]
---------------------------------------------------------------------------------
 
      Just on the ramp of Llano, can you give us a feel for the availability of product and really what sort of metrics we might be able to sort of frame in terms of thinking about how that ramp is likely to progress now? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [26]
---------------------------------------------------------------------------------
 
      So, we achieved -- we made great progress, which allowed us to ship for revenue.  We think we have ample of product available in the second quarter.
  On the other side, you know, we saw on Brazos that once the product was out and available on the shelf, demand really went up significantly, and we'll try to prepare for such a situation. 
 
---------------------------------------------------------------------------------
 Rick Bergman,  Advanced Micro Devices - SVP, General Manager Product Group    [27]
---------------------------------------------------------------------------------
 
      Again, our key for Llano is to hit the critical cycle in the industry, which is BTSC, or the back-to-school cycle.  So we have broad-based OEM platform adoption for that timeframe, and we're well positioned to take advantage of that cycle. 
 
---------------------------------------------------------------------------------
 Operator    [28]
---------------------------------------------------------------------------------
 
      Srini Pajjuri, CLSA Securities. 
 
---------------------------------------------------------------------------------
 Srini Pajjuri,  Credit Agricole Securities - Analyst    [29]
---------------------------------------------------------------------------------
 
      Thomas, just one more clarification to a previous question.  On the OpEx, you said it's going to be about $620 million.  Just wondering if that's going to be a temporary decline or if that's the range that you expect going forward. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [30]
---------------------------------------------------------------------------------
 
      We obviously worked hard to keep our OpEx under tight control.  In the second quarter, we see some -- a couple of 28 nm tapeouts hitting R&D costs.  But the $620 million, at this point in time, seems to be a good indication on the cost level moving forward. 
 
---------------------------------------------------------------------------------
 Srini Pajjuri,  Credit Agricole Securities - Analyst    [31]
---------------------------------------------------------------------------------
 
      Great.  And then, a couple of questions.  On the ASP front, obviously Brazos looks like it impacted the ASPs.  Should we expect ASPs to increase in the next few quarters as Llano ramps or is that a function of, you know, the server business coming back at this point? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [32]
---------------------------------------------------------------------------------
 
      Fair question.  So I think for the second quarter, it's fair to expect that -- or at least we expect that the -- both ramps equal each other out, so to speak.
  In the second -- in the third and fourth quarters, then, ASP performance should go up, higher share of Llano shipments, and then the additional impact of the server shipments. 
 
---------------------------------------------------------------------------------
 Srini Pajjuri,  Credit Agricole Securities - Analyst    [33]
---------------------------------------------------------------------------------
 
      And then, on the server business in general, Thomas, at this market share, I think you have about 5% or 6% market share, are you profitable?  That's my first question.  And then, if not, what's the sort of market share you need to justify the investments longer term?  Thank you. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [34]
---------------------------------------------------------------------------------
 
      Fair question.  So, we are sitting today at 6.6% market share.  Profitability at such a point is borderline, but we feel comfortable that the market-share lift we need in order to reach profitability in this segment is actually very small. 
 
---------------------------------------------------------------------------------
 Srini Pajjuri,  Credit Agricole Securities - Analyst    [35]
---------------------------------------------------------------------------------
 
      And is it double digits, single digits?  Would you like to give us a bit more color on that? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [36]
---------------------------------------------------------------------------------
 
      It's very close. 
 
---------------------------------------------------------------------------------
 Operator    [37]
---------------------------------------------------------------------------------
 
      David Wong, Wells Fargo. 
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities - Analyst    [38]
---------------------------------------------------------------------------------
 
      Can you tell us what proportion of Brazos sales in the March quarter were in Ontario versus Zacarte?  And does it look like Ontario is being used primarily in netbooks while Zacate goes into value notebooks. 
 
---------------------------------------------------------------------------------
 Rick Bergman,  Advanced Micro Devices - SVP, General Manager Product Group    [39]
---------------------------------------------------------------------------------
 
      I don't know if we have an exact split on the two parts.  Good adoption on both.  We are seeing Ontario.  It's a very exciting thin and light form factors, but adoption in a whole of different platforms from netbooks up into desktops. 
 
---------------------------------------------------------------------------------
 David Wong,  Wells Fargo Securities - Analyst    [40]
---------------------------------------------------------------------------------
 
      And when you expect to bring Bulldozer platforms out at the end of the summer, do desktop and server platforms come out at about the same time or does server come out later than desktop? 
 
---------------------------------------------------------------------------------
 Rick Bergman,  Advanced Micro Devices - SVP, General Manager Product Group    [41]
---------------------------------------------------------------------------------
 
      In the last call, we indicated early summer for desktops and late summer for servers, and that's still where we're at. 
 
---------------------------------------------------------------------------------
 Operator    [42]
---------------------------------------------------------------------------------
 
      Jim Covello, Goldman Sachs. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [43]
---------------------------------------------------------------------------------
 
      Can you guys just go by segment -- desktop, notebook, server -- and talk about what your share expectations are for the year? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [44]
---------------------------------------------------------------------------------
 
      As you know, we don't give market-share guidance for the year, and I'm certainly not going to start here now.
  I think we always said at our analyst day, we expect our desktop market share to stay about flat, slight gains.  Long term, we don't -- there's no reason why our notebook market share should be materially different from our desktop share, and from where we are today on the server side and with the optimism we have on the Bulldozer platform, I think it's fair to say that we expect market-share gains in the second half. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [45]
---------------------------------------------------------------------------------
 
      And so, if I look at -- so the issue is from where you are today, because if we look at the full year, it will be tough just because Intel -- of Intel shipments' growth and ASP growth in the first quarter versus yours.  But from here is where you would expect to gain the share, kind of mark to market for the end of Q1.  Is that the idea? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [46]
---------------------------------------------------------------------------------
 
      I think that's fair. 
 
---------------------------------------------------------------------------------
 Jim Covello,  Goldman Sachs - Analyst    [47]
---------------------------------------------------------------------------------
 
      Okay, and then, can I just -- on the foundry side, obviously there's been a lot of discussion.  Obviously you are aligned well with several foundry partners.  Could you give us a little bit of an update on who you think you're going to use for what going forward and what the different parameters are there?  Thank you very much. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [48]
---------------------------------------------------------------------------------
 
      I think we were really quite open on our last call, so our foundry strategy has not changed.  We are pleased with the progress we see.  As I said, we expect several 28 nm tapeouts during the current quarter.
  And you know, we balance our loading according to risk performance and price, but we also said that there is, of course, a natural incentive for us at this point to work closely with GLOBALFOUNDRIES, and that is, of course, something we continue to do. 
 
---------------------------------------------------------------------------------
 Operator    [49]
---------------------------------------------------------------------------------
 
      Ross Seymore, Deutsche Bank. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [50]
---------------------------------------------------------------------------------
 
      Thomas, could you talk a little bit about -- in your computing solutions group, the difference between what happened in MPUs and chipsets?  So, you've done a great job of gaining share in chipsets.  I just wonder if that's continued in the first quarter. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [51]
---------------------------------------------------------------------------------
 
      Our chipset business in the first quarter was -- we are pleased with the performance we have.  Let's put it this way. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [52]
---------------------------------------------------------------------------------
 
      How did it compare versus the competing solutions group as a whole?  Better?  Worse? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [53]
---------------------------------------------------------------------------------
 
      Better. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [54]
---------------------------------------------------------------------------------
 
      Okay.  And then, the gross margin, when you talked about that going up roughly 100 basis points sequentially, is there anything driving that other than the positive mix of more APUs? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [55]
---------------------------------------------------------------------------------
 
      At this point in time, it's very much mix driven.  The cost impact is there, but slightly only in the current quarter. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [56]
---------------------------------------------------------------------------------
 
      Then my last question, you had an extra week in the first quarter.  Any impact either in what happened in the first quarter or your guidance into the second quarter that we should think about, and more so, how your guidance would be different if you weren't losing that week? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [57]
---------------------------------------------------------------------------------
 
      No.  To be very honest, the additional week was part of the guidance for the first quarter, and we took that into account.  There -- the guidance for the current quarter takes into account that it's one week less. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [58]
---------------------------------------------------------------------------------
 
      So absent that, you would actually have grown nicely in your guidance in the second quarter? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [59]
---------------------------------------------------------------------------------
 
      Yes, I think that's fair to say. 
 
---------------------------------------------------------------------------------
 Ross Seymore,  Deutsche Bank - Analyst    [60]
---------------------------------------------------------------------------------
 
      Great.  Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [61]
---------------------------------------------------------------------------------
 
      Vivek Arya, Bank of America. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [62]
---------------------------------------------------------------------------------
 
      Thanks for taking my question.  Thomas, I just wanted to revisit this PC unit growth expectation for the year.  I think you mentioned 11% unit growth [three] simple for the year.  Could you perhaps give us some more color on where you are seeing the positive sellthrough?  Is it consumer?  Is it corporate?  Is it developed market?  Is it emerging markets?  Thank you. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [63]
---------------------------------------------------------------------------------
 
      I think our opinion here, and the visibility we have, does not differ materially from what you hear from others.
  North America and Western Europe was weak.  We don't expect that to change materially.  We saw strong demand in the emerging countries all over that spectrum, China, India, especially Latin America for us.  We've been putting resources into those regions.  I think we mentioned that on several calls in the past that we ramp up our infrastructure in emerging markets.
  Of course, our exposure to this consumer segment is significantly higher than to the commercial sector.  We have been seeing that the product and the price points we hit, especially with Brazos, are right on the spot of what those market segments demand.  And yes, that's pretty much it.  Very strong channel business. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [64]
---------------------------------------------------------------------------------
 
      Got it.  And as a follow-up, Intel recently raised their CapEx, and they're planning to be very aggressive at next-generation 22 and 40 nm node.  How do you look at that, Thomas, from a competitive point of view?  What are the implications on AMD?  What do you need to do to respond to that, if anything? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [65]
---------------------------------------------------------------------------------
 
      The good thing is we don't have to invest.  So from my CFO perspective, I think that is very positive.
  No, joke aside.  You saw that our partners, GLOBALFOUNDRIES and TSMC, spend an aggregate amount of money that I think even outperforms the Intel investment.  I think it's $8 million on both sides, or $8 million and $7 million -- don't quote me here, but a significant amount of money.
  And of course, we work with our partners in terms of the technology we need to be competitive, but I think we've also reached the point where competitiveness in this market segment is defined by more than just the technology roadmap.  We just have seen that on Brazos.  I think moving forward, we see a lot of more levers that help us to differentiate ourselves and bring highly competitive products into the market.  Just take into account the business model we have and the skill set we have, the IP we have, and especially the agility that this business model offers us. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [66]
---------------------------------------------------------------------------------
 
      Got it.  And just one last question, if I may.  I think in the past you have given long-term targets of getting to 50% gross margin, perhaps better than that.  What about the APU gives you better margins?  What are really the main drivers from here on to get to that kind of target?  Thank you. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [67]
---------------------------------------------------------------------------------
 
      We said that this pretty much comes from different levers.  For the low end of our APU strategy, the Brazos product that we are shipping currently that are so hugely successful, for those products it's much more a cost optimization.  They're highly gross margin accretive because of good design and chip size efficiencies.
  On the APUs, that -- or the spectrum that is covered by the Llano product, that is much more a margin accretive game through price performance and price points at which we can play now. 
 
---------------------------------------------------------------------------------
 Vivek Arya,  BofA Merrill Lynch - Analyst    [68]
---------------------------------------------------------------------------------
 
      Thanks and good luck. 
 
---------------------------------------------------------------------------------
 Operator    [69]
---------------------------------------------------------------------------------
 
      Christopher Danely, JPMorgan. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan Chase & Co. - Analyst    [70]
---------------------------------------------------------------------------------
 
      So we asked your main competitor this.  Might as well ask you.  It seems as though the commentary/tone of business from you guys and Intel differs somewhat with some other companies in the PC food chain as far as some of the OEMs and the drive companies go.  How would you guys explain that discrepancy? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [71]
---------------------------------------------------------------------------------
 
      I don't think, in that case, our arguments are so much different from our competitor.
  As I said before, we've seen strong demand patterns out of the emerging markets.  We've seen good demand out of the channel business.  And I think we saw some uncertainty in some market research that came out early.  I think those numbers will be corrected as we move forward.  We saw early numbers from Mercury Research that are going to be published soon that also would support that trend that we have been seeing and move more the numbers in the directions that we have been talking about now for a quarter. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan Chase & Co. - Analyst    [72]
---------------------------------------------------------------------------------
 
      Great.  Thanks.  Then on gross margin, you talked about your expectations for Q2.  Could you maybe give us your thoughts on gross margins in the second half of the year?  What would be the drivers either way there? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [73]
---------------------------------------------------------------------------------
 
      So I'm not going to give more granular guidance on gross margins than what we gave for the overall year.  But, of course, we are looking forward to see a higher mix of Llano-based products in the second half, and of course, we are looking forward to see stronger shipments into the server segment and getting our Bulldozer-based product into the market, and this would have a substantial impact on gross margin development in the second half. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan Chase & Co. - Analyst    [74]
---------------------------------------------------------------------------------
 
      Sure, and can you guys give us your take on sort of the tablet market or any kind of tablet strategy that AMD has, or will you wait until the new CEO comes? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [75]
---------------------------------------------------------------------------------
 
      No, we -- you know, we cannot support because of that, and I hope you saw that we work hard delivering on our promises.  That's an exciting form factor for us.  I think we have a lot of IP, and that is going to play nicely in this field.  We are working with multiple OEMs on platforms, and once we are at a good spot to talk about it, we will become more specific on the products and the wins we have. 
 
---------------------------------------------------------------------------------
 Christopher Danely,  JPMorgan Chase & Co. - Analyst    [76]
---------------------------------------------------------------------------------
 
      Sure, and then, last question.  You give us an update on the CEO search.  Any rough estimate on the timing of that? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [77]
---------------------------------------------------------------------------------
 
      Well, it's in the hands of the Board, so the management -- that's not a management topic.  But I think the -- Bruce, our Chairman, was explicit that finding the right candidate is important, more important than hitting a specific time window.  They are happy with the progress they have been making and they are actively interviewing. 
 
---------------------------------------------------------------------------------
 Operator    [78]
---------------------------------------------------------------------------------
 
      Chris Caso, Susquehanna Group. 
 
---------------------------------------------------------------------------------
 Chris Caso,  Susquehanna Financial Group/SIG - Analyst    [79]
---------------------------------------------------------------------------------
 
      I wonder if I could ask a bit about the graphics business going forward, and specifically your market share assumptions there.  One of your -- your competitor in that space has made some claims that they're attempting to gain some share specifically in the notebook space this year.  I wonder if you could talk about your assumptions. 
 
---------------------------------------------------------------------------------
 Rick Bergman,  Advanced Micro Devices - SVP, General Manager Product Group    [80]
---------------------------------------------------------------------------------
 
      Certainly.  As we mentioned in the first quarter, based on our shipments it appears actually that we gained some share.  We'll see here at the end of the month when Mercury Research numbers come out.
  You also heard that we picked up the Apple business as well, which we're thrilled about, of course.  In light of their success in the marketplace, that's a big boost for our business as well.  We'll see how it plays out.
  We feel like we can win in that notebook section in a very interesting way, both with our APUs, which is going to bring an entirely different kind of value into those platforms, as well as our GPUs, and in some platforms they actually play together, where we can actually use dual graphics.  So, we feel real good about our position in the overall graphics market. 
 
---------------------------------------------------------------------------------
 Chris Caso,  Susquehanna Financial Group/SIG - Analyst    [81]
---------------------------------------------------------------------------------
 
      And if I follow on with a question on servers, and understanding that the -- you're talking about late summer for Bulldozer, but obviously customers moved more slowly in that segment.  What's the timeframe when we could expect to see, I guess, some more meaningful share moves or volume moving in that segment, given the amount of time customers need to qualify the product and update their own platforms? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [82]
---------------------------------------------------------------------------------
 
      Of course, we don't start working with the customers in the summer.  We've been engaged with the customers now over a significant period of time, even on the new product.
  I said before that we expect significant shipments in the second half, third and especially fourth quarter, and while your statement in general is right, you know, there are specific applications where the design in time and lead time is shorter.  For example, in the cloud segment. 
 
---------------------------------------------------------------------------------
 Operator    [83]
---------------------------------------------------------------------------------
 
      Ambrish Srivastava, BMO. 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [84]
---------------------------------------------------------------------------------
 
      Just a couple of quick ones.  Thomas, what is the -- I didn't catch it; if you did give it, I do apologize -- expectation for graphics units and ASPs in the second quarter?
  And then, the second question on the quick side is what should we expect for the APU percent mix as we head into the back half of the year?
  And lastly, on the server side.  Is it a matter of just your share is so low that it's going to go up, or architecturally, can you help us understand what your offering will have an advantage over Intel's? 
 
---------------------------------------------------------------------------------
 Rick Bergman,  Advanced Micro Devices - SVP, General Manager Product Group    [85]
---------------------------------------------------------------------------------
 
      Sure.  We'll start with the back half here on the server question.  So one important point to keep in mind is we have a two-year cadence on our platform where the processor can be used in the same platforms as the prior year.
  So as we move into the Bulldozer-based solutions, they're going to leverage that platform capability, so that allows a shorter time to market, as well as broader platform availability, right out of the gate.
  And then, some of the key advantages that we have with Bulldozer, certainly our floating point, our memory bandwidth, and then, obviously, performance per watt, performance per dollar is very compelling with these products.  And we've been sampling for multiple months now with Orochi, the Bulldozer-based product, and the reception is fantastic.
  And on the former part about graphics, do you want me to take that?  On the graphics portion, we're not going to give you exact guidance on the units, but on the ASPs, roughly flat.  No big change in our product line going forward there. 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [86]
---------------------------------------------------------------------------------
 
      I'm sorry, the graphics business is expected to be flat in second quarter? 
 
---------------------------------------------------------------------------------
 Rick Bergman,  Advanced Micro Devices - SVP, General Manager Product Group    [87]
---------------------------------------------------------------------------------
 
      In terms of ASP, yes. 
 
---------------------------------------------------------------------------------
 Ambrish Srivastava,  BMO Capital Markets - Analyst    [88]
---------------------------------------------------------------------------------
 
      Okay.  And then, what about the third question I had on the APU as a percent of total mix by the end of the year? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [89]
---------------------------------------------------------------------------------
 
      I'm not sure I want to give guidance for that granularity. 
 
---------------------------------------------------------------------------------
 Operator    [90]
---------------------------------------------------------------------------------
 
      Stacy Rasgon, Sanford Bernstein. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [91]
---------------------------------------------------------------------------------
 
      I just want to revisit the PC unit growth outlook just briefly again.  So I know you said there may have been some issues potentially with the market data, but if you just take it as is -- and I'm just trying to figure out what's wrong with the data.  Is the data just like massively negative versus reality, or are you anticipating a hugely above seasonal Q2?  I mean, it kind of would take that sort of a profile through the year to get anywhere near double digits PC shipments for the year.
  I'm just trying to get a better feeling for where you think the discrepancies in the data are and what do you think kind of Q2 seasonality for PC shipments actually would be to in order to get to the kind of unit guidance that you're talking about? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [92]
---------------------------------------------------------------------------------
 
      Yes, I mean, the guidance we gave for the second quarter still is consistent with where we think the market is going to go for the year.  And our own model has been rather stable around this value now for a significant period of time.
  I think that a significant discussion came about what really was expected for PC shipments to happen in the first quarter, and part of that negative sentiment came from an expectation that year over year, the first quarter would be negative, and I think the numbers that we start to see now are not reflecting a negative growth year over year in the first quarter. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [93]
---------------------------------------------------------------------------------
 
      So sequentially, though, in the first quarter, the data showed it down 10 to 13, so you're saying it was actually maybe down five sequentially?  Or was it flat?  Literally, the way it is, you would need to have PC growth up 10% in Q2 from the numbers in Q1 to get anywhere near, even close to a double-digit growth for the year.  I'm just trying to get a better feeling for where the discrepancies are because it just seems like a big mess.  (Multiple speakers) 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [94]
---------------------------------------------------------------------------------
 
      The numbers I have in my head now are year over year.  So, let's just see how we align that.
  I think the negative expectation was that it would be down by minus 3%, minus 4% year over year on the first quarter.  We see now research that will, I think, come out more in the next days that now will change back into a probably up 7% range.  Our own expectations, I think, are somewhere in the middle between plus 3% to 4% of shipment growth in the first quarter, and I think that is -- if you put that on a line and keep our guidance for Q2 in mind, that is a consistent statement. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [95]
---------------------------------------------------------------------------------
 
      So you're saying that you think the market data shows a 10 percentage point discrepancy in year-over-year PC unit growth versus the data that was published?  Up seven verses down three? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [96]
---------------------------------------------------------------------------------
 
      That is what we -- what the indication is currently, yes. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [97]
---------------------------------------------------------------------------------
 
      Wow, okay.  For my follow-up, a quick question for you.  In terms of the wafer purchase agreement range for this year, $1.1 billion to $1.5 billion, can you give me some feeling what drives the variance in that?  Is that just strictly a demand-driven thing?  Is that a cost-driven variance?  What is actually driving that $400 million range for this year? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [98]
---------------------------------------------------------------------------------
 
      It's a demand-driven statement, primarily, and maybe some incentive-driven adjustments to that. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [99]
---------------------------------------------------------------------------------
 
      Can you elaborate on that?  Incentive driven?  (Multiple speakers).  I thought the incentive driven didn't come until 2012. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [100]
---------------------------------------------------------------------------------
 
      (Multiple speakers).  Yes, we said on the call when we went through our WSA agreement that we have some arrangements in place that incentivize GLOBALFOUNDRIES to outperform current plans and targets.  And of course, we would benefit in more volume or better yield. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [101]
---------------------------------------------------------------------------------
 
      I thought that came on in 2012.  I thought that was the $400 million between the $1.5 billion and the $1.9 billion in 2012. 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [102]
---------------------------------------------------------------------------------
 
      Yes, but there are also some light parts and some flexibility in the first year.  But primarily, it's a demand statement. 
 
---------------------------------------------------------------------------------
 Stacy Rasgon,  Sanford C. Bernstein & Company, Inc. - Analyst    [103]
---------------------------------------------------------------------------------
 
      Got it.  And I guess one last question for you.  In terms of that wafer supply agreement, my understanding is you give them a fixed wafer forecast, and so you are on a die by this year.  You go to a cost-plus in 2012.  What that means is if the yields are bad in 2012, you get fewer good dies, but you don't make the fixed payment.  If yields are really good, same wafers, you get more good dies so your die cost goes down, but you make the fixed payment.  So it's sort of a buffer.  You don't benefit from yield upside in 2012 versus the way you would in 2011.
  I'm just trying to figure out, on top of -- that sort of implies if yields are very good, you get a lot more good dies.  You have to be able to sell all the good dies that you actually receive.  Are you sort of baking any kind of -- what sort of, I guess, cautions or anything else in your wafer forecasts are you giving them to make sure that no matter what the yield situation at GLOBALFOUNDRIES is in 2012, you will be able to actually sell everything that you get? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [104]
---------------------------------------------------------------------------------
 
      Yes, I think this sounds more complicated now than it really is.  I think in 2012 we move more towards a normal foundry relationship.
  You know, we also have to forecast wafer and product demand with TSMC, so I mean, that is not significantly different.  And also in normal foundry relationships, you have situations especially when you ramp up new technologies and new products that you start with a die by -- a die-based purchasing agreement and convert to a wafer-based agreement once the yield is up or the product is mature.
  So there's nothing that dramatically different from what we do with GLOBALFOUNDRIES.  We've extended the period of the die by for this year to protect -- when we originally started, as I said, to protect our downside.  With the progress they have been making, it's really more a downside protection at this point in time.
  We are not worried at this point in time by overforecasting demand.  I think we have the degree of sophistication with which we handle such processes and have learned to handle such processes is well established within the Company. 
 
---------------------------------------------------------------------------------
 Ruth Cotter,  Advanced Micro Devices - IR    [105]
---------------------------------------------------------------------------------
 
      Operator, we'll be happy to take two more questions, please. 
 
---------------------------------------------------------------------------------
 Operator    [106]
---------------------------------------------------------------------------------
 
      Sure thing.  Our next questioner in queue is Doug Freedman, Gleacher & Company. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Gleacher & Company - Analyst    [107]
---------------------------------------------------------------------------------
 
      Thomas, if I could ask you to have a little bit of a conversation with yourself since you're wearing two hats of the CEO and CFO, how do we think about you setting the goals for the Company financially here?
  We're running into -- this is sort of the first quarter year on year where we didn't get earnings growth, and it's largely because of growth in OpEx.  Can you discuss with us what actions you would take on the OpEx side to return to sort of a year-on-year earnings growth type of scenario, or how many quarters, how long do we need to search for that revenue growth and how we should think about you trying to make some of those challenging decisions? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [108]
---------------------------------------------------------------------------------
 
      They are quite straightforward, to be very honest, and you saw some of the effects already in the first quarter, and we provided a guidance of [650] and we've been really tough on ourselves on how we managed operating expenses.  This allowed us to come in significantly under the guidance we originally gave.
  I mentioned that we have a significant amount of cross-functional activities started in the Company across our core processes to redesign them for scalability, but especially also for productivity, across R&D, across sales and marketing, and also supply chain, and we expect significant productivity levers out of those initiatives.  And I think you also see it already partly reflected in the guidance we gave for Q2.  I said it's going to be around $620 million for operating expenses in total.
  But it includes, as I said, the first couple of 28 nm tapeouts already.  So, we will be tough on operating expenses.  I think the discipline that we try to instill in the Company is something we will keep our grip on. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Gleacher & Company - Analyst    [109]
---------------------------------------------------------------------------------
 
      So I guess another way for me to think about this, is it possible for you to have revenue growth in excess of your operating spending growth this year, or is this a year that we need to think about you investing a little faster than the revenue growth one? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [110]
---------------------------------------------------------------------------------
 
      I would very much expect that our revenue outgrows our operating expenses. 
 
---------------------------------------------------------------------------------
 Doug Freedman,  Gleacher & Company - Analyst    [111]
---------------------------------------------------------------------------------
 
      Great.  Thank you. 
 
---------------------------------------------------------------------------------
 Operator    [112]
---------------------------------------------------------------------------------
 
      Cody Acree, Williams Financial. 
 
---------------------------------------------------------------------------------
 Cody Acree,  Williams Financial Group - Analyst    [113]
---------------------------------------------------------------------------------
 
      Thanks for fitting me in here.  Going back to an earlier question about kind of your comparison of order rates versus what Intel had seen.  Intel definitely got some atypical seasonality heading into their product launch, a big burn in the channel and then a big restocking.  What are you seeing as far as typical seasonality of order patterns ahead of both Brazos and Llano? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [114]
---------------------------------------------------------------------------------
 
      You know, we -- even if it disappoints you, I cannot give you much different arguments, to be very honest.
  We felt very strong channel demand, partly driven by the products that we started to ramp, also in part restocking of their Q4 burndown.  The visibility we have into their inventories does not indicate any alarming things.  Inventories seem to be lean and in line with what you expect for the business at this time in the cycles.  And we had a couple of emerging markets where our products -- or our platform-based products were sold out on the shelf.  So, not much more to add to that. 
 
---------------------------------------------------------------------------------
 Cody Acree,  Williams Financial Group - Analyst    [115]
---------------------------------------------------------------------------------
 
      So I guess, did you see a material burn that now is -- that had a benefit of a replacement in the first quarter for Brazos?  And do you expect in the June quarter, maybe June and into September, a similar restocking benefit with Llano? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [116]
---------------------------------------------------------------------------------
 
      We are optimistic about our Llano launch. 
 
---------------------------------------------------------------------------------
 Cody Acree,  Williams Financial Group - Analyst    [117]
---------------------------------------------------------------------------------
 
      Great.  Thanks, guys.  And one last thing here.  Gross margin trends into the second half as you get the mix of Llano coming in and then Brazos -- or excuse me, Bulldozer uptick in there.  What kind of trends could we expect to see from a mix shift? 
 
---------------------------------------------------------------------------------
 Thomas Seifert,  Advanced Micro Devices - Interim CEO, SVP, CFO    [118]
---------------------------------------------------------------------------------
 
      I'm not going to get more granular.  We gave guidance for the complete year, and with those trends I think we moved to the high end of the gross margin guidance we gave in the second half. 
 
---------------------------------------------------------------------------------
 Operator    [119]
---------------------------------------------------------------------------------
 
      Thank you.  That concludes our time for questions and answers, and this also concludes today's program.  Attendees, thank you for your participation, and have a wonderful day.  You may now all disconnect.
 
@@ -865,9 +613,7 @@ Operator    [119]
 
 
 
---------------------------------------------------------------------------------
 Definitions
---------------------------------------------------------------------------------
 PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
 Transcript has been published in near real-time by an experienced 
 professional transcriber.  While the Preliminary Transcript is highly 
@@ -878,9 +624,7 @@ EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional
 editors have listened to the event a second time to confirm that the 
 content of the call has been transcribed accurately and in full.
 
---------------------------------------------------------------------------------
 Disclaimer
---------------------------------------------------------------------------------
 Thomson Reuters reserves the right to make changes to documents, content, or other 
 information on this web site without obligation to notify any person of 
 such changes.
@@ -906,6 +650,4 @@ DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
 ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
 CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
 MAKING ANY INVESTMENT OR OTHER DECISIONS.
---------------------------------------------------------------------------------
 Copyright 2019 Thomson Reuters. All Rights Reserved.
---------------------------------------------------------------------------------
