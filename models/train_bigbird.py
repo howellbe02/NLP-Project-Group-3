@@ -128,6 +128,17 @@ model = BigBirdForSequenceClassification.from_pretrained(
 )
 model.to(device)
 
+for name, param in model.named_parameters():
+    if "classifier" not in name:
+        param.requires_grad = False
+
+print("Trainable parameters:")
+for n, p in model.named_parameters():
+    if p.requires_grad:
+        print("  ", n)
+    else:
+        print('not ', n)
+        
 # trainer args
 training_args = TrainingArguments(
     output_dir="./bigbird_output",
