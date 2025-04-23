@@ -138,7 +138,7 @@ for n, p in model.named_parameters():
         print("  ", n)
     else:
         print('not ', n)
-        
+
 # trainer args
 training_args = TrainingArguments(
     output_dir="./bigbird_output",
@@ -149,7 +149,7 @@ training_args = TrainingArguments(
     save_strategy="epoch",
     logging_steps=25,
     load_best_model_at_end=True,
-    metric_for_best_model="accuracy",
+    metric_for_best_model="f1",
 )
 
 # define metrics (left the other two out bc i dont care)
