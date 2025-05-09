@@ -76,9 +76,6 @@ if not os.path.exists(train_dataset_path):
         batched=True,
         batch_size=4,      
         remove_columns=columns_to_remove,
-        ##################################
-        #INCREASE NUM_PROC IF U CAN JUST FIND OUT HOW MANY CPU CORES YOU GOT
-        #####################
         num_proc=8,        
         load_from_cache_file=True
     )
@@ -95,9 +92,6 @@ if not os.path.exists(test_dataset_path):
         batched=True,
         batch_size=4,       
         remove_columns=columns_to_remove,
-        ###########################
-        #INCREASE NUM_PROC IF U CAN JUST FIND OUT HOW MANY CPU CORES YOU GOT
-        #####################
         num_proc=8,
         load_from_cache_file=True
     )

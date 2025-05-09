@@ -9,17 +9,13 @@ import math
 
 
 # DEVICE SETUP
-######################
-#CHANGE TO COMMENTED LINE POR FAVOR (also delete these ass comments (not the useful ones))
-#############
+
 device = 'cpu'  #torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
 # Load and preprocess the fat amount of data
 # CSV FILE PATHS
-#############
-#CHANGE TO FILE PATHES YOU CAN KEEP EVERYTHING AFTER NLP BUT NOT NLP
-##########################
+
 train_csv_path = "/Users/robbie/Desktop/NLP/NLP-Project-Group-3/data/one_hot_targets/train_data.csv"  # Update if needed
 test_csv_path  = "/Users/robbie/Desktop/NLP/NLP-Project-Group-3/data/one_hot_targets/test_data.csv"   # Update if needed
 
@@ -34,10 +30,8 @@ df_test["transcript_id"] = df_test["file_path"].apply(lambda x: os.path.basename
 
 
 def load_transcript(file_path):
-    ####################
-    #CHANGE THE F STRING TO HAVE WHEREVER UR THING IS
-    #KEEP EVERYTHING AFTER NLP BTU NOT NLP
-    ##################
+    #change this f string if you are professor and tetsing 
+    # have to do the file path until the repo bc of the way our data is formatted
     with open(f'/Users/robbie/Desktop/NLP/NLP-Project-Group-3/{file_path}', "r", encoding="utf-8") as f:
         return f.read()
 
@@ -101,9 +95,6 @@ if not os.path.exists(train_dataset_path):
         batched=True,
         batch_size=8,      # INCREASE THIS OR LOWER IT DEPENDING ON HOW LONG THINGS TAKE
         remove_columns=columns_to_remove,
-        ##################################
-        #INCREASE NUM_PROC IF U CAN JUST FIND OUT HOW MANY CPU CORES YOU GOT
-        #####################
         num_proc=8,        
         load_from_cache_file=False
     )
@@ -120,9 +111,6 @@ if not os.path.exists(test_dataset_path):
         batched=True,
         batch_size=8,       # INCREASE THIS OR LOWER IT DEPENDING ON HOW LONG THINGS TAKE
         remove_columns=columns_to_remove,
-        ###########################
-        #INCREASE NUM_PROC IF U CAN JUST FIND OUT HOW MANY CPU CORES YOU GOT
-        #####################
         num_proc=8,
         load_from_cache_file=False
     )
@@ -175,9 +163,6 @@ for n, p in model.named_parameters():
     else:
         print('not', n)
 # train args 
-###################
-#IF YOU CHANGED BATCH SIZE ABOVE I THINK DO SAME HERE
-##################
 training_args = TrainingArguments(
     output_dir="./finbert_chunked_output",
     num_train_epochs=10,
