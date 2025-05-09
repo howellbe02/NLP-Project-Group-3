@@ -181,7 +181,7 @@ def compute_metrics(eval_pred, eval_dataset):
         "f1": f1["f1"],
     }
 
-# Custom data collator that ensures proper padding and handles missing keys
+# Custom data collator with padding and handles missing keys
 class CustomDataCollator:
     def __init__(self, tokenizer):
         self.tokenizer = tokenizer
@@ -293,7 +293,7 @@ def setup_model_and_trainer(model_name, dataset_train_chunked, dataset_test_chun
     
     model.to(device)
 
-    # Training arguments
+    # Training arguments, these are for training
     training_args = TrainingArguments(
         output_dir="./hierarchical_transformer_output",
         num_train_epochs=2,                     
@@ -301,15 +301,15 @@ def setup_model_and_trainer(model_name, dataset_train_chunked, dataset_test_chun
         per_device_eval_batch_size=4,         
         learning_rate=2e-5,                    
         weight_decay=0.01,                      
-        evaluation_strategy="steps",            # Evaluate during training
-        eval_steps=0.2,                         # Evaluate every 20% of training
-        save_strategy="steps",                  # Save at the same intervals
-        save_steps=0.2,                         # Save every 20% of training
-        load_best_model_at_end=True,            # Load best model at end
-        metric_for_best_model="f1"              # Use F1 score for best model
+        evaluation_strategy="steps",          
+        eval_steps=0.2,                        
+        save_strategy="steps",                  
+        save_steps=0.2,                         
+        load_best_model_at_end=True,            
+        metric_for_best_model="f1"              
     )
 
-    # Use our improved data collator to ensure proper padding and handle missing keys
+
     data_collator = CustomDataCollator(tokenizer)
 
     def compute_metrics_wrapper(eval_pred): # Some BS to avoid nonsense with how this trainer works, there's always something 
