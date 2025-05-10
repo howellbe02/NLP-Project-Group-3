@@ -13,3 +13,4 @@ https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/TJE0D0
 https://paperswithcode.com/dataset/earnings-call
 
 ### Models
+See https://www.alliancebernstein.com/content/dam/global/insights/insights-whitepapers/leveragingtextminingtoextractinsights-chinfan.pdf
